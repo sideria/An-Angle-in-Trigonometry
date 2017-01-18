@@ -1,0 +1,7 @@
+c/build/
+cpp/build/
+dsa/build/
+algebra/build/
+gnu-linux/build/
+build/
+*.log
