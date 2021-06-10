@@ -27,8 +27,9 @@ import sphinx_rtd_theme
 
 # Add any Sphinx extension module names here, as strings. They can be extensions
 # coming with Sphinx (named 'sphinx.ext.*') or your custom ones.
-extensions = ['sphinx.ext.autodoc', 'sphinx.ext.doctest', 'sphinx.ext.intersphinx', 'sphinx.ext.todo', 'sphinx.ext.coverage', 'sphinx.ext.mathjax', 'sphinx.ext.ifconfig', 'sphinx.ext.viewcode', 'sphinxcontrib.tikz', 'sphinxcontrib.googleanalytics']
+extensions = ['sphinx.ext.autodoc', 'sphinx.ext.doctest', 'sphinx.ext.intersphinx', 'sphinx.ext.todo', 'sphinx.ext.coverage', 'sphinxcontrib.katex', 'sphinx.ext.ifconfig', 'sphinxcontrib.tikz', 'sphinxcontrib.googleanalytics']
 
+katex_prerender = True
 tikz_tikzlibraries = 'arrows'
 pngmath_dvipng_args = ['-gamma', '1.5', '-D', '112', '-bg', 'Transparent']
 # Add any paths that contain templates here, relative to this directory.
@@ -45,7 +46,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'An Angle in Trigonometry'
-copyright = u'2017, Shiv S. Dayal'
+copyright = u'2017-2021, Shiv S. Dayal'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -174,7 +175,7 @@ html_static_path = ['_static']
 #html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'algebradoc'
+#htmlhelp_basename = 'algebradoc'
 
 
 # -- Options for LaTeX output --------------------------------------------------
@@ -229,7 +230,7 @@ latex_elements = {
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-  ('index', 'algebra.tex', u'An Angle in Trigonometry',
+  ('index', 'trigonometry.tex', u'An Angle in Trigonometry',
    u'Shiv S. Dayal', 'manual'),
 ]
 
@@ -258,10 +259,10 @@ latex_documents = [
 
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
-man_pages = [
-    ('index', 'algebra.tex', u'A VAriable in Albegra',
-     [u'Shiv S. Dayal'], 1)
-]
+#man_pages = [
+#    ('index', 'algebra.tex', u'A VAriable in Albegra',
+#     [u'Shiv S. Dayal'], 1)
+#]
 
 # If true, show URL addresses after external links.
 #man_show_urls = False
@@ -272,11 +273,11 @@ man_pages = [
 # Grouping the document tree into Texinfo files. List of tuples
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
-texinfo_documents = [
-  ('temp', 'algebra', u'algebra Documentation',
-   u'Shiv S. Dayal', 'algebra', 'One line description of project.',
-   'Miscellaneous'),
-]
+#texinfo_documents = [
+#  ('temp', 'algebra', u'algebra Documentation',
+#   u'Shiv S. Dayal', 'algebra', 'One line description of project.',
+#   'Miscellaneous'),
+#]
 
 # Documents to append as an appendix to all manuals.
 #texinfo_appendices = []
@@ -291,10 +292,10 @@ texinfo_documents = [
 # -- Options for Epub output ---------------------------------------------------
 
 # Bibliographic Dublin Core info.
-epub_title = u'algebra'
-epub_author = u'Shiv S. Dayal'
-epub_publisher = u'Shiv S. Dayal'
-epub_copyright = u'2013, Shiv S. Dayal'
+#epub_title = u'algebra'
+#epub_author = u'Shiv S. Dayal'
+#epub_publisher = u'Shiv S. Dayal'
+#epub_copyright = u'2013, Shiv S. Dayal'
 
 # The language of the text. It defaults to the language option
 # or en if the language is not set.
@@ -334,4 +335,6 @@ epub_copyright = u'2013, Shiv S. Dayal'
 # Example configuration for intersphinx: refer to the Python standard library.
 intersphinx_mapping = {'http://docs.python.org/': None}
 
-googleanalytics_id = 'UA-17487464-6'
+googleanalytics_id = 'UA-17487464-7'
+
+katex_prerender = True

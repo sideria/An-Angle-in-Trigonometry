@@ -51,9 +51,9 @@ in with a bit of detail here and there.
 
 Prerequisite
 ============
-You should have knowledge till grade 10th course. Attempt has been made to keep
+You should have knowledge till grade 8th course. Attempt has been made to keep
 it simple and give as much as background to the topic which is reasonable and
-required. However, not everything will be covered below grade 10.
+required. However, not everything will be covered below grade 8.
 
 Goals for Readers
 =================
@@ -83,11 +83,6 @@ Tikz. Thanks for its developers Till Tantau and Christian Feuersaenger along
 with all the contributors for creating such a wonderful piece of vector
 graphics library for TeX.
 
-I must say thanks to my family particularly to my parents, wife and my son
-whose precious time I have taken to write this book and gave them numerous
-trouble in general. They have been the major force which supported while
-writing it. This book would not have been possible without their support.
-
 There have been many teachers in my life who have helped me with various
 lessons in life and otherwise. I will try to remember all of them here and seek
 forgiveness if I miss anyone. My math teachers Yogendra Yadav, Hriday Nayaran
@@ -108,11 +103,8 @@ spellings then those mistakes are mine and not of the tool.
 Although I would like to give a pdf version of the book for download but the
 content keep changing and there will be just too many versions of the
 book. Also, because of several customizations done in the book the pdf version
-does not come out as nice as html one. Also, for problems only 50 problems are
-given per page and same applies for solutions chapter. This is because MathJaX takes a
-lot of time to render mathematics if all the mathematical formulas are on
-the same page.
-
+does not come out as nice as html one. I express my gratefulness to Khan Academy
+for providing KaTeX which is used to render all the math in the book.
 
 Shiv Shankar Dayal
 
