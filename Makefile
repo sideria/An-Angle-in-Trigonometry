@@ -1,12 +1,12 @@
 html: src/*.xml html.xsl Makefile
-	xsltproc --xinclude --stringparam html.stylesheet "../css/bootstrap.min.css ../css/bootstrap-responsive.min.css ../css/styled.min.css ../css/katex.min.css " --path "src css" --output build/ html.xsl trigonometry.xml
+	xsltproc --xinclude --stringparam html.stylesheet "../css/bootstrap.min.css ../css/bootstrap-responsive.min.css ../css/styled.min.css " --path "src css" --output build/ html.xsl trigonometry.xml
 	#xsltproc --xinclude --stringparam html.stylesheet "../css/one.min.css" --path "src css" --output build/ html.xsl algebra.xml
 #	perl -pi -e "s/\.pdf\"/\.png\"/g;" src/*.xml
 #	find . -name "*.html" | xargs perl -pi -e "s/<html>/<!DOCTYPE html>/g;"
 #	find . -name "*.html" | xargs perl -pi -e "s/<meta/<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><meta/g;"
 	cp -r images build/
 	./domp.py
-	cp -r build/* /mnt/e/site/trigonometry
+	cp -r build/* /var/www/trigonometry
 
 
 pdf: src/*.xml dblatex.xsl Makefile

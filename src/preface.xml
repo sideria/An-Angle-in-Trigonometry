@@ -20,7 +20,10 @@
     That is the primary reason I have chosen it to be the
     second subject in mathematics to be dealt with. It is very important to
     understand trigonometry for the readers if they want to advance further in
-    mathematics.
+    mathematics. Trigonometry is a much easier subject compared to algebra.
+    The reason is algebra comprises of different unrelated concepts like complex numbers, quadratic equations, matrices,
+    determinants etc. while trigonometry is conerned about simple trigonometric functions triangle and circles. Trigonomtery is
+    quite a coherent subject while algebra is chaotic.
   </d:para>
   <d:simplesect>
     <d:title>Why I Wrote This Book?</d:title>
@@ -89,7 +92,8 @@
       be. One more point is focus and effort. It is not something new which I
       am telling but I am saying it again just to emphasize the point. Trust me
       if you are reading this book for just scoring a nice grade in your course
-      then I have failed in my purpose of explaining my ideas.
+      then I have failed in my purpose of explaining my ideas. Grades should be byproduct of understanding not only memory. In
+      general I do like open book exams for mathematics so that problem solving ability of student comes to forefront.
     </d:para>
   </d:simplesect>
   <d:simplesect>
@@ -100,7 +104,10 @@
       using Docbook thus Norman Walsh deserves
       praise. <d:code>xsltproc</d:code> has been used to process
       <d:code>xml</d:code> to <d:code>html</d:code> and it is a wonderful piece
-      of software written by James Clark.
+      of software written by James Clark. While I used sphinx for algebra I am using docbook and MathML for trigonometry. Only
+      Firefox supports MathML but it allows very fast rendering of Math so please use Firefox. I have also enabled MathJax so
+      rendering will be a bit slower on other browsers. Please SWITCH to Firefox as it protects your privacy as well and supports
+      open internet.
     </d:para>
     <d:para>
       There are a lot of diagrams in this text and those have been drawn using
