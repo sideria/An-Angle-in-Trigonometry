@@ -7,6 +7,7 @@ html: src/*.xml html.xsl Makefile
 	cp -r images build/
 	./domp.py
 	cp -r build/* /var/www/trigonometry
+	cp -r images/*.png /var/www/trigonometry/images/
 
 
 pdf: src/*.xml dblatex.xsl Makefile

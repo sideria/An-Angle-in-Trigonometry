@@ -76,7 +76,7 @@ def process(filepath):
                            link = BeautifulSoup("<a href=\"index.html\">Table of Contents</a>", "lxml")
                    else:
                            link = BeautifulSoup("<a href=\"../\">Table of Contents</a>", "lxml")
-                   j.contents[0].contents[1].insert(0, link)
+                   #j.contents[0].contents[1].insert(0, link)
                    j.contents[1].contents[1].clear()
                    j.contents[1].contents[1].insert(0, link)
                 # Now mathjax removed
