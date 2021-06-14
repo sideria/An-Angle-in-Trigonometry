@@ -29,7 +29,7 @@ import sphinx_rtd_theme
 # coming with Sphinx (named 'sphinx.ext.*') or your custom ones.
 extensions = ['sphinx.ext.autodoc', 'sphinx.ext.doctest', 'sphinx.ext.intersphinx', 'sphinx.ext.todo', 'sphinx.ext.coverage', 'sphinxcontrib.katex', 'sphinx.ext.ifconfig', 'sphinxcontrib.tikz', 'sphinxcontrib.googleanalytics']
 
-katex_prerender = True
+#katex_prerender = True
 tikz_tikzlibraries = 'arrows'
 pngmath_dvipng_args = ['-gamma', '1.5', '-D', '112', '-bg', 'Transparent']
 # Add any paths that contain templates here, relative to this directory.
@@ -46,7 +46,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'An Angle in Trigonometry'
-copyright = u'2017-2021, Shiv S. Dayal'
+copyright = u'2021, Shiv S. Dayal'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -336,5 +336,3 @@ latex_documents = [
 intersphinx_mapping = {'http://docs.python.org/': None}
 
 googleanalytics_id = 'UA-17487464-7'
-
-katex_prerender = True
