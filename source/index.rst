@@ -12,6 +12,7 @@ An Angle on Trigonometry
 
    preface
    measurement-of-angles
+   measurement-of-angles-solutions
 
 
 Indices and tables
