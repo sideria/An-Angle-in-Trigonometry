@@ -223,4 +223,41 @@ Prove the following:
 
 64. If :math:`1 - \sin A = 1 + \sin A` then prove that value of each side is :math:`\pm \cos A`
 
-65.
+65. If :math:`\sin^4 A + \sin^2 A = 1,` prove that
+
+    i. :math:`\frac{1}{\tan^4 A} + \frac{1}{\tan^2A} = 1`
+
+    ii. :math:`\tan^4A - \tan^2 = 1`
+
+66. If :math:`\cos^2 - \sin^2 A = \tan^2 B,` prove that :math:`2\cos^2B - 1 = \cos^2B - \sin^2B = \tan^2A`
+
+67. If :math:`\sin A + \cosec A = 2,` then prove that :math:`\sin^nA + \cosec^nA = 2`
+
+68. If :math:`\tan^2 A = 1 - e^2,` prove that :math:`\sec A + \tan^3A\cosec A = (2 - e^2)^\frac{3}{2}`
+
+69. Eliminate :math:`A` between the equations :math:`a\sec A + b\tan A + c = 0` and :math:`p\sec A + q\tan B + r = 0`
+
+70. If :math:`\cosec A - \sin A = m` and :math:`\sec A - \cos A = n,` elimiate :math:`A`
+
+71. Is the equation :math:`\sec^2 A = \frac{4xy}{(x + y)^2}` possible for real values of :math:`x` and :math:`y`?
+
+72. Show that the equation :math:`\sin A = x + \frac{1}{x}` is imossible for real values of :math:`x.`
+
+73. If :math:`\sec A - \tan A = p, p\neq 0,` find :math:`\tan A, \sec A` and :math:`\sin A.`
+
+74. If :math:`\sec A = p + \frac{1}{4p},` show that :math:`\sec A + \tan A = 2p` or :math:`\frac{1}{2p}.`
+
+75. If :math:`\frac{\sin A}{\sin B} = p, \frac{\cos A}{\cos B} = q,` find :math:`\tan A` and :math:`\tan B.`
+
+76. If :math:`\frac{\sin A}{\sin B} = \sqrt{2}, \frac{\tan A}{\tan B}= \sqrt{3},` find :math:`A` and :math:`B.`
+
+77. If :math:`\tan A + \cot B = 2,` find :math:`\sin A.`
+
+78. If :math:`m = \tan A + \sin A` and :math:`n = \tan A - \sin A,` prove that :math:`m^2 - n^2 = 4\sqrt{mn}.`
+
+79. If :math:`\sin A + \cos A = m` and :math:`\sec A + \cosec A = n,` prove that :math:`n(m^2 - 1) = 2m.`
+
+80. If :math:`x\sin^3 A + y\cos^3 A = \sin A\cos A` and :math:`x\sinA - y\cos A = 0,` prove that :math:`x^2 + y^2 + 1 = 0`
+
+81. Prove that :math:`\sin^2A = \frac{(x + y)^2}{4xy}` is possible for real values of :math:`x` and :math:`y` onlt when :math:`x =
+    y` and :math:`x,y \neq 0`
