@@ -14,6 +14,7 @@ An Angle on Trigonometry
    measurement-of-angles
    measurement-of-angles-solutions
    trigonometrical-ratios
+   trigonometrical-ratios-solutions
 
 
 Indices and tables
