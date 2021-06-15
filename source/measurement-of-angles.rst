@@ -179,7 +179,7 @@ Express in terms of right angles and also in degrees, minutes and seconds the an
 
 17. :math:`120^g`
 
-18. :math:`120^g35'24''`
+18. :math:`45^g35'24''`
 
 19. :math:`39^g45'36''`
 
@@ -237,7 +237,8 @@ Express in terms of right angles and also in degrees, minutes and seconds the an
 39. What must be the radius of a circular running path, round which an athlete must run :math:`5` time in order to describe
     :math:`1760` meters?
 
-40. The wheel of a railway carriage is :math:`90` cm and it makes :math:`3` revolutions per second; how fast is the train going?
+40. The wheel of a railway carriage is :math:`90` cm in diameter and it makes :math:`3` revolutions per second; how fast is the
+    train going?
 
 41. A mill sail whose length is :math:`540` cm makes :math:`10` revolutions per minute. What distance does its end travel in one
     hour?
@@ -250,103 +251,100 @@ Express in terms of right angles and also in degrees, minutes and seconds the an
 
 44.  Express in terms of three systems of angular measurements the magnitude of an angle of a regular decagon.
 
-45. One angle of a triangle is :math:`\frac{2}{3}x` grades and another is :math:`\frac{3}{2}x`, while the third is :math:`\frac{\pi
-    x}{75}` radians; express them all in degrees.
+45. One angle of a triangle is :math:`\frac{2}{3}x` grades and another is :math:`\frac{3}{2}x` degrees, while the third is
+    :math:`\frac{\pi x}{75}` radians; express them all in degrees.
 
 46. The circular measure of two angles of a triangle are :math:`\frac{1}{2}` and :math:`\frac{1}{3}`. What is the number of degrees
     of the third angle?
 
-47. The angles of a triangle are in A.P. The number of degrees in the least to the number of radians in the greatest is
-    :math:`60:\pi`; find the angles in degrees.
-
-48. The angles of a triangle are in A.P. The number of radians in the least angle is to the number of degree in the mean angle is
+47. The angles of a triangle are in A.P. The number of radians in the least angle is to the number of degree in the mean angle is
     :math:`1:120`. Find the angles in radians.
 
-49. Find the magnitude, in radians and degrees, of the interior angle of 1. a regular pentagon 2. a regular heptagon 3. a regualr
+48. Find the magnitude, in radians and degrees, of the interior angle of 1. a regular pentagon 2. a regular heptagon 3. a regualr
     octagon 4. a regular duodecagon 5. a polygon with :math:`17` sides
 
-50. The angle in one regular polygon is to that in another is :math:`3:2`, also the number of sides in the first is twice that in
+49. The angle in one regular polygon is to that in another is :math:`3:2`, also the number of sides in the first is twice that in
     the second. How many sides are there in the polygons?
 
-51. The number of sides in two regular polygons are as :math:`5:4`, and the difference between their angles is :math:`9^\circ`;
+50. The number of sides in two regular polygons are as :math:`5:4`, and the difference between their angles is :math:`9^\circ`;
     find the number of sides in the polygons.
 
-52. Find two regular polygons such that the number of their sides may be :math:`3` to :math:`4` and the number of degrees of an
+51. Find two regular polygons such that the number of their sides may be :math:`3` to :math:`4` and the number of degrees of an
     angle of the first to the number of grades of the second as :math:`4` to :math:`5.`
 
-53. The angles of a qadrilateral are in A.P. and the greatest is double the least; express the least angle in radians.
+52. The angles of a qadrilateral are in A.P. and the greatest is double the least; express the least angle in radians.
 
-54. Find in radians, degrees, and grades the angle between hour-hand and minute-hand of a clock at 1. half-past three 2. twenty
+53. Find in radians, degrees, and grades the angle between hour-hand and minute-hand of a clock at 1. half-past three 2. twenty
     minutes to six 3. a quarter past eleven.
 
-55. Find the times 1. between fours and five o'clock when the angle between the minute hand and the hour-hand is
+54. Find the times 1. between fours and five o'clock when the angle between the minute hand and the hour-hand is
     :math:`78^\circ,` 2. between seven and eight o'clock when the angle is :math:`54^\circ`
 
-56. The interior angles of a polygon are in A.P. The smallest angle is :math:`120^\circ` and the common difference is
+55. The interior angles of a polygon are in A.P. The smallest angle is :math:`120^\circ` and the common difference is
     :math:`5^\circ`. Find the number of sides of the polygon.
 
-57. The angles of polygon are in A.P. and the number of grades in the least angle is to the number of radians in the greatest is
+56. The angles of polygon are in A.P. and the number of grades in the least angle is to the number of radians in the greatest is
     :math:`100:\pi`. Find the angles in degrees.
 
-58. The anlges of a polygons are in A.P. The least angle is :math:`\frac{5\pi}{12}` common difference is :math:`10^\circ`, find the
+57. The anlges of a polygons are in A.P. The least angle is :math:`\frac{5\pi}{12}` common difference is :math:`10^\circ`, find the
     number of sides in the polygon.
 
-59. Find the angle subtended at the center of a circle of radius :math:`3` cm. by an arc of length :math:`1` cm.
+58. Find the angle subtended at the center of a circle of radius :math:`3` cm. by an arc of length :math:`1` cm.
 
-60. In a circle of radius :math:`5` cm., what is the length of the arc which subtends an angle of :math:`33^\circ15'` at the center.
+59. In a circle of radius :math:`5` cm., what is the length of the arc which subtends an angle of :math:`33^\circ15'` at the center.
 
-61. Assuming the average distance of sun from the earth to be :math:`149,700,000` km., and the angle subtended by the sun at the
+60. Assuming the average distance of sun from the earth to be :math:`149,700,000` km., and the angle subtended by the sun at the
     eye of a person on the earth is :math:`32'`, find the sun's diameter.
 
-62. Assuming that a person of normal sight can read print at such a distance that the letter subtends and angle of :math:`5'` at
+61. Assuming that a person of normal sight can read print at such a distance that the letter subtends and angle of :math:`5'` at
     his eye, find what is the height of the letters he can read at a distance of 1. :math:`12` meters 2. :math:`1320` meters.
 
-63. Find the number of degrees subtended at the center of a circle by an arc whose length is :math:`0.357` times the radius.
+62. Find the number of degrees subtended at the center of a circle by an arc whose length is :math:`0.357` times the radius.
 
-64. Express in radians and degrees the angle subtended at the center of a circle by an arc whose length is :math:`15` cm., the
+63. Express in radians and degrees the angle subtended at the center of a circle by an arc whose length is :math:`15` cm., the
     radius of the circle being :math:`25` cm.
 
-65. The value of the divisions on the outer rim of a graduated cicle is :math:`5'` and the distance between successive graduations
+64. The value of the divisions on the outer rim of a graduated cicle is :math:`5'` and the distance between successive graduations
     is :math:`.1` cm. Find the radius of the circle.
 
-66. The diamter of a graduated circle is :math:`72` cm., and the gradiuations on the rim are :math:`5'` apart; find the distance of
+65. The diamter of a graduated circle is :math:`72` cm., and the gradiuations on the rim are :math:`5'` apart; find the distance of
     one graduation to to another.
 
-67. Find the radius of a globe which is such that the distance between two places on the same meridian whose latitude differs by
+66. Find the radius of a globe which is such that the distance between two places on the same meridian whose latitude differs by
     :math:`1^\circ10'` may be :math:`0.5` cm.
 
-68. Taking the radius of earth to as :math:`6400` km., find the difference in latitude of two places, one of which is :math:`100`
+67. Taking the radius of earth to as :math:`6400` km., find the difference in latitude of two places, one of which is :math:`100`
     km. north of another.
 
-69. Assuming the earth to be a sphere and the difference between two parallels of latitude, which subtends an angle of
+68. Assuming the earth to be a sphere and the difference between two parallels of latitude, which subtends an angle of
     :math:`1^\circ` at the eath's center, to be :math:`69\frac{1}{2}` km., find the radius of the earth.
 
-70. What is the ratio of radii of the circles at the center of which two arcs of same length subtend angles of :math:`60^\circ` and
+69. What is the ratio of radii of the circles at the center of which two arcs of same length subtend angles of :math:`60^\circ` and
     :math:`75^\circ`?
 
-71. If an arc, of length :math:`10` cm., on a circle of :math:`8` cm. diameter subtend at the center of circle an angle of
+70. If an arc, of length :math:`10` cm., on a circle of :math:`8` cm. diameter subtend at the center of circle an angle of
     :math:`143^\circ14'22''`, find the value of :math:`\pi` to :math:`4` places of decimals.
 
-72. If the circumference of a circle be divided into five parts which are in A.P., and if the greatest part be six times the least
+71. If the circumference of a circle be divided into five parts which are in A.P., and if the greatest part be six times the least
     find in radians the the magnitude of the angles the parts subtend at the center of the circle.
 
-73. The perimeter of a certain sector of a circle is equal to the length of the arc of a semicircle having the same radius; express
+72. The perimeter of a certain sector of a circle is equal to the length of the arc of a semicircle having the same radius; express
     the angle of the sector in degrees.
 
-74. At what distance a man, whose height is :math:`2` m., subtend an angle of :math:`10'`.
+73. At what distance a man, whose height is :math:`2` m., subtend an angle of :math:`10'`.
 
-75. Find the length which at a distance of :math:`5280` m., will subtend an angle of :math:`1'` at the eye.
+74. Find the length which at a distance of :math:`5280` m., will subtend an angle of :math:`1'` at the eye.
 
-76. Assuming the distance of the earth from the moon to be :math:`38400` km., and the angle subtended by the moon at the eye of a
+75. Assuming the distance of the earth from the moon to be :math:`38400` km., and the angle subtended by the moon at the eye of a
     person on earth to be :math:`31'`, find the diameter of the moon.
 
-77. The wheel of a railway carriage is :math:`4` ft. in diameter and makes :math:`6` revolutions in a second; how fast is the train
+76. The wheel of a railway carriage is :math:`4` ft. in diameter and makes :math:`6` revolutions in a second; how fast is the train
     going?
 
-78. Assuming that moon subtends an angle of :math:`30'` at the eye of an observer, find how far from the eye a coin of one inch
+77. Assuming that moon subtends an angle of :math:`30'` at the eye of an observer, find how far from the eye a coin of one inch
     diameter must be held so as just to hide the moon.
 
-79. A wheel make :math:`30` revolutions per minute. Find the circular measure of the angle described by spoke in hald a second.
+78. A wheel make :math:`30` revolutions per minute. Find the circular measure of the angle described by spoke in hald a second.
 
-80. A man running along a circular track at the rate of :math:`10` miles per hour, traverses in :math:`36` seconds, an arc which
+79. A man running along a circular track at the rate of :math:`10` miles per hour, traverses in :math:`36` seconds, an arc which
     subtends an angle of :math:`56^\circ` at the center. Find the diamter of the circle.
