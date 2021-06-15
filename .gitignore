@@ -5,3 +5,4 @@ algebra/build/
 gnu-linux/build/
 build/
 *.log
+*.aux

@@ -13,6 +13,7 @@ An Angle on Trigonometry
    preface
    measurement-of-angles
    measurement-of-angles-solutions
+   trigonometrical-ratios
 
 
 Indices and tables

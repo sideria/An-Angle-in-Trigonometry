@@ -135,7 +135,7 @@ Measurement of Angles Solutions
 
     Thus, the two parts are :math:`33^\circ20'` and :math:`10^\circ48'`
 
-29. Let the angles be :math:`3x, 4x, 5x` in degrees. From geometry, we know that :math:`3x + 4x + 5x = 180^\circ` (sum of all
+29. Let the angles be :math:`3x, 4x, 5x` in degrees. From Geometry, we know that :math:`3x + 4x + 5x = 180^\circ` (sum of all
     angles of a triangle is :math:`180^\circ`) :math:`\Rightarrow x = 15^\circ`
 
     Thus angles are :math:`45^\circ, 60^\circ, 75^\circ` or :math:`\frac{\pi}{4}, \frac{\pi}{3}, \frac{5\pi}{12}` radians.
@@ -248,7 +248,7 @@ Measurement of Angles Solutions
 
     Distance travelled by the point on rim per hour :math:`= 3600\times 2\timespi 50` cm :math:`= 23` km approximately.
 
-44. By geometry, we know that all the interior angles of any rectilinear figure together with four right angles are equal to twice
+44. By Geometry, we know that all the interior angles of any rectilinear figure together with four right angles are equal to twice
     as many right angles as the figure has sides.
 
     Let the angle of a regular decagon contain :math:`x` right angles, so that all the angles togethe equal to :math:`10x` right
@@ -301,11 +301,38 @@ Measurement of Angles Solutions
 
     2. Measure of one interior angle :math:`= \frac{5\pi}{7}` or :math:`\frac{900^\circ}{7}`
 
-    
+
     3. Measure of one interior angle :math:`= \frac{3\pi}{4}` or :math:`135^\circ`
 
     4. Measure of one interior angle :math:`= \frac{5\pi}{6}` or :math:`150^\circ`
 
     5. Measure of one interior angle :math:`= \frac{15\pi}{17}` or :math:`\frac{2700^\circ}{17}`
 
-49. 
+49. Let there be :math:`n` sides in one polygon and :math:`2n` in another. Angles will be :math:`\frac{(n - 2)\pi}{n}` and
+    :math:`\frac{(2n - 2)\pi}{2n} - \frac{(n - 1)\pi}{n}`
+
+    Given ratio of angles :math:`\frac{3}{2} = \frac{n -1}{n - 2} \Rightarrow 3n - 6 = 2n -2 \Rightarrow n = 4.` So one polygon is
+    a square while the other is an octagon.
+
+50. Let number of sides in one polygon be :math:`n` then number of sides in another :math:`\frac{5n}{4}.` The angles will be
+    :math:`\frac{(n - 2)}{n}\180^\circ, \frac{(\frac{5n}{4} - 2)}{\frac{5n}{4}}180^\circ.`
+
+    Given that difference in angles is :math:`9^\circ`
+
+    Solving for difference we find :math:`n = 8` and thus the other polygon will have :math:`10` sides.
+
+51. Let no. of sides in one polygon be :math:`n` then number of sides in another :math:`\frac{3n}{4}`. The angles will be
+    :math:`\frac{(n - 2)}{n}180^\circ, \frac{(\frac{3n}{4} -2)}{\frac{3n}{4}}180^\circ.`
+
+    To convert no. of degrees to no. of grades we multiply the angle with :math:`\frac{10}{9}` and then comparing ratio to
+    :math:`4:5` we find that :math:`n = 8` and :math:`\frac{3n}{4}` i.e. :math:`6.`
+
+52. Let the angles be :math:`a - 3d, a - d, a + d, a + 3d` in radians. We know that sum of all angles of a quadrilateral :math:`=
+    (4 - 2)\pi = 2\pi` radians.
+
+    :math:`\therefore 4a = 2\pi \Rightarrow a = \frac{\pi}{2}`
+
+    Also given that greatest angle is double of least angle. :math:`\therefore (a + 3d) = 2a - 6d \Rightarrow 9d = a \Rightarrow d
+    = \frac{\pi}{18}` radian.
+
+    Least angle :math:`= \frac{\pi}{2} - \frac{3\pi}{18} = \frac{\pi}{3}`

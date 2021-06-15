@@ -2,12 +2,12 @@ Measurement of Angles
 *********************
 The word trignometry comes from Greek(τριγωνομετρία) which includes two words;
 τριγωνο meaning triangle and μέτρηση which means measurement.
-The objective of studying plane trigonometry is to develop a method of solving
+The objective of studying plane Trigonometry is to develop a method of solving
 plane triangles. However, as time changes everything it has changed the scope
-of trigonometry to include polygons and circles as well. A lot of concepts in
-this book will come from your geometry classes in lower classes. It is a
+of Trigonometry to include polygons and circles as well. A lot of concepts in
+this book will come from your Geometry classes in lower classes. It is a
 good idea to review the concepts which you have studied till now without which
-you are going to struggle while studying trigonometry in this book.
+you are going to struggle while studying Trigonometry in this book.
 
 Angle in Geometry
 =================
@@ -37,16 +37,16 @@ The angle in above image is written as :math:`\angle AOB` or :math:`\angle BOA`
 or :math:`\angle O.`
 
 Each angle can be measured and there are different units for the
-measurement. In geometry, an angle always lie between :math:`0^{\circ}` and
+measurement. In Geometry, an angle always lie between :math:`0^{\circ}` and
 :math:`360^{\circ}` and negative angles are meaningless. Measure of an angle is
 the smallest amount of rotation from the direction of one ray of
 the angle to the direction of the other.
 
 Angle in Trigonometry
 =====================
-Angles are more generalized in trigonometry. They can have positive or negative
+Angles are more generalized in Trigonometry. They can have positive or negative
 values. As was the case in gerometry, similarly angles are measured in
-trigonometry. The starting and ending positions of revolving rays are
+Trigonometry. The starting and ending positions of revolving rays are
 called initial side and terminal side respectively. The revolving half line is
 called the generating line or the radius vector. For example, if :math:`OA` and
 :math:`OB` are the initial and final position of the radius vector then angle
