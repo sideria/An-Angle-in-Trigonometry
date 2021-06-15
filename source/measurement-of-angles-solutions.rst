@@ -246,7 +246,7 @@ Measurement of Angles Solutions
 
     Distance travelled by the point on rim per second :math:`= 2\times 2\pi 50` cm
 
-    Distance travelled by the point on rim per hour :math:`= 3600\times 2\timespi 50` cm :math:`= 23` km approximately.
+    Distance travelled by the point on rim per hour :math:`= 3600\times 200\times \pi` cm :math:`= 23` km approximately.
 
 44. By Geometry, we know that all the interior angles of any rectilinear figure together with four right angles are equal to twice
     as many right angles as the figure has sides.
@@ -315,7 +315,7 @@ Measurement of Angles Solutions
     a square while the other is an octagon.
 
 50. Let number of sides in one polygon be :math:`n` then number of sides in another :math:`\frac{5n}{4}.` The angles will be
-    :math:`\frac{(n - 2)}{n}\180^\circ, \frac{(\frac{5n}{4} - 2)}{\frac{5n}{4}}180^\circ.`
+    :math:`\frac{(n - 2)}{n}180^\circ, \frac{(\frac{5n}{4} - 2)}{\frac{5n}{4}}180^\circ.`
 
     Given that difference in angles is :math:`9^\circ`
 
