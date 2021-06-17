@@ -98,7 +98,7 @@ Prove the following:
 
 4. :math:`\cos^4 A - \sin^4 A + 1 = 2\cos^2 A`
 
-5. :math:`(\sin A + \cos A)(1 - \sin A\cos A) = \sin^3A \ \cos^3A`
+5. :math:`(\sin A + \cos A)(1 - \sin A\cos A) = \sin^3A + \cos^3A`
 
 6. :math:`\frac{\sin A}{1 + \cos A}+\frac{1 + \cos A}{\sin A} = 2\cosec A`
 
