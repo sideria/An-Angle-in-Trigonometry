@@ -336,3 +336,142 @@ Measurement of Angles Solutions
     = \frac{\pi}{18}` radian.
 
     Least angle :math:`= \frac{\pi}{2} - \frac{3\pi}{18} = \frac{\pi}{3}`
+
+53. Let us solve these one by one;
+
+    1) At half-past three the difference between hour-hand and minute hand will be two and half hours. Each hour makes an angle of
+       :math:`30^\circ` so two and half hours will make an angle of :math:`2.5\times 30^\circ = 75^\circ = 75.\frac{10}{9} =
+       \frac{250^g}{3} = \frac{75\pi}{180}` radians
+
+    2) At twenty minutes to six the difference between hour and and minute hands will be two hours and twnenty minutes i.e
+       :math:`2\frac{1}{3} = \frac{7}{3}` So angle made will be :math:`\frac{7}{3}\times 30^\circ = 70^\circ` which you can convert
+       in grades and radians.
+
+    3) At quarter part eleven the difference between hour-hand and minute hand will be :math:`3 + \frac{3}{4}` hours. Now you can
+       solve it like previous parts.
+
+54. Let us solve these one by one:
+
+    1. There are two cases here.
+
+       **Case I:** When minute hand is between twelve and four.
+
+       Let the minute hand is at :math:`x` minute mark. Four makes an angle of :math:`3\times 30^\circ` with twelve hour as each
+       hour makes an angle of :math:`360^\circ/12 = 30^\circ.` Angle made by minute-hand at :math:`x` minute :math:`=6x^\circ`
+       since each minute make an angle of :math:`360^\circ/60 = 6^\circ.` Extra angle made by hour hand w.r.t four due to these
+       :math:`x` minute :math:`=x\times 30/60 = x/2` [Each hour has :math:`60` minutes and for those it makes angle :math:`x^\circ`
+       ]
+
+       Thus, :math:`\frac{x}{2} + 120 - 6x = 78 \Rightarrow \frac{11x}{2} = 42 \Rightarrow x = \frac{84}{11}` minutes past four.
+
+       **Case II:** When minute hand is between five and twelve.
+
+       Let the minute hand is at :math:`x` minute mark. Proceeding like previous problem:
+
+       :math:`6x + \frac{x}{2} - 150 = 78 \Rightarrow \frac{13x}{2} = 228 \Rightarrow x = \frac{472}{13}` minutes past four.
+
+    2. This can be solved like 1.
+
+55. Let there are :math:`n` sides in the polygon. Sum of all angles :math:`= (n - 2)180^\circ`
+
+    But angles are in A.P. so sum of series :math:`= \frac{n}{2}[240 + (n - 1)5]`
+
+    Equating :math:`(2n - 4)180 = 235n + 5n^2 \Rightarrow 5n^2 - 125n + 720 = 0`
+
+    :math:`\Rightarrow n^2 - 25n + 144 = 0 \Rightarrow n = 9, 16`
+
+    However, if :math:`n = 16,` greatest angle :math:`= 120 + 18\times 5 = 210^\circ` which is not possible.
+
+    :math:`\therefore n = 9`
+
+56. Let the angles be :math:`a - 3d, a - d, a + d, a + 3d` in degrees.
+
+    Sum of all angles of quadrilaters :math:`4a = 360^\circ \Rightarrow a = 90^\circ`
+
+    Given that ration of least angle in grades to greatest angle in radians is :math:`100:\pi`
+
+    :math:`\frac{(a - 3d)10\times 180}{9(a + 3d)} = \frac{100}{\pi} \Rightarrow 2a - 6d = a + 3d \Rightarrow d = \frac{a}{9} = 10^\circ`
+
+    So the angles are :math:`60^\circ, 80^\circ, 100^\circ, 120^\circ`
+
+57. Let there are :math:`n` side in the polygon. Sum of all angles :math:`= (n - 2)180^\circ`
+
+    Smallest angle :math:`= \frac{5\pi}{12} = 75^\circ` c.d. :math:`= 10^\circ`
+
+    Sum of all angles in A.P. :math:`= \frac{n}{2}[150 + (n - 1)10]`
+
+    Equating :math:`(2n - 4)18 = 14n + n^2 \Rightarrow n^2 - 22n + 72 = 0, n = 4, 18`
+
+    Largest angle in case of :math:`n = 18,` is :math:`75 + 170 = 245` which is not possible. :math:`\therefore n = 4`
+
+58. Angle subtended :math:`\theta = \frac{l}{r} = \frac{1}{3}` radians
+
+59. :math:`l = \theta . r = 33.25^\circ \times 5 = 33.25\times 5 \times \frac{\pi}{180}`
+
+60. Sun's diameter :math:`= \theta .r = \frac{32}{60}\times 14970000\times \frac{\pi}{180}`
+
+61. Minimum angle needed for the person to be able to read :math:`= 5'`
+
+    1. Height of letters :math:`= \frac{12}{5'} = \frac{12}{\frac{5}{60}\frac{180}{\pi}}`
+
+    2. Can be solved like 1.
+
+62. :math:`\theta = \frac{l}{r} = 0.357\times \frac{180}{\pi}` degrees
+
+63. Angle subtended in radian :math:`= \frac{15}{25} = \frac{3}{5}`
+
+    Angle subtended in degrees :math:`= \frac{3}{5}\frac{180}{\pi}`
+
+    Angle subtended in grades :math:`= \frac{108}{\pi}\frac{10}{9} = \frac{120}{\pi}`
+
+64. Radius of circle :math:`r = \frac{\theta}{l} = \frac{5}{60}\frac{\pi}{180}.1` cm
+
+65. :math:`l = \theta \times r = \frac{5}{60}\frac{\pi}{180}36` cm
+
+66. :math:`r = \frac{l}{\theta} = .5 \frac{10}{1}\frac{180}{\pi}` cm
+
+67. :math:`\theta = \frac{l}{r} = \frac{100}{6400} = \frac{1}{64}` radians
+
+68. :math:`r = \frac{l}{\theta} = \frac{139}{2}.\frac{180}{\pi}` km.
+
+69. :math:`\frac{r_1}{r_2} = \frac{l}{\theta_1}\frac{\theta_2}{l} = \frac{75}{60} = \frac{5}{4}`
+
+70. :math:`r = \frac{l}{\theta} \Rightarrow 4 = \frac{10}{\left(143 + \frac{14}{60} + \frac{22}{60\times
+    60}\right)}\frac{180}{\pi}`
+
+    :math:`\pi = 3.1416`
+
+71. Let the parts subtend angles of :math:`a - 2d, a - d, a, a + d, a + 2d` in radians.
+
+    Total angle subtended :math:`= 2\pi`
+
+    :math:`\Rightarrow 5a = 2\pi \Rightarrow a = \frac{2\pi}{5}`
+
+    Also, given that greatest is six times the least :math:`a + 2d = 6(a - 2d) \Rightarrow 5a = 14d \Rightarrow d = \frac{5a}{14} =
+    \frac{\pi}{7}`
+
+    Now angles can be found by simple calculation.
+
+72. Length of semicircle is :math:`\pi r`. Let length of curved part of sector be :math:`l` then perimeter of sector is :math:`l +
+    2r`
+
+    :math:`l = (\pi - 2)r,` angle subtended by sector :math:`\theta = \frac{l}{r} = \pi - 2` radians, which can be converted in
+    degrees.
+
+73. :math:`r = \frac{\theta}{l} = \frac{10}{60}\frac{\pi}{180}2` m.
+
+74. :math:`l = r\theta = 5280.\frac{1}{60}\frac{\pi}{180}`
+
+75. :math:`l = r\theta = 38400\frac{31}{60}\frac{\pi}{180}` km.
+
+76. Distance travelled in :math:`1` second :math:`= 2\pi r \times 6 = 24\pi` ft/sec.
+
+77. :math:`r = \frac{l}{\theta} = 1\frac{60}{30}\frac{180}{\pi}` in.
+
+78. No. of revolutions made in :math:`1` second :math:`= \frac{30}{60} = \frac{1}{2}`
+
+    Therefore angle subtended :math:`= \frac{2\pi}{2} = \pi` radians.
+
+79. Length of arc :math:`= 10 \time \frac{36}{3600} = \frac{1}{10}` miles.
+
+    :math:`d = 2\frac{l}{\theta} = \frac{2}{10}\frac{180}{56\pi}` miles

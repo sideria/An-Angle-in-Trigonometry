@@ -92,7 +92,7 @@ Prove the following:
 
 1. :math:`\sqrt{\frac{1 - \cos A}{1 + \cos A}} = \cosec A - \cot A`
 
-2. :math:`\sqrt{\sec^2A + \cosec^2A} = \cosec A - \cot A`
+2. :math:`\sqrt{\sec^2A + \cosec^2A} = \tan A + \cot A`
 
 3. :math:`(\cosec A - \sin A)(\sec A - \cos A)(\tan A + \cot A) = 1`
 

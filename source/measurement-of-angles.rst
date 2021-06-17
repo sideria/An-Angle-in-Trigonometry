@@ -283,7 +283,7 @@ Express in terms of right angles and also in degrees, minutes and seconds the an
 55. The interior angles of a polygon are in A.P. The smallest angle is :math:`120^\circ` and the common difference is
     :math:`5^\circ`. Find the number of sides of the polygon.
 
-56. The angles of polygon are in A.P. and the number of grades in the least angle is to the number of radians in the greatest is
+56. The angles of quadrilateral are in A.P. and the number of grades in the least angle is to the number of radians in the greatest is
     :math:`100:\pi`. Find the angles in degrees.
 
 57. The anlges of a polygons are in A.P. The least angle is :math:`\frac{5\pi}{12}` common difference is :math:`10^\circ`, find the
@@ -344,7 +344,7 @@ Express in terms of right angles and also in degrees, minutes and seconds the an
 77. Assuming that moon subtends an angle of :math:`30'` at the eye of an observer, find how far from the eye a coin of one inch
     diameter must be held so as just to hide the moon.
 
-78. A wheel make :math:`30` revolutions per minute. Find the circular measure of the angle described by spoke in hald a second.
+78. A wheel make :math:`30` revolutions per minute. Find the circular measure of the angle described by spoke in half a second.
 
 79. A man running along a circular track at the rate of :math:`10` miles per hour, traverses in :math:`36` seconds, an arc which
     subtends an angle of :math:`56^\circ` at the center. Find the diamter of the circle.
