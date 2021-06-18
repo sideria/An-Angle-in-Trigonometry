@@ -74,7 +74,7 @@ ii. Divising both sides by :math:`b^2,` we get
 
     :math:`\sec^2\theta = \tan^2\theta + 1`
 
-    We can rewrite this as :math:`\sec^\theta - \tan^2\theta = 1, \tan^2\theta = \sec^2\theta - 1, \sec\theta = \sqrt{1 +
+    We can rewrite this as :math:`\sec^2\theta - \tan^2\theta = 1, \tan^2\theta = \sec^2\theta - 1, \sec\theta = \sqrt{1 +
     \tan^2\theta}, \tan\theta = \sqrt{\sec^2\theta - 1}`
 
 iii. Divising both sides by :math:`p^2,` we get
@@ -128,13 +128,13 @@ Prove the following:
 
 19. :math:`(\sin A + \cos A)(\tan A + \cot A) = \sec A + \cosec A`
 
-20. :math:`\sec^4A - \sec^A = \tan^4A + \tan^A`
+20. :math:`\sec^4A - \sec^2A = \tan^4A + \tan^2A`
 
 21. :math:`\cot^4A + \cot^2A = \cosec^4A - \cosec^2A`
 
 22. :math:`\sqrt{\cosec^2A - 1} = \cos A\cosec A`
 
-23. :math:`\sec^A\cosec^2A = \tan^2A + \cosec^2A + 2`
+23. :math:`\sec^2A\cosec^2A = \tan^2A + \cot^2A + 2`
 
 24. :math:`\tan^2A - \sin^2A = \sin^4A \sec^2A`
 
