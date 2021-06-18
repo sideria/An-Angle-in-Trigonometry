@@ -128,8 +128,66 @@ Go through the list of relationship between trigonometrical ratios as the proble
 25. L.H.S. :math:`= (1 + \cot A - \cosec A)(1 + \tan A + \sec A) = \left(1 + \frac{\cos A}{\sin A} - \frac{1}{\sin A}\right)\left(1
     + \frac{\sin A}{\cos A} + \frac{1}{\cos A}\right)`
 
-    :math:`= \frac{(\sin A + \cos A - 1)(\sinA + \cos A + 1)}{\sin A\cos A} = \frac{(\sin A + \cos A)^2 - 1}{\sin A\cos A}`
+    :math:`= \frac{(\sin A + \cos A - 1)(\sin A + \cos A + 1)}{\sin A\cos A} = \frac{(\sin A + \cos A)^2 - 1}{\sin A\cos A}`
 
-    :math:`= \frac{\sin^2A + \cos^2A + \sin A\cos A - 1 }{\sin A\cos A} = \frac{1 + 2\sin A\cos A - 1}{\sinA\cos A} = 2=` R.H.S.
+    :math:`= \frac{\sin^2A + \cos^2A + \sin A\cos A - 1 }{\sin A\cos A} = \frac{1 + 2\sin A\cos A - 1}{\sin A\cos A} = 2=` R.H.S.
 
-26. 
+26. L.H.S. :math:`= \frac{\cot A\cos A}{\cot A + \cos A} = \frac{\frac{\cos^2 A}{\sin A}}{\frac{\cos A}{\sin A} + \cos A}`
+
+    :math:`= \frac{\cos^2A}{\sin A}{\frac{\sin A}{\cos A(1 + \sin A)}} = \frac{\cos A}{1 + \sin A}`
+
+    Proceeding in same way for R.H.S. we obtain :math:`\frac{1 - \sin A}{\cos A}`
+
+    :math:`\frac{\cos A}{1 + \sin A} = \frac{\cos A(1 - \sin A)}{1 - \sin^2A} = \frac{1 - \sin A}{\cos A} =` R.H.S.
+
+27. L.H.S. :math:`= \frac{\cot A + \tan B}{\cot B + \tan A} = \frac{\frac{1}{\tan A} + \tan B}{\frac{1}{\tan B} + \tan A}`
+
+    :math:`\frac{\frac{1 + \tan A\tan B}{\tan A}}{\frac{1 + \tan A\tan B}{\tan B}} = \frac{\tan B}{\tan A} = \cot A\tan B =` R.H.S.
+
+28. L.H.S. :math:`= \left(\frac{1}{\sec^2 A - \cos^2A} + \frac{1}{\cosec^2A - \sin^2A}\right)\cos^2A\sin^2A`
+
+    :math:`= \left(\frac{1}{\frac{1}{\cos^2A} - \cos^2A} + \frac{1}{\frac{1}{\sin^2A} - \sin^2A}\right)\cos^2A\sin^2A`
+
+    :math:`= \left(\frac{\cos^2A}{1 - \cos^4A} + \frac{\sin^2A}{1 - \sin^4}\right)\cos^2A\sin^2A`
+
+    :math:`= \left(\frac{\cos^2A}{(1 - \cos^2A)(1 + \cos^2A)} + \frac{\sin^2A}{(1 - \sin^2A)(1 + \sin^2A)}\right)\cos^2A\sin^2A`
+
+    :math:`= \left(\frac{\cos^2A}{\sin^2A(1 + \cos^2A)} + \frac{\sin^2A}{\cos^2A(1 + \sin^2A)}\right)\cos^2A\sin^2A`
+
+    :math:`= \left(\frac{\cos^4A(1 + \sin^2A) + \sin^4A(1 + \cos^2A)}{\sin^2A\cos^2A(1 + \cos^2A))(1 +
+    \sin^2A)}\right)\cos^2A\sin^2A`
+
+    :math:`= \left(\frac{\cos^4A + \sin^4A + \cos^2A\sin^2A(\cos^2A + \sin^2A)}{(1 +\cos^2A)(1 + \sin^2A)}\right)`
+
+    :math:`= \left(\frac{(\cos^2A + \sin^2A)^2 - \cos^2A\sin^2A}{1 + \sin^2A + \cos^2A + \sin^2A\cos^2A}\right)`
+
+    :math:`= \frac{1 - \sin^2A\cos^2A}{2 + \sin^2A\cos^2A} =` R.H.S.
+
+29. L.H.S. :math:`= \sin^8A - \cos^8A = (\sin^4A - \cos^4A)(\sin^4A + \cos^4A)`
+
+    :math:`= (\sin^2A + \cos^2A)(\sin^2A - \cos^2A)((\sin^2A + \cos^2A)^2 - 2\sin^2A\cos^2A)`
+
+    :math:`= (\sin^2A - \cos^2A)(1 - 2\sin^2A\cos^2A) =` R.H.S.
+
+30. L.H.S. :math:`= \frac{\cos A\cosec A - \sin A\sec A}{\cos A + \sin A} = \frac{\frac{\cos A}{\sin A} - \frac{\sin A}{\cos
+    A}}{\cos A + \sin A}`
+
+    :math:`= \frac{\cos^2A - \sin^2A}{\sin A\cos A(\cos A + \sin A)} = \frac{\cos A  \sin A}{\sin A\cos A} = \cosec A - \sec A =`
+    R.H.S.
+
+31. Given, :math:`\frac{1}{\cosec A - \cot A} - \frac{1}{\sin A} = \frac{1}{\sin A} - \frac{1}{\cosec A + \cot A}`
+
+    Therefore alternatively we can prove that :math:`\frac{1}{\cosec A - \cot A} + \frac{1}{\cosec A + \cot A} = \frac{2}{\sin A}`
+
+    L.H.S. :math:`= \frac{1}{\frac{1}{\sin A} - \frac{\cos A}{\sin A}} + \frac{1}{\frac{1}{\sin A} + \frac{\cos A}{\sin A}}`
+
+    :math:`= \frac{\sin A}{1 - \cos A} - \frac{\sin A}{1 + \cos A} = \frac{\sin A(1 + \cos A + 1 - \cos A)}{1 - \cos^2 A} =
+    \frac{2\sin A}{\sin^2A} = \frac{2}{\sin A} =` R.H.S.
+
+32. L.H.S. :math:`= \frac{\tan A + \sec A - 1}{\tan A - \sec A + 1} = \frac{\frac{\sin A + 1 - \cos A}{\cos A}}{\frac{\sin A + \cos
+    A - 1)}{\cos A}}`
+
+    :math:`= \frac{1 + \sin A - \cos A}{\sin A + \cos A - 1} = \frac{(1 + \sin A - \cos A)(\sin A + \cos A - 1)}{(\sin A + \cos A -
+    1)^2}`
+
+    Solving this yields :math:`= \frac{1 + \sin A}{\cos A} =` R.H.S.
