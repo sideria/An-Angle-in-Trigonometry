@@ -159,9 +159,9 @@ Prove the following:
 
 34. :math:`2\sec^2 A - \sec^4A - 2\cosec^2A + \cosec^4A = \cot^4A - \tan^4A`
 
-35. :math:`(\sin A + \cosec A)^2 + (\cos A + \sec A)^2 = \tan^2A + \cot^2A = 7`
+35. :math:`(\sin A + \cosec A)^2 + (\cos A + \sec A)^2 = \tan^2A + \cot^2A + 7`
 
-36. :math:`(\cosec A + \cot A)(1 - \sin A) - (\sec A + \tan A)(1 - \cos A) = (1 - \sin A - \sec A)[2 - (1 - \cos A)(1 - \sin A)]`
+36. :math:`(\cosec A + \cot A)(1 - \sin A) - (\sec A + \tan A)(1 - \cos A) = (\cosec A - \sec A)[2 - (1 - \cos A)(1 - \sin A)]`
 
 37. :math:`(1 + \cot A + \tan A)(\sin A - \cos A) = \frac{\sec A}{\cosec^2A} - \frac{\cosec A}{\sec^2A}`
 
@@ -171,11 +171,11 @@ Prove the following:
 
 40. :math:`\sqrt{\frac{1 + \cos A}{1 - \cos A}} = \cosec A + \cot A`
 
-41. :math:`\frac{\cos A}{1 + \sin A} + \frac{\cos A}{1 - \sin a} = 2\sec A`
+41. :math:`\frac{\cos A}{1 + \sin A} + \frac{\cos A}{1 - \sin A} = 2\sec A`
 
 42. :math:`\frac{\tan A}{\sec A - 1} + \frac{\tan A}{\sec A + 1} = 2\cosec A`
 
-43. :math:`\frac{1}{1 - \sin A} + \frac{1}{1 + \sin A} = 2\sec A\tan A`
+43. :math:`\frac{1}{1 - \sin A} - \frac{1}{1 + \sin A} = 2\sec A\tan A`
 
 44. :math:`\frac{1 + \tan^2 A}{1 + \cot^2 A} = \left(\frac{1 - \tan A}{1 - \cot A}\right)^2`
 

@@ -15,7 +15,7 @@ An Angle on Trigonometry
    measurement-of-angles-solutions
    trigonometrical-ratios
    trigonometrical-ratios-solutions
-
+   trigonometrical-ratios-any-angle-sign
 
 Indices and tables
 ==================
