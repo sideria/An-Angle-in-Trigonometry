@@ -191,3 +191,13 @@ Go through the list of relationship between trigonometrical ratios as the proble
     1)^2}`
 
     Solving this yields :math:`= \frac{1 + \sin A}{\cos A} =` R.H.S.
+
+33. L.H.S. :math:`= (\tan A + \cosec B)^2 - (\cot B - \sec A)^2 = \tan^2A + \cosec^2B + 2\tan A\cosec B - \cot^2B - \sec^2A+ 2\sec
+    A\cot B`
+    
+
+    :math:`= (\cosec^2B - \cot^2B) - (sec^2A - tan^2A) + 2\tan A\cot B\left(\frac{\cosec B}{\cot B} + \frac{\sec A}{\tan A}\right)`
+
+    :math:`= 1 - 1 + 2\tan A\cot B\left(\sec B + \cosec A\right)  =` R.H.S.
+
+34. 
