@@ -42,3 +42,39 @@ All other trigonometric ratios for these can be foun from these two.
 
 Angle of :math:`0^\circ`
 ------------------------
+.. image:: _static/images/6_2_0_triangle.png
+   :alt: 0 degree angle
+   :align: center
+
+Consider the :math:`\triangle MOP` such that the side MP is smaller than any quantiry we can assign i.e. what we denote by 0. Thus,
+:math:`\angle MOP` is what is called approaching :math:`0` or :math:`\lim_{x \to 0}` in terms of Calculus. Why we have to take such
+a value is because if any anngle of a triangle is equal to :math:`0^\circ` then the triagle won't exist. Thus these values are
+limiting values as you will learn in Calculus.
+
+However, in this case :math:`\sin 0^\circ = \frac{MP}{OP} = \frac{0}{OP} = 0.` Now other trigonometric ratios can be found with
+ease.
+
+Angle of :math:`90^\circ`
+--------------------------
+In the previous figure as :math:`\angle OMP` will approach :math:`0^\circ,` the :math:`\angle OPM` will approach :math:`90^\circ.`
+Also, :math:`OP` will approach the length of :math:`OM.` Similar to previos case in right-angle triangle if one angle(other than
+right angle) approaches :math:`0^\circ` the other one will approach :math:`90^\circ` and at that value the triangle will cease to
+exist.
+
+Thus, :math:`\sin 90^\circ = \frac{OM}{OP} = \frac{OP}{OP} = 1.` Now it is trivial to find other trigonometric ratios.
+
+Given below is a table of most useful angles:
+
+.. list-table:: Values of useful angles
+   :header-rows: 1
+
+   * - Angle
+     - :math:`0^\circ`
+   * - :math:`\sin`
+     - :math:`0`
+
+Complementary Angles
+====================
+.. image:: _static/images/6_3_complemetary.png
+   :alt: complementary angles
+   :align: center
