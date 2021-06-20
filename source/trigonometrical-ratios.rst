@@ -209,11 +209,11 @@ Prove the following:
 
 59. If :math:`3\sin A + 5\cos A = 5,` show that :math:`5\sin A - 3\cos A = \pm 3`
 
-60. If :math:`(\sec A + \tan A) = (\sec A - \tan A)` prove that each side is :math:`\pm 1`
+60. If :math:`\sec A + \tan A = \sec A - \tan A` prove that each side is :math:`\pm 1`
 
 61. If :math:`\frac{\cos^4 A}{\cos^2 B} + \frac{\sin^4 A}{\sin^2 B} = 1,` prove that
 
-    i. :math:`\sin^4A + \sin^4B = 2\sin^A \sin^B`
+    i. :math:`\sin^4A + \sin^4B = 2\sin^2A \sin^2B`
 
     ii. :math:`\frac{\cos^4 B}{\cos^2 A} + \frac{\sin^4 B}{\sin^2 A} = 1,`
 
@@ -221,7 +221,7 @@ Prove the following:
 
 63. If :math:`a\cos A - b\sin A = c,` prove that :math:`a\sin A + b\cos A = \sqrt{a^2 + b ^2 - c^2}`
 
-64. If :math:`1 - \sin A = 1 + \sin A` then prove that value of each side is :math:`\pm \cos A`
+64. If :math:`1 - \sin A = 1 + \sin A,` then prove that value of each side is :math:`\pm \cos A`
 
 65. If :math:`\sin^4 A + \sin^2 A = 1,` prove that
 
@@ -229,7 +229,7 @@ Prove the following:
 
     ii. :math:`\tan^4A - \tan^2 = 1`
 
-66. If :math:`\cos^2 - \sin^2 A = \tan^2 B,` prove that :math:`2\cos^2B - 1 = \cos^2B - \sin^2B = \tan^2A`
+66. If :math:`\cos^2A - \sin^2 A = \tan^2 B,` prove that :math:`2\cos^2B - 1 = \cos^2B - \sin^2B = \tan^2A`
 
 67. If :math:`\sin A + \cosec A = 2,` then prove that :math:`\sin^nA + \cosec^nA = 2`
 
@@ -257,7 +257,7 @@ Prove the following:
 
 79. If :math:`\sin A + \cos A = m` and :math:`\sec A + \cosec A = n,` prove that :math:`n(m^2 - 1) = 2m.`
 
-80. If :math:`x\sin^3 A + y\cos^3 A = \sin A\cos A` and :math:`x\sinA - y\cos A = 0,` prove that :math:`x^2 + y^2 + 1 = 0`
+80. If :math:`x\sin^3 A + y\cos^3 A = \sin A\cos A` and :math:`x\sin A - y\cos A = 0,` prove that :math:`x^2 + y^2 + 1 = 0`
 
 81. Prove that :math:`\sin^2A = \frac{(x + y)^2}{4xy}` is possible for real values of :math:`x` and :math:`y` onlt when :math:`x =
     y` and :math:`x,y \neq 0`

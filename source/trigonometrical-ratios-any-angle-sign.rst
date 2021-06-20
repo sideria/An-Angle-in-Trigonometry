@@ -19,10 +19,26 @@ Consider the above figure, which is a right-angle triangle, drawn so that :math:
 
 :math:`\sin 45^\circ = \frac{MP}{OP} = \frac{a\sqrt{2}}{2a} = \frac{1}{\sqrt{2}}`
 
-Other trigonometric ratios can be deduced easilt from this.
+Other trigonometric ratios can be deduced easily from this.
 
-Angle of :math:`30^\circ`
--------------------------
+Angle of :math:`30^\circ` and :math:`50^\circ`
+----------------------------------------------
 .. image:: _static/images/6_1_30_triangle.png
    :alt: 30 degree angle
    :align: center
+
+Consider an equilateral :math:`\triangle OMP`. Let the sides :math:`OM, OP, MP` be each :math:`2a`. We draw a bisector of
+:math:`\angle MOP` which will be a perpendicular bisector of :math:`MP` at :math:`X` because the triangle is equilateral. Thus,
+:math:`MX = a.` Thus, in :math:`\triangle OMX, OM = 2a, MX = a, \angle MOX = 30^\circ, \angle OXM = 90^\circ` because each angle is
+:math:`60^\circ` in an equilateral triangle.
+
+:math:`\sin MOX = \frac{MX}{OM} = \frac{1}{2} \Rightarrow \sin 30^\circ = \frac{1}{2}`
+
+Similarly, :math:`\angle OMX = 60^\circ` because sum of all angles of a triangle is :math:`180^\circ`
+
+:math:`\cos OMX = \frac{MX}{OM} = \frac{1}{2}\Rightarrow \cos 60^\circ = \frac{1}{2}`
+
+All other trigonometric ratios for these can be foun from these two.
+
+Angle of :math:`0^\circ`
+------------------------

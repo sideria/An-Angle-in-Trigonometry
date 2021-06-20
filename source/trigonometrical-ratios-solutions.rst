@@ -400,8 +400,114 @@ Go through the list of relationship between trigonometrical ratios as the proble
 
 57. Given, :math:`\sec^2A = 2 + 2\tan A \Rightarrow \tan^2A + 1 = 2 + 2\tan A`
 
-    :math:`\tan^2A - 2\tanA - 1 = 0`
+    :math:`\tan^2A - 2\tan A - 1 = 0`
 
-    :math:`tan A = \frac{2 \pm \sqrt{4 + 4}}{2} = 1 \pm \sqrt{2}`
+    :math:`\tan A = \frac{2 \pm \sqrt{4 + 4}}{2} = 1 \pm \sqrt{2}`
 
-58.
+58. Given, :math:`\tan A = \frac{2x(x + 1)}{2x + 1}`
+
+    :math:`\sin A = \frac{2x(x + 1)}{\sqrt{[2x(x + 1)]^2 + (2x + 1)^2}}`
+
+    :math:`\cos A = \frac{2x + 1}{\sqrt{[2x(x + 1)]^2 + (2x + 1)^2}}`
+
+59. Given, :math:`3\sin A + 5\cos A = 5,` let :math:`5\sin A - 3\cos A = x`
+
+    Squaring and adding, we get
+
+    :math:`9\sin^2A + 25\cos^2A + 30\sin A\cos A + 25\sin^2A + 9\cos^2A - 30\sin A\cos A = 25 + x^2`
+
+    :math:`9(\sin^2A + \cos^2A) + 25(\cos^2A + \sin^2A) = 25 + x^2`
+
+    :math:`34 = 25 + x^2 \Rightarrow x^2 = 9 \Rightarrow x = \pm 3`
+
+60. Given, :math:`\sec A + \tan A = \sec A - \tan A`
+
+    Multiplying both sides with :math:`\sec A + \tan A,` we get
+
+    :math:`(\sec A + \tan A)^2 = \sec^2A - \tan^2A = 1`
+
+    :math:`\sec A + \tan A = \pm 1`
+
+    We can prove that :math:`\sec A - \tan A` to be :math:`\pm 1` by multiplying given equation with :math:`\sec A - \tan A`
+
+61. Given, :math:`\frac{\cos^4 A}{\cos^2 B} + \frac{\sin^4 A}{\sin^2 B} = 1 = \sin^2A + \cos^2A`
+
+    :math:`\Rightarrow \frac{\cos^4 A}{\cos^2 B} - \cos^2A = \sin^2A - \frac{\sin^4A}{\sin^2B} = 0`
+
+    :math:`\Rightarrow \frac{\cos^2A(\cos^2A - \cos^2B)}{\cos^2B} = \frac{\sin^2A(\sin^2B - \sin^2A)}{\sin^2B}`
+
+    :math:`\Rightarrow \frac{\cos^2A(\cos^2A - \cos^2B)}{\cos^2B} = \frac{\sin^2A(1 - \cos^2B - 1 + \cos^2A)}{\sin^2B}`
+
+    :math:`\Rightarrow (\cos^2A - \cos^2B )\left(\frac{\cos^2A}{\cos^2B} - \frac{\sin^2A}{\sin^2B}\right) = 0`
+
+    When :math:`\cos^2A - \cos^2B = 0, \cos^2A = \cos^2B`
+
+    When :math:`\frac{\cos^2A}{\cos^2B} - \frac{\sin^2A}{\sin^2B} = 0`
+
+    :math:`\cos^2A\sin^2B = \sin^2A\cos^2B \Rightarrow \cos^2A(1 - \cos^2B) = (1 - \cos^2A)\cos^2B`
+
+    :math:`\cos^2A = \cos^2B \Rightarrow \sin^2A = \sin^2B`
+
+    i. L.H.S. :math:`= \sin^4A + \sin^4B = (\sin^2A - \sin^2B)^2 + 2\sin^2A\sin^2B = 2\sin^2A\sin^2B =` R.H.S.
+
+    ii. L.H.S. :math:`= \frac{\cos^4 B}{\cos^2 A} + \frac{\sin^4 B}{\sin^2 A}`
+
+        :math:`= \frac{\cos^4 B}{\cos^2 B} + \frac{\sin^4 B}{\sin^2 B} = \cos^2B + \sin^2B = 1 =` R.H.S.
+
+62. Given, :math:`\cos A + \sin A = \sqrt{2}\cos A`
+
+    Squaring both sides
+
+    :math:`1 + 2\sin A\cos A = 2\cos^2A`
+
+    :math:`2 - 2\cos^2A = 2\sin^2A = 1 - 2\sin A\cos A = \sin^2A + \cos^2A - 2\sin A\cos A = (\cos A - \sin A)^2`
+
+    :math:`\cos A - \sin A = \pm \sqrt{2}\sin A`
+
+63. Given, :math:`a\cos A - b\sin A = c,` and let :math:`a\sin A + b\cos A = x`
+
+    Squaring and adding, we get
+
+    :math:`\Rightarrow a^2\cos^2A + b^2\sin^2A - 2ab\cos A\sin A + a^2\sin^2A + b^2\cos^2A + 2ab\sin A\cos A = c^2 + x^2`
+
+    :math:`\Rightarrow a^2(\cos^2A + \sin^2A) + b^2(\sin^2A + \cos^2A) = c^2 + x^2`
+
+    :math:`\Rightarrow a^2 + b^2 = c^2 + x^2 \Rightarrow x = \pm \sqrt{a^2 + b^2 - c^2}`
+
+64. Given, :math:`1 - \sin A = 1 + \sin A`
+
+    Multiplying both sides by :math:`1 - \sin A,` we get
+
+    :math:`(1 - \sin A)^2 = 1 - \sin^2A = \cos^2A`
+
+    :math:`1 - \sin A = \pm \cos A`
+
+    Similarly if we multiply with :math:`1 + \sin` we can prove that
+
+    :math:`1 + \sin A = \pm \cos A`
+
+65. Let us solve these one by one:
+
+    ii. Given, :math:`\sin^4A + \sin^2A = 1 \Rightarrow \sin^4A = 1 - \sin^2A = \cos^2`
+
+        :math:`\frac{\sin^4A}{\cos^4A} = sec^2A`
+
+        :math:`\frac{1}{\tan^4A} = cos^2A`
+
+        Also from, :math:`\sin^4A = \cos^2A \Rightarrow \tan^2A = \cosec^2A \Rightarrow \frac{1}{\tan^2A} = \sin^2A`
+
+        :math:`\Rightarrow \frac{1}{\tan^4A} + \frac{1}{\tan^2A} = \sin^2A + \cos^2A = 1`
+
+    i. Given, :math:`\sin^4A + \sin^2A = 1 \Rightarrow \sin^4A = 1 - \sin^2A = \cos^2`
+
+       :math:`\Rightarrow x\frac{\sin^2A}{\cos^2A} = \frac{1}{\sin^2A} \Rightarrow \tan^2A = \cosec^2A`
+
+       :math:`\tan^2A = 1 + \cot^2A`
+
+       Multiplying both sides with :math:`\tan^2A,` we get
+
+       :math:`\tan^4A = \tan^2A + 1`
+
+       :math:`\tan^4A - \tan^2A = 1`
+
+66. Given, :math:`\cos^2 - \sin^2 A = \tan^2 B \Rightarrow \frac{\cos^2A - \sin^2A}{\cos^2A + \sin^2A} = \tan^2B`
