@@ -488,7 +488,7 @@ Go through the list of relationship between trigonometrical ratios as the proble
 
 65. Let us solve these one by one:
 
-    ii. Given, :math:`\sin^4A + \sin^2A = 1 \Rightarrow \sin^4A = 1 - \sin^2A = \cos^2`
+    i. Given, :math:`\sin^4A + \sin^2A = 1 \Rightarrow \sin^4A = 1 - \sin^2A = \cos^2`
 
         :math:`\frac{\sin^4A}{\cos^4A} = sec^2A`
 
@@ -498,9 +498,9 @@ Go through the list of relationship between trigonometrical ratios as the proble
 
         :math:`\Rightarrow \frac{1}{\tan^4A} + \frac{1}{\tan^2A} = \sin^2A + \cos^2A = 1`
 
-    i. Given, :math:`\sin^4A + \sin^2A = 1 \Rightarrow \sin^4A = 1 - \sin^2A = \cos^2`
+    ii. Given, :math:`\sin^4A + \sin^2A = 1 \Rightarrow \sin^4A = 1 - \sin^2A = \cos^2A`
 
-       :math:`\Rightarrow x\frac{\sin^2A}{\cos^2A} = \frac{1}{\sin^2A} \Rightarrow \tan^2A = \cosec^2A`
+       :math:`\Rightarrow \frac{\sin^2A}{\cos^2A} = \frac{1}{\sin^2A} \Rightarrow \tan^2A = \cosec^2A`
 
        :math:`\tan^2A = 1 + \cot^2A`
 
@@ -511,3 +511,169 @@ Go through the list of relationship between trigonometrical ratios as the proble
        :math:`\tan^4A - \tan^2A = 1`
 
 66. Given, :math:`\cos^2 - \sin^2 A = \tan^2 B \Rightarrow \frac{\cos^2A - \sin^2A}{\cos^2A + \sin^2A} = \tan^2B`
+
+    Dividing both numerator and denominator of L.H.S. with :math:`\cos^2A,` we get
+
+    :math:`\frac{1 - \tan^2A}{1 + \tan^2A} = \tan^2B`
+
+    :math:`1 - \tan^2A - \tan^2B - \tan^2A\tan^2B = 0`
+
+    :math:`1 - \tan^2B = \tan^2A(1 + \tan^2B) \Rightarrow \frac{1 - \tan^2B}{1 + \tan^2B} = \tan^2A`
+
+    :math:`\cos^2B - \sin^2B = \tan^2A \Rightarrow 2\cos^2B - 1 = \tan^2A`
+
+67. We will prove this by induction. Let :math:`\sin A + \cosec A = 2,` thus it is true for :math:`n = 1`
+
+    Squaring both sides :math:`\sin^2A + \cosec^2A + 2\sin A\cosec A = 2^2 \Rightarrow \sin^2A + \cosec^2A = 2`
+
+    Thus, it is true for :math:`n = 2` as well. Let it be true for :math:`n = m-1` and :math:`n = m`
+
+    :math:`\sin^mA + \cosec^mA = 2`
+
+    Multiplying both sides with :math:`\sin A + \cosec A,` we get
+
+    :math:`\sin^{m + 1}A + \cosec^{m + 1}A + \sin^mA\cosec A + \cosec^mA\sin A = 2^2`
+
+    :math:`\sin^{m + 1}A + \cosec^{m + 1}A + \sin^{m - 1}A + \cosec^{m - 1}A = 4`
+
+    :math:`\sin^{m + 1}A + \cosec^{m + 1} = 4 - 2 = 2`
+
+    Thus, we have proven it by induction.
+
+68. L.H.S. :math:`= \sec A + \tan^3A\cosec A = \sec A\left(1 + \tan^3A\frac{\cosec A}{\sec A}\right)`
+
+    :math:`=\sec A(1 + \tan^3A\cot a) = \sec A(1 + \tan^2A) = \sec^3A = (1 + 1 - e^2)\frac{3}{2} = (2 - e^2)\frac{3}{2}`
+
+69. Cross multiplying given equations, we have
+
+    :math:`\frac{\sec A}{br - qc} = \frac{\tan A}{pc - qr} = \frac{1}{qa - pb}`
+
+    :math:`\therefore \sec^2A - \tan^2A = 1, \left(\frac{br - qc}{aq - pb}\right)^2 - \left(\frac{pc - qa}{aq - pb}\right)^2 = 1`
+
+    :math:`(br - qa)^2 - (pc - ar)^2 = (qa - pb)^2`
+
+70. Given, :math:`\cosec A - \sin A = m \Rightarrow \frac{1}{\sin A } - \sin A = m`
+
+    :math:`\Rightarrow \frac{1 - \sin^2A}{\sin A} = m \Rightarrow \frac{\cos^2A}{\sin A} = m`
+
+    Also given, :math:`\sec A - \cos A = n \Rightarrow \frac{1}{\cos A} - \cos A = n`
+
+    :math:`\Rightarrow \frac{1 - \cos^2A}{\cos A} = n \Rightarrow \frac{\sin^2A}{\cos A} = n`
+
+    We have :math:`\sin A = \frac{\cos^2A}{m},` putting this in derived equation
+
+    :math:`\cos^3A = m^2n`
+
+    :math:`\therefore \sin A = \frac{(m^2n)^\frac{2}{3}}{m} = (mn^2)\frac{1}{3}`
+
+    Thus, :math:`\sin^2A + \cos^2A = 1` gives us :math:`(m^2n)^\frac{2}{3} + (mn^2)^\frac{2}{3} = 1`
+
+71. Given, :math:`\sec^2A = \frac{4xy}{(x + y)^2}`
+
+    :math:`\because \sec^2A \geq 1 \therefore \frac{4xy}{(x + y)^2}\geq 1`
+
+    :math:`\Rightarrow (x + y)^2 \leq 4xy \Rightarrow (x - y)^2 \leq 0`
+
+    But for real :math:`\x` and :math:`y, (x - y)^2\nless 0`
+
+    :math:`\therefore (x - y)^2 = 0 \therefore x - y`
+
+    Also, :math:`x + y \neq 0 \Rightarrow x\neq 0, y \neq 0`
+
+72. Given, :math:`\sin A = x + \frac{1}{x},` squaring we get
+
+    :math:`\sin^2A = x^2 + \frac{1}{x^2} + 2 \geq 2`
+
+    which is not possible since :math:`\sin A \leq 1`
+
+73. Given, :math:`\sec A - \tan A = p`
+
+    :math:`\Rightarrow 1 - \sin A = p\cos A`
+
+    Squaring, we obtain
+
+    :math:`1 + \sin^2A - 2\sin A = p^2\cos^2A = p^2(1 - \sin^2A)`
+
+    :math:`(1 + p^)\sin^2A - 2\sin A + 1 - p^2 = 0`
+
+    :math:`\sin A = \frac{1 \pm p^2}{1 + p^2}`
+
+    Now :math:`tan` and :math:`\sec A` can be easily found.
+
+74. :math:`\sec A + \tan A = \frac{4p^2 + 1}{4p} \pm \sqrt{\sec^2A - 1}`
+
+    :math:`= 4p \pm \sqrt{\left(\frac{(4p^2 + 1)^2}{16p^2} - 1\right)}`
+
+    :math:`= 2p` or :math:`\frac{1}{2p}`
+
+75. Given, :math:`\frac{\sin A}{\sin B} = p, \frac{\cos A}{\cos B} = q`
+
+    Squaring, we get
+
+    :math:`\frac{\sin^2A}{\sin^2B} = p^2, \frac{\cos^2A}{\cos^2B}= q^`
+
+    :math:`\frac{\sin^2A - \sin^2B}{\sin^2B} = p^2 - 1, \frac{\cos^2B - \cos^2A}{\cos^2B} = 1 - q^2`
+
+    :math:`\frac{\sin^2A - \sin^2B}{\sin^2B} = p^2 - 1, \frac{\sin^2A - \sin^2B}{\cos^2B} = 1 - q^2`
+
+    Dividing, we obtain
+
+    :math:`\tan^2B = \pm \sqrt{\frac{1 - q^2}{p^2 - 1}}`
+
+    Dividing original equations
+
+    :math:`\frac{\tan A}{\tan B} = \pm \frac{p}{q}\sqrt{\frac{1 - q^2}{p^2 - 1}}`
+
+76. :math:`\sin A = \sqrt{2}\sin B, \frac{\sin A.\cos B}{\cos A. \sin B} = \sqrt{3}`
+
+    Substituting for :math:`\sin A`
+
+    :math:`\frac{\sqrt{2}\sin B\cos B}{\sqrt{1 - 2\sin^2A}\sin B}  = \sqrt{3}`
+
+    Squaring, we get
+
+    :math:`2\cos^2 A = 3(1 - 2\sin^2A) \Rightarrow 4\sin^2A - 1 = 0`
+
+    :math:`\Rightarrow \sin A = \pm \frac{1}{2}, \Rightarrow A = \pm 45^\circ`
+
+    Thus, :math:`B = \pm 30^\circ`
+
+77. Given, :math:`\tan A + \cot A = 2, 1 + \tan^2A = 2\tan A \Rightarrow (1 - \tan A)^2 = 0`
+
+    :math:`\tan A = 1\Rightarrow \sin A = \pm\frac{1}{\sqrt{2}}`
+
+78. :math:`m^2 - n^2 = (\tan A +\sin A)^2 - (\tan A - \sin A)^2 = 4\tan A\sin A`
+
+    :math:`4\sqrt{mn} = 4\sqrt{\tan^2A - \sin^2A} = 4\sqrt{\frac{\sin^2A}{\cos^2A} - \sin^2A}`
+
+    :math:`= 4\sqrt{\frac{\sin^2A(1 - \cos^2A)}{\cos^2A}} = 4\sqrt{\frac{\sin^4A}{\cos^2A}}`
+
+    :math:`= 4\tan A\sin A`
+
+79. :math:`m^2 - 1 = 2\sin A\cos A \Rightarrow n(m^2 - 1) = 2\sin A\cos A(\sec A + \cosec A)`
+
+    :math:`= 2\sin A + 2\cos A = 2m`
+
+80. Given, :math:`x\sin^3 A + y\cos^3 A = \sin A\cos A`
+
+    :math:`(x\sin A)\sin^2A + (y\cos A)\cos^2A = \sin A\cos A`
+
+    Frpm other equation :math:`x\sin A = y\cos A,` substituting this in above equation
+
+    :math:`(x\sin A)\sin^2A + (x\sin A)\cos^2a = \sin A\cos A`
+
+    :math:`x\sin A = \sin A\cos A`
+
+    :math:`x = \cos A \therefore y = \sin A`
+
+    Thus, :math:`x^2 + y^2 = 1`
+
+81. Given, :math:`\sin^2A = \frac{(x + y)^2}{4xy}`
+
+    :math:`\sin^2A \leq 1 \Rightarrow (x + y)^2 \leq 4xy \Rightarrow (x - y)^2 \leq 0`
+
+    But for real :math:`x` and :math:`y` :math:`(x - y)^2\nless 0`
+
+    :math:`\Rightarrow x = y`
+
+    Also, :math:`xy \neq 0, x, y\neq 0`

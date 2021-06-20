@@ -235,7 +235,7 @@ Prove the following:
 
 68. If :math:`\tan^2 A = 1 - e^2,` prove that :math:`\sec A + \tan^3A\cosec A = (2 - e^2)^\frac{3}{2}`
 
-69. Eliminate :math:`A` between the equations :math:`a\sec A + b\tan A + c = 0` and :math:`p\sec A + q\tan B + r = 0`
+69. Eliminate :math:`A` between the equations :math:`a\sec A + b\tan A + c = 0` and :math:`p\sec A + q\tan A + r = 0`
 
 70. If :math:`\cosec A - \sin A = m` and :math:`\sec A - \cos A = n,` elimiate :math:`A`
 
@@ -251,13 +251,13 @@ Prove the following:
 
 76. If :math:`\frac{\sin A}{\sin B} = \sqrt{2}, \frac{\tan A}{\tan B}= \sqrt{3},` find :math:`A` and :math:`B.`
 
-77. If :math:`\tan A + \cot B = 2,` find :math:`\sin A.`
+77. If :math:`\tan A + \cot A = 2,` find :math:`\sin A.`
 
 78. If :math:`m = \tan A + \sin A` and :math:`n = \tan A - \sin A,` prove that :math:`m^2 - n^2 = 4\sqrt{mn}.`
 
 79. If :math:`\sin A + \cos A = m` and :math:`\sec A + \cosec A = n,` prove that :math:`n(m^2 - 1) = 2m.`
 
-80. If :math:`x\sin^3 A + y\cos^3 A = \sin A\cos A` and :math:`x\sin A - y\cos A = 0,` prove that :math:`x^2 + y^2 + 1 = 0`
+80. If :math:`x\sin^3 A + y\cos^3 A = \sin A\cos A` and :math:`x\sin A - y\cos A = 0,` prove that :math:`x^2 + y^2 = 1`
 
-81. Prove that :math:`\sin^2A = \frac{(x + y)^2}{4xy}` is possible for real values of :math:`x` and :math:`y` onlt when :math:`x =
+81. Prove that :math:`\sin^2A = \frac{(x + y)^2}{4xy}` is possible for real values of :math:`x` and :math:`y` only when :math:`x =
     y` and :math:`x,y \neq 0`
