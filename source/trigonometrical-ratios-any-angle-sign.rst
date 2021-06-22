@@ -9,7 +9,7 @@ Angle of :math:`45^\circ`
    :align: center
 
 Consider the above figure, which is a right-angle triangle, drawn so that :math:`\angle OMP = 90^\circ` and :math:`\angle MOP =
-\45^\circ.` We know that sum of all angles of a triangle is equal to :math:`180^\circ.` Thus,
+45^\circ.` We know that sum of all angles of a triangle is equal to :math:`180^\circ.` Thus,
 
 :math:`\angle OPM = 180^\circ - \angle MOP - \angle OMP = 180^\circ - 90^\circ - 45^\circ = 45^\circ`
 
@@ -70,11 +70,77 @@ Given below is a table of most useful angles:
 
    * - Angle
      - :math:`0^\circ`
+     - :math:`30^\circ`
+     - :math:`45^\circ`
+     - :math:`60^\circ`
+     - :math:`90^\circ`
    * - :math:`\sin`
      - :math:`0`
+     - :math:`\frac{1}{2}`
+     - :math:`\frac{1}{\sqrt{2}}`
+     - :math:`\frac{\sqrt{3}}{2}`
+     - :math:`1`
+   * - :math:`\cos`
+     - :math:`1`
+     - :math:`\frac{\sqrt{3}}{2}`
+     - :math:`\frac{1}{\sqrt{2}}`
+     - :math:`\frac{1}{\sqrt{2}}`
+     - :math:`0`
+   * - :math:`\tan`
+     - :math:`0`
+     - :math:`\frac{1}{\sqrt{3}}`
+     - :math:`1`
+     - :math:`\sqrt{3}`
+     - :math:`\infty`
+   * - :math:`\cosec`
+     - :math:`\infty`
+     - :math:`2`
+     - :math:`\sqrt{2}`
+     - :math:`\frac{2}{\sqrt{3}}`
+     - :math:`1`
+   * - :math:`\sec`
+     - :math:`1`
+     - :math:`\frac{2}{\sqrt{3}}`
+     - :math:`\sqrt{2}`
+     - :math:`2`
+     - :math:`\infty`
+   * - :math:`\cot`
+     - :math:`\infty`
+     - :math:`\sqrt{3}`
+     - :math:`1`
+     - :math:`\frac{1}{\sqrt{3}}`
+     - :math:`0`
+
 
 Complementary Angles
 ====================
 .. image:: _static/images/6_3_complemetary.png
    :alt: complementary angles
    :align: center
+
+Angles are said to be complementary if their sum is equal to one right angle i.e :math:`90^\circ.` Thus, if measure of one angle is
+:math:`\theta` the other will automatically be :math:`90^\circ - \theta.`
+
+Consider the above figure. :math:`\triangle OMP` is a right-angle triangle whose :math:`\angle OMP` is a right angle. Since the sum
+of all angles is equal to :math:`180^\circ,` therefore sum of :math:`\angle MOP` and :math:`\angle MPO` will be equal to one right
+angle or :math:`90^\circ` i.e. they are complementatry angles.
+
+Let :math:`\angle MOP = \theta` then :math:`\angle MPO = 90^\circ - \theta.` When :math:`\angle MPO` is considered :math:`MP`
+becomes the base and :math:`OM` becomes the perpendicular.
+
+Thus, :math:`\sin(90^\circ - \theta) = \sin MPO = \frac{MO}{PO} = \cos MOP = \cos \theta`
+
+:math:`\cos(90^\circ - \theta) = \sin MPO = \frac{PM}{PM} = \sin MOP = \sin \theta`
+
+:math:`\tan(90^\circ -\ theta) = \tan MPO = \frac{OM}{MP} = \cot MOP = \cot \theta`
+
+Similarly, :math:`\cot(90^\circ - \theta) = \tan \theta`
+
+:math:`\cosec(90^\circ - \theta) = \sec \theta`
+
+:math:`\sec(90^\circ - \theta) = \cosec \theta`
+
+Supplemntary Angles
+===================
+Angles are said to be supplementary if their sum is equal to two right angles i.e. :math:`180^\circ.` Thus, if measure of one angle
+is :math:`\theta` and oher will automaticaly be :math:`180^\circ - \theta.`
