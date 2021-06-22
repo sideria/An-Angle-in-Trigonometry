@@ -142,5 +142,10 @@ Similarly, :math:`\cot(90^\circ - \theta) = \tan \theta`
 
 Supplemntary Angles
 ===================
+.. image:: _static/images/6_4_supplemntary.png
+   :alt: supplemntary angles
+   :align: center
+
+
 Angles are said to be supplementary if their sum is equal to two right angles i.e. :math:`180^\circ.` Thus, if measure of one angle
 is :math:`\theta` and oher will automaticaly be :math:`180^\circ - \theta.`
