@@ -132,7 +132,7 @@ Thus, :math:`\sin(90^\circ - \theta) = \sin MPO = \frac{MO}{PO} = \cos MOP = \co
 
 :math:`\cos(90^\circ - \theta) = \sin MPO = \frac{PM}{PM} = \sin MOP = \sin \theta`
 
-:math:`\tan(90^\circ -\ theta) = \tan MPO = \frac{OM}{MP} = \cot MOP = \cot \theta`
+:math:`\tan(90^\circ - \theta) = \tan MPO = \frac{OM}{MP} = \cot MOP = \cot \theta`
 
 Similarly, :math:`\cot(90^\circ - \theta) = \tan \theta`
 
@@ -140,8 +140,8 @@ Similarly, :math:`\cot(90^\circ - \theta) = \tan \theta`
 
 :math:`\sec(90^\circ - \theta) = \cosec \theta`
 
-Supplemntary Angles
-===================
+Supplementary Angles
+====================
 .. image:: _static/images/6_4_supplemntary.png
    :alt: supplemntary angles
    :align: center
@@ -149,3 +149,172 @@ Supplemntary Angles
 
 Angles are said to be supplementary if their sum is equal to two right angles i.e. :math:`180^\circ.` Thus, if measure of one angle
 is :math:`\theta` and oher will automaticaly be :math:`180^\circ - \theta.`
+
+Conside the above figure which include the angles of :math:`180^\circ + \theta.` In each figure :math:`OM` and :math:`OM'` are
+drawn in different directions, while :math:`MP` and :math:`M'P'` are drawn in the same direction, so that
+
+:math:`OM' = -OM` and :math:`M'P' = MP`
+
+Hencem we can say that
+
+:math:`\sin(180^\circ - \theta) = \sin MOP' = \frac{M'P'}{OP'} = \frac{MP}{OP} = \sin \theta`
+
+:math:`\cos(180^\circ - \theta) = \cos MOP' = \frac{OM'}{OP'} = \frac{-OM}{OP} = -\cos \theta`
+
+:math:`\tan(180^\circ - \theta) = \tan MOP' = \frac{OM'}{M'P'} = \frac{-OM}{MP} = -\tan \theta`
+
+Similarly, :math:`\cot(180^\circ - \theta) = -\cot \theta`
+
+:math:`\sec(180^\circ - \theta) = -\sec \theta`
+
+:math:`\cosec(180^\circ - \theta) = \cosec \theta`
+
+Angles of :math:`-\theta`
+=========================
+.. image:: _static/images/6_5-negative-theta.png
+   :alt: negative angled
+   :align: center
+
+Consider the above diagram which plots angles of :math:`\theta` and :math:`-\theta.` Note that :math:`MP` and :math:`MP'` are equal
+in magnitude but are opposite in sign. Thus, we have
+
+:math:`\sin(-\theta) = \frac{MP'}{OP'} = \frac{-MP}{OP} = -\sin\theta`
+
+:math:`\cos(-\theta) = \frac{OM}{MP'} = \frac{OM}{OP} = \cos\theta`
+
+:math:`\tan(-\theta) = \frac{MP'}{OM} = \frac{-MP}{OM} = -\tan\theta`
+
+Similalry, :math:`\cot(-\theta) = -\cot\theta`
+
+:math:`\sec(-\theta) = \sec\theta`
+
+:math:`\cosec(-\theta) = -\cosec\theta`
+
+
+Angles of :math:`90^\circ -\theta` and :math:`90^\circ+\theta`
+==============================================================
+Similarly it can be proven that(diagram has been left as an exercise)
+
+:math:`\sin(90^\circ -\theta) = \cos\theta`
+
+:math:`\cos(90^\circ -\theta) = \sin\theta`
+
+:math:`\tan(90^\circ -\theta) = \cot\theta`
+
+:math:`\cot(90^\circ -\theta) = \tan\theta`
+
+:math:`\sec(90^\circ -\theta) = \cosec\theta`
+
+:math:`\cosec(90^\circ -\theta) = \sec\theta`
+
+:math:`\sin(90^\circ+\theta) = \cos\theta`
+
+:math:`\cos(90^\circ+\theta) = -\sin\theta`
+
+:math:`\tan(90^\circ+\theta) = -\cot\theta`
+
+:math:`\cot(90^\circ+\theta) = -\tan\theta`
+
+:math:`\sec(90^\circ+\theta) = -\cosec\theta`
+
+:math:`\cosec(90^\circ+\theta) = \sec\theta`
+
+Angles of :math:`180^\circ + \theta`
+====================================
+Angles of :math:`180^\circ + \theta, 270^\circ -\theta, 270^\circ + theta` can be found by using previous relations. For example,
+
+:math:`\sin(180 + \theta) = \sin(90 + 90 + \theta) = \cos(90 + \theta) = -\sin\theta`
+
+:math:`\cos(180 + \theta) = \cos(90 + 90 + \theta) = -\sin(90 + \theta) = -\cos\theta`
+
+:math:`\tan(180 + \theta) = \tan(90 + 90 + \theta) = -\cos(90 + \theta) = \tan\theta`
+
+Similarly, :math:`\cot(180 + \theta) = \cot\theta`
+
+:math:`\sec(180 + \theta) = -\sec\theta`
+
+:math:`\cosec(180 + \theta) = -\cosec\theta`
+
+Angles of :math:`360^\circ + \theta`
+====================================
+For angles of :math:`\theta` the radius vector makes an angle of :math:`\theta` with initial side. For angles of :math:`360^\circ +
+\theta` it will complete a full revolution and then make an angle of :math:`\theta` with initial side. Thus, the trigonometrical
+ratios for an angle of :math:`360^\circ + \theta` are the same as those for :math:`\theta.`
+
+It is clear that angle will remain :math:`\theta` for any multiple of :math:`360^\circ.`
+
+Problems
+========
+1. If :math:`A = 30^\circ,` verify that
+
+   i. :math:`\cos 2A = \cos^2A - \sin^2A = 2\cos^2A - 1`
+
+   ii. :math:`\sin 2A = 2\sin A\cos A`
+
+   iii. :math:`\cos 3A = 4\cos^3A - 3\cos A`
+
+   iv. :math:`\sin 3A = 3\sin A - 4\sin^3A`
+
+   v. :math:`\tan 2A = \frac{2\tan A}{1 - \tan^2 A}`
+
+2. If :math:`A = 45^\circ,` verify that
+
+   i. :math:`\sin 2A = 2\sin A\cos A`
+
+   ii. :math:`\cos 2A = 1 - 2\sin^2A`
+
+   iii. :math:`\tan 2A = \frac{2\tan A}{1 - \tan^2A}`
+
+Verify that
+
+3. :math:`\sin^230^\circ + \sin^245^\circ + \sin^260^\circ = \frac{3}{2}`
+
+4. :math:`\tan^230^\circ + \tan^245^\circ + \tan^260^\circ = 4\frac{1}{3}`
+
+5. :math:`\sin 30^\circ\cos 60^\circ + \sin 60^\circ\cos 30^\circ = 1`
+
+6. :math:`\cos 45^\circ\cos 60^\circ - \sin 45^\circ\sin 60^\circ = -\frac{\sqrt{3} - 1}{2\sqrt{2}}`
+
+7. :math:`\cosec^245^\circ.\sec^230^\circ.sin^290^\circ.\cos 60^\circ = 1\frac{1}{3}`
+
+8. :math:`4\cot^245^\circ-\sec^260^\circ + \sin^230^\circ = \frac{1}{4}`
+
+Prove that
+
+9. :math:`\sin 420^\circ\cos 300^\circ + \cos(-300^\circ)\sin(-330^\circ) = 1`
+
+10. :math:`\cos 570^\circ\sin 510^\circ -\sin 330^\circ\cos 390^\circ = 0`
+
+What are the values of :math:`\cos A - \sin A` and :math:`\tan A\cot A` when A has the values
+
+11. :math:`\frac{\pi}{3}`
+
+12. :math:`\frac{2\pi}{3}`
+
+13. :math:`\frac{5\pi}{4}`
+
+14. :math:`\frac{7\pi}{4}`
+
+15. :math:`\frac{11\pi}{3}`
+
+What values between :math:`0^\circ` and :math:`360^\circ` may :math:`A` have when
+
+16. :math:`\sin A = \frac{1}{\sqrt{2}}`
+
+17. :math:`\cos A = \frac{1}{2}`
+
+18. :math:`\tan A = -1`
+
+19. :math:`\cot A = -\sqrt{3}`
+
+20. :math:`\sec A = \frac{2}{\sqrt{3}}`
+
+21. :math:`\cosec A = -2`
+
+Express in terms of the ratios of a positive angle, which is less than :math:`\45^\circ,` the quantities
+
+22. :math:`\sin(-65^\circ)`
+
+23. :math:`\cos(-84^\circ)`
+
+24. :math:`\tan 137^\circ`
