@@ -16,6 +16,8 @@ An Angle on Trigonometry
    trigonometrical-ratios
    trigonometrical-ratios-solutions
    trigonometrical-ratios-any-angle-sign
+   trigonometrical-ratios-any-angle-sign-solutions
+   compound-angles
 
 Indices and tables
 ==================
