@@ -281,11 +281,11 @@ Verify that
 
 Prove that
 
-9. :math:`\sin 420^\circ\cos 300^\circ + \cos(-300^\circ)\sin(-330^\circ) = 1`
+9. :math:`\sin 420^\circ\cos 390^\circ + \cos(-300^\circ)\sin(-330^\circ) = 1`
 
 10. :math:`\cos 570^\circ\sin 510^\circ -\sin 330^\circ\cos 390^\circ = 0`
 
-What are the values of :math:`\cos A - \sin A` and :math:`\tan A\cot A` when A has the values
+What are the values of :math:`\cos A - \sin A` and :math:`\tan A + \cot A` when A has the values
 
 11. :math:`\frac{\pi}{3}`
 
@@ -301,17 +301,17 @@ What values between :math:`0^\circ` and :math:`360^\circ` may :math:`A` have whe
 
 16. :math:`\sin A = \frac{1}{\sqrt{2}}`
 
-17. :math:`\cos A = \frac{1}{2}`
+17. :math:`\cos A = -\frac{1}{2}`
 
 18. :math:`\tan A = -1`
 
 19. :math:`\cot A = -\sqrt{3}`
 
-20. :math:`\sec A = \frac{2}{\sqrt{3}}`
+20. :math:`\sec A = -\frac{2}{\sqrt{3}}`
 
 21. :math:`\cosec A = -2`
 
-Express in terms of the ratios of a positive angle, which is less than :math:`\45^\circ,` the quantities
+Express in terms of the ratios of a positive angle, which is less than :math:`45^\circ,` the quantities
 
 22. :math:`\sin(-65^\circ)`
 
@@ -335,7 +335,7 @@ Express in terms of the ratios of a positive angle, which is less than :math:`\4
 
 32. :math:`\cot(-1054^\circ)`
 
-33. :math:`\sec 1326^\circ`
+33. :math:`\sec 1327^\circ`
 
 34. :math:`\cosec (-756^\circ)`
 
@@ -347,59 +347,59 @@ What sign has :math:`\sin A + \cos A` for the following values of :math:`A`?
 
 37. :math:`-356^\circ`
 
-36. :math:`-1125^\circ`
+38. :math:`-1125^\circ`
 
 What sign has :math:`\sin A - \cos A` for the following values of :math:`A`?
 
-37. :math:`215^\circ`
+39. :math:`215^\circ`
 
-38. :math:`825^\circ`
+40. :math:`825^\circ`
 
-39. :math:`-634^\circ`
+41. :math:`-634^\circ`
 
-40. :math:`-457^\circ`
+42. :math:`-457^\circ`
 
-41. Find the sine and cosine of all angled in the first four quadrants whose tangents are equal to :math:`\cos 135^\circ.`
+43. Find the sine and cosine of all angles in the first four quadrants whose tangents are equal to :math:`\cos 135^\circ.`
 
 Prove that
 
-42. :math:`\sin(270^\circ + A) = -\cos A` and :math:`\tan(270^\circ + A) = -\cot A`
+44. :math:`\sin(270^\circ + A) = -\cos A` and :math:`\tan(270^\circ + A) = -\cot A`
 
-43. :math:`\cos(270^\circ - A) = -\sin A` and :math:`cot(270^\circ - A) = \tan A`
+45. :math:`\cos(270^\circ - A) = -\sin A` and :math:`\cot(270^\circ - A) = \tan A`
 
-44. :math:`\cos A + \sin(270^\circ + A) - \sin(270^\circ - A) + \cos(180^\circ + A) = 0`
+46. :math:`\cos A + \sin(270^\circ + A) - \sin(270^\circ - A) + \cos(180^\circ + A) = 0`
 
-45. :math:`\sec(270^\circ - A)\sec(90^\circ - A) - \tan(270^\circ - A)\tan(90^\circ + A) + 1 = 0`
+47. :math:`\sec(270^\circ - A)\sec(90^\circ - A) - \tan(270^\circ - A)\tan(90^\circ + A) + 1 = 0`
 
-46. :math:`\cot A + \tan(180^\circ + A) + \tan(90^\circ + A) + \tan(360^\circ - A) = 0`
+48. :math:`\cot A + \tan(180^\circ + A) + \tan(90^\circ + A) + \tan(360^\circ - A) = 0`
 
-47. Find the value of :math:`2\tan^245\circ - \sin^260^\circ - \frac{1}{2}\cot^230^\circ + \frac{1}{8}\sec^245^\circ`
+49. Find the value of :math:`3\tan^245^\circ - \sin^260^\circ - \frac{1}{2}\cot^230^\circ + \frac{1}{8}\sec^245^\circ`
 
-48.  Simplify :math:`\frac{\sin 300^\circ.\tan 330^\circ.\sec 420^\circ}{\tan 135^\circ.\sin 210^\circ.\sec 315^\circ}`
+50.  Simplify :math:`\frac{\sin 300^\circ.\tan 330^\circ.\sec 420^\circ}{\tan 135^\circ.\sin 210^\circ.\sec 315^\circ}`
 
-49. Show that :math:`\tan 1^\circ\tan 2^\circ \ldots \tan 89^\circ = 1`
+51. Show that :math:`\tan 1^\circ\tan 2^\circ \ldots \tan 89^\circ = 1`
 
-50. Show that :math:`\sin^25^\circ + \sin^210^\circ + \sin^215^\circ + \ldots + \sin^290^\circ = 9\frac{1}{2}`
+52. Show that :math:`\sin^25^\circ + \sin^210^\circ + \sin^215^\circ + \ldots + \sin^290^\circ = 9\frac{1}{2}`
 
-51. Find the value of :math:`\cos^2\frac{\pi}{16} + \cos^2\frac{3\pi}{16} + \cos^2\frac{5\pi}{16} + \cos^2\frac{7\pi}{16}`
+53. Find the value of :math:`\cos^2\frac{\pi}{16} + \cos^2\frac{3\pi}{16} + \cos^2\frac{5\pi}{16} + \cos^2\frac{7\pi}{16}`
 
 Find the value of the following:
 
-52. :math:`\sec^2\frac{\pi}{6}\sec^2\frac{\pi}{4} + \tan^2\frac{\pi}{3}\sin^2\frac{\pi}{2}`
+54. :math:`\sec^2\frac{\pi}{6}\sec^2\frac{\pi}{4} + \tan^2\frac{\pi}{3}\sin^2\frac{\pi}{2}`
 
-53. :math:`\cot^230^\circ - 2\cos^260^\circ - \frac{3}{4}\sin^245^\circ - 4\sin^230^\circ`
+55. :math:`\cot^230^\circ - 2\cos^260^\circ - \frac{3}{4}\sin^245^\circ - 4\sin^230^\circ`
 
-54. :math:`\frac{\sec 480^\circ\cosec 570^\circ.\tan 330^\circ}{\sin 600^\circ.\cos 660^\circ.\cot 405^\circ}`
+56. :math:`\frac{\sec 480^\circ\cosec 570^\circ.\tan 330^\circ}{\sin 600^\circ.\cos 660^\circ.\cot 405^\circ}`
 
-55. If :math:`A = 30^\circ,` show that :math:`\cos^6A + \sin^6A = 1 - \sin^2A\cos^2A`
+57. If :math:`A = 30^\circ,` show that :math:`\cos^6A + \sin^6A = 1 - \sin^2A\cos^2A`
 
-56. Show that :math:`\left(\tan \frac{\pi}{4} + \cot \frac{\pi}{4} + \sec\frac{\pi}{4}\right)\left(\tan \frac{\pi}{4} + \cot
+58. Show that :math:`\left(\tan \frac{\pi}{4} + \cot \frac{\pi}{4} + \sec\frac{\pi}{4}\right)\left(\tan \frac{\pi}{4} + \cot
     \frac{\pi}{4} - \sec \frac{\pi}{4}\right) = \cosec^2 \frac{\pi}{4}`
 
-57. Show that :math:`\sin^26^\circ + \sin6^212^\circ + \sin^218^\circ + \ldots + \sin^284^\circ + \sin^290^\circ = 8`
+59. Show that :math:`\sin^26^\circ + \sin6^212^\circ + \sin^218^\circ + \ldots + \sin^284^\circ + \sin^290^\circ = 8`
 
-58. Show that :math:`\tan 9^\circ.\tan 27^\circ.\tan 45^\circ.\tan 63^\circ.\tan 81^\circ = 1`
+60. Show that :math:`\tan 9^\circ.\tan 27^\circ.\tan 45^\circ.\tan 63^\circ.\tan 81^\circ = 1`
 
-59. Show that :math:`\sum_{r = 1}^9 \sin^2\frac{r\pi}{18} = 5`
+61. Show that :math:`\sum_{r = 1}^9 \sin^2\frac{r\pi}{18} = 5`
 
-60. If :math:`4n\alpha = \pi,` show that :math:`\tan\alpha\tan2\alpha\tan3\alpha. \ldots .\tan(2n - 2)\alpha\tan(2n - 1)\alpha = 1`
+62. If :math:`4n\alpha = \pi,` show that :math:`\tan\alpha\tan2\alpha\tan3\alpha. \ldots .\tan(2n - 2)\alpha\tan(2n - 1)\alpha = 1`
