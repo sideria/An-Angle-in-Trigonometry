@@ -6,36 +6,42 @@
 
 \begin{document}
 \begin{tikzpicture}
-\draw [-stealth] (0, 0) -- (3, 0);
-\draw (2, -3) -- (3, -3);
-\draw (2, -3) -- (0, -3);
-\draw (2, -3) -- (0, -2);
-\draw (0, -3) -- (0, -2);
-\draw [blue] (3, -3) node[anchor=west] {$A$};
-\draw [blue] (2, -3) node[anchor=south] {$O$};
-\draw [blue] (0, -3) node[anchor=east] {$M$};
-\draw [blue] (0, -2) node[anchor=south] {$P'$};
-\draw [black!60!green] (2.2, -2.5) node[anchor=west] {$\theta$};
-\draw (2.5, -3) arc[start angle=0, end angle=207, radius=0.5];
-\draw (2, -3) -- (0, -4);
-\draw (0, -3) -- (0, -4);
-\draw [blue] (0, -4) node[anchor=north] {$P$};
-\draw (2.7, -3) arc[start angle=360, end angle=153, radius=0.7];
-\draw [black!60!green] (1.8, -3.3) node[anchor=west] {$-\theta$};
+  \draw (0, 0) -- (3.464, 0);
+  \draw (3.464, 0) -- (3.464, 2);
+  \draw (0, 0) -- (3.464, 2);
+  \draw (0, 0) -- (2, 0);
+  \draw (2, 0) -- (2, 3.464);
+  \draw (0, 0) -- (2, 3.464);
+  \draw (2, 3.464) -- (3.464, 2);
+  \draw (3.464, 2) -- (2, 2);
+  \draw (.6, 0) arc[start angle=0, end angle=30, radius=0.6];
+  \draw (.52, .3) arc[start angle=30, end angle=60, radius=0.6];
+  \draw [blue] (0, 0) node[anchor=north] {$O$};
+  \draw [blue] (2, 0) node[anchor=north] {$M$};
+  \draw [blue] (3.464, 0) node[anchor=north] {$Q$};
+  \draw [blue] (3.464, 2) node[anchor=west] {$N$};
+  \draw [blue] (2, 2) node[anchor=east] {$R$};
+  \draw [blue] (2, 3.464) node[anchor=south] {$P$};
+  \draw [black!60!green] (1, 0) node[anchor=south east] {$A$};
+  \draw [black!60!green] (.8, .4) node[anchor=south east] {$B$};
 
-\draw (4, -3) -- (6, -3);
-\draw (4, -3) -- (6, -2);
-\draw (6, -3) -- (6, -2);
-\draw [blue] (4, -3) node[anchor=east] {$O$};
-\draw [blue] (6, -3) node[anchor=north east] {$M$};
-\draw [blue] (6, -2) node[anchor=south] {$P'$};
-\draw [black!60!green] (4.5, -2.8) node[anchor=west] {$\theta$};
-\draw (4.5, -3) arc[start angle=0, end angle=27, radius=0.5];
-\draw (4, -3) -- (6, -4);
-\draw (6, -3) -- (6, -4);
-\draw [blue] (6, -4) node[anchor=north] {$P$};
-\draw (4.5, -3) arc[start angle=360, end angle=333, radius=0.5];
-\draw [black!60!green] (4.5, -3.2) node[anchor=west] {$-\theta$};
-
+  \draw (7, 0) -- (10.464, 0);
+  \draw (10.464, 0) -- (10.464, 2);
+  \draw (7, 0) -- (10.464, 2);
+  \draw (7, 0) -- (5, 0);
+  \draw (5, 0) -- (5, 3.464);
+  \draw (7, 0) -- (5, 3.464);
+  \draw (10.464, 2) -- (5, 3.464);
+  \draw (10.464, 2) -- (5, 2);
+  \draw (7.6, 0) arc[start angle=0, end angle=30, radius=0.6];
+  \draw (7.52, .3) arc[start angle=30, end angle=120, radius=0.6];
+  \draw [blue] (7, 0) node[anchor=north] {$O$};
+  \draw [blue] (5, 0) node[anchor=north] {$M$};
+  \draw [blue] (10.464, 0) node[anchor=north] {$Q$};
+  \draw [blue] (10.464, 2) node[anchor=west] {$N$};
+  \draw [blue] (5, 2) node[anchor=east] {$R$};
+  \draw [blue] (5, 3.464) node[anchor=south] {$P$};
+  \draw [black!60!green] (8, 0) node[anchor=south east] {$A$};
+  \draw [black!60!green] (7, .6) node[anchor=south] {$B$};
 \end{tikzpicture}
 \end{document}

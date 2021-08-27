@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-An Angle on Trigonometry
+An Angle in Trigonometry
 ========================
 
 .. toctree::
@@ -18,6 +18,7 @@ An Angle on Trigonometry
    trigonometrical-ratios-any-angle-sign
    trigonometrical-ratios-any-angle-sign-solutions
    compound-angles
+   compound-angles-solutions
 
 Indices and tables
 ==================
