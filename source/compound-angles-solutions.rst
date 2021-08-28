@@ -342,4 +342,50 @@ Compound Angles Solutions
 
     :math:`= \frac{\sin^2\alpha\cos^2\beta - \sin^2\beta\cos^2\alpha}{\cos^2\alpha\cos^2\beta - \sin^2\alpha\sin^2\beta}`
 
-    
+    :math:`= \frac{\sin^2\alpha(1 - \sin^2\beta) - \sin^2\beta(1 - \sin^2\alpha)}{\cos^2\alpha(1 - \sin^2\beta) - \sin^2\beta(1 - \cos^2\alpha)}`
+
+    :math:`= \frac{\sin^2\alpha - \sin^2\beta}{\cos^2\alpha - \sin^2\beta} =` R.H.S.
+
+40. L.H.S. :math:`= \tan^2\alpha -\tan^2\beta = \frac{\sin^2\alpha}{\cos^2\alpha} - \frac{\sin^2\beta}{\cos^2\beta}`
+
+    :math:`= \frac{\sin^2\alpha\cos^2\beta - \sin^2\beta\cos^2\alpha}{\cos^2\alpha\cos^2\beta}`
+
+    :math:`= \frac{(\sin\alpha\cos\beta + \sin\beta\sin\alpha)(\sin\alpha\cos\beta - \sin\beta\sin\alpha)}{\cos^2\alpha\cos^2\beta}`
+
+    :math:`= \frac{\sin(\alpha + \beta)\sin(\alpha - \beta)}{\cos^2\alpha\cos^2\beta} =` R.H.S.
+
+41. L.H.S. :math:`= \tan[(2n + 1)\pi + \theta] + \tan[(2n + 1)\pi - \theta]`
+
+    :math:`= \tan(\pi + \theta) + \tan(\pi - \theta)~[\because \tan 2n\pi = 0]`
+
+    :math:`= \tan\theta - \tan\theta = 0 =` R.H.S.
+
+42. L.H.S. :math:`= \tan\left(\frac{\pi}{4} + \theta\right)\tan\left(\frac{3\pi}{4} + \theta\right) + 1`
+
+    :math:`= \tan\left(\frac{\pi}{4} + \theta\right)\tan\left[\pi - \left(\frac{\pi}{4} - \theta\right)\right] + 1`
+
+    :math:`= -\tan\left(\frac{\pi}{4} + \theta\right)\tan\left(\frac{\pi}{4} - \theta\right) + 1`
+
+    :math:`= -\tan\left(\frac{\pi}{4} + \theta\right)\tan\left[\left(\frac{\pi}{2} - \frac{pi}{4} - \theta\right)\right] + 1`
+
+    :math:`= -\tan\left(\frac{\pi}{4} + \theta\right)\cot\left(\frac{\pi}{4} + \theta\right) + 1 = -1 + 1 = 0 =` R.H.S.
+
+43. R.H.S. :math:`= \frac{1 - pq}{\sqrt{(1 + p^2)(1 + q^2)}}`
+
+    Substituting for :math:`p` and :math:`q,` we get
+
+    :math:`= \frac{1 - \tan\alpha\tan\beta}{\sqrt{(1 + \tan^2\alpha)(1 + \tan^2\beta)}}`
+
+    :math:`= \frac{\frac{\cos\alpha\cos\beta - \sin\alpha\sin\beta}{\cos\alpha\cos\beta}}{\sqrt{\sec\alpha\sec\beta}}`
+
+    :math:`= \cos(\alpha + \beta) =` R.H.S.
+
+44. Given, :math:`\tan \beta = \frac{2\sin\alpha\sin\gamma}{\sin(\alpha + \gamma)}`
+
+    Inverting, we get
+
+    :math:`2\cot\beta = \frac{\sin(\alpha + \gamma)}{\sin\alpha\sin\gamma} = \frac{\sin\alpha\cos\gamma + \sin\gamma\cos\alpha}{\sin\alpha\sin\gamma}`
+
+    :math:`= \cot \alpha + \cot \gamma`
+
+    Thus, :math:`\cot\alpha, \cot\beta, \cot\gamma` are in A.P.

@@ -238,7 +238,7 @@ Prove the following:
 
 39. :math:`\tan(\alpha + \beta)\tan(\alpha - \beta) = \frac{\sin^2\alpha - \sin^2\beta}{\cos^2\alpha - \sin^2\beta}`
 
-40. :math:`\tan^2\alpha -\tan^\beta = \frac{\sin(\alpha + \beta)\sin(\alpha - \beta)}{\cos^2\alpha\cos^2\beta}`
+40. :math:`\tan^2\alpha -\tan^2\beta = \frac{\sin(\alpha + \beta)\sin(\alpha - \beta)}{\cos^2\alpha\cos^2\beta}`
 
 41. :math:`\tan[(2n + 1)\pi + \theta] + \tan[(2n + 1)\pi - \theta] = 0`
 
