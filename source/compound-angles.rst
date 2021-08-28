@@ -221,7 +221,7 @@ Prove the following:
 
 31. :math:`\cos 9^\circ + \sin 9^\circ = \sqrt{2}\sin 54^\circ`
 
-32. :math:`\frac{\cos 20^\circ - \sin 20^\circ}{\cos 20^\circ + \sin 20^\circ} = \tan 26^\circ`
+32. :math:`\frac{\cos 20^\circ - \sin 20^\circ}{\cos 20^\circ + \sin 20^\circ} = \tan 25^\circ`
 
 33. :math:`\frac{\tan A + \tan B}{\tan A - \tan B} = \frac{\sin(A + B)}{\sin(A - B)}`
 
