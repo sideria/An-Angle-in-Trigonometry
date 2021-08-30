@@ -19,6 +19,7 @@ An Angle in Trigonometry
    trigonometrical-ratios-any-angle-sign-solutions
    compound-angles
    compound-angles-solutions
+   transformation-formulae
 
 Indices and tables
 ==================

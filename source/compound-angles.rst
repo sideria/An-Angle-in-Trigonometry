@@ -242,65 +242,65 @@ Prove the following:
 
 41. :math:`\tan[(2n + 1)\pi + \theta] + \tan[(2n + 1)\pi - \theta] = 0`
 
-41. :math:`\tan\left(\frac{\pi}{4} + \theta\right)\tan\left(\frac{3\pi}{4} + \theta\right) + 1 = 0`
+42. :math:`\tan\left(\frac{\pi}{4} + \theta\right)\tan\left(\frac{3\pi}{4} + \theta\right) + 1 = 0`
 
-42. If :math:`\tan\alpha = p` and :math:`\tan\beta = q` prove that :math:`\cos(\alpha + \beta) = \frac{1 - pq}{\sqrt{(1 + p^2)(1 +
+43. If :math:`\tan\alpha = p` and :math:`\tan\beta = q` prove that :math:`\cos(\alpha + \beta) = \frac{1 - pq}{\sqrt{(1 + p^2)(1 +
     q^2)}}`
 
-43. if :math:`\tan \beta = \frac{2\sin\alpha\sin\gamma}{\sin(\alpha + \gamma)},` show that :math:`\cot\alpha, \cot\beta,
+44. if :math:`\tan \beta = \frac{2\sin\alpha\sin\gamma}{\sin(\alpha + \gamma)},` show that :math:`\cot\alpha, \cot\beta,
     \cot\gamma` are in A.P.
 
-44. Eliminate :math:`\theta` if :math:`\tan(\theta - \alpha) = a` and :math:`\tan(\theta + \alpha) = b`
+45. Eliminate :math:`\theta` if :math:`\tan(\theta - \alpha) = a` and :math:`\tan(\theta + \alpha) = b`
 
-45. Eliminate :math:`\alpha` and :math:`\beta` if :math:`\tan\alpha + \tan\beta = b, \cot\alpha + \cot\beta = a` and
+46. Eliminate :math:`\alpha` and :math:`\beta` if :math:`\tan\alpha + \tan\beta = b, \cot\alpha + \cot\beta = a` and
     :math:`\alpha + \beta = \gamma`
 
-46. If :math:`A + B = 45^\circ,` show that :math:`(1 + \tan A)(1 + \tan B) = 2`
+47. If :math:`A + B = 45^\circ,` show that :math:`(1 + \tan A)(1 + \tan B) = 2`
 
-47. If :math:`\sin\alpha\sin\beta - \cos\alpha\cos\beta + 1 = 0,` prove that :math:`1 + \cot\alpha\tan\beta = 0`
+48. If :math:`\sin\alpha\sin\beta - \cos\alpha\cos\beta + 1 = 0,` prove that :math:`1 + \cot\alpha\tan\beta = 0`
 
-48. If :math:`\tan\beta = \frac{n\sin\alpha\cos\alpha}{1 - n\sin^2\alpha},` prove that :math:`\tan(\alpha - \beta) = (1 - n)\alpha`
+49. If :math:`\tan\beta = \frac{n\sin\alpha\cos\alpha}{1 - n\sin^2\alpha},` prove that :math:`\tan(\alpha - \beta) = (1 - n)\alpha`
 
-49. If :math:`\cos(\beta - \gamma) + \cos(\gamma - \alpha) + \cos(\alpha - \beta) = -\frac{3}{2},` prove that :math:`\cos\alpha +
+50. If :math:`\cos(\beta - \gamma) + \cos(\gamma - \alpha) + \cos(\alpha - \beta) = -\frac{3}{2},` prove that :math:`\cos\alpha +
     \cos\beta + \cos\gamma = \sin\alpha + \sin\beta + \sin\gamma = 0`
 
-50. If :math:`\tan\alpha = \frac{m}{m + 1}, \tan\beta = \frac{1}{2m + 1},` prove that :math:`\alpha + \beta = \frac{\pi}{4}`
+51. If :math:`\tan\alpha = \frac{m}{m + 1}, \tan\beta = \frac{1}{2m + 1},` prove that :math:`\alpha + \beta = \frac{\pi}{4}`
 
-51. If :math:`A + B = 45^\circ,` show that :math:`(\cot A - 1)(\cot B - 1) = 2`
+52. If :math:`A + B = 45^\circ,` show that :math:`(\cot A - 1)(\cot B - 1) = 2`
 
-52. If :math:`\tan\alpha - \tan\beta = x` and :math:`\cot\beta - \cot\alpha = y,` prove that :math:`\cot(\alpha - \beta) =
+53. If :math:`\tan\alpha - \tan\beta = x` and :math:`\cot\beta - \cot\alpha = y,` prove that :math:`\cot(\alpha - \beta) =
     \frac{x + y}{xy}`
 
-53. If a right angle be divided into three pats :math:`\alpha, \beta` and :math:`\gamma,` prove that :math:`\cot\alpha =
+54. If a right angle be divided into three pats :math:`\alpha, \beta` and :math:`\gamma,` prove that :math:`\cot\alpha =
     \frac{\tan\beta + \tan\gamma}{1 - \tan\beta\tan\gamma}`
 
-54. If :math:`2\tan\beta + \cot \beta = \tan\alpha,` show that :math:`\cot \beta = 2\tan(\alpha - \beta)`
+55. If :math:`2\tan\beta + \cot \beta = \tan\alpha,` show that :math:`\cot \beta = 2\tan(\alpha - \beta)`
 
-55. If in any :math:`\triangle ABC, C = 90^\circ,` prove that :math:`\cosec(A - B) = \frac{a^2 + b^2}{a^2 - b^2}` and :math:`\sec(A
+56. If in any :math:`\triangle ABC, C = 90^\circ,` prove that :math:`\cosec(A - B) = \frac{a^2 + b^2}{a^2 - b^2}` and :math:`\sec(A
     - B) = \frac{c^2}{2ab}`
 
-56. If :math:`\cot A = \sqrt{ac}, \cot B = \sqrt{\frac{c}{a}}, \tan C = \sqrt{\frac{c}{a^3}}` and :math:`c = a^2 + a + 1,` prove
+57. If :math:`\cot A = \sqrt{ac}, \cot B = \sqrt{\frac{c}{a}}, \tan C = \sqrt{\frac{c}{a^3}}` and :math:`c = a^2 + a + 1,` prove
     that :math:`A = B + C`
 
-57. If :math:`\frac{\tan(A - B)}{\tan A} + \frac{\sin^2C}{\sin^2A} = 1,` prove that :math:`\tan A\tan B = \tan^2 C`
+58. If :math:`\frac{\tan(A - B)}{\tan A} + \frac{\sin^2C}{\sin^2A} = 1,` prove that :math:`\tan A\tan B = \tan^2 C`
 
-58. If :math:`\sin\alpha\sin\beta - \cos\alpha\cos\beta = 1` show that :math:`\tan\alpha + \tan\beta = 0`
+59. If :math:`\sin\alpha\sin\beta - \cos\alpha\cos\beta = 1` show that :math:`\tan\alpha + \tan\beta = 0`
 
-59. If :math:`\sin\theta = 3\sin(\theta + 2\alpha),` prove that :math:`\tan(\theta + \alpha),` prove that :math:`\tan(\theta +
+60. If :math:`\sin\theta = 3\sin(\theta + 2\alpha),` prove that :math:`\tan(\theta + \alpha),` prove that :math:`\tan(\theta +
     \alpha) + 2\tan\alpha = 0`
 
-60. If :math:`3\tan\theta\tan\phi = 1,` prove that :math:`2\cos(\theta + \phi) = \cos(\theta - \alpha)`
+61. If :math:`3\tan\theta\tan\phi = 1,` prove that :math:`2\cos(\theta + \phi) = \cos(\theta - \alpha)`
 
-61. Find the sign of the expression :math:`\sin\theta + \cos\theta` when :math:`\theta = 100^\circ`
+62. Find the sign of the expression :math:`\sin\theta + \cos\theta` when :math:`\theta = 100^\circ`
 
-62. Prove that the value of :math:`5\cos\theta + 3\cos\left(\theta + \frac{\pi}{3}\right) + 3` lies between :math:`-4` and
+63. Prove that the value of :math:`5\cos\theta + 3\cos\left(\theta + \frac{\pi}{3}\right) + 3` lies between :math:`-4` and
     :math:`10`
 
-63. If :math:`m\tan(\theta - 30^\circ) = n\tan(\theta + 120^\circ),` show that :math:`\cos2\theta = \frac{m + n}{2(m - n)}`
+64. If :math:`m\tan(\theta - 30^\circ) = n\tan(\theta + 120^\circ),` show that :math:`\cos2\theta = \frac{m + n}{2(m - n)}`
 
-64. if :math:`\alpha + \beta = \theta` and :math:`\tan\alpha:\tan\beta = x:y,` prove that :math:`\sin(\alpha - \beta) = \frac{x -
+65. if :math:`\alpha + \beta = \theta` and :math:`\tan\alpha:\tan\beta = x:y,` prove that :math:`\sin(\alpha - \beta) = \frac{x -
     y}{x + y}\sin\theta`
 
-65. Find the maximum and minimum value of :math:`7\cos\theta + 24\sin\theta`
+66. Find the maximum and minimum value of :math:`7\cos\theta + 24\sin\theta`
 
-66. Show that :math:`\sin 100^\circ - \sin 10^\circ` is positive.
+67. Show that :math:`\sin 100^\circ - \sin 10^\circ` is positive.

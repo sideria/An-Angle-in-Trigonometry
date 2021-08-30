@@ -384,8 +384,271 @@ Compound Angles Solutions
 
     Inverting, we get
 
-    :math:`2\cot\beta = \frac{\sin(\alpha + \gamma)}{\sin\alpha\sin\gamma} = \frac{\sin\alpha\cos\gamma + \sin\gamma\cos\alpha}{\sin\alpha\sin\gamma}`
+    :math:`2\cot\beta = \frac{\sin(\alpha + \gamma)}{\sin\alpha\sin\gamma} = \frac{\sin\alpha\cos\gamma +
+    \sin\gamma\cos\alpha}{\sin\alpha\sin\gamma}`
 
     :math:`= \cot \alpha + \cot \gamma`
 
     Thus, :math:`\cot\alpha, \cot\beta, \cot\gamma` are in A.P.
+
+45. :math:`\tan(\theta + \alpha - (\theta - \alpha)) = \tan2\alpha = \frac{\tan(\theta + \alpha) - \tan(\theta - \alpha)}{1 +
+    \tan(\theta + \alpha)\tan(\theta - \alpha)}`
+
+    :math:`= \frac{b - a}{1 + ab}`
+
+46. :math:`\tan\gamma = \tan(\alpha + \beta) = \frac{\tan\alpha + \tan\beta}{1 - \tan\alpha\tan\beta}`
+
+    :math:`a - b = \cot\alpha + \cot\beta - \tan\alpha - \tan\beta`
+
+    :math:`= \frac{\sin(\alpha + \beta)}{\sin\alpha\sin\beta} - \frac{\sin(\alpha + \beta)}{\cos\alpha\beta}`
+
+    :math:`= \sin(\alpha + \beta)\left(\frac{\cos\alpha\cos\beta -
+    \sin\alpha\sin\beta}{\sin\alpha\sin\beta\cos\alpha\cos\beta}\right)`
+
+    :math:`= \frac{\sin(\alpha + \beta)\cos(\alpha + \beta)}{\sin\alpha\sin\beta\cos\alpha\cos\beta}`
+
+    :math:`ab = (\tan\alpha + \tan\beta)(\cot\alpha + \cot\beta)`
+
+    :math:`= \frac{\sin^2(\alpha + \beta)}{\sin\alpha\sin\beta\cos\alpha\cos\beta}`
+
+    :math:`\frac{ab}{a - b} = \tan(\alpha + \beta) = \tan\gamma`
+
+47. Given, :math:`A + B = 45^\circ \therefore \tan(A + B) = 1`
+
+    :math:`\frac{\tan A + \tan B}{1 - \tan A\tan B} = 1`
+
+    :math:`1 + \tan A + \tan B + \tan A \tan B = 2`
+
+    :math:`(1 + \tan A)(1 + \tan B) = 2`
+
+48. Given, :math:`\sin\alpha\sin\beta - \cos\alpha\cos\beta + 1 = 0`
+
+    :math:`\Rightarrow \cos\alpha\cos\beta - \sin\alpha\sin\beta = 1`
+
+    :math:`\Rightarrow \cos(\alpha + \beta) = 1`
+
+    :math:`\Rightarrow  \sin(\alpha + \beta) = 0`
+
+    :math:`1 + \cot\alpha\tan\beta = 1 + \frac{\cos\alpha\sin\beta}{\sin\alpha\cos\beta}`
+
+    :math:`= \frac{\sin\alpha\cos\beta + \cos\alpha\sin\beta}{\sin\alpha\cos\beta}`
+
+    :math:`= \frac{\sin(\alpha + \beta)}{\sin\alpha\cos\beta} = \frac{0}{\sin\alpha\cos\beta} = 0`
+
+49. :math:`\tan\beta = \frac{n\sin\alpha\cos\alpha}{1 - n\sin^2\alpha} =
+    \frac{\frac{n\sin\alpha\cos\alpha}{\cos^2\alpha}}{\frac{1}{\cos^2\alpha} - n\frac{\sin^2\alpha}{\cos^2\alpha}}`
+
+    :math:`= \frac{n\tan\alpha}{\sec^2\alpha - n\tan^2\alpha} = \frac{n\tan\alpha}{1 + (1 - n)\tan^2\alpha}`
+
+    Now, :math:`\tan(\alpha - \beta) = \frac{\tan\alpha - \frac{n\tan\alpha}{1 + (1 - n)\tan^2\alpha}}{1 -
+    \tan\alpha\frac{n\tan\alpha}{1 + (1 - n)\tan^2\alpha}}`
+
+    :math:`= \frac{\tan\alpha + (1 - n)\tan^3\alpha - n\tan\alpha}{1 + (1 - n)\tan^2\alpha + n\tan^2\alpha}`
+
+    :math:`= \frac{(1 - n)\tan\alpha + (1 - n)tan^3\alpha}{1 + \tan^2\alpha}`
+
+    :math:`= \frac{(1 - n)\tan\alpha(1 + \tan^2\alpha)}{ 1 + \tan^2\alpha} = (1 - n)\tan\alpha`
+
+50. Given, :math:`\cos(\beta - \gamma) + \cos(\gamma - \alpha) + \cos(\alpha - \beta) = -\frac{3}{2}`
+
+    :math:`3 + 2\cos(\beta - \gamma) + 2\cos(\gamma - \alpha) + 2\cos(\alpha - \beta) = 0`
+
+    :math:`3 + 2(\cos\beta\cos\gamma + \sin\beta\sin\gamma) + 2(\cos\gamma\cos\alpha + \sin\gamma\sin\alpha) +
+    2(\cos\alpha\cos\beta + \sin\alpha\sin\beta) = 0`
+
+    :math:`(\cos^2\alpha + \sin^2\alpha) + (\cos^2\beta + \sin^2\beta) + (\cos^2\gamma + \sin^2\gamma) + 2(\cos\beta\cos\gamma +
+    \sin\beta\sin\gamma) + 2(\cos\gamma\cos\alpha + \sin\gamma\sin\alpha) + 2(\cos\alpha\cos\beta + \sin\alpha\sin\beta) = 0`
+
+    :math:`(\cos\alpha + \cos\beta + \cos\gamma)^2 + (\sin\alpha + \sin\beta + \sin\gamma^2) = 0`
+
+    :math:`\cos\alpha + \cos\beta + \cos\gamma = \sin\alpha + \sin\beta + \sin\gamma = 0`
+
+51. :math:`\tan(\alpha + \beta) = \frac{\tan\alpha + \tan\beta}{1 - \tan\alpha\tan\beta}`
+
+    :math:`= \frac{\frac{m}{m + 1} + \frac{1}{2m + 1}}{1 - \frac{m}{m + 1}\frac{1}{2m + 1}}`
+
+    :math:`= \frac{2m^2 + m + m + 1}{2m^2 + 3m + 1 - n} = 1`
+
+    Thus, :math:`\alpha + beta = \frac{\pi}{4}`
+
+52. Given :math:`(\cot A - 1)(\cot B - 1) = 2`
+
+    :math:`\cot A\cot B - 1 - \cot A - \cot B = 0`
+
+    :math:`\cot A\cot B - 1 = \cot A + \cot B \Rightarrow \frac{\cot A\cot B - 1}{\cot A + \cot B} = 1`
+
+    :math:`\cot(A + B) = \cot 45^\circ`
+
+    Thus, :math:`A + B = 45^\circ`
+
+    which we have proved in reverse.
+
+53. Given, :math:`\tan\alpha - \tan\beta = x` and :math:`\cot\beta - \cot\alpha = y,` we have to prove that :math:`\cot(\alpha -
+    \beta) = \frac{x + y}{xy}`
+
+    Let :math:`\cot(\alpha - \beta) = \frac{x + y}{xy} = \frac{\tan\alpha - \tan\beta + \cot\beta - \cot\alpha}{(\tan\alpha -
+    \tan\beta)(\cot\beta - \cot\alpha)}`
+
+    :math:`\tan(\alpha - \beta) = \frac{(\tan\alpha - \tan\beta)(\cot\beta - \cot\alpha)}{\tan\alpha - \tan\beta + \cot\beta -
+    \cot\alpha}`
+
+    :math:`= \frac{\tan\alpha - \tan\beta}{1 + \frac{\tan\alpha - \tan\beta}{\cot\beta - \cot \alpha}}`
+
+    :math:`= \frac{\tan\alpha - \tan\beta}{ 1 + \frac{\frac{\sin(\alpha - \beta)}{\cos\alpha\cos\beta}}{\frac{\sin(\alpha -
+    \beta)}{\cos\alpha\cos\beta}}}`
+
+    :math:`= \frac{\tan\alpha - \tan\beta}{1 + \tan\alpha\tan\beta} = \tan(\alpha - \beta)`
+
+    Hence proved.
+
+54. Given :math:`\alpha + \beta + \gamma = 90^\circ = \frac{\pi}{2}`
+
+    :math:`\cot \alpha = \cot\left(\frac{\pi}{2} - (\beta + \gamma)\right) = \tan(\beta + \gamma)`
+
+    :math:`= \frac{\tan\beta + \tan\gamma}{1 - \tan\beta\tan\gamma}`
+
+55. We have to prove that :math:`\cot \beta = 2\tan(\alpha - \beta)`
+
+    :math:`\frac{1}{\tan\beta} = 2\frac{\tan\alpha - \tan\beta}{1 + \tan\alpha\tan\beta}`
+
+    :math:`1 + \tan\alpha\tan\beta = 2\tan\alpha\tan\beta - 2\tan^2\beta`
+
+    Dividing both sides by :math:`\tan\beta,` we get
+
+    :math:`\cot \beta + \tan\alpha = 2\tan\alpha - 2\tan\beta`
+
+    :math:`\cot\beta + 2\tan\beta = =\tan\alpha`
+
+    Hence proved.
+
+56. :math:`\sin A = \frac{a}{c}, \sin B = \frac{b}{c}, \cos A = \frac{b}{c}, \cos B = \frac{a}{c}`
+
+    :math:`\cosec(A - B) = \frac{1}{\sin(A - B)} = \frac{1}{\sin A\cos B - \cos A\sin B} = \frac{1}{\frac{a^2}{c^2} -
+    \frac{b^2}{c^2}}`
+
+    :math:`= \frac{c^2}{a^2 - b^2} = \frac{a^2 + b^2}{a^2 - b^2}`
+
+    :math:`\sec(A - B) = \frac{1}{\cos(A - B)} = \frac{1}{\cos A\cos B + \sin A\sin B} = \frac{c^2}{2ab}`
+
+57. We have to prove that :math:`A + B = C` i.e. :math:`\tan(A + B) = \tan C`
+
+    :math:`\frac{\tan A + \tan B}{1 - \tan A\tan B} = \tan C`
+
+    :math:`\frac{\frac{1}{\sqrt{ac}} + \sqrt{\frac{a}{c}}}{1 - \frac{1}{\sqrt{ac}}\sqrt{\frac{a}{c}}} = \sqrt{\frac{c}{a^3}}`
+
+    :math:`= \frac{\frac{1}{\sqrt{ac}} + \sqrt{\frac{a}{c}}}{1 - \frac{1}{c}}`
+
+    :math:`\frac{1 + a}{\sqrt{ac}}.\frac{c}{c - 1} = \sqrt{\frac{c}{a^3}}`
+
+    :math:`\frac{ac + c}{c - 1} = \frac{c}{a}`
+
+    :math:`a^2c + ac = c^2 - c`
+
+    :math:`a^2 + a + 1 = c` which is given, hence proved.
+
+58. Given :math:`\frac{\tan(A - B)}{\tan A} + \frac{\sin^2C}{\sin^2A} = 1`
+
+    :math:`\frac{\sin^2C}{\sin^2A} = 1 - \frac{\tan(A - B)}{\tan A}`
+
+    :math:`= 1 - \frac{\sin(A - B)\cos A}{\sin A\cos(A - B)} = \frac{\sin (A - A + B)}{\sin A\cos(A - B)}`
+
+    :math:`\sin^2C = \frac{\sin A\sin B}{\cos(A - B)}`
+
+    :math:`\cosec^2C = \frac{\cos(A - B)}{\sin A\sin B} = 1 + \cot A\cot B = \cot^2C`
+
+    :math:`\Rightarrow \tan A\tan B= \tan^2 C`
+
+59. Given, :math:`\sin\alpha\sin\beta - \cos\alpha\cos\beta = 1`
+
+    :math:`\cos(\alpha + \beta) = -1 \Rightarrow \alpha + \beta = (2n + 1)\pi`
+
+    :math:`\tan(\alpha + \beta) = 0 \Rightarrow \tan \alpha + \tan \beta = 0`
+
+60. Given, :math:`\sin\theta = 3\sin(\theta + 2\alpha)`
+
+    :math:`\sin(\theta + \alpha - \alpha) = 3\sin(\theta + \alpha + \alpha)`
+
+    :math:`\sin(\theta + \alpha)\cos\alpha - \sin\alpha\cos(\theta + \alpha) = 3\sin(\theta + \alpha)\cos\alpha + 3\cos(\theta +
+    \alpha)\sin\alpha`
+
+    :math:`2\sin(\theta + \alpha)\cos\alpha + 4\sin\alpha\cos(\theta + \alpha) = 0`
+
+    Dividingboth sides with :math:`2\cos(\theta + \alpha)\cos\alpha,` we get
+
+    :math:`\tan(\theta + \alpha) + 2\tan\alpha = 0`
+
+61. Given, :math:`3\tan\theta\tan\phi = 1 \Rightarrow \cot\tehta\cot\phi = 3`
+
+    :math:`\frac{\cos\theta\cos\phi}{\sin\theta\sin\phi} = 3`
+
+    Applying componendo and dividendo
+
+    :math:`\frac{\cos\theta\cos\phi + \sin\theta\sin\phi}{\cos\theta\cos\phi - \sin\theta\sin\phi} = \frac{3 + 1}{3 - 1}`
+
+    :math:`\cos(\theta - \phi) = 2\cos(\theta + \phi)`
+
+62. Let :math:`z = \cos\theta + \sin\theta = \sqrt{2}\left(\frac{1}{\sqrt{2}}\cos\theta + \frac{1}{\sqrt{2}}\sin\theta\right)`
+
+    :math:`= \sqrt{2}\cos\left(\theta - \frac{\pi}{4}\right)`
+
+    :math:`= \sqrt{2}\cos 55^\circ` which has positive sign.
+
+63. Let :math:`z = 5\cos\theta + 3\cos\left(\theta + \frac{\pi}{3}\right) + 3`
+
+    :math:`z = 5\cos\thete + \frac{3}{2}\cos\theta - \frac{3\sqrt{3}}{2}\sin\theta + 3`
+
+    :math:`= \frac{13}{2}\cos\theta - \frac{3\sqrt{3}}{2}\sin\theta + 3`
+
+    :math:`= 7\left(\frac{13}{14}\cos\theta - \frac{3\sqrt{3}}{14}\sin\theta\right) + 3`
+
+    Let :math:`\cos\alpha = \frac{13}{14}` then :math:`\sin\alpha = \frac{3\sqrt{3}}{14}`
+
+    :math:`y = 7(\cos\alpha\cos\theta - \sin\alpha\sin\thete) + 3`
+
+    :math:`y = 7\cos(\theta + \alpha) + 3`
+
+    Now maximum and minimum values of :math:`\cos(\theta + \alpha)` are :math:`1` and :math:`-1.` Thus, value of :math:`y` will lie
+    between :math:`4` and :math:`10.`
+
+64. Given, :math:`m\tan(\theta - 30^\circ) = n\tan(\theta + 120^\circ)`
+
+    :math:`\frac{\tan(\theta - 30^\circ)}{\tan(\theta + 120^\circ)} = \frac{n}{m}`
+
+    :math:`\frac{\sin(\theta - 30^\circ)\cos(\theta) + 120^\circ}{\cos(\theta - 30^\circ)\sin(\theta) + 120^\circ} = \frac{n}{m}`
+
+    Applying componendo and dividendo
+
+    :math:`\frac{\sin[(\theta + 120^\circ) + (\theta - 30^\circ)]}{\sin[(\theta + 120^\circ) - (\theta - 30^\circ)} = \frac{m +
+    n}{m - n}`
+
+    :math:`\frac{\sin(2\theta + 90^\circ)}{\sin150^\circ} = \frac{m + n}{m - n}`
+
+    :math:`\cos2\theta = \frac{m + n}{2(m - n)}`
+
+65. Given, :math:`\frac{\tan\alpha}{\tan\beta} = \frac{x}{y}`
+
+    Applying componendo and dividendo
+
+    :math:`\frac{\tan\alpha + \tan\beta}{\tan\alpha - \tan\beta} = \frac{x + y}{x - y}`
+
+    :math:`\frac{\sin(\alpha + \beta)}{\sin(\alpha - \beta)} = \frac{x + y}{x - y}`
+
+    :math:`\sin(\alpha - \beta) = \frac{x - y}{x + y}\sin\theta`
+
+66. We have to find the maximum and minimul values of :math:`7\cos\theta + 24\sin\theta = y` (let)
+
+    :math:`= 25\left(\frac{7}{25}\cos\theta + \frac{24}{25}\sin\theta\right)`
+
+    If :math:`\cos\alpha = \frac{7}{25}` then :math:`\sin\alpha = \frac{24}{75}`
+
+    :math:`y = 25\cos(\theta - \alpha)`
+
+    Thus, maximum and minimum values of :math:`y` are :math:`25` and :math:`-25.`
+
+67. Given expression is :math:`\sin100^\circ - \sin10^\circ = \cos10^\circ - \sin10^\circ = y` (let)
+
+    :math:`y = \sqrt{2}\left(\frac{1}{\sqrt{2}}\cos^10 - \frac{1}{\sqrt{2}\sin10^\circ}\right)`
+
+    :math:`= \sqrt{2}\cos(45^\circ + 10^\circ)`
+
+    Thus, the sign is positive.
