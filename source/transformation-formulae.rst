@@ -70,4 +70,125 @@ Prove that
 
 13. :math:`\frac{\cos 3A - \cos A}{\sin 3A - \sin A} + \frac{\cos 2A - \cos 4A}{\sin 4A - \sin 2A} = \frac{\sin A}{\cos 2A\cos 3A}`
 
-14. 
+14. :math:`\frac{\sin (4A - 2B) + \sin (4B - 2A)}{\cos (4A - 2B) + \cos (4B - 2A)} = \tan(A + B)`
+
+15. :math:`\frac{\tan 5\theta + \tan 3\theta}{\tan 5\theta - \tan 3\theta} = 4\cos 2\theta\cos 4\theta`
+
+16. :math:`\frac{\cos 3\theta + 2\cos5\theta + \cos 7\theta}{\cos\theta + 2\cos3\theta + \cos 5\theta} = \cos 2\theta - \sin
+    2\theta\tan 3\theta`
+
+17. :math:`\frac{\sin A + \sin 3A + \sin 5A + \sin 7A}{\cos A + \cos 3A + \cos 5A + \cos 7A} = \tan 4A`
+
+18. :math:`\frac{\sin (\theta + \phi) - 2\sin\theta + \sin (\theta - \phi)}{\cos (\theta + \phi) - 2\cos \theta + \cos(\theta -
+    \phi)} = \tan\theta`
+
+19. :math:`\frac{\sin A + 2\sin 3A + \sin 5A}{\sin 3A + 2\sin 5A + \sin 7A} = \frac{\sin 3A}{\sin 5A}`
+
+20. :math:`\frac{\sin(A - C) + 2\sin A + \sin(A + C)}{\sin (B - C) + 2\sin B + \sin(B + C)} = \frac{\sin A}{\sin B}`
+
+21. :math:`\frac{\sin A - \sin 5A + \sin 9A - \sin 13A}{\cos A - \cos 5A - \cos 9A + \cos 13 A} = \cot 4A`
+
+22. :math:`\frac{\sin A + \sin B}{\sin A - \sin B} = \tan \frac{A + B}{2}\cot \frac{A - B}{2}`
+
+23. :math:`\frac{\cos A + \cos B}{\cos B - \cos A} = \cot \frac{A + B}{2}\cot \frac{A - B}{2}`
+
+24. :math:`\frac{\sin A + \sin B}{\cos A + \cos B} = \tan \frac{A + B}{2}`
+
+25. :math:`\frac{\sin A - \sin B}{\cos B - \cos A} = \cot \frac{A + B}{2}`
+
+26. :math:`\frac{\cos(A + B + C) + \cos(-A + B + c) + \cos(A - B + C) + \cos(A + B - C)}{\sin(A + B + C)+\sin(-A + B + C) -
+    \sin(A - B + C) + \sin(A + B - C)} = \cot B`
+
+27. :math:`\cos 3A + \cos 5A + \cos 7A + \cos 15A = 4 \cos 4A\cos 5A + \cos 6A`
+
+28. :math:`\cos(-A + B + C) + \cos(A - B + C) + \cos(A + B - C) + \cos(A + B + C) = 4\cos A\cos B\cos C`
+
+29. :math:`\sin 50^\circ - \sin 70^\circ + \sin 10^\circ = 0`
+
+30. :math:`\sin 10^\circ + \sin 20^\circ + \sin 40^\circ + \sin 50^\circ = \sin 70^\circ + \sin 80^\circ`
+
+31. :math:`\sin\alpha + \sin 2\alpha + \sin 4\alpha + \sin 5\alpha = 4\cos \frac{\alpha}{2}\cos \frac{3\alpha}{2}\sin 3\alpha`
+
+Simplify:
+
+32. :math:`\cos\left[\theta + \left(n - \frac{3}{2}\right)\phi\right] - \cos\left[\theta + \left(n + \frac{3}{2}\right)\phi\right]`
+
+33. :math:`\sin\left[\theta + \left(n - \frac{3}{2}\right)\phi\right] + \sin\left[\theta + \left(n + \frac{3}{2}\right)\phi\right]`
+
+Express as a sum or difference the  following:
+
+34. :math:`2\sin5\theta\sin7\theta`
+
+35. :math:`2\cos7\theta\sin5\theta`
+
+36. :math:`2\cos 11\theta\cos 3\theta`
+
+37. :math:`2\sin54^\circ\sin66^\circ`
+
+Prove that
+
+38. :math:`\sin\frac{\theta}{2}\sin\frac{7\theta}{2} + \sin \frac{3\theta}{2}\sin\frac{11\theta}{2} =\sin 2\theta\sin 5\theta`
+
+39. :math:`\cos 2\theta\cos \frac{\theta}{2} -\cos3\theta\cos\frac{9\theta}{2} = \sin5\theta\sin\frac{5\theta}{2}`
+
+40. :math:`\sin A\sin(A + 2B) - \sin B\sin(B + 2A) = \sin(A - B)\sin(A + B)`
+
+41. :math:`(\sin 3A + \sin A)\sin A + (\cos 3A - \cos A)\cos A = 0`
+
+42. :math:`\frac{2\sin(A - C)\cos C - \sin(A - 2C)}{2\sin(B - C)\cos C - \sin(B - 2C)} = \frac{\sin A}{\sin B}`
+
+43. :math:`\frac{\sin A\sin 2A + \sin 3A\sin 6A + \sin4A\sin 13A}{\sin A\cos2A + \sin 3A\cos 6A + \sin 4A\cos 13A} = \tan 9A`
+
+44. :math:`\frac{\cos 2A\cos 3A - \cos 2A\cos 7A + \cos A\cos 10A}{\sin 4A\sin 3A - \sin 2A\sin 5A + \sin 4A\sin 7A} =\cot 6A\cot 5A`
+
+45. :math:`\cos(36^\circ - A)\cos(36^\circ - A) + \cos(54^\circ + A)\cos(54^\circ - A) = \cos 2A`
+
+46. :math:`\cos A\sin(B - C) + \cos B\sin(C - A) + \cos C\sin(A - B) = 0`
+
+47. :math:`\sin(45^\circ + A)\sin(45^\circ - A) = \frac{1}{2}\cos 2A`
+
+48. :math:`\sin(\beta - \gamma)\cos(\alpha - \delta) + \sin(\gamma - \alpha)\cos(\beta - \delta) + \sin(\alpha -
+    \beta)\cos(\gamma - \delta) = 0`
+
+49. :math:`2\cos\frac{\pi}{13}\cos \frac{9\pi}{13} + \cos \frac{3\pi}{13} + \cos \frac{5\pi}{13} = 0`
+
+50. :math:`\cos 55^\circ + \cos65^\circ\cos 175^\circ = 0`
+
+51. :math:`\cos 18^\circ -\sin 18^\circ = \sqrt{2}\sin 27^\circ`
+
+52. :math:`\frac{\sin A + \sin 2A + \sin 4A + \sin 5A}{\cos A + \cos 2A + \cos 4A + \cos 5A} = \tan 3A`
+
+53. :math:`\left(\frac{\cos A + \cos B}{\sin A - \sin A}\right)^n + \left(\frac{\sin A + \sin B}{\cos A - \cos B}\right)^n =
+    2\cot^n \frac{A - B}{2}` or :math:`0` accordingh as :math:`n` is even or odd.
+
+54. If :math:`\alpha, \beta, \gamma` are in A.P., show that :math:`\cos\beta = \frac{\sin\alpha - \sin\gamma}{\cos\gamma - \cos\alpha}`
+
+55. If :math:`\sin\theta + \sin\phi = \sqrt{3}(\cos\phi - \cos\theta)` prove that :math:`\sin3\theta + \sin3\phi = 0`
+
+56. :math:`\sin 65^\circ + cos 65^\circ = \sqrt{2}\cos 20^\circ`
+
+57. :math:`\sin 47^\circ + \cos 77^\circ = \cos 17^\circ`
+
+58. :math:`\frac{\cos 10^\circ - \sin 10^\circ}{\cos 10^\circ + \sin 10^\circ} = \tan 35\circ`
+
+59. :math:`\cos 80^\circ + \cos 40^\circ - cos 20^\circ = 0`
+
+60. :math:`\cos\frac{\pi}{5} + \cos \frac{2\pi}{5} + \cos\frac{6\pi}{5} + \cos \frac{7\pi}{5} = 0`
+
+61. :math:`\cos\alpha + \cos\beta + \cos\gamma + \cos(\alpha + \beta + \gamma) = 4\cos\frac{\alpha + \beta}{2}\cos\frac{\beta +
+    \gamma}{2}\cos \frac{\gamma + \alpha}{2}`
+
+62. If :math:`\sin\alpha - \sin\beta = \frac{1}{3}` and :math:`\cos\beta - \cos\alpha = \frac{1}{2},` prove that
+    :math:`\cot\frac{\alpha + \beta}{2} = \frac{2}{3}`
+
+63. If :math:`\cosec A + sec A = \cosec B + \sec B,` prove that :math:`\tan A\tan B = \cot \frac{\alpha + \beta}{2}`
+
+64. If :math:`\sec(\theta + \alpha) + \sec(\theta - \alpha) = 2\sec\theta,` show that :math:`\cos^2\theta = 1 + \cos\alpha`
+
+65. Show that :math:`\sin50^\circ\cos85^\circ = \frac{1 - \sqrt{2}\sin 35^\circ}{2\sqrt{2}}`
+
+66. Prove that :math:`\sin 26^\circ \sin 40^\circ\sin 80^\circ = \frac{\sqrt{3}}{8}`
+
+67. Prove that :math:`\sin A\sin(60^\circ - A)\sin(60^\circ + A) = \frac{1}{4}\sin 3A`
+
+68. If :math:`\alpha + \beta = 90^\circ,` find the maximum value of :math:`\sin\alpha\sin\beta`
