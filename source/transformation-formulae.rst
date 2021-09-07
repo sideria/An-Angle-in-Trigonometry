@@ -187,8 +187,47 @@ Prove that
 
 65. Show that :math:`\sin50^\circ\cos85^\circ = \frac{1 - \sqrt{2}\sin 35^\circ}{2\sqrt{2}}`
 
-66. Prove that :math:`\sin 26^\circ \sin 40^\circ\sin 80^\circ = \frac{\sqrt{3}}{8}`
+66. Prove that :math:`\sin 20^\circ \sin 40^\circ\sin 80^\circ = \frac{\sqrt{3}}{8}`
 
 67. Prove that :math:`\sin A\sin(60^\circ - A)\sin(60^\circ + A) = \frac{1}{4}\sin 3A`
 
 68. If :math:`\alpha + \beta = 90^\circ,` find the maximum value of :math:`\sin\alpha\sin\beta`
+
+69. Prove that :math:`\sin 25^\circ\cos 115^\circ = \frac{1}{2}(\sin 40^\circ - 1)`
+
+70. Prove that :math:`\sin 20^\circ \sin 40^\circ\sin 60^\circ \sin80^\circ = \frac{3}{16}`
+
+71. Prove that :math:`\cos 20^\circ\cos40^\circ\cos80^\circ = \frac{1}{8}`
+
+72. Prove that :math:`\tan20^\circ\tan40^\circ\tan60^\circ\tan80^\circ = 3`
+
+73. Prove that :math:`\cos10^\circ\cos30^\circ\cos50^\circ\cos70^\circ = \frac{3}{16}`
+
+74. Prove that :math:`4\cos\theta\cos\left(\frac{\pi}{3} + \theta\right)\cos\left(\frac{\pi}{3} - \theta\right) = \cos3\theta`
+
+75. Prove that :math:`\tan\theta\tan(60^\circ - \theta)\tan(60^\circ + \theta) = tan3\theta`
+
+76. If :math:`\alpha + \beta = 90^\circ,` show that the maximum value of :math:`\cos\alpha\cos\beta` is :math:`\frac{1}{2}`
+
+77. If :math:`\cos\alpha = \frac{1}{\sqrt{2}}, \sin\beta = \frac{1}{\sqrt{3}},` show that :math:`\tan\frac{\alpha +
+    \beta}{2}\cot\frac{\alpha - \beta}{2} = 5 + 2\sqrt{6}` or :math:`5- 2\sqrt{6 }`
+
+78. If :math:`x\cos\theta = y\cos\left(\theta + \frac{2\pi}{3}\right) = z\cos\left(\theta + \frac{4\pi}{3}\right),` prove that
+    :math:`xy + yz + xz = 0`
+
+79. If :math:`\sin\theta = n\sin(\theta + 2\alpha),` prove that :math:`\tan(\theta + \alpha) = \frac{1 + n}{1 - n}\tan\alpha`
+
+80. If :math:`\frac{\sin(\theta + \alpha)}{\cos(\theta - \alpha) = \frac{1 - m}{1 + m}},` prove that :math:`\tan\left(\frac{\pi}{4}
+    - \theta\right)\tan\left(\frac{\pi}{4} - \alpha\right) = m`
+
+81. If :math:`y\sin\phi = x\sin(2\theta + \phi),` show that :math:`(x + y)\cot(\theta + \phi) = (y - x)\cot\theta`
+
+82. If :math:`\cos(\alpha + \beta)\sin(\gamma + \delta) = \cos(\alpha - beta)\sin(\gamma - \delta),` prove that
+    :math:`\cot\alpha\cot\beta\cot\gamma = cot\delta`
+
+83. If :math:`\frac{\cos(A - B)}{\cos(A + B)} + \frac{\cos(C + D)}{\cos(C - D)} = 0,` prove that :math:`\tan A\tan B\tan C\tan D =
+    -1`
+
+84. If :math:`\tan(\theta + \phi) = 3\tan\theta,` prove that :math:`\sin(2\theta + \phi) = 2\sin\phi`
+
+85. If :math:`\tan(\theta + \phi) = 3\tan\theta,` prove that :math:`\sin2(\theta + \phi) + \sin2\theta = 2\sin2\phi`
