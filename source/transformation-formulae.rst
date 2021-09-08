@@ -43,7 +43,7 @@ Problems
 ========
 1. Find the value of :math:`\frac{\sin 75^\circ - \sin 15^\circ}{\cos 75^\circ + \cos 15^\circ}`
 
-2. Simplify the expression :math:`\frac{(\cos \theta - \cos 2\theta)(\sin 8\theta + \sin 2\theta)}{(\sin 5\theta - \sin\theta)(\cos
+2. Simplify the expression :math:`\frac{(\cos \theta - \cos 3\theta)(\sin 8\theta + \sin 2\theta)}{(\sin 5\theta - \sin\theta)(\cos
    4\theta - \cos 6\theta)}`
 
 Prove that
@@ -96,10 +96,10 @@ Prove that
 
 25. :math:`\frac{\sin A - \sin B}{\cos B - \cos A} = \cot \frac{A + B}{2}`
 
-26. :math:`\frac{\cos(A + B + C) + \cos(-A + B + c) + \cos(A - B + C) + \cos(A + B - C)}{\sin(A + B + C)+\sin(-A + B + C) -
+26. :math:`\frac{\cos(A + B + C) + \cos(-A + B + C) + \cos(A - B + C) + \cos(A + B - C)}{\sin(A + B + C)+\sin(-A + B + C) -
     \sin(A - B + C) + \sin(A + B - C)} = \cot B`
 
-27. :math:`\cos 3A + \cos 5A + \cos 7A + \cos 15A = 4 \cos 4A\cos 5A + \cos 6A`
+27. :math:`\cos 3A + \cos 5A + \cos 7A + \cos 15A = 4 \cos 4A\cos 5A \cos 6A`
 
 28. :math:`\cos(-A + B + C) + \cos(A - B + C) + \cos(A + B - C) + \cos(A + B + C) = 4\cos A\cos B\cos C`
 

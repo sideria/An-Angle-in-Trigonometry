@@ -6,3 +6,194 @@ Transformation Formulae Solutions
    \frac{75^\circ - 15^\circ}{2}}`
 
    :math:`= \frac{2\cos 45^\circ\sin30^\circ}{2\cos45^\circ\cos30^\circ} = \tan30^\circ = \frac{1}{\sqrt{3}}`
+
+2. Given, :math:`\frac{(\cos \theta - \cos 2\theta)(\sin 8\theta + \sin 2\theta)}{(\sin 5\theta - \sin\theta)(\cos
+   4\theta - \cos 6\theta)} = \frac{2\sin2\theta\sin\theta.2\sin5\theta\cos3\theta}{2\cos3\theta\sin2\theta.2\sin5\theta\sin\theta}`
+
+   :math:`= 1`
+
+3. We have to prove, :math:`\frac{\sin7\theta - \sin5\theta}{\cos7\theta + \cos5\theta} = \tan\theta`
+
+   L.H.S. :math:`= \frac{2\cos6\theta\sin\theta}{2\cos6\theta\cos\theta} = \tan\theta`
+
+4. We have to prove, :math:`\frac{\cos6\theta - \cos4\theta}{\sin6\theta + \sin4\theta} = -\tan\theta`
+
+   L.H.S. :math:`= \frac{2\sin5\theta\sin(-\theta)}{2\sin5\theta\cos\theta} = -\tan\theta`
+
+5. We have to prove, :math:`\frac{\sin A + \sin 3A}{\cos A + \cos 3A} = \tan 2A`
+
+   L.H.S. :math:`= \frac{2\sin2A\cos(-A)}{2\cos2A\cos(-A)} = \tan 2A`
+
+6. We have to prove, :math:`\frac{\sin 7A - \sin A}{\sin 8A - \sin 2A} = \cos 4A\sec 5A`
+
+   L.H.S. :math:`= \frac{2\cos4A\sin3A}{2\cos5A\sin3A} = \cos4A\sec5A`
+
+7. We have to prove, :math:`\frac{\cos 2B + \cos 2A}{\cos 2B - \cos 2A} = \cot(A + B)\cot(A - B)`
+
+   L.H.S. :math:`= \frac{2\cos(A + B)\cos(A - B)}{2\sin(A + B)\sin(A - B)} = \cot(A + B)\cot(A - B)`
+
+8. We have to prove, :math:`\frac{\sin 2A + \sin 2B}{\sin 2A - \sin 2B} = \frac{\tan(A + B)}{\tan(A - B)}`
+
+   L.H.S. :math:`= \frac{\2\sin(A + B)\cos(A - B)}{2\cos(A + B)\sin(A - B)}`
+
+   :math:`= \frac{\tan(A + B)}{\tan(A - B)}`
+
+9. We have to prove, :math:`\frac{\sin A + \sin 2A}{\cos A - \cos 2A} = \cot \frac{A}{2}`
+
+   L.H.S. :math:`= \frac{2\sin\frac{3A}{2}\cos\frac{A}{2}}{2\sin\frac{3A}{2}\sin\frac{A}{2}}`
+
+   :math:`= \cot\frac{A}{2}`
+
+10. We have to prove, :math:`\frac{\sin 5A - \sin 3A}{\cos 3A + \cos 5A} = \tan A`
+
+    L.H.S. :math:`= \frac{2\cos4A\sin A}{2\cos4A\cos A} = \tan A`
+
+11. We have to prove, :math:`\frac{\cos 2B - \cos 2A}{\sin 2B + \sin 2A} = \tan(A - B)`
+
+    L.H.S. :math:`= \frac{2\sin(A + B)\sin(A - B)}{2\sin(A + B)\cos(A - B)} = \tan(A - B)`
+
+12. We have to prove, :math:`\cos (A + B) + \sin(A - B) = 2\sin(45^\circ + A)\cos(45^\circ + B)`
+
+    L.H.S. :math:`= \cos A\cos B - \sin A\sin B + \sin A\cos B - \cos A\sin B`
+
+    :math:`= (\sin A + \cos A)(\cos B - \sin B)`
+
+    :math:`= 2(\frac{1}{\sqrt{2}}\sin A + \frac{1}{\sqrt{2}}\cos A)(\frac{1}{\sqrt{2}}\cos B - \frac{1}{\sqrt{2}}\sin B)`
+
+    :math:`= 2(\sin A\cos 45^\circ + \sin 45^\circ\sin A)(\cos 45^\circ\cos B - \sin 45^\circ\sin B)`
+
+    :math:`= 2\sin(45^\circ + A)\cos(45^\circ + B)`
+
+13. We have to prove, :math:`\frac{\cos 3A - \cos A}{\sin 3A - \sin A} + \frac{\cos 2A - \cos 4A}{\sin 4A - \sin 2A} = \frac{\sin A}{\cos
+    2A\cos 3A}`
+
+    L.H.S. :math:`= \frac{-2\sin 2A\sin A}{2\cos 2A\sin A} + \frac{2\sin 3A\sin A}{2\cos 3A\sin A}`
+
+    :math:`= \frac{-\sin 2A}{\cos 2A} + \frac{\sin 3A}{\cos 3A}`
+
+    :math:`= \frac{\cos 2A\sin 3A - \sin 2A\cos 3A}{\cos 2A\cos 3A} = \frac{\sin(3A - 2A)}{\cos 2A\cos 3A}`
+
+    :math:`= \frac{\sin A}{\cos 3A\cos 3A}`
+
+14. Given, :math:`\frac{\sin (4A - 2B) + \sin (4B - 2A)}{\cos (4A - 2B) + \cos (4B - 2A)} = \tan(A + B)`
+    L.H.S. :math:`= \frac{2\sin(A + B)\cos3(A - B)}{2\cos(A + B)\cos3(A - B)} = \tan(A + B)`
+
+15. We have to prove, :math:`\frac{\tan 5\theta + \tan 3\theta}{\tan 5\theta - \tan 3\theta} = 4\cos 2\theta\cos 4\theta`
+
+    L.H.S. :math:`= \frac{\frac{\sin5\theta}{\cos5\theta} + \frac{\sin4\theta}{\cos3\theta}}{\frac{\sin5\theta}{\cos5\theta} -
+    \frac{\sin4\theta}{\cos3\theta}}`
+
+    :math:`= \frac{\sin5\theta\cos3\theta + \sin3\theta\cos5\theta}{\sin5\theta\cos3\theta - \sin3\theta\cos5\theta}`
+
+    :math:`= \frac{\sin8\theta}{\sin2\theta} = \frac{2\sin4\theta\cos\theta}{\sin2\theta}`
+
+    :math:`= \frac{4\sin2\theta\cos2\theta\cos4\theta}{\sin2\theta} = 4\cos2\theta\cos4\theta`
+
+16. We have to prove, :math:`\frac{\cos 3\theta + 2\cos5\theta + \cos 7\theta}{\cos\theta + 2\cos3\theta + \cos 5\theta} = \cos 2\theta - \sin
+    2\theta\tan 3\theta`
+
+    Adding first and last terms of numerator and denominator, we have
+
+    L.H.S. :math:`= \frac{2\cos5\theta\cos2\theta + 2\cos5\theta}{2\cos3\theta\cos2\theta + 2\cos3\theta}`
+
+    :math:`= \frac{\cos5\theta(\cos2\theta + 1)}{\cos3\theta(\cos2\theta + 1)}`
+
+    :math:`= \frac{\cos3\theta\cos2\theta - \sin3\theta\sin2\theta}{\cos3\theta}`
+
+    :math:`= \cos2\theta - \sin2\theta\tan3\theta`
+
+17. We have to prove, :math:`\frac{\sin A + \sin 3A + \sin 5A + \sin 7A}{\cos A + \cos 3A + \cos 5A + \cos 7A} = \tan 4A`
+
+    Pairing first and fourth term and second and third term in numerator and denominator, we get
+
+    L.H.S. :math:`= \frac{2\sin4A\cos3A + 2\sin4A\cos A}{2\cos4A\cos3A + 2\cos4A\cos A}`
+
+    :math:`= \frac{2\sin4A(\cos 3A + \cos A)}{2\cos4A(\cos 3A + \cos A)}`
+
+    :math:`= \tan 4A`
+
+18. We have to prove, :math:`\frac{\sin (\theta + \phi) - 2\sin\theta + \sin (\theta - \phi)}{\cos (\theta + \phi) - 2\cos \theta +
+    \cos(\theta - \phi)} = \tan\theta`
+
+    Pairing first and last term in both numerator and denominator, we get
+
+    L.H.S. :math:`= \frac{2\sin\theta\cos\phi + 2\sin\theta}{2\cos\theta\cos\phi + 2\cos\theta}`
+
+    :math:`= \frac{2\sin\theta(\cos\phi + 1)}{2\cos\theta(\cos\phi + 1)}`
+
+    :math:`= \tan\theta`
+
+19. We have to prove that, :math:`\frac{\sin A + 2\sin 3A + \sin 5A}{\sin 3A + 2\sin 5A + \sin 7A} = \frac{\sin 3A}{\sin 5A}`
+
+    Pairing first and last term in both numerator and denominator, we get
+
+    L.H.S. :math:`= \frac{2\sin3A\cos2A + 2\sin3A}{2\sin5A\cos2A + 2\sin5A}`
+
+    :math:`= \frac{\sin3A(\cos 2A + 1)}{\sin5A(\cos 2A + 1)}`
+
+    :math:`= \frac{\sin 3A}{\sin 5A}`
+
+20. We have to prove that, :math:`\frac{\sin(A - C) + 2\sin A + \sin(A + C)}{\sin (B - C) + 2\sin B + \sin(B + C)} = \frac{\sin
+    A}{\sin B}`
+    Pairing first and last term in both numerator and denominator, we get
+
+    L.H.S. :math:`= \frac{2\sin A\cos C + 2\sin A}{2\sin B\cos C + 2\sin B}`
+
+    :math:`= \frac{\sin A(\cos C + 1)}{\sin B(\cos C + 1)}`
+
+    :math:`= \frac{\sin A}{\sin B}`
+
+21. We have to prove that, :math:`\frac{\sin A - \sin 5A + \sin 9A - \sin 13A}{\cos A - \cos 5A - \cos 9A + \cos 13 A} = \cot 4A`
+
+    Pairing first and last term and second and third term in both numerator and denominator, we get
+
+    L.H.S. :math:`= \frac{-2\cos7A\sin6A + 2\cos7A\sin 2A}{3\cos7A\cos6A - 2\cos7A\cos2A}`
+
+    :math:`= \frac{2\cos7A(\sin 2A - \sin 6A)}{2\cos 7A(\cos 6A - \cos 2A)}`
+
+    :math:`= \frac{-2\cos 4A\sin 2A}{-2\sin 4A\sin 2A}`
+
+    :math:`= \cot 4A`
+
+22. We have to prove that, :math:`\frac{\sin A + \sin B}{\sin A - \sin B} = \tan \frac{A + B}{2}\cot \frac{A - B}{2}`
+
+    L.H.S. :math:`= \frac{2\sin\frac{A + B}{2}\cos\frac{A - B }{2}}{2\cos\frac{A + B}{2}\sin\frac{A - B}{2}}`
+
+    :math:`= \tan \frac{A + B}{2}\cot \frac{A - B}{2}`
+
+23. We have to prove that, :math:`\frac{\cos A + \cos B}{\cos B - \cos A} = \cot \frac{A + B}{2}\cot \frac{A - B}{2}`
+
+    L.H.S. :math:`= \frac{2\cos\frac{A + B}{2}\cos\frac{A - B}{2}}{2\sin\frac{A + B}{2}\sin\frac{A - B}{2}}`
+
+    :math:`= \cot\frac{A + B}{2}\cot\frac{A - B}{2}`
+
+24. We have to prove that, :math:`\frac{\sin A + \sin B}{\cos A + \cos B} = \tan \frac{A + B}{2}`
+
+    L.H.S. :math:`= \frac{2\sin\frac{A + B}{2}\cos\frac{A - B}{2}}{2\cos\frac{A + B}{2}\cos\frac{A - B}{2}}`
+
+    :math:`= \tan \frac{A + B}{2}`
+
+25. We have to prove that, :math:`\frac{\sin A - \sin B}{\cos B - \cos A} = \cot \frac{A + B}{2}`
+
+    L.H.S. :math:`= \frac{2\cos\frac{A + B}{2}\sin\frac{A - B}{3}}{2\sin\frac{A + B}{2}\sin\frac{A - B}{2}}`
+
+    :math:`= \cot \frac{A + B}{2}`
+
+26. We have to prove that, :math:`\frac{\cos(A + B + C) + \cos(-A + B + C) + \cos(A - B + C) + \cos(A + B - C)}{\sin(A + B +
+    C)+\sin(-A + B + C) - \sin(A - B + C) + \sin(A + B - C)} = \cot B`
+
+    L.H.S. :math:`= \frac{2\cos(B + C)\cos A + 2\cos A\cos(B - C)}{2\sin(B + C)\cos A + 2\sin(B - C)\cos A}`
+
+    :math:`= \frac{\cos(B + C) + \cos(B - C)}{\sin(B + C) + \sin(B - C)}`
+
+    :math:`= \frac{2\cos B\cos C}{2\sin B\cos C} = \cot B`
+
+27. We have to prove that, :math:`\cos 3A + \cos 5A + \cos 7A + \cos 15A = 4 \cos 4A\cos 5A \cos 6A`
+
+    Adding first and last and two middle terms together, we gte
+
+    L.H.S. :math:`= 2\cos9A\cos6A + 2\cos6A\cos A`
+
+    :math:`= 2\cos6A(\cos9A + \cos A)`
+
+    :math:`= 4\cos 4A \cos 5A \cos 6A`
