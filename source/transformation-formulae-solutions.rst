@@ -197,3 +197,103 @@ Transformation Formulae Solutions
     :math:`= 2\cos6A(\cos9A + \cos A)`
 
     :math:`= 4\cos 4A \cos 5A \cos 6A`
+
+28. We have to prove that, :math:`\cos(-A + B + C) + \cos(A - B + C) + \cos(A + B - C) + \cos(A + B + C) = 4\cos A\cos B\cos C`
+
+    Adding first two and last two, we get
+
+    L.H.S. :math:`= 2\cos C\cos (B - A) + 2\cos (A + B)\cos C`
+
+    :math:`= 2\cos C(\cos (B - A) + \cos (A + B))`
+
+    :math:`= 4\cos A\cos B\cos C`
+
+29. We have to prove that, :math:`\sin 50^\circ - \sin 70^\circ + \sin 10^\circ = 0`
+
+    L.H.S. :math:`= -2\cos 60^\circ \sin 10^\circ + \sin 10^\circ`
+
+    :math:`= -\sin10^\circ + \sin10^\circ = 0`
+
+30. We have to prove that, :math:`\sin 10^\circ + \sin 20^\circ + \sin 40^\circ + \sin 50^\circ = \sin 70^\circ + \sin 80^\circ`
+
+    L.H.S. :math:`= \sin 10^\circ + \sin 50^\circ + \sin 20^\circ + \sin 40^\circ`
+
+    :math:`= 2\sin 30^\circ \cos 20^\circ + 2\sin 30^\circ \cos 10^\circ`
+
+    :math:`= 2\sin30^\circ(\cos 20^\circ + \cos 10^\circ)`
+
+    :math:`= \sin 70^\circ + \sin 80^\circ[\because \cos\theta = \sin(90^\circ - \theta)]`
+
+31. We have to prove that, :math:`\sin\alpha + \sin 2\alpha + \sin 4\alpha + \sin 5\alpha = 4\cos \frac{\alpha}{2}\cos
+    \frac{3\alpha}{2}\sin 3\alpha`
+
+    L.H.S. :math:`= \sin\alpha + \sin 5\alpha + \sin2\alpha + \sin4\alpha`
+
+    :math:`= 2\sin3\alpha\cos2\alpha + 2\sin3\alpha\cos\alpha`
+
+    :math:`= 2\sin3\alpha(\cos2\alpha + \cos\alpha)`
+
+    :math:`= 4\cos \frac{\alpha}{2}\cos \frac{3\alpha}{2}\sin 3\alpha`
+
+32. Given, :math:`\cos\left[\theta + \left(n - \frac{3}{2}\right)\phi\right] - \cos\left[\theta + \left(n +
+    \frac{3}{2}\right)\phi\right]`
+
+    :math:`= 2\sin\left[\theta + n\phi\right]\sin\left[\frac{\phi}{2}\right]`
+
+33. Given, :math:`\sin\left[\theta + \left(n - \frac{3}{2}\right)\phi\right] + \sin\left[\theta + \left(n +
+    \frac{3}{2}\right)\phi\right]`
+
+    :math:`= 2\sin\left[\theta + n\phi\right]\cos\left[\frac{\phi}{2}\right]`
+
+34. Given, :math:`2\sin5\theta\sin7\theta`
+
+    Let the angles are :math:`A` and :math:`B` then :math:`\cos C - \cos D = 2\sin \frac{C + D}{2}\cos\frac{D - C}{2}`
+
+    Thus, comparing, we get
+
+    :math:`C + D = 14, D - C = 10`
+
+    :math:`D = 12, C = 2`
+
+    Thus, required expression is :math:`\cos 2\theta - \cos12\theta`
+
+35. Given, :math:`2\cos7\theta\sin5\theta`
+
+    :math:`= \sin 12\theta + \sin 2\theta`
+
+36. Given, :math:`2\cos 11\theta\cos 3\theta`
+
+    :math:`= \cos 14\theta + \cos 8\theta`
+
+37. Given, :math:`2\sin54^\circ\sin66^\circ`
+
+    :math:`=\cos12^\circ - \cos120^\circ`
+
+38. We have to prove that :math:`\sin\frac{\theta}{2}\sin\frac{7\theta}{2} + \sin \frac{3\theta}{2}\sin\frac{11\theta}{2} =\sin
+    2\theta\sin 5\theta`
+
+    L.H.S. :math:`= \frac{1}{2}(\cos 3\theta - \cos 4\theta) + \frac{1}{2}(\cos 4\theta - \cos 7\theta)`
+
+    :math:`= \sin2\theta + \sin5\theta`
+
+39. We have to prove that, :math:`\cos 2\theta\cos \frac{\theta}{2} -\cos3\theta\cos\frac{9\theta}{2} =
+    \sin5\theta\sin\frac{5\theta}{2}`
+
+    L.H.S. :math:`= \frac{1}{2}\left(\cos\frac{5\theta}{2} + \cos \frac{3\theta}{2}\right) - \frac{1}{2}\left(\cos
+    \frac{15\theta}{2} + \cos \frac{3\theta}{2}\right)`
+
+    :math:`= \frac{1}{2}\left(2\sin 5\theta \sin \frac{5\theta}{2}\right)`
+
+    :math:`= \sin5\theta\sin\frac{5\theta}{2}`
+
+40. We have to prove that, :math:`\sin A\sin(A + 2B) - \sin B\sin(B + 2A) = \sin(A - B)\sin(A + B)`
+
+    L.H.S. :math:`= \frac{1}{2}(2\sin A\sin(A + 2B) - 2\sin B\sin(B + 2A))`
+
+    :math:`= \frac{1}{2}(\cos B - \cos(A + B) - \cos A - \cos (A + B))`
+
+    :math:`= \frac{1}{2}2\sin(A - B)\sin(A + B)`
+
+41. We have to prove that, :math:`(\sin 3A + \sin A)\sin A + (\cos 3A - \cos A)\cos A = 0`
+
+    L.H.S. :math:`= 2\sin2A\cos A\sin A - 2\sin2A\sin A\cos A = 0`
