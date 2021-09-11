@@ -14,7 +14,7 @@ We also know that :math:`\cos (A + B) = \cos A\cos B - \sin A\sin B`
 
 and :math:`\cos(A - B) = \cos A\cos B + \sin A\sin B`
 
-Adding, we get :math:`\2\cos A\cos B = \cos (A + B) + \cos(A - B)`
+Adding, we get :math:`2\cos A\cos B = \cos (A + B) + \cos(A - B)`
 
 Subtrating we get :math:`2\sin \sin B = \cos (A - B) - \cos(A + B)`
 
@@ -141,7 +141,7 @@ Prove that
 
 44. :math:`\frac{\cos 2A\cos 3A - \cos 2A\cos 7A + \cos A\cos 10A}{\sin 4A\sin 3A - \sin 2A\sin 5A + \sin 4A\sin 7A} =\cot 6A\cot 5A`
 
-45. :math:`\cos(36^\circ - A)\cos(36^\circ - A) + \cos(54^\circ + A)\cos(54^\circ - A) = \cos 2A`
+45. :math:`\cos(36^\circ - A)\cos(36^\circ + A) + \cos(54^\circ + A)\cos(54^\circ - A) = \cos 2A`
 
 46. :math:`\cos A\sin(B - C) + \cos B\sin(C - A) + \cos C\sin(A - B) = 0`
 
@@ -152,7 +152,7 @@ Prove that
 
 49. :math:`2\cos\frac{\pi}{13}\cos \frac{9\pi}{13} + \cos \frac{3\pi}{13} + \cos \frac{5\pi}{13} = 0`
 
-50. :math:`\cos 55^\circ + \cos65^\circ\cos 175^\circ = 0`
+50. :math:`\cos 55^\circ + \cos65^\circ + \cos 175^\circ = 0`
 
 51. :math:`\cos 18^\circ -\sin 18^\circ = \sqrt{2}\sin 27^\circ`
 

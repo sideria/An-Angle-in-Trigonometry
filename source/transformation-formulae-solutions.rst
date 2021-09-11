@@ -297,3 +297,84 @@ Transformation Formulae Solutions
 41. We have to prove that, :math:`(\sin 3A + \sin A)\sin A + (\cos 3A - \cos A)\cos A = 0`
 
     L.H.S. :math:`= 2\sin2A\cos A\sin A - 2\sin2A\sin A\cos A = 0`
+
+42. We have to prove that, :math:`\frac{2\sin(A - C)\cos C - \sin(A - 2C)}{2\sin(B - C)\cos C - \sin(B - 2C)} = \frac{\sin A}{\sin
+    B}`
+
+    L.H.S. :math:`= \frac{\sin A + \sin(A - 2C) - \sin(A - 2C)}{\sin B + \sin(B - 2C) - \sin(B - 2C)}`
+
+    :math:`= \frac{\sin A}{\sin B}`
+
+43. We have to prove that, :math:`\frac{\sin A\sin 2A + \sin 3A\sin 6A + \sin4A\sin 13A}{\sin A\cos2A + \sin 3A\cos 6A + \sin
+    4A\cos 13A} = \tan 9A`
+
+    L.H.S. :math:`= \frac{\cos A - \cos 3A + \cos 3A - \cos 9A + \cos 9A - \cos 17A}{\sin 3A - \sin A + \sin 9A - \sin 3A + \sin 17A
+    - \sin 9A}`
+
+    :math:`= \frac{\cos A - \cos 17A}{\sin 17A - \sin A}`
+
+    :math:`= \frac{2\sin 8A\sin 9A}{2\cos 9A\sin 8A} = \tan 9A`
+
+44. We have to prove that, :math:`\frac{\cos 2A\cos 3A - \cos 2A\cos 7A + \cos A\cos 10A}{\sin 4A\sin 3A - \sin 2A\sin 5A + \sin
+    4A\sin 7A} =\cot 6A\cot 5A`
+
+    L.H.S. :math:`= \frac{\cos 5A + \cos A - \cos 9A - \cos 5A + \cos 11A + \cos 9A}{\cos A - \cos 7A - \cos 3A + cos 7A + \cos
+    3A - \cos 11A}`
+
+    :math:`= \frac{\cos A + \cos 11A}{\cos A - \cos 11A}`
+
+    :math:`= \frac{\cos 6A\cos 5A}{\sin 6A\sin 5A} = \cot 6A\cot 5A`
+
+45. We have to prove that, :math:`\cos(36^\circ - A)\cos(36^\circ + A) + \cos(54^\circ + A)\cos(54^\circ - A) = \cos 2A`
+
+    L.H.S. :math:`= \frac{1}{2}(\cos (72^\circ)+ \cos 2A) + \frac{1}{2}(\cos 108^\circ + \cos 2A)`
+
+    :math:`= \frac{1}{2}(\sin 18^\circ + - \sin 18^\circ + 2\cos 2A)[\because \sin 18^\circ = \cos(90^\circ - 18^\circ) = \cos
+    72^\circ` and :math:`\cos 108^\circ = \cos(90^\circ + 18^\circ) = -\sin 18^\circ]`
+
+    :math:`= \cos 2A`
+
+46. We have to prove that :math:`\cos A\sin(B - C) + \cos B\sin(C - A) + \cos C\sin(A - B) = 0`
+
+    L.H.S. :math:`= \frac{1}{2}[\sin(A + B - C) - \sin(A - B + C) + \sin(B + C - A) - \sin (B - C + A) + \sin(A - B + C) - \sin(C -
+    A + B)] = 0`
+
+47. :math:`\sin(45^\circ + A)\sin(45^\circ - A) = \frac{1}{2}\cos 2A`
+
+    L.H.S. :math:`= \frac{1}{2}(2\sin(45^\circ + A)\sin(45^\circ - A)) = \frac{1}{2}[\cos 2A - \cos 90^\circ] = \frac{1}{2}\cos 2A`
+
+48. We have to prove that, :math:`\sin(\beta - \gamma)\cos(\alpha - \delta) + \sin(\gamma - \alpha)\cos(\beta - \delta) +
+    \sin(\alpha - \beta)\cos(\gamma - \delta) = 0`
+
+    L.H.S. :math:`= \frac{1}{2}[\sin(\alpha + \beta - \gamma - \delta) + \sin(\beta + \delta - \gamma - \alpha) + \sin(\gamma
+    -\alpha + \beta - \delta) + \sin(\gamma - \alpha - \beta + \delta) + \sin(\alpha - \beta + \gamma - \delta) - \sin(\alpha -
+    \beta - \gamma + \delta)]`
+
+    :math:`= 0`
+
+49. We have to prove that, :math:`2\cos\frac{\pi}{13}\cos \frac{9\pi}{13} + \cos \frac{3\pi}{13} + \cos \frac{5\pi}{13} = 0`
+
+    L.H.S. :math:`=\cos \frac{10\pi}{13} + \cos \frac{8\pi}{13} + \cos \left(\pi - \frac{10\pi}{13}\right) + \cos \left(\pi -
+    \frac{8\pi}{13}\right)`
+
+    :math:`= \cos \frac{10\pi}{13} + \cos \frac{8\pi}{13} - \cos \frac{10\pi}{13} - \cos \frac{8\pi}{13} = 0`
+
+50. We have to prove that, :math:`\cos 55^\circ + \cos65^\circ + \cos 175^\circ = 0`
+
+    L.H.S. :math:`= 2\cos 60^\circ\cos5^\circ + \cos(180^\circ - 5^\circ)`
+
+    :math:`= 2.\frac{1}{2}.\cos5^\circ - \cos 5^\circ = 0`
+
+51. We have to prove that, :math:`\cos 18^\circ -\sin 18^\circ = \sqrt{2}\sin 27^\circ`
+
+    L.H.S. :math:`= \cos18^\circ - \cos(90^\circ - 72^\circ) = \cos 18^\circ - \cos 72^\circ`
+
+    :math:`= 2\sin 45^\circ\sin 27^\circ = \sqrt{2}\sin27^\circ`
+
+52. We have to prove that, :math:`\frac{\sin A + \sin 2A + \sin 4A + \sin 5A}{\cos A + \cos 2A + \cos 4A + \cos 5A} = \tan 3A`
+
+    L.H.S. :math:`= \frac{(\sin 5A + \sin A) + (\sin 4A + \sin 2A)}{(\cos 5A + \cos A) + (\cos 4A + \cos 2A)}`
+
+    :math:`= \frac{2\sin 3A\cos 2A + 2\sin 3A\cos A}{2\cos3A\cos2A + 2\cos 3A\cos A}`
+
+    :math:`= \frac{\sin 3A(\cos 2A + \cos A)}{\cos 3A(\cos 2A + \cos A)} = \tan 3A`
