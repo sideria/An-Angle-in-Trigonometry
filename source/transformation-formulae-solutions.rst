@@ -378,3 +378,139 @@ Transformation Formulae Solutions
     :math:`= \frac{2\sin 3A\cos 2A + 2\sin 3A\cos A}{2\cos3A\cos2A + 2\cos 3A\cos A}`
 
     :math:`= \frac{\sin 3A(\cos 2A + \cos A)}{\cos 3A(\cos 2A + \cos A)} = \tan 3A`
+
+53. L.H.S :math:`= \left(\frac{2\cos \frac{A + B}{2}\cos \frac{A - B}{2}}{2\cos\frac{A + B}{2}\sin\frac{A - B}{2}}\right)^n +
+    \left(\frac{2\sin\frac{A + B}{2}\cos\frac{A - B}{2}}{2\sin\frac{A + B}{2}\sin\frac{B - A}{2}}\right)^n`
+
+    :math:`= \left(\cos\frac{A - B}{2}\right)^n + \left(-\cot\frac{A - B}{2}\right)^n`
+
+    :math:`=\cot^n\frac{A - B}{2}[1 + (-1)^n]` which is :math:`0` if :math:`n` is odd and :math:`2\cos^n\frac{A - B}{2}` if
+    :math:`n` is even.
+
+54. Given :math:`\alpha, \beta, \gamma` are in A.P. :math:`\therefore 2\beta = \alpha + \gamma`
+
+    R.H.S. :math:`= \frac{\sin\alpha - \sin\gamma}{\cos\gamma - \cos\alpha} = \frac{2\cos \frac{\alpha + \gamma}{2}\sin\frac{\alpha
+    - \gamma}{2}}{2\sin\frac{\gamma + \alpha}{2}\sin\frac{\alpha - \gamma}{2}}`
+
+    :math:`= \cot\frac{\alpha + \gamma}{2} = \cot\beta`
+
+55. Given :math:`\sin\theta + \sin\phi = \sqrt{3}(\cos\phi - \cos\theta)`
+
+    :math:`2\sin\frac{\theta + \phi}{2}\cos\frac{\theta - \phi}{2} = \sqrt{3}.2.\sin\frac{\theta + \phi}{2}\sin\frac{\theta -
+    \phi}{2}`
+
+    :math:`= \sin\frac{\theta + \phi}{2}\left[\cos\frac{\theta - \phi}{2} - \sqrt{3}\sin\frac{\theta - \phi}{}\right] = 0`
+
+    :math:`\therefore \sin\frac{\theta + \phi}{2} = 0` or :math:`\tan\frac{\theta - \phi}{2} = \frac{1}{\sqrt{3}}`
+
+    :math:`\therefore \theta + \phi = 0^\circ` or :math:`\theta - \phi = 60^\circ`
+
+    Now, :math:`\sin3\theta + \sin3\phi = 2\sin\frac{3(\theta + \phi)}{2}\sin\frac{3(\theta - \phi)}{2} = 0`
+
+    [:math:`\because` when :math:`\theta + \phi = 0; \sin\frac{3(\theta + \phi)}{2} = 0` and when :math:`\theta - \phi = 60^\circ;
+    \cos\frac{3(\theta - \phi)}{2} = 0` ]
+
+56. We have to prove that :math:`\sin 65^\circ + cos 65^\circ = \sqrt{2}\cos 20^\circ`
+
+    L.H.S. :math:`= \cos(90^\circ - 65^\circ) + \cos 65^\circ = \cos 25^\circ\cos65^\circ`
+
+    :math:`= 2\cos 45^\circ\cos20^\circ = 2.\frac{1}{\sqrt{2}}\cos20^\circ = \sqrt{2}\cos20^\circ`
+
+57. We have to prove that :math:`\sin 47^\circ + \cos 77^\circ = \cos 17^\circ`
+
+    L.H.S. :math:`= \cos(90^\circ - 47^\circ) + \cos 77^\circ`
+
+    :math:`= \cos 43^\circ + \cos77^\circ`
+
+    :math:`=2\cos 60^\circ \cos 17^\circ`
+
+    :math:`= \cos 17^\circ[\because 2\cos60^\circ = 2.\frac{1}{2} = 1`
+
+58. We have to prove that, :math:`\frac{\cos 10^\circ - \sin 10^\circ}{\cos 10^\circ + \sin 10^\circ} = \tan 35^\circ`
+
+    L.H.S. :math:`= \frac{\cos10^\circ - \cos(90^\circ - 10^\circ)}{\cos10^\circ + \cos(90^\circ - 10^\circ)}`
+
+    :math:`= \frac{\cos10^\circ - \cos80^\circ}{\cos10^\circ + \cos80^\circ}`
+
+    :math:`= \frac{2\cos45^\circ\cos35^\circ}{2\cos45^\circ\cos35^\circ} = \tan 35^\circ`
+
+59. We have to prove that, :math:`\cos 80^\circ + \cos 40^\circ - cos 20^\circ = 0`
+
+    L.H.S. :math:`= 2\cos60^\circ\cos20^\circ - \cos20^\circ`
+
+    :math:`= \cos20^\circ - \cos20^\circ[\because 2\cos60^\circ = 2.\frac{1}{2} = 1]`
+
+60. We have to prove that :math:`\cos\frac{\pi}{5} + \cos \frac{2\pi}{5} + \cos\frac{6\pi}{5} + \cos \frac{7\pi}{5} = 0`
+
+    L.H.S. :math:`= \cos\frac{7\pi}{5} + \cos\frac{\pi}{5} + \cos\frac{2\pi}{5} + \cos\frac{6\pi}{5}`
+
+    :math:`= 2\cos\frac{4\pi}{5}\cos\frac{3\pi}{5} + 2\cos\frac{4\pi}{5}\cos\frac{2\pi}{5}`
+
+    :math:`= 2\cos\frac{4\pi}{5}\left[\cos\frac{3\pi}{5} + \cos \left(\pi - \frac{3\pi}{5}\right)\right]`
+
+    :math:`= 2\cos\frac{4\pi}{5}\left(\cos\frac{3\pi}{5} - \cos \frac{3\pi}{5}\right) = 0`
+
+61. We have to prove that :math:`\cos\alpha + \cos\beta + \cos\gamma + \cos(\alpha + \beta + \gamma) = 4\cos\frac{\alpha +
+    \beta}{2}\cos\frac{\beta + \gamma}{2}\cos \frac{\gamma + \alpha}{2}`
+
+    L.H.S. :math:`= \cos(\alpha + \beta + \gamma) + \cos\alpha + \cos\beta + \cos\gamma`
+
+    :math:`= 2\cos\left(\alpha + \frac{\beta + \gamma}{2}\right)\cos\frac{\beta + \gamma}{2} +
+    2\cos\frac{\beta+\gamma}{2}\cos\frac{\beta - \gamma}{2}`
+
+    :math:`= 2\cos\frac{\beta + \gamma}{2}\left[2\cos\left(\alpha +\frac{\beta + \gamma}{2}\right) + \cos\frac{\beta -
+    \gamma}{2}\right]`
+
+    :math:`=4\cos\frac{\alpha + \beta}{2}\cos\frac{\beta + \gamma}{2}\cos \frac{\gamma + \alpha}{2}`
+
+62. Given, :math:`\sin\alpha - \sin\beta = \frac{1}{3}` and `\cos\beta - \cos\alpha = \frac{1}{2}`
+
+    Dividing we get, :math:`\frac{\sin\alpha - \sin\beta}{\cos\beta - \cos\alpha} = \frac{2}{3}`
+
+    :math:`\Rightarrow \frac{2\cos\frac{\alpha + \beta}{2}\sin\frac{\alpha - \beta}{2}}{2\sin\frac{\alpha +
+    \beta}{2}\sin\frac{\alpha - \beta}{2}} = \frac{2}{3}`
+
+    :math:`\Rightarrow \cot\frac{\alpha + \beta}{2} = \frac{2}{3}`
+
+63. Given, :math:`\cosec A + sec A = \cosec B + \sec B`
+
+    :math:`\sec A - \sec B = \cosec B - \cosec A`
+
+    :math:`\Rightarrow \frac{\cos B - \cos A}{\cos A\cos B} = \frac{\sin A - \sin B}{\sin A\sin B}`
+
+    :math:`\Rightarrow \frac{2\sin\frac{A + B}{2}\sin \frac{A - B}{2}}{\cos A\cos B} = \frac{2\cos\frac{A + B}{2}\sin\frac{A -
+    B}{2}}{\sin A\sin B}`
+
+    :math:`\Rightarrow \tan A\tan B = \cot \frac{A + B}{2}`
+
+64. Given, :math:`\sec(\theta + \alpha) + \sec(\theta - \alpha) = 2\sec\theta`
+
+    :math:`\Rightarrow \frac{1}{\cos(\theta + \alpha)} + \frac{1}{\cos(\theta - \alpha)} = \frac{2}{\cos\theta}`
+
+    :math:`\cos\theta[\cos(\theta - \alpha) + \cos(\theta + \alpha)] = 2\cos(\theta + \alpha)\cos(\theta - \alpha)`
+
+    :math:`\cos\theta.2\cos\theta\cos\alpha = \cos2\theta + \cos2\alpha`
+
+    We know that `[\cos(\theta + \theta) = \cos\theta.\cos\theta - \sin\theta\sin\theta = 2\cos^2\theta - 1]`
+
+    Thus, the above equation becomes
+
+    :math:`2\cos^2\theta\cos\alpha = 2\cos^2\theta - 1 + 2\cos^2\alpha - 1`
+
+    :math:`2\cos^2\theta(\cos\alpha - 1) = 2(\cos^2\alpha - 1)`
+
+    :math:`\Rightarrow \cos^2\theta = 1 + \cos\alpha`
+
+65. We have to prove that :math:`\sin50^\circ\cos85^\circ = \frac{1 - \sqrt{2}\sin 35^\circ}{2\sqrt{2}}`
+
+    L.H.S. :math:`= \frac{1}{2}[\sin(85^\circ + \sin50^\circ) - \sin(85^\circ - 50^\circ)]`
+
+    :math:`= \frac{1}{2}[\sin135^\circ - \sin35^\circ]`
+
+    :math:`= \frac{1}{2}\left[\frac{1}{\sqrt{2}} - \sin35^\circ\right]`
+
+    :math:`= \frac{1 - \sqrt{2}\sin 35^\circ}{2\sqrt{2}}`
+
+66. We have to prove that, :math:`\sin 20^\circ \sin 40^\circ\sin 80^\circ = \frac{\sqrt{3}}{8}`
+
+    L.H.S. :math:`= \frac{1}{2}(2\sin80^\circ\sin40^\circ)\sin20^\circ`

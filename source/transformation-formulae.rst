@@ -169,7 +169,7 @@ Prove that
 
 57. :math:`\sin 47^\circ + \cos 77^\circ = \cos 17^\circ`
 
-58. :math:`\frac{\cos 10^\circ - \sin 10^\circ}{\cos 10^\circ + \sin 10^\circ} = \tan 35\circ`
+58. :math:`\frac{\cos 10^\circ - \sin 10^\circ}{\cos 10^\circ + \sin 10^\circ} = \tan 35^\circ`
 
 59. :math:`\cos 80^\circ + \cos 40^\circ - cos 20^\circ = 0`
 
@@ -181,7 +181,7 @@ Prove that
 62. If :math:`\sin\alpha - \sin\beta = \frac{1}{3}` and :math:`\cos\beta - \cos\alpha = \frac{1}{2},` prove that
     :math:`\cot\frac{\alpha + \beta}{2} = \frac{2}{3}`
 
-63. If :math:`\cosec A + sec A = \cosec B + \sec B,` prove that :math:`\tan A\tan B = \cot \frac{\alpha + \beta}{2}`
+63. If :math:`\cosec A + sec A = \cosec B + \sec B,` prove that :math:`\tan A\tan B = \cot \frac{A + B}{2}`
 
 64. If :math:`\sec(\theta + \alpha) + \sec(\theta - \alpha) = 2\sec\theta,` show that :math:`\cos^2\theta = 1 + \cos\alpha`
 
