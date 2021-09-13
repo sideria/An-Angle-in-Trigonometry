@@ -205,7 +205,7 @@ Prove that
 
 74. Prove that :math:`4\cos\theta\cos\left(\frac{\pi}{3} + \theta\right)\cos\left(\frac{\pi}{3} - \theta\right) = \cos3\theta`
 
-75. Prove that :math:`\tan\theta\tan(60^\circ - \theta)\tan(60^\circ + \theta) = tan3\theta`
+75. Prove that :math:`\tan\theta\tan(60^\circ - \theta)\tan(60^\circ + \theta) = \tan3\theta`
 
 76. If :math:`\alpha + \beta = 90^\circ,` show that the maximum value of :math:`\cos\alpha\cos\beta` is :math:`\frac{1}{2}`
 
@@ -217,7 +217,7 @@ Prove that
 
 79. If :math:`\sin\theta = n\sin(\theta + 2\alpha),` prove that :math:`\tan(\theta + \alpha) = \frac{1 + n}{1 - n}\tan\alpha`
 
-80. If :math:`\frac{\sin(\theta + \alpha)}{\cos(\theta - \alpha) = \frac{1 - m}{1 + m}},` prove that :math:`\tan\left(\frac{\pi}{4}
+80. If :math:`\frac{\sin(\theta + \alpha)}{\cos(\theta - \alpha)} = \frac{1 - m}{1 + m},` prove that :math:`\tan\left(\frac{\pi}{4}
     - \theta\right)\tan\left(\frac{\pi}{4} - \alpha\right) = m`
 
 81. If :math:`y\sin\phi = x\sin(2\theta + \phi),` show that :math:`(x + y)\cot(\theta + \phi) = (y - x)\cot\theta`

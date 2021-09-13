@@ -514,3 +514,217 @@ Transformation Formulae Solutions
 66. We have to prove that, :math:`\sin 20^\circ \sin 40^\circ\sin 80^\circ = \frac{\sqrt{3}}{8}`
 
     L.H.S. :math:`= \frac{1}{2}(2\sin80^\circ\sin40^\circ)\sin20^\circ`
+
+    :math:`= \frac{1}{2}[\cos(80^\circ - 40^\circ) - \cos(80^\circ + 40^\circ)]\sin20^\circ`
+
+    :math:`= \frac{1}{2}(\cos40^\circ - \cos120^\circ)\sin 206\circ`
+
+    :math:`= \frac{1}{4}(2\cos40^\circ\sin20^\circ - 2\cos120^\circ\sin20^\circ)`
+
+    :math:`= \frac{1}{4}[\sin(40^\circ + 20^\circ) - \sin(40^\circ - 20^\circ) - 2.-\frac{1}{2}\sin20^\circ]`
+
+    :math:`= \frac{1}{4}[\sin60^\circ - \sin20^\circ + \sin20^\circ] = \frac{1}{4}\sin60^\circ = \frac{\sqrt{3}}{8}`
+
+67. We have to prove that, :math:`\sin A\sin(60^\circ - A)\sin(60^\circ + A) = \frac{1}{4}\sin 3A`
+
+    L.H.S. :math:`= \frac{1}{2}\sin A[2\sin(60^\circ - A)\sin(60^\circ + A)]`
+
+    :math:`= \frac{1}{2}\sin A[\cos(60^\circ + A - 60^\circ + A) - \cos(60^\circ + A + 60^\circ - A)]`
+
+    :math:`= \frac{1}{2}\sin A(\cos 2A - \cos 120^\circ)`
+
+    :math:`= \frac{1}{4}(2\sin A\cos 2A - 2\cos 120^\circ \sin A)`
+
+    :math:`\frac{1}{4}[\sin (2A + A) - \sin(2A - A) - 2.-\frac{1}{2}\sin A]`
+
+    :math:`= \frac{1}{4}(\sin 3A - \sin A + \sin A) = \frac{1}{4}\sin 3A`
+
+68. Let :math:`p = \sin\alpha\sin\beta`
+
+    :math:`= \frac{1}{2}2\sin\alpha\sin\beta`
+
+    :math:`= \frac{1}{2}[\cos(\alpha - \beta) - \cos(\alpha + beta)]`
+
+    :math:`= \frac{1}{2}[\cos(\alpha - \beta) - \cos90^\circ][\because \alpha + \beta = 90^\circ~\text{(given)}]`
+
+    :math:`= \frac{1}{2}\cos(\alpha - \beta)`
+
+    Maximum value of :math:`\cos(\alpha - \beta)` is :math:`1,` hence maximum value of :math:`p` is :math:`\frac{1}{2}`
+
+69. We have to prove that, :math:`\sin 25^\circ\cos 115^\circ = \frac{1}{2}(\sin 40^\circ - 1)`
+
+    L.H.S. :math:`= \sin 25^\circ\cos 115^\circ`
+
+    :math:`= \frac{1}{2}2\sin25^\circ\cos115^\circ = \frac{1}{2}[\sin140^\circ - \sin90^\circ]`
+
+    :math:`= \frac{1}{2}[\cos50^\circ - 1] = \frac{1}{2}[\sin40^\circ - 1]`
+
+70. We have to prove that, :math:`\sin 20^\circ \sin 40^\circ\sin 60^\circ \sin80^\circ = \frac{3}{16}`
+
+    L.H.S. :math:`= \frac{1}{2}[(2\sin 20^\circ\sin80^\circ)(\sin40^\circ\sin60^\circ)]`
+
+    :math:`= \frac{1}{2}(\cos60^\circ - \cos100^\circ)\frac{\sqrt{3}}{2}\sin40^\circ`
+
+    :math:`= \frac{\sqrt{3}}{4}[\cos60^\circ\sin40^\circ + \sin10^\circ\sin40^\circ]`
+
+    :math:`= \frac{\sqrt{3}}{8}[2\cos60^\circ\sin40^\circ + 2\cos80^\circ\sin40^\circ]`
+
+    :math:`= \frac{\sqrt{3}}{8}[\sin100^\circ - \sin 20^\circ + \sin 120^\circ - \sin 40^\circ]`
+
+    :math:`= \frac{\sqrt{3}}{8}[\cos10^\circ - (\sin20^\circ + \sin40^\circ) + \cos30^\circ]`
+
+    :math:`= \frac{\sqrt{3}}{8}[\cos10^\circ - 2\sin30^\circ\cos10^\circ + \frac{\sqrt{3}}{2}]`
+
+    :math:`= \frac{3}{8}[\cos10^\circ - 2.\frac{1}{2}.\cos10^\circ + \frac{3}{2}] = \frac{3}{16}`
+
+71. We have to prove that, :math:`\cos 20^\circ\cos40^\circ\cos80^\circ = \frac{1}{8}`
+
+    L.H.S. :math:`= \frac{1}{2\cos20^\circ\cos80^\circ}\cos40^\circ`
+
+    :math:`= \frac{1}{2}[\cos100^\circ + \cos60^\circ]\cos40^\circ`
+
+    :math:`= \frac{1}{2}[-\sin10^\circ\cos40^\circ + \frac{1}{2}\cos40^\circ]`
+
+    :math:`= \frac{1}{4}[-2\cos40^\circ\sin10^\circ + \cos40^\circ]`
+
+    :math:`= \frac{1}{4}[-\sin50^\circ + sin30^\circ + \cos40^\circ]`
+
+    :math:`= \frac{1}{8}[\because \sin50^\circ = \cos40^\circ~\text{and}~\sin30^\circ = \frac{1}{2}]`
+
+72. We have to prove that, :math:`\tan20^\circ\tan40^\circ\tan60^\circ\tan80^\circ = 3`
+
+    Using results of 70 and 71 it can be solved.
+
+73. We have to prove that, :math:`\cos10^\circ\cos30^\circ\cos50^\circ\cos70^\circ = \frac{3}{16}`
+
+    L.H.S. :math:`= \frac{1}{2}(2\cos10^\circ\cos70^\circ)(\frac{\sqrt{3}}{2}\cos50^\circ)`
+
+    :math:`= \frac{\sqrt{3}}{4}[\cos80^\circ + \cos60^\circ]\cos50^\circ`
+
+    :math:`= \frac{\sqrt{3}}{4}[\cos80^\circ\cos50^\circ + \frac{1}{2}\cos50^\circ]`
+
+    :math:`= \frac{\sqrt{3}}{8}[2\cos80^\circ\cos50^\circ + \cos50^\circ]`
+
+    :math:`= \frac{\sqrt{3}}{8}[\cos 130^\circ + \cos30^\circ + \cos50^\circ]`
+
+    :math:`= \frac{\sqrt{3}}{8}[\cos(180^\circ - 50^\circ) + \cos30^\circ + \cos50^\circ]`
+
+    :math:`= \frac{3}{16}`
+
+74. We have to prove that, :math:`4\cos\theta\cos\left(\frac{\pi}{3} + \theta\right)\cos\left(\frac{\pi}{3} - \theta\right) =
+    \cos3\theta`
+
+    L.H.S. :math:`= 2\cos\theta.2\cos\left(\frac{\pi}{3} + \theta\right)\cos\left(\frac{\pi}{3} - \theta\right)`
+
+    :math:`= 2\cos\theta\left[\cos\left(\frac{2\pi}{3}\right) + \cos2\theta\right]`
+
+    :math:`= -\cos\theta + 2\cos\theta\cos2\theta = -\cos\theta + \cos3\theta + \cos\theta = \cos3\theta`
+
+75. We have to prove that :math:`\tan\theta\tan(60^\circ - \theta)\tan(60^\circ + \theta) = \tan3\theta`
+
+    We have just proven, :math:`4\cos\theta\cos\left(\frac{\pi}{3} + \theta\right)\cos\left(\frac{\pi}{3} - \theta\right) =
+    \cos3\theta`
+
+    Let us evaluate :math:`\sin\theta\sin(60^\circ - \theta)\sin(60^\circ + \theta)`
+
+    :math:`= \frac{1}{2}\sin\theta.2\sin(60^\circ - \theta)\sin(60^\circ + \theta)`
+
+    :math:`= \frac{1}{2}\sin\theta\left[\cos2\theta - \cos\frac{2\pi}{3}\right]`
+
+    :math:`= \frac{1}{2}\sin\theta\cos2\theta + \frac{1}{4}\sin\theta`
+
+    :math:`= \frac{1}{4}(\sin3\theta - \sin\theta) + \frac{1}{4}\sin\theta`
+
+    :math:`= \frac{1}{4}\sin3\theta`
+
+    Thus, we have the desired result.
+
+76. Let :math:`p = \cos\alpha\cos\beta`
+
+    :math:`= \frac{1}{2}2\cos\alpha\cos\beta = \frac{1}{2}\left[\cos(\alpha + \beta) + \cos(\alpha - \beta)\right]`
+
+    :math:`= \frac{1}{2}\cos(\alpha - \beta)[\because \alpha + \beta = 90^\circ \therefore \cos(\alpha + \beta) = 0]`
+
+    Now maximum value of :math:`\cos(\alpha - \beta)` is :math:`1` therefore maximum value of :math:`p` is :math:`\frac{1}{2}`
+
+77. Since :math:`\cos\alpha = \frac{1}{\sqrt{2}},` therefore :math:`\alpha` lies either in first quadrant or fourth quadrant. So
+    :math:`\sin\alpha = \pm\frac{1}{\sqrt{2}}`
+
+    We have to compute :math:`\tan\frac{\alpha + \beta}{2}\cot\frac{\alpha - \beta}{2} = 5 + 2\sqrt{6}`
+
+    :math:`= \frac{\sin\frac{\alpha + \beta}{2}\cos\frac{\alpha - \beta}{2}}{\cos\frac{\alpha + \beta}{2}\sin\frac{\alpha -
+    \beta}{2}}`
+
+    :math:`= \frac{\sin\alpha + \sin\beta}{\sin\alpha - \sin\beta}`
+
+    Substituting the two pair of values, we get the desired answer.
+
+78. Let :math:`x\cos\theta = y\cos\left(\theta + \frac{2\pi}{3}\right) = z\cos\left(\theta + \frac{4\pi}{3}\right) = k`
+
+    Let :math:`p = \frac{k}{x} + \frac{k}{y} + \frac{k}{z}`
+
+    :math:`= \cos\theta + \cos\left(\theta + \frac{2\pi}{3}\right) + \cos\left(\theta + \frac{4\pi}{3}\right)`
+
+    :math:`= \cos\theta + 2\cos(\theta + \pi)\cos\frac{\pi}{3} = 0[\because \cos\frac{\pi}{3} =
+    \frac{1}{2}~\text{and}~\cos(\theta + \pi) = -\cos\theta]`
+
+    Thus, :math:`xy + yz + zx = 0`
+
+79. Given, :math:`\sin\theta = n\sin(\theta + 2\alpha)`
+
+    :math:`\Rightarrow \frac{1}{n} = \frac{\sin(\theta + 2\alpha)}{\sin\theta}`
+
+    Using componendo and dividendo
+
+    :math:`\Rightarrow \frac{1 + n}{1 - n} = \frac{\sin(\theta + 2\alpha) + \sin\theta}{\sin(\theta + 2\alpha) - \sin\theta}`
+
+    :math:`= \frac{\sin(\theta + \alpha)\cos\alpha}{\cos(\theta + \alpha)\sin\alpha}`
+
+    :math:`= \tan(\theta + \alpha)\cot\alpha`
+
+80. Given, :math:`\frac{\sin(\theta + \alpha)}{\cos(\theta - \alpha)} = \frac{1 - m}{1 + m}`
+
+    Using componendo and dividendo
+
+    :math:`\Rightarrow \frac{\sin(\theta + \alpha) + \cos(\theta - \alpha)}{\sin(\theta + \alpha) - \cos(\theta - \alpha)}
+    = \frac{1 - m + 1 + m}{1 - m - 1 - m}`
+
+    :math:`\Rightarrow \frac{\sin(\theta + \alpha) + \sin\left(\frac{\pi}{2} - (\theta - \alpha)\right)}{\sin(\theta + \alpha) -
+    \sin\left(\frac{\pi}{2} - (\theta - \alpha)\right)} = \frac{2}{-2m} = \frac{-1}{m}`
+
+    :math:`\Rightarrow \frac{\sin\left(\frac{\pi}{4} + \alpha\right)\cos\left(\theta -
+    \frac{\pi}{4}\right)}{\cos\left(\frac{\pi}{4} + \alpha\right)\sin\left(\theta - \frac{\pi}{4}\right)} = -\frac{1}{m}`
+
+    :math:`\Rightarrow m = \tan\left(\frac{\pi}{4} - \theta\right)\tan\left(\frac{\pi}{4} - \alpha\right)`
+
+81. Given, :math:`y\sin\phi = x\sin(2\theta + \phi)`
+
+    :math:`\frac{\sin\phi}{\sin(2\theta + \phi)} = \frac{x}{y}`
+
+    By componendo and dividendo
+
+    :math:`\frac{\sin\phi + \sin(2\theta + \phi)}{\sin(2\theta + \phi) - \sin\phi} = \frac{x + y}{y - x}`
+
+    :math:`\Rightarrow \frac{2\sin(\theta + \phi)\cos\theta}{2\cos(\theta + \phi)\sin\theta} = \frac{x + y}{y - x}`
+
+    :math:`\Rightarrow \frac{\cot\theta}{\cot(\theta + \phi)} = \frac{x + y}{y - x}`
+
+    Hence, proven.
+
+82. Given, :math:`\cos(\alpha + \beta)\sin(\gamma + \delta) = \cos(\alpha - beta)\sin(\gamma - \delta)`
+
+    :math:`\Rightarrow \frac{\cos(\alpha + \beta)}{\cos(\alpha - \beta)} = \frac{\sin(\gamma - \delta)}{\sin(\gamma + \delta)}`
+
+    By componendo and dividendo
+
+    :math:`\Rightarrow \frac{\cos(\alpha + \beta) + \cos(\alpha - \beta)}{\cos(\alpha - \beta) - \cos(\alpha + \beta)} =
+    \frac{\sin(\gamma - \delta) + \sin(\gamma + \delta)}{\sin(\gamma + \delta) - \sin(\gamma - \delta)}`
+
+
+    :math:`\Rightarrow \frac{2\cos\alpha\cos\beta}{2\sin\alpha\sin\beta} = \frac{2\sin\gamma\cos\delta}{2\cos\gamma\sin\delta}`
+
+    :math:`\Rightarrow \cot\alpha\cot\beta = \frac{\cot\delta}{\cos\gamma}`
+
+    Hence, proven.
+
+83, 84 and 85 can be solved by using componendo and dividendo as well.

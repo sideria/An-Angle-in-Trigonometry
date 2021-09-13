@@ -21,6 +21,7 @@ An Angle in Trigonometry
    compound-angles-solutions
    transformation-formulae
    transformation-formulae-solutions
+   multiple-submultiple-angles
 
 Indices and tables
 ==================
