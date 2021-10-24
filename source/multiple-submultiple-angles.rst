@@ -264,7 +264,7 @@ Prove that
 
 32. :math:`\sin A\sin(60^\circ - A)\sin(60^\circ + A) = \frac{1}{4}\sin 3A`
 
-33. :math:`\cos A\cos(60^\circ - A)\cos(60^\circ + A) = \frac{1}{4}\cos 3A` 
+33. :math:`\cos A\cos(60^\circ - A)\cos(60^\circ + A) = \frac{1}{4}\cos 3A`
 
 34. :math:`\cot A + \cot(60^\circ - A) - \cot(60^\circ + A) = 3\cot 3A`
 
@@ -324,7 +324,7 @@ Prove that
 
 60. :math:`\cos^2A + \cos^2(A + B) -2\cos A\cos B\cos(A + B)` if independent of :math:`A.`
 
-61. :math:`\cos^3A\cos 3A + \sin^3A\sin 3A = \cis^32A`
+61. :math:`\cos^3A\cos 3A + \sin^3A\sin 3A = \cos^32A`
 
 62. :math:`\tan A\tan(60^\circ - A)\tan(60^\circ + A) = \tan 3A`
 
@@ -372,3 +372,11 @@ Prove that
 83. If :math:`A = \frac{\pi}{15},` prove that :math:`\cos2A.\cos4A.\cos8A.\cos14A = \frac{1}{16}`
 
 84. If :math:`\tan A - \tan B = \sqrt{\frac{a - b}{a + b}},` prove that :math:`(a - b\cos2A)(a - b\cos2B) = a^2 - b^2`
+
+85. If :math:`\sin A = \frac{1}{2}` and :math:`\sin B = \frac{1}{3},` find the value of :math:`\sin(A + B)` and :math:`\sin(2A +
+    2B).`
+
+86. If :math:`\tan A = 2.4,` find :math:`\cos A, \cos \frac{A}{2}, \cos(\frac{\pi}{2} - 2A)`
+
+87. If :math:`\cos A = \frac{11}{61}` and :math:`\sin B = \frac{4}{5},` find the value of :math:`\sin^2 \frac{A - B}{2}` and
+    :math:`\cos^2\frac{A - B}{2},` the angles :math:`A` and :math:`B` being positive acute angles.
