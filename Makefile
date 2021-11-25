@@ -50,6 +50,7 @@ dirhtml: source/*.rst
 	$(SPHINXBUILD) -b dirhtml $(ALLSPHINXOPTS) $(BUILDDIR)/dirhtml
 	@echo
 	@echo "Build finished. The HTML pages are in $(BUILDDIR)/dirhtml."
+	mkdir -p /var/www/trigonometry
 	cp -r build/dirhtml/* /var/www/trigonometry
 
 singlehtml:
