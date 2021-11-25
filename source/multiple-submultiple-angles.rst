@@ -264,7 +264,7 @@ Prove that
 
 32. :math:`\sin A\sin(60^\circ - A)\sin(60^\circ + A) = \frac{1}{4}\sin 3A`
 
-33. :math:`\cos A\cos(60^\circ - A)\cos(60^\circ + A) = \frac{1}{4}\cos 3A` 
+33. :math:`\cos A\cos(60^\circ - A)\cos(60^\circ + A) = \frac{1}{4}\cos 3A`
 
 34. :math:`\cot A + \cot(60^\circ - A) - \cot(60^\circ + A) = 3\cot 3A`
 
@@ -324,7 +324,7 @@ Prove that
 
 60. :math:`\cos^2A + \cos^2(A + B) -2\cos A\cos B\cos(A + B)` if independent of :math:`A.`
 
-61. :math:`\cos^3A\cos 3A + \sin^3A\sin 3A = \cis^32A`
+61. :math:`\cos^3A\cos 3A + \sin^3A\sin 3A = \cos^32A`
 
 62. :math:`\tan A\tan(60^\circ - A)\tan(60^\circ + A) = \tan 3A`
 
@@ -372,3 +372,130 @@ Prove that
 83. If :math:`A = \frac{\pi}{15},` prove that :math:`\cos2A.\cos4A.\cos8A.\cos14A = \frac{1}{16}`
 
 84. If :math:`\tan A - \tan B = \sqrt{\frac{a - b}{a + b}},` prove that :math:`(a - b\cos2A)(a - b\cos2B) = a^2 - b^2`
+
+85. If :math:`\sin A = \frac{1}{2}` and :math:`\sin B = \frac{1}{3},` find the value of :math:`\sin(A + B)` and :math:`\sin(2A +
+    2B)`
+
+86. If :math:`\cos A = \frac{11}{61}` and :math:`\sin B = \frac{4}{5},` find the value of :math:`\sin^2 \frac{A - B}{2}` and
+    :math:`cos^2\frac{A + B}{2},` the angle of :math:`A` and :math:`B` being positive acute angles.
+
+87. Given :math:`\sec A = \frac{5}{4},` find :math:`\tan\frac{A}{2}` and :math:`\tan A.`
+
+88. If :math:`\cos A = .3,` find the value of :math:`\tan \frac{A}{2},` and explain the resulting ambiguity.
+
+89. If :math:`\sin A + \sin B = x` and :math:`\cos A + \cos B = y,` find the value of :math:`\tan \frac{A - B}{2}`
+
+Prove that
+
+90. :math:`(\cos A + \cos B)^2 + (\sin A - \sin B)^2 = 4\cos^2 \frac{A + B}{2}`
+
+91. :math:`(\cos A + \cos B)^2 + (\sin A + \sin B)^2 = 4\cos^2 \frac{A - B}{2}`
+
+92. :math:`(\cos A - \cos B)^2 + (\sin A - \sin B)^2 = 4\sin^2 \frac{A - B}{2}`
+
+93. :math:`\sin^2\left(\frac{\pi}{8} + \frac{A}{2}\right) - \sin^2\left(\frac{\pi}{8} -\frac{A}{2}\right) = \frac{1}{\sqrt{2}}\sin
+    A`
+
+94. :math:`(\tan 4A + \tan 2A)(1 - \tan^23A\tan^2A) = 2\tan 3A\sec^2A`
+
+95. :math:`\left(1 + \tan \frac{A}{2} - \sec\frac{A}{2}\right)\left(1 + \tan \frac{A}{2} + \sec\frac{A}{2}\right) = \sin
+    A\sec^2\frac{A}{2}`
+
+96. :math:`\frac{1 + \sin A - \cos A}{1 + \sin A + \cos A} = \tan \frac{A}{2}`
+
+97. :math:`\frac{1 - \tan \frac{A}{2}}{1 + \tan \frac{A}{2}} = \frac{1 + \sin A}{\cos A} = \tan \left(\frac{\pi}{4} +
+    \frac{A}{2}\right)`
+
+98. :math:`\cos^4\frac{\pi}{8} + \cos^4 \frac{3\pi}{8} + \cos^4\frac{5\pi}{8} + \cos^4\frac{7\pi}{8}= \frac{3}{2}`
+
+99. :math:`\frac{2\sin A - \sin2A}{2\sin A + \sin 2A} = \tan^2\frac{A}{2}`
+
+100. :math:`\cot \frac{A}{2} - \tan \frac{A}{2} = 2\cot A`
+
+101. :math:`\frac{1 + \sin A}{1 - \sin A} = \tan^2\left(\frac{\pi}{4} + \frac{A}{2}\right)`
+
+102. :math:`\sec A + \tan A = \tan\left(\frac{\pi}{4} + \frac{A}{2}\right)`
+
+103. :math:`\frac{\sin A + \sin B - \sin(A + B)}{\sin A + \sin B + \sin(A + B)} = \tan \frac{A}{2}\tan \frac{B}{2}`
+
+104. :math:`\tan \left(\frac{\pi}{4} - \frac{A}{2}\right) = \sec A - \tan A = \sqrt{\frac{1 - \sin A}{1 + \sin A}}`
+
+105. :math:`\cosec\left(\frac{\pi}{4} + \frac{A}{2}\right)\cosec \left(\frac{\pi}{4} - \frac{A}{2}\right) = 2\sec A`
+
+106. :math:`\cos^2\frac{\pi}{8} + \cos^2\frac{3\pi}{8} + \cos^2\frac{5\pi}{8} + \cos^2\frac{7\pi}{8} = 2`
+
+107. :math:`\sin^4\frac{\pi}{8} + \sin^4 \frac{3\pi}{8} + \sin^4\frac{5\pi}{8} + \sin^4\frac{7\pi}{8} = \frac{3}{2}`
+
+108. :math:`\left(1 + \cos \frac{\pi}{8}\right)\left(1 + \cos\frac{3\pi}{8}\right)\left(1 + \cos\frac{5\pi}{8}\right)\left(1 + \cos
+     \frac{7\pi}{8}\right) = \frac{1}{8}`
+
+109. Find the value of :math:`\sin \frac{23\pi}{24}`
+
+110. If :math:`A = 112^\circ30',` find the value of :math:`\sin A` and :math:`\cos A`
+
+Prove that
+
+111. :math:`\sin^224^\circ - \sin^26^\circ = \frac{1}{8}(\sqrt{5} - 1)`
+
+112. :math:`\tan6^\circ.\tan42^\circ.\tan66^\circ.\tan78^\circ = 1`
+
+113. :math:`\sin47^\circ + \sin61^\circ - \sin 11^\circ - \sin25^\circ = \cos 7^\circ`
+
+114. :math:`\sin 12^\circ\sin48^\circ\sin54^\circ = \frac{1}{8}`
+
+115. :math:`\cot 142\frac{1}{2}^\circ = \sqrt{2} + \sqrt{3} - \sqrt{2} - \sqrt{6}`
+
+116. :math:`\sin^248^\circ - \cos^212^\circ = -\frac{\sqrt{5} + 1}{8}`
+
+117. :math:`4(\sin 24^\circ + \cos6^\circ) = \sqrt{3} + \sqrt{15}`
+
+118. :math:`\cot6^\circ\cot42^\circ\cot66^\circ\cot78^\circ = 1`
+
+119. :math:`\tan12^\circ\tan24^\circ\tan48^\circ\tan84^\circ = 1`
+
+120. :math:`\sin6^\circ\sin42^\circ\sin66^\circ\sin78^\circ = \frac{1}{16}`
+
+121. :math:`\sin\frac{\pi}{5}\sin\frac{2\pi}{5}\sin\frac{3\pi}{5}\sin\frac{4\pi}{5} = \frac{5}{16}`
+
+122. :math:`\cos36^\circ\cos72^\circ\cos108^\circ\cos144^\circ = \frac{1}{16}`
+
+123. :math:`\cos\frac{\pi}{15}\cos\frac{2\pi}{15}\cos\frac{3\pi}{15}\cos\frac{4\pi}{15}\cos\frac{5\pi}{15}\cos\frac{6\pi}{15}\cos\frac{7\pi}{15}
+     = \frac{1}{2^7}`
+
+124. :math:`\cos\frac{\pi}{65}\cos\frac{2\pi}{65}\cos\frac{4\pi}{65}\cos\frac{8\pi}{65}\cos\frac{16\pi}{65}\cos\frac{32\pi}{65} =
+     \frac{1}{64}`
+
+125. If :math:`\tan \frac{A}{2} = \sqrt{\frac{a - b}{a + b}}\tan \frac{B}{2},` prove that, :math:`\cos A = \frac{a\cos B + b}{a +
+     b\cos B}`
+
+126. If :math:`\tan \frac{A}{2} \ = \sqrt{\frac{1 - e}{1 + e}}\tan\frac{B}{2},` prove that :math:`\cos B = \frac{\cos A - e}{1 -
+     e\cos A}`
+
+127. If :math:`\sin A + \sin B = a` and :math:`\cos A + \cos B = b,` prove that :math:`\sin(A + B) = \frac{2ab}{a^2 + b^2}`
+
+128. If :math:`\sin A + \sin B = a` and :math:`\cos A + \cos B = b,` prove that :math:`\cos(A - B) = \frac{1}{2}(a^2 + b^2 - 2)`
+
+129. If :math:`A` and :math:`B` be two different roots of equation :math:`a\cos\theta + b\sin\theta = c,` prove that
+
+     i. :math:`\tan(A + B) = \frac{2ab}{a^2 - b^2}`
+
+     ii. :math:`\cos(A + B) = \frac{a^2 - b^2}{a^2 + b^2}`
+
+130. If :math:`\cos A + \cos B = \frac{1}{3}` and :math:`\sin A + \sin B = \frac{1}{4},` prove that :math:`\cos \frac{A - B}{2} =
+     \pm\frac{5}{24}`
+
+131. If :math:`2\tan \frac{A}{2} = \tan \frac{B}{2},` prove that :math:`\cos A = \frac{3 + 5\cos B}{5 + 3\cos B}`
+
+132. If :math:`\sin A = \frac{4}{5}` and :math:`\cos B = \frac{5}{13},` prove that one value of :math:`\cos \frac{A - B}{2} =
+     \frac{8}{\sqrt{65}}`
+
+133. If :math:`\sec(A + B) + \sec(A - B) = 2\sec A,` prove that :math:`\cos B = \pm \sqrt{2}\cos \frac{B}{2}`
+
+134. If :math:`\cos \theta = \frac{\cos\alpha\cos\beta}{1 - \sin\alpha\sin\beta},` prove that one of the values of :math:`\tan
+     \frac{\theta}{2}` is :math:`\frac{\tan \frac{\alpha}{2} - \tan\frac{\beta}{2}}{1 - \tan\frac{\alpha}{2}\tan\frac{\beta}{2}}`
+
+135. If :math:`\tan\alpha = \frac{\sin\theta\sin\phi}{\cos\theta + \cos\phi},` prove that one of the values of
+     :math:`\tan\frac{\alpha}{2}` is :math:`\tan\frac{\theta}{2}\tan\frac{\phi}{2}`
+
+136. If :math:`\cos\theta = \frac{\cos\alpha + \cos\beta}{1 + \cos\alpha\cos\beta},` prove that one of the values of
+     :math:`\tan\frac{\theta}{2}` is :math:`\tan\frac{\alpha}{2}\tan\frac{\beta}{2}`
