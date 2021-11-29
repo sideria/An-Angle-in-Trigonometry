@@ -24,7 +24,7 @@ We have :math:`2\sin A\cos B = \sin(A + B)\sin(A - B)`
 
 Substituting for :math:`A + B = C, A - B = D` so that :math:`A = \frac{C + D}{2}` and :math:`B = \frac{C- D}{2}`
 
-:math:`\sin C + \sin D = 2\sin \frac{C + D}{2}\sin \frac{C - D}{2}`
+:math:`\sin C + \sin D = 2\sin \frac{C + D}{2}\cos \frac{C - D}{2}`
 
 We also have :math:`2\cos A\sin B = \sin(A + B) - \sin (A - B)`
 

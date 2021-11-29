@@ -89,3 +89,230 @@ Multiple and Submultiple Angles Solutions
    L.H.S. :math:`= \frac{1}{\sin 2A} + \frac{\cos 2A}{\sin 2A} = \frac{1 + \cos 2A}{\sin 2A} = \frac{2\cos^2A}{2\sin A\cos A}`
 
    :math:`= \cot A =` R.H.S.
+
+10. We have to prove that :math:`\frac{1 - \cos A + \cos B - \cos(A + B)}{1 + \cos A - \cos B - \cos(A + B)} =
+    \tan\frac{A}{2}\cot\frac{B}{2}`
+
+    L.H.S. :math:`= \frac{1 - \cos A + \cos B - \cos(A + B)}{1 + \cos A - \cos B - \cos(A + B)}`
+
+    :math:`= \frac{2\sin^2\frac{A}{2} + 2\sin\frac{A}{2}\sin\left(\frac{A}{2} + B\right)}{2\cos^2\frac{A}{2} -
+    2\cos\frac{A}{2}\cos\left(\frac{A}{2} + B\right)}`
+
+    :math:`= \frac{\sin\frac{A}{2}\left(\sin\frac{A}{2} + \sin \left(\frac{A}{2} +
+    B\right)\right)}{\cos\frac{A}{2}\left(\cos\frac{A}{2} - \cos\left(\frac{A}{2} + B\right)\right)}`
+
+    :math:`= \frac{\tan\frac{A}{2}\left(2\sin\left(\frac{A + B}{2}\right)\cos\frac{B}{2}\right)}{2\sin\left(\frac{A +
+    B}{2}\right)\sin\frac{B}{2}}`
+
+    :math:`= \tan\frac{A}{2}\cot\frac{B}{2}`
+
+11. We have to prove that :math:`\frac{\cos A}{1 \mp \sin A} = \tan\left(45^\circ \pm \frac{A}{2}\right)`
+
+    First considering :math:`-` sign on L.H.S.,
+
+    L.H.S. :math:`= \frac{\cos A}{1 - \sin A} = \frac{\cos^2\frac{A}{2} - \sin^2\frac{A}{2}}{\left(\cos\frac{A}{2} -
+    \sin\frac{A}{2}\right)^2}`
+
+    Dividing numerator and denomiator by :math:`\cos^2\frac{A}{2}`
+
+    :math:`= \frac{1 - \tan^2\frac{A}{2}}{\left(1 - \tan\frac{A}{2}\right)^2}`
+
+    :math:`= \frac{1 + \tan\frac{A}{2}}{1 - \tan\frac{A}{2}}`
+
+    :math:`= \frac{\tan45^\circ + \tan\frac{A}{2}}{1 - \tan45^\circ\tan\frac{A}{2}} = \tan\left(45^\circ + \frac{A}{2}\right)`
+
+    Similarly by considering the :math:`+` sign we can prove the other sign.
+
+12. We have to prove that :math:`\frac{\sec 8A - 1}{\sec 4A - 1} = \frac{\tan 8A}{\tan 2A}`
+
+    L.H.S. :math:`= \frac{\sec 8A - 1}{\sec 4A - 1} = \frac{1 - \cos 8A}{1 - \cos 4A}.\frac{\cos4A}{\cos8A}`
+
+    :math:`= \frac{2\sin^24A}{2\sin^22A}.\frac{\cos 4A}{\cos8A} = \frac{(2\sin4A\cos4A).\sin4A}{2\sin^22A.\cos8A}`
+
+    :math:`= \frac{\sin8A}{\cos8A}.\frac{\sin4A}{2\sin^22A} = \frac{\tan8A. 2\sin2A\cos2A}{2\sin^22A} = \frac{\tan8A}{\tan2A} =`
+    R.H.S.
+
+13. We have to prove that :math:`\frac{1 + \tan^2(45^\circ - A)}{1 - \tan^2(45^\circ - A)} = \cosec 2A`
+
+    L.H.S. :math:`= \frac{1 + \tan^2(45^\circ - A)}{1 - \tan^2(45^\circ - A)}`
+
+    :math:`= \frac{\cos^2(45^\circ - A) + \sin^2(45^\circ - A)}{\cos^2(45^\circ - A) - \sin^2(45^\circ - A)}`
+
+    :math:`= \frac{1}{\cos(90^\circ - 2A)} = \frac{1}{\sin2A} = \cosec2A =` R.H.S.
+
+14. We have to prove that :math:`\frac{\sin A + \sin B}{\sin A - \sin B} = \frac{\tan \frac{A + B}{2}}{\tan \frac{A - B}{2}}`
+
+    L.H.S. :math:`= \frac{\sin A + \sin B}{\sin A - \sin B} = \frac{2\sin\frac{A + B}{2}\cos\frac{A - B}{2}}{2\cos\frac{A +
+    B}{2}\sin\frac{A - B}{2}}`
+
+    :math:`= \frac{\tan \frac{A + B}{2}}{\tan \frac{A - B}{2}} =` R.H.S.
+
+15. We have to prove that :math:`\frac{\sin^2A - \sin^2B}{\sin A\cos A - \sin B\cos B} = \tan(A + B)`
+
+    L.H.S. :math:`= \frac{2(\cos^2B - \cos^2A)}{\sin2A - \sin2B} = \frac{\cos2B - \cos2A}{\sin2A - \sin2B}`
+
+    :math:`= \frac{\sin(A + B)\sin(A - B)}{\cos(A + B)\sin(A - B)} = \tan(A + B) =` R.H.S.
+
+16. We have to prove that :math:`\tan\left(\frac{\pi}{4} + A\right) - \tan\left(\frac{\pi}{4} - A\right) = 2\tan 2A`
+
+    L.H.S. :math:`= \frac{1 + \tan A}{1 - \tan A} - \frac{1 - \tan A}{1 + \tan A}`
+
+    :math:`= \frac{(1 + \tan A)^2 - (1 - \tan A)^2}{1 - \tan^2A} = \frac{4\tan A}{1 - \tan^2A}`
+
+    :math:`= \frac{4\sin A}{\cos A}. \frac{\cos^2A}{\cos^2A - \sin^2A} = \frac{2\sin2A}{\cos2A} = 2\tan2A =` R.H.S.
+
+17. We have to prove that :math:`\frac{\cos A + \sin A}{\cos A - \sin A} - \frac{\cos A - \sin A}{\cos A + \sin A} = 2\tan 2A`
+
+    L.H.S. :math:`= \frac{(\cos A + \sin A)^2 - (\cos A - \sin A)^2}{\cos^2A - \sin^2A}`
+
+    :math:`= \frac{4\cos A\sin A}{\cos 2A} = \frac{2\sin 2A}{\cos 2A} = 2\tan2A =` R.H.S.
+
+18. We have to prove that :math:`\cot (A + 15^\circ) - \tan(A - 15^\circ) = \frac{4\cos 2A}{1 + 2\sin 2A}`
+
+    L.H.S. :math:`= \frac{1 - \tan(A + 15^\circ)\tan(A - 15^\circ)}{\tan(A + 15^\circ)}`
+
+    :math:`= \frac{\cos(A + 15^\circ)\cos(A - 15^\circ) - \sin(A + 15^\circ)\sin(A - 15^\circ)}{\cos(A + 15^\circ)\cos(A -
+    15^\circ)}.\frac{\cos(A + 15^\circ)}{\sin(A + 15^\circ)}`
+
+    :math:`= \frac{\cos 2A}{\sin(A + 15^\circ)\cos(A - 15^\circ)} = \frac{2\cos 2A}{2\sin(A + 15^\circ)\cos(A - 15^\circ)}`
+
+    :math:`= \frac{2\cos 2A}{\sin2A + \sin30^\circ} = \frac{4\cos 2A}{1 + \sin 2A} =` R.H.S.
+
+19. We have to prove that :math:`\frac{\sin A + \sin2A}{1 + \cos A + \cos 2A} = \tan A`
+
+    L.H.S. :math:`= \frac{\sin A + 2\sin A\cos A}{\cos A + 2\cos^2A} = \frac{\sin A(1 + 2\cos A)}{\cos A(1 + 2\cos A)}`
+
+    :math:`= \tan A =` R.H.S.
+
+20. We have to prove that :math:`\frac{1 + \sin A - \cos A }{1 + \sin A + cos A} = \tan \frac{A}{2}`
+
+    L.H.S. :math:`= \frac{2\sin^2\frac{A}{2} + 2\sin\frac{A}{2}\cos\frac{A}{2}}{2\cos^2\frac{A}{2} + 2\sin\frac{A}{2}\cos\frac{A}{2}}`
+
+    :math:`= \frac{\sin\frac{A}{2}(\sin\frac{A}{2} + \cos\frac{A}{2})}{\cos\frac{A}{2}(\sin\frac{A}{2} + \cos\frac{A}{2})}`
+
+    :math:`= \tan\frac{A}{2} =` R.H.S.
+
+21. We have to prove that :math:`\frac{\sin(n + 1)A - \sin(n - 1)A}{\cos(n + 1)A + 2\cos nA + \cos(n - 1)A} = \tan \frac{A}{2}`
+
+    L.H.S. :math:`= \frac{2\cos nA \sin A}{2\cos nA \cos A + 2\cos nA} = \frac{\sin A}{1 + \cos A}`
+
+    :math:`= \frac{2\sin\frac{A}{2}\cos\frac{A}{2}}{2\cos^2\frac{A}{2}} = \tan \frac{A}{2} =` R.H.S.
+
+22. We have to prove that :math:`\frac{\sin(n + 1)A + 2\sin nA + \sin(n - 1)A}{\cos(n - 1) - \cos(n + 1)A} = \cot \frac{A}{2}`
+
+    L.H.S. :math:`= \frac{2\sin nA\cos A + 2\sin nA}{2\sin nA\sin A}`
+
+    :math:`= \frac{\cos A + 1}{\sin A} = \frac{2\cos^2\frac{A}{2}}{2\sin\frac{A}{2}\cos\frac{A}{2}}`
+
+    :math:`= \cot\frac{A}{2} =` R.H.S.
+
+23. We have to prove that :math:`\sin(2n + 1)A\sin A = \sin^2(n + 1)A - \sin^2nA`
+
+    R.H.S. :math:`= (\sin(n + 1)A + \sin nA)(\sin(n + 1)A - \sin nA)`
+
+    :math:`= (2\sin\frac{2n + 1}{2}A\cos \frac{A}{2})(2\cos\frac{2n + 1}{2}A\sin \frac{A}{2})`
+
+    :math:`= 2\sin\frac{2n + 1}{2}A\cos\frac{2n + 1}{2}A.2\cos \frac{A}{2}\sin\frac{A}{2}`
+
+    :math:`= \sin(2n + 1)A\sin A =` L.H.S.
+
+24. We have to prove that :math:`\frac{\sin(A + 3B) + \sin(3A + B)}{\sin 2A + \sin 2B} = 2\cos(A + B)`
+
+    L.H.S. :math:`= \frac{\sin(A + 3B) + \sin(3A + B)}{\sin 2A + \sin 2B}`
+
+    :math:`= \frac{2\sin(2A + 2B)\cos(A - B)}{2\sin(A + B)\cos(A - B)}`
+
+    :math:`= \frac{2\sin(A + B)\cos(A + B)}{\sin(A + B)} = 2\cos(A + B) =` R.H.S.
+
+25. We have to prove that :math:`\sin 3A + \sin 2A - \sin A = 4\sin A\cos \frac{A}{2}\cos \frac{3A}{2}`
+
+    L.H.S. :math:`= 2\cos 2A\sin A + 2\sin A\cos A = 2\sin A(\cos 2A + \cos A)`
+
+    :math:`= 2\sin A\cos \frac{3A}{2}\cos\frac{A}{2} =` R.H.S.
+
+26. We have to prove that :math:`\tan 2A = (\sec 2A + 1)\sqrt{\sec^2A - 1}`
+
+    R.H.S. :math:`= \frac{1 + \cos 2A}{\cos 2A}\sqrt{\frac{1 - \cos^2A}{\cos^2A}}`
+
+    :math:`= \frac{2\cos^2A}{2\cos^2A - 1}.\sqrt{\frac{\sin^2A}{\cos^2A}}`
+
+    :math:`= \frac{2}{2 - \sec^2A}.tan A = \frac{2\tan A}{1 - \tan^2A} = \frac{\tan A + \tan A}{1 - \tan A.\tan A}`
+
+    :math:`=\tan 2A =` R.H.S.
+
+27. We have to prove that :math:`\cos^32A + 3\cos 2A = 4(\cos^6A - \sin^6A)`
+
+    L.H.S. :math:`= (\cos^2A - \sin^2A)^3 + 3(\cos^2A - \sin^2A)`
+
+    :math:`= \cos^6A -3\cos^4A\sin^2A + 3\cos^2A\sin^4A - \sin^6A + 3(\cos^2A - \sin^2A)`
+
+    :math:`= \cos^6A -3\cos^4A(1 - \cos^2A) + 3(1 - \sin^2A)\sin^4A - \sin^6A + 3(\cos^2A - \sin^2A)`
+
+    :math:`= 4(\cos^6A - \sin^6A) =` R.H.S.
+
+28. We have to prove that :math:`1 + \cos^22A = 2(\cos^4A + \sin^4A)`
+
+    L.H.S. :math:`= 1 + (\cos^2A - \sin^2A)^2 = 1 - 2\sin^2A\cos^2A + \cos^4A + \sin^4A`
+
+    :math:`= 1 - 2\sin^2A(1 - \sin^2A) + \cos^4A + \sin^4A`
+
+    :math:`= 1 - 2\sin^2A + 2\sin^4A + \cos^4A + \sin^4A`
+
+    :math:`= (1 - \sin^2A)^2 + \cos^4A + 2\sin^4A = 2(\cos^4A + \sin^4A) =` R.H.S.
+
+29. We have to prove that :math:`\sec^2A(1 + \sec2A) = 2\sec2A`
+
+    L.H.S. :math:`= \frac{1}{\cos^2A}.\frac{\cos2A + 1}{\cos 2A}`
+
+    :math:`= \frac{1}{\cos^2A}.\frac{2\cos^2A}{\cos 2A} = 2\sec2A =` R.H.S.
+
+30. We have to prove that :math:`\cosec A - 2\cot 2A\cos A = 2\sin A`
+
+    L.H.S. :math:`= \frac{1}{\sin A} - \frac{2\cos 2A\cos A}{\sin 2A}`
+
+    :math:`= \frac{1}{\sin A} - \frac{2\cos 2A\cos A}{2\sin A\cos A}`
+
+    :math:`\frac{1}{\sin A} - \frac{\cos 2A}{\sin A} = \frac{1 - \cos 2A}{\sin A}`
+
+    :math:`= \frac{2\sin^2A}{\sin A} = 2\sin A =` R.H.S.
+
+31. We have to prove that :math:`\cot A = \frac{1}{2}\left(\cot\frac{A}{2} - \tan\frac{A}{2}\right)`
+
+    R.H.S. :math:`= \frac{1}{2}\left(\frac{1 - \tan^2\frac{A}{2}}{\tan\frac{A}{2}}\right)`
+
+    :math:`= \frac{1}{2}\left(\frac{\cos^2\frac{A}{2} - \sin^2\frac{A}{2}}{\cos^2\frac{A}{2}}\right).\frac{\cos\frac{A}{2}}{\sin
+    \frac{A}{2}}`
+
+    :math:`= \frac{1}{2}\frac{\cos A}{\cos\frac{A}{2}}.\frac{1}{\sin\frac{A}{2}} = \cot A =` L.H.S.
+
+32. We have to prove that :math:`\sin A\sin(60^\circ - A)\sin(60^\circ + A) = \frac{1}{4}\sin 3A`
+
+    L.H.S. :math:`=\sin A.\frac{\cos 2A - \cos 120^\circ}{2} = \frac{\sin A\left(1 - 2\sin^2A + \frac{1}{2}\right)}{2}`
+
+    :math:`= \frac{3\sin A - 4\sin^3A}{4} = \frac{1}{4}\sin 3A =` R.H.S.
+
+33. We have to prove that :math:`\cos A\cos(60^\circ - A)\cos(60^\circ + A) = \frac{1}{4}\cos 3A`
+
+    L.H.S. :math:`= \frac{\cos A}{2}\left(\cos 2A + \cos120^\circ\right) = \frac{\cos A}{2}\left(2\cos^2A - 1 - \frac{1}{2}\right)`
+
+    :math:`= \frac{4\cos^3A - 3\cos A}{4} = \frac{1}{4}\cos 3A =` R.H.S.
+
+34. We have to prove that :math:`\cot A + \cot(60^\circ + A) - \cot(60^\circ - A) = 3\cot 3A`
+
+    L.H.S. :math:`= \frac{1}{\tan A} + \frac{1}{\tan(60^\circ + A)} - \frac{1}{\tan(60^\circ - A)}`
+
+    :math:`= \frac{1}{\tan A} + \frac{1 - \sqrt{3}\tan A}{\sqrt{3} + \tan A} - \frac{1 + \sqrt{3}\tan A}{\sqrt{3} - \tan A}`
+
+    :math:`= \frac{1}{\tan A} - \frac{8\tan A}{3 - \tan^2A} = \frac{3(1 - 3\tan^2A)}{3\tan A - \tan^3A} = \frac{3}{\tan 3A}`
+
+    :math:`= 3\cot 3A =` R.H.S.
+
+35. We have to prove that :math:`\cos 4A = 1 - 8\cos^2A + 8\cos^4A`
+
+    L.H.S. :math:`= \cos 4A = 2\cos^22A - 1 = 2(2\cos^2A - 1)^2 - 1`
+
+    :math:`=2(4\cos^4A - 4\cos^2A + 1) - 1`
+
+    :math:`= 1 - 8\cos^2A + 8\cos^4A =` R.H.S.
+
+36.

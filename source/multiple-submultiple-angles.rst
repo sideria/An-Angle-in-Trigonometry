@@ -224,13 +224,13 @@ Prove that
 
 12. :math:`\frac{\sec 8A - 1}{\sec 4A - 1} = \frac{\tan 8A}{\tan 2A}`
 
-13. :math:`\frac{1 - \tan^2(45^\circ - A)}{1 - \tan^2(45^\circ - A)} = \cosec 2A`
+13. :math:`\frac{1 + \tan^2(45^\circ - A)}{1 - \tan^2(45^\circ - A)} = \cosec 2A`
 
 14. :math:`\frac{\sin A + \sin B}{\sin A - \sin B} = \frac{\tan \frac{A + B}{2}}{\tan \frac{A - B}{2}}`
 
 15. :math:`\frac{\sin^2A - \sin^2B}{\sin A\cos A - \sin B\cos B} = \tan(A + B)`
 
-16. :math:`\tan\left(\frac{\pi}{4} - A\right)\tan\left(\frac{\pi}{4} - A\right) = 2\tan 2A`
+16. :math:`\tan\left(\frac{\pi}{4} + A\right) - \tan\left(\frac{\pi}{4} - A\right) = 2\tan 2A`
 
 17. :math:`\frac{\cos A + \sin A}{\cos A - \sin A} - \frac{\cos A - \sin A}{\cos A + \sin A} = 2\tan 2A`
 
@@ -238,11 +238,11 @@ Prove that
 
 19. :math:`\frac{\sin A + \sin2A}{1 + \cos A + \cos 2A} = \tan A`
 
-20. :math:`\frac{1 + \cos A - \sin A}{1 + \sin A + cos A} = \tan \frac{A}{2}`
+20. :math:`\frac{1 + \sin A - \cos A }{1 + \sin A + cos A} = \tan \frac{A}{2}`
 
 21. :math:`\frac{\sin(n + 1)A - \sin(n - 1)A}{\cos(n + 1)A + 2\cos nA + \cos(n - 1)A} = \tan \frac{A}{2}`
 
-22. :math:`\frac{\sin(n + 1)A2\sin nA + \sin(n - 1)A}{\cos(n - 1) - \cos(n + 1)A} = \cot \frac{A}{2}`
+22. :math:`\frac{\sin(n + 1)A + 2\sin nA + \sin(n - 1)A}{\cos(n - 1) - \cos(n + 1)A} = \cot \frac{A}{2}`
 
 23. :math:`\sin(2n + 1)A\sin A = \sin^2(n + 1)A - \sin^2nA`
 
@@ -252,7 +252,7 @@ Prove that
 
 26. :math:`\tan 2A = (\sec 2A + 1)\sqrt{\sec^2A - 1}`
 
-27. :math:`\cos^22A + 3\cos 2A = 4(\cos^6A - \sin^6A)`
+27. :math:`\cos^32A + 3\cos 2A = 4(\cos^6A - \sin^6A)`
 
 28. :math:`1 + \cos^22A = 2(\cos^4A + \sin^4A)`
 
@@ -266,7 +266,7 @@ Prove that
 
 33. :math:`\cos A\cos(60^\circ - A)\cos(60^\circ + A) = \frac{1}{4}\cos 3A`
 
-34. :math:`\cot A + \cot(60^\circ - A) - \cot(60^\circ + A) = 3\cot 3A`
+34. :math:`\cot A + \cot(60^\circ + A) - \cot(60^\circ - A) = 3\cot 3A`
 
 35. :math:`\cos 4A = 1 - 8\cos^2A + 8\cos^4A`
 
