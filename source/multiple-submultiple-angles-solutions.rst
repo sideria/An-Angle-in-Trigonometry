@@ -315,4 +315,122 @@ Multiple and Submultiple Angles Solutions
 
     :math:`= 1 - 8\cos^2A + 8\cos^4A =` R.H.S.
 
-36.
+36. We have to prove that :math:`\sin 4A = 4\sin A\cos^3A - 4\cos A\sin^3A`
+
+    L.H.S. :math:`= 2\sin 2A\cos 2A = 4\sin A\cos A(\cos^2A - \sin^2A)`
+
+    :math:`= 4\sin A\cos^3A - 4\cos A\sin^3A =` R.H.S.
+
+37. We have to prove that :math:`\cos 6A = 32\cos^6A - 48\cos^4A + 18\cos^2A - 1`
+
+    L.H.S. :math:`= \cos 6A = (\cos^23A - \sin^23A) = (4\cos^3A - 3\cos A)^2 - (3\sin A - 4\sin^3A)^2`
+
+    :math:`= 16\cos^6A + 9\cos^2A -24\cos^4A - 9\sin^2A - 16\sin^6A + 24\sin^4A`
+
+    :math:`= 16\cos^6A + 9\cos^2A -24\cos^4A - 9(1 - \cos^2A) - 16(1 - \cos^2A)^3 + 24(1 - \cos^2A)^2`
+
+    :math:`= 32\cos^6A - 48\cos^4A + 18\cos^2A - 1 =` R.H.S.
+
+38. We have to prove that :math:`\tan 3A\tan 2A\tan A = \tan 3A - \tan 2A - \tan A`
+
+    Rewriting this as following:
+
+    :math:`\tan A + \tan 2A = \tan 3A(1 - \tan A\tan 2A)\Rightarrow \frac{\tan A + \tan 2A}{1 - \tan A\tan 2A} = \tan 3A`
+
+    :math:`\Rightarrow \tan (A + 2A) = \tan 3A`
+
+    Hence, proved.
+
+39. We have to prove that :math:`\frac{2\cos2^nA + 1}{2\cos A + 1} = (2\cos A - 1)(2\cos 2A - 1)(2\cos2^2A - 1)\ldots(2\cos2^{n -
+    1} - 1)`
+
+    L.H.S. :math:`= \frac{2\cos2^nA + 1}{2\cos A + 1}`
+
+    Multiplying and dividing by :math:`2\cos A - 1`
+
+    :math:`= (2\cos A - 1)\frac{2\cos2^nA + 1}{4\cos^2A - 1} = (2\cos A - 1)\frac{2\cos2^nA + 1}{2\cos2A + 1}`
+
+    Multiplying and dividing by :math:`2\cos2A - 1`
+
+    :math:`= (2\cos A - 1)(2\cos2A - 1)\frac{2\cos2^nA + 1}{4\cos^22A - 1}`
+
+    :math:`= (2\cos A - 1)(2\cos2A - 1)\frac{2\cos2^nA + 1}{2\cos2^2A + 1}`
+
+    Proceeding similarly we obtain the R.H.S.
+
+40. Given :math:`\tan A= \frac{1}{7}, \sin B = \frac{1}{\sqrt{10}}`
+
+    :math:`\therefore \cos B = \frac{3}{\sqrt{10}}, \tan B = \frac{1}{3}`
+
+    :math:`\tan(A + 2B) = \frac{\tan A + \tan 2B}{1 - \tan A\tan 2B}`
+
+    :math:`= \frac{\tan A + \frac{2\tan B}{1 - \tan^2B}}{1 - \tan A.\frac{2\tan B}{1 - \tan^2B}}`
+
+    :math:`= \frac{\frac{1}{7} + \frac{2\frac{1}{3}}{1 - \frac{1}{9}}}{1 - \frac{1}{7}.\frac{2\frac{1}{3}}{1 - \frac{1}{9}}}`
+
+    :math:`= 1 \therefore A + 2B = \frac{\pi}{4}`
+
+41. We have to prove that :math:`\tan\left(\frac{\pi}{4} + A\right) + \tan\left(\frac{\pi}{4} - A\right) = 2\sec2A`
+
+    L.H.S. :math:`= \frac{1 + \tan A}{1 - \tan A} + \frac{1 - \tan A}{1 + \tan A}`
+
+    :math:`= \frac{(1 + \tan A)^2 + (1 - \tan A)^2}{1 - \tan^2A} = \frac{2 + 2\tan^2A}{1 - \tan^2A}`
+
+    :math:`= \frac{2(\sin^2A + \cos^2A)}{\cos^2A - \sin^2A} = \frac{2}{\cos 2A} = 2\sec 2A =` R.H.S.
+
+42. We have to prove that :math:`\sqrt{3}\cosec 20^\circ - \sec 20^\circ = 4`
+
+    L.H.S. :math:`= \frac{\sqrt{3}}{\sin20^\circ} - \frac{1}{\cos20^\circ}`
+
+    :math:`= \frac{4(\frac{\sqrt{3}}{2})\cos20^\circ - \frac{1}{2}\sin20^\circ}{2\sin20^\circ\cos^20\circ}`
+
+    :math:`= \frac{4(\sin(50^\circ - 20^\circ))}{\sin40^\circ} = 4 =` R.H.S.
+
+43. We have to prove that :math:`\tan A + 2\tan 2A + 4\tan 4A + 8\cot 8A = \cot A`
+
+    :math:`\tan A - \cot A = \frac{\sin^2A - \cos^2A}{\sin A\cos A} = -\frac{2\cos 2A}{\sin 2A} = -2\cot 2A`
+
+    Similarly, :math:`2\tan 2A - 2\cot 2A = -4\cot 4A`
+
+    and :math:`4\tan 4A - 4\cot 4A = -8\cot 8A`
+
+    Thus, :math:`\tan A + 2\tan 2A + 4\tan 4A + 8\cot 8A = \cot A`
+
+44. We have to prove that :math:`\cos^2A + \cos^2\left(\frac{2\pi}{3} - A\right) + \cos^2\left(\frac{2\pi}{3} + A\right) =
+    \frac{3}{2}`
+
+    :math:`\Rightarrow 2\cos^2A + 2\cos^2\left(\frac{2\pi}{3} - A\right) + 2\cos^2\left(\frac{2\pi}{3} + A\right) = 3`
+
+    L.H.S. :math:`= \cos 2A + 1 + \cos\left(\frac{4\pi}{3} - 2A\right) + 1 + \cos\left(\frac{4\pi}{3} + 2A\right) + 1`
+
+    :math:`= 3 + \cos2A + 2\cos\left(\frac{4\pi}{3}\right)\cos2A = 3 =` R.H.S.
+
+45. :math:`2\sin^2A + 4\cos (A + B)\sin A\sin B + \cos2(A + B)`
+
+    :math:`= 2\sin^2A + 2\cos(A + B)2\sin A\sin B + \cos2(A + B)`
+
+    :math:`= 2\sin^2A + 2\cos(A + B)[\cos(A - B) - \cos(A + B)] + \cos2(A + B)`
+
+    :math:`= 2\sin^2A + 2\cos(A + B)\cos(A - B) - 2\cos^2(A + B) + \cos2(A + B)`
+
+    :math:`= 2\sin^2A + 2(\cos^2A - \sin^2B) - 2\cos^2(A + B) + 2\cos^2(A + B) - 1`
+
+    :math:`= 2(\sin^2A + \cos^2A) -2\sin^2B - 1 = 1 -2\sin^2B` which is independent of :math:`A`
+
+46. Given, :math:`\cos A = \frac{1}{2}\left(a + \frac{1}{a}\right)`
+
+    :math:`\cos 2A = 2\cos^2A - 1 = 2.\frac{1}{4}\left(a + \frac{1}{a}\right)^2 - 1`
+
+    :math:`= \frac{1}{2}\left(a^2 + \frac{1}{a^2}\right)`
+
+47. We have to prove that :math:`\cos^2A + \sin^2A\cos 2B = \cos^2B + \sin^2B\cos 2A`
+
+    :math:`\Rightarrow \cos^2A - \cos^2B = \sin^2B\cos2A - \sin^2A\cos2B`
+
+    R.H.S. :math:`= \sin^2B\cos2A - \sin^2A\cos2B`
+
+    :math:`= \sin^2B(\cos^2A - \sin^2A) - \sin^2A(\cos^2B - \sin^2B)`
+
+    :math:`= \cos^2A\sin^2B - \sin^2A\cos^2B = \cos^2A(1 - \cos^2B) - (1 - \cos^2A)\cos^2B`
+
+    :math:`= \cos^2A - \cos^2B =` R.H.S.
