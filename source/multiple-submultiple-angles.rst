@@ -310,17 +310,17 @@ Prove that
 
 52. :math:`\frac{1 +\sin 2A}{\cos2A} = \frac{\cos A + \sin A}{\cos A - \sin A} = \tan\left(\frac{\pi}{4} + A\right)`
 
-53. :math:`\cos^4A - \sin^6A = \cos2A\left(1 - \frac{1}{4}\sin^22A\right)`
+53. :math:`\cos^6A - \sin^6A = \cos2A\left(1 - \frac{1}{4}\sin^22A\right)`
 
 54. :math:`\cos^2A + \cos^2\left(\frac{\pi}{3} + A\right) + \cos^2\left(\frac{\pi}{3} - A\right)= \frac{3}{2}`
 
-55. :math:`(1 + \sec2A)(1+sec2^2A) + (1 + sec2^3A \ldots (1 + \sec2^nA) = \frac{\tan2^nA}{\tan A}`
+55. :math:`(1 + \sec2A)(1 + \sec2^2A)(1 + \sec2^3A) \ldots (1 + \sec2^nA) = \frac{\tan2^nA}{\tan A}`
 
 56. :math:`\frac{\sin2^nA}{\sin A} = 2^n\cos A\cos 2A\cos 2^2A\ldots\cos2^{n - 1}A`
 
-57. :math:`3(\sin A - \cos A) + 6(\sin A + \cos A)^2 + 4(\sin^6A + \cos^6A) = 13`
+57. :math:`3(\sin A - \cos A)^4 + 6(\sin A + \cos A)^2 + 4(\sin^6A + \cos^6A) = 13`
 
-58. :math:`2(\sin^6A + \cos^6A) - 3(\sin^4A + \cos^4A + 1) = 0`
+58. :math:`2(\sin^6A + \cos^6A) - 3(\sin^4A + \cos^4A) + 1 = 0`
 
 59. :math:`\cos^2A + \cos^2(A + B) -2\cos A\cos B\cos(A + B)` if independent of :math:`A.`
 
@@ -330,7 +330,7 @@ Prove that
 
 62. :math:`\sin^2A + \sin^3\left(\frac{2\pi}{3} + A\right) + \sin^3\left(\frac{4\pi}{3} + A\right) = -\frac{3}{4}\sin 3A`
 
-63. :math:`(\cos^310^\circ + \sin^320^\circ) = 3(\cos 10\circ + \sin 20^\circ)`
+63. :math:`4(\cos^310^\circ + \sin^320^\circ) = 3(\cos 10\circ + \sin 20^\circ)`
 
 64. :math:`\sin A\cos^3A - \cos A\sin^3A = \frac{1}{4}\sin 4A`
 
@@ -338,13 +338,13 @@ Prove that
 
 66. :math:`\sin A\sin(60^\circ + A)\sin(A + 120^\circ) = \sin 3A`
 
-67. :math:`\cot A + \cot(60^\circ + A) + \cot(120^\circ - A) = 3\cot 3A`
+67. :math:`\cot A + \cot(60^\circ + A) + \cot(120^\circ + A) = 3\cot 3A`
 
 68. :math:`\cos 5A = 16\cos^5A - 20\cos^3A + 5\cos A`
 
 69. :math:`\sin 5A = 5\sin A - 20\sin^3A + 16\sin^5A`
 
-70. :math:`\cos 4A - \cos 4A = 8(\cos A - \cos B)(\cos A + \cos B)(\cos A - \sin B)(\cos A + \sin B)`
+70. :math:`\cos 4A - \cos 4B = 8(\cos A - \cos B)(\cos A + \cos B)(\cos A - \sin B)(\cos A + \sin B)`
 
 71. :math:`\tan 4A = \frac{4\tan A - 4\tan^3A}{1 - 6\tan^2A + \tan^4A}`
 
