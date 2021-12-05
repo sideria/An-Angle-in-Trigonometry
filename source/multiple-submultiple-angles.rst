@@ -359,7 +359,7 @@ Prove that
 76. If :math:`\tan^2A = 1 + 2\tan^2B,` prove that :math:`\cos 2B = 1 + 2\cos 2A`
 
 77. If :math:`A` and :math:`B` lie between :math:`0` and :math:`\frac{\pi}{2}` and :math:`\cos 2A = \frac{3\cos 2B - 1}{3 - \cos
-    2A},` prove that :math:`\tan A = \sqrt{3}\tan B`
+    2B},` prove that :math:`\tan A = \sqrt{2}\tan B`
 
 78. If :math:`\tan B = 3\tan A,` prove that :math:`\tan(A + B) = \frac{2\sin 2B}{1 + \cos 2B}`
 
@@ -371,7 +371,7 @@ Prove that
 
 82. If :math:`A = \frac{\pi}{15},` prove that :math:`\cos2A.\cos4A.\cos8A.\cos14A = \frac{1}{16}`
 
-83. If :math:`\tan A - \tan B = \sqrt{\frac{a - b}{a + b}},` prove that :math:`(a - b\cos2A)(a - b\cos2B) = a^2 - b^2`
+83. If :math:`\tan A\tan B = \sqrt{\frac{a - b}{a + b}},` prove that :math:`(a - b\cos2A)(a - b\cos2B) = a^2 - b^2`
 
 84. If :math:`\sin A = \frac{1}{2}` and :math:`\sin B = \frac{1}{3},` find the value of :math:`\sin(A + B)` and :math:`\sin(2A +
     2B)`

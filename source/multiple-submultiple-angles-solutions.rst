@@ -687,3 +687,118 @@ Multiple and Submultiple Angles Solutions
 
 73. Given :math:`\sin A + \sin B = x` and :math:`\cos A + \cos B = y,` we have to show that :math:`\sin(A + B) = \frac{2xy}{x^2 +
     y^2}`
+
+    :math:`2xy = 2(\sin A + \sin B)(\cos A + \cos B)`
+
+    :math:`= 2(\sin A\cos A + \sin B\cos B + \sin A\cos B + \cos A\sin B)`
+
+    :math:`= \sin2A + \sin 2B + 2\sin(A + B)`
+
+    :math:`= 2\sin(A + B)\cos(A - B) + 2\sin(A + B) = 2\sin(A + B)[\cos(A - B) + 1]`
+
+    :math:`x^2 + y^2 = (\sin A + \sin B)^2 + (\cos A + \cos B)^2`
+
+    :math:`= 2 + 2(\cos A\cos B + \sin A \sin B) = 2[1 + \cos (A - B)]`
+
+    :math:`\therefore \frac{2xy}{x^2 + y^2} = \sin(A + B)`
+
+74. Given :math:`A= \frac{\pi}{2^n + 1},` we have to prove that :math:`\cos A.\cos 2A. \cos2^2A.\ldots.\cos2^{n - 1}A =
+    \frac{1}{2^n}`
+
+    L.H.S. :math:`= \cos A.\cos 2A. \cos2^2A.\ldots.\cos2^{n - 1}A`
+
+    :math:`= \frac{1}{2\sin A}(2\sin A\cos A).\cos 2A. \cos2^2A.\ldots.\cos2^{n - 1}A`
+
+    :math:`= \frac{1}{2\sin A}\sin 2A.\cos 2A.\cos2^2A.\ldots.\cos2^{n - 1}A`
+
+    :math:`= \frac{1}{2^2\sin A}(2\sin 2A\cos 2A)\cos2^2A.\ldots.\cos2^{n - 1}A`
+
+    Proceeding similarly
+
+    :math:`= \frac{1}{2^n\sin A}\sin2^n A = \frac{1}{2^n\sin A}\sin(\pi - A) = \frac{1}{2^n} =` R.H.S.
+
+75. Given :math:`\tan A = \frac{y}{x},` we have to prove that :math:`x\cos 2A + y\sin 2A = x`
+
+    :math:`\because \tan A = \frac{y}{x} \therefore \sin A = \frac{y}{\sqrt{x^2 + y^2}}, \cos A = \frac{x}{\sqrt{x^2 + y^2}}`
+
+    :math:`\therefore x\cos 2A + y\sin 2A = x(\cos^2A - \sin^2A) + 2y\sin A\cos A = x\left(\frac{x^2 - y^2}{x^2 + y^2}\right) +
+    2\frac{x^2y}{x^2 + y^2}`
+
+    :math:`= x =` R.H.S.
+
+76. Given :math:`\tan^2A = 1 + 2\tan^2B,` we have to prove that :math:`\cos 2B = 1 + 2\cos 2A`
+
+    :math:`1 + 2\cos 2A = 1 + 2.\frac{1 - \tan^2A}{1 + \tan^2A} = \frac{3 - \tan^2A}{1 + \tan^2A}`
+
+    :math:`= \frac{3 - 1 - 2\tan^2B}{2 + 2\tan^2B} = \frac{1 - \tan^2B}{1 + \tan^2B} = \cos 2B =` L.H.S.
+
+77. Given :math:`\cos 2A = \frac{3\cos 2B - 1}{3 - \cos 2B},` we have to prove that :math:`\tan A = \sqrt{2}\tan B`
+
+    :math:`\cos 2A = \frac{3\cos 2B - 1}{3 - \cos 2B}`
+
+    :math:`\Rightarrow \frac{1 - \tan^2A}{1 + \tan^B} = \frac{3 - 3\tan^2B - 1 - \tan^2B}{3 + 3\tan^2B - 1 + \tan^2B}`
+
+    :math:`= \frac{1 - 2\tan^2B}{1 + 2\tan^2B}`
+
+    :math:`\therefore \tan^2A = 2\tan^2B \Rightarrow \tan A = \sqrt{2}\tan B`
+
+78. Given :math:`\tan B = 3\tan A,` we have to prove that :math:`\tan(A + B) = \frac{2\sin 2B}{1 + \cos 2B}`
+
+    :math:`\tan(A + B) = \frac{\tan A + \tan B}{1 - \tan A\tan B}`
+
+    :math:`= \frac{\frac{4}{3}\tan B}{1 - \frac{\tan^2B}{3}} = \frac{4\tan B}{3 - \tan^2B}`
+
+    :math:`= \frac{4\sin B\cos B}{3\cos^2B - \sin^2B} = \frac{2\sin2B}{2\cos^2B + \cos2B}`
+
+    :math:`= \frac{2\sin2B}{1 + \cos2B} =` R.H.S.
+
+79. Given :math:`x\sin A = y\cos A,` we have to prove that :math:`\frac{x}{\sec 2A} + \frac{y}{\cosec 2A} = x`
+
+    Given :math:`\tan A = \frac{y}{x} \therefore \sin A = \frac{y}{\sqrt{x^2 + y^2}} \& \cos A = \frac{x}{\sqrt{x^2 + y^2}}`
+
+    L.H.S. :math:`= \frac{x}{\sec 2A} + \frac{y}{\cosec 2A}`
+
+    :math:`= x\cos2A + y\sin2A = x(\cos^2A - \sin^2A) + 2y\sin A\cos A`
+
+    :math:`x\frac{x^2 - y^2}{x^2 + y^2} + \frac{2xy^2}{x^2 + y^2}`
+
+    :math:`= x`
+
+80. Given :math:`\tan A = \sec 2B,` we have to prove that :math:`\sin 2A = \frac{1 - \tan^4B}{1 + \tan^4B}`
+
+    :math:`\tan A = \frac{1}{\cos 2B} = \frac{1 + \tan^2B}{1 - \tan^2B}`
+
+    :math:`\therefore \sin A = \frac{1 + \tan^2B}{\sqrt{2 + 2\tan^4B}}`
+
+    and :math:`\cos A = \frac{1 - \tan^2B}{\sqrt{2 + 2\tan^4B}}`
+
+    L.H.S. :math:`\sin 2A = 2\sin A\cos A = \frac{1 - \tan^4B}{1 + \tan^4B} =` R.H.S.
+
+81. Given :math:`A = \frac{\pi}{3},` we have to prove that :math:`\cos A.\cos 2A. \cos 3A.\cos 4A.\cos 5A.\cos 6A = -\frac{1}{16}`
+
+    L.H.S. :math:`= \frac{1}{8}2\cos A.\cos 6A.2\cos 2A.\cos 5A.2\cos 3A\cos 4A`
+
+    :math:`= \frac{1}{8}\left(\cos \frac{7A}{2} + \cos \frac{5A}{2}\right)\left(\cos \frac{7A}{2} + \cos
+    \frac{3A}{2}\right)\left(\cos \frac{7A}{2} + \cos \frac{A}{2}\right)`
+
+    :math:`= \frac{1}{8}\left[\cos\left(\pi + \frac{\pi}{6}\right) + \cos \left(\pi -
+    \frac{\pi}{6}\right)\right]\left[\cos\left(\pi + \frac{\pi}{6}\right) + \cos \left(\frac{\pi}{2}\right)\right] +
+    \left[\cos\left(\pi + \frac{\pi}{6}\right) + \cos \frac{\pi}{6}\right]`
+
+    :math:`= -\frac{1}{16}`
+
+82. Given :math:`A = \frac{\pi}{15},` we have to prove that :math:`\cos2A.\cos4A.\cos8A.\cos14A = \frac{1}{16}`
+
+    :math:`\cos 14A = \cos \frac{14\pi}{15} = \cos \left(2\pi - \frac{16\pi}{15}\right) = \cos 16A`
+
+    L.H.S. :math:`= \cos2A.\cos4A.\cos8A.\cos16A = \frac{1}{2\sin2A}.2\sin2A.\cos2A.\cos4A.\cos8A.\cos16A`
+
+    :math:`= \frac{1}{2\sin2A}\sin4A.\cos4A.\cos8A.\cos16A = \frac{1}{2^2\sin 2A}\sin8A.\cos8A.\cos16A`
+
+    :math:`= \frac{1}{2^4\sin 2A}\sin32A = \frac{1}{16\sin2A}\sin(2\pi + 2A) = \frac{1}{16} =` R.H.S.
+
+83. Given :math:`\tan A\tan B = \sqrt{\frac{a - b}{a + b}},` we have to prove that :math:`(a - b\cos2A)(a - b\cos2B) = a^2 -
+    b^2`
+
+    L.H.S. :math:`= (a - b\cos2A)(a - b\cos2B) = \frac{[(a - b) + (a + b)\tan^2A][(a - b) + (a + b)\tan^2B]}{(1 + \tan^2A)(1 +
+    \tan^2B)}`
