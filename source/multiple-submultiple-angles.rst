@@ -443,7 +443,7 @@ Prove that
 
 113. :math:`\sin 12^\circ\sin48^\circ\sin54^\circ = \frac{1}{8}`
 
-114. :math:`\cot 142\frac{1}{2}^\circ = \sqrt{2} + \sqrt{3} - \sqrt{2} - \sqrt{6}`
+114. :math:`\cot 142\frac{1}{2}^\circ = \sqrt{2} + \sqrt{3} - 2 - \sqrt{6}`
 
 115. :math:`\sin^248^\circ - \cos^212^\circ = -\frac{\sqrt{5} + 1}{8}`
 

@@ -800,5 +800,618 @@ Multiple and Submultiple Angles Solutions
 83. Given :math:`\tan A\tan B = \sqrt{\frac{a - b}{a + b}},` we have to prove that :math:`(a - b\cos2A)(a - b\cos2B) = a^2 -
     b^2`
 
-    L.H.S. :math:`= (a - b\cos2A)(a - b\cos2B) = \frac{[(a - b) + (a + b)\tan^2A][(a - b) + (a + b)\tan^2B]}{(1 + \tan^2A)(1 +
-    \tan^2B)}`
+    L.H.S. :math:`= (a - b\cos2A)(a - b\cos2B) = \left[a -b\frac{1 - \tan^2A}{1 + \tan^2A}\right]\left[a - b\frac{1 - \tan^2B}{1 +
+    \tan^2B}\right]`
+
+    :math:`= \left[a -b\frac{1 - \tan^2A}{1 + \tan^2A}\right]\left[a - b\frac{1 - \frac{a - b}{(a + b)\tan^2A}}{1 + \frac{a -
+    b}{(a + b)\tan^2A}}\right]`
+
+    Solving this yields :math:`\frac{a^2 - b^2}{}`
+
+84. Given :math:`\sin A = \frac{1}{2}` and :math:`\sin B = \frac{1}{3},` we have to find the value of :math:`\sin(A + B)` and
+    :math:`\sin(2A + 2B)`
+
+    :math:`\cos A = \frac{\sqrt{3}}{2}` and :math:`\cos B = \frac{\sqrt{8}}{3}`
+
+    :math:`\sin(A + B) = \sin A\cos B + \cos A\sin B = \frac{\sqrt{8}}{6} + \frac{\sqrt{3}}{6} = \frac{\sqrt{8} + \sqrt{3}}{6}`
+
+    :math:`\sin(2A + 2B) = \sin 2A\cos 2B + \cos 2A\sin 2B`
+
+    :math:`= 2\sin A\cos A(\cos^2B - \sin^2B) + 2\sin B\cos B(\cos^2A - \sin^2A)`
+
+    Substituting the values we obtain the desired result.
+
+85 and 86 have been left as exercises.
+
+87. :math:`\cos A = \frac{3}{10} = \frac{1 - \tan^2\frac{A}{2}}{1 + \tan^2\frac{A}{2}} = \frac{3}{10}`
+
+    Let :math:`x = \tan \frac{A}{2},` then :math:`\frac{1 - x^2}{1 + x^2} = \frac{3}{10}`
+
+    :math:`x = \pm \sqrt{\frac{7}{13}}`
+
+    The reason for two values is that :math:`\cos A` may lie in first or fourth quadrant. If it is in first quadrant then
+    :math:`\tan \frac{A}{2}` will be positive and if it is in fourth quadrant then :math:`\tan \frac{A}{2}` will be negative.
+
+88. Given :math:`\sin A + \sin B = x` and :math:`\cos A + \cos B = y,` we have to find the value of :math:`\tan \frac{A - B}{2}`
+
+    :math:`\tan \frac{A - B}{2} = \frac{\tan \frac{A}{2} - \tan \frac{B}{2}}{1 + \tan\frac{A}{2}\tan\frac{B}{2}}`
+
+    :math:`= \frac{\sin \frac{A}{2}\cos\frac{B}{2} - \sin\frac{B}{2}\cos\frac{A}{2}}{\cos\frac{A}{2}\cos\frac{B}{2} -
+    \sin\frac{A}{2}\sin\frac{B}{2}}`
+
+    Also, :math:`\tan(A - B) = \frac{2\tan\frac{A - B}{2}}{1 - \tan^2\frac{A - B}{2}}`
+
+    Let :math:`\tan\frac{A - B}{2} = a,` then :math:`\tan(A - B) = \frac{2a}{1 + a^2}`
+
+    :math:`x^2 + y^2 = 2 + 2\sin A\sin B + 2\cos A\cos B`
+
+    Solving this yields :math:`\tan\frac{A - B}{2} = \sqrt{\frac{4 - x^2 - y^2}{x^2 + y^2}}`
+
+89. We have to prove that :math:`(\cos A + \cos B)^2 + (\sin A - \sin B)^2 = 4\cos^2 \frac{A + B}{2}`
+
+    L.H.S. :math:`= \cos^2A + \cos^2B + 2\cos A\cos B + \sin^2A + \sin^2B - 2\sin A\sin B`
+
+    :math:`= 2 + 2\cos(A + B) = 4\cos^2\frac{A + B}{2} =` R.H.S.
+
+90. We have to prove that :math:`(\cos A + \cos B)^2 + (\sin A + \sin B)^2 = 4\cos^2 \frac{A - B}{2}`
+
+    L.H.S. :math:`= \cos^2A + \cos^2B + 2\cos A\cos B + \sin^2A + \sin^2B + 2\sin A\sin B`
+
+    :math:`= 2 + 2\cos(A - B) = 4\cos^2\frac{A - B}{2} =` R.H.S.
+
+91. We hve to prove that :math:`(\cos A - \cos B)^2 + (\sin A - \sin B)^2 = 4\sin^2 \frac{A - B}{2}`
+
+    L.H.S. :math:`= \cos^2A + \cos^2B - 2\cos A\cos B + \sin^2A + \sin^2B + 2\sin A\sin B`
+
+    :math:`= 2 - 2\cos(A - B) = 4\sin^2\frac{A - B}{2} =` R.H.S.
+
+92. We have to prove that :math:`\sin^2\left(\frac{\pi}{8} + \frac{A}{2}\right) - \sin^2\left(\frac{\pi}{8} -\frac{A}{2}\right) =
+    \frac{1}{\sqrt{2}}\sin A`
+
+    L.H.S. :math:`= \frac{1 - \cos\left(\frac{\pi}{4} + A\right)}{2} - \frac{1 - \cos\left(\frac{\pi}{4} - A\right)}{2}`
+
+    :math:`= \frac{\cos\left(\frac{\pi}{4} - A\right) - \cos\left(\frac{\pi}{4} + A\right)}{2}`
+
+    :math:`= \frac{2\sin\frac{\pi}{4}\sin A}{2} = \frac{1}{\sqrt{2}}\sin A =` R.H.S.
+
+93. We have to prove that :math:`(\tan 4A + \tan 2A)(1 - \tan^23A\tan^2A) = 2\tan 3A\sec^2A`
+
+    L.H.S. :math:`= (\tan 4A + \tan 2A)(1 + \tan 3A\tan A)(1 - \tan 3A\tan A)`
+
+    :math:`= \left(\frac{\sin 4A}{\cos 4A} + \frac{\sin 2A}{\cos 2A}\right)\left(\frac{cos 3A\cos A + \sin 3A\sin A}{\cos 3A\cos
+    A}\right)\left(\frac{cos 3A\cos A - \sin 3A\sin A}{\cos 3A - \cos A}\right)`
+
+    :math:`= \frac{\sin 6A}{\cos 4A\cos 2A}.\frac{\cos 4A}{\cos 3A\cos A}\frac{\cos 2A}{\cos 3A\cos A}`
+
+    :math:`= \frac{2\sin3A\cos3A}{\cos^23A\cos^2A} = 2\tan3A\sec^2A =` R.H.S.
+
+94. We have to prove that :math:`\left(1 + \tan \frac{A}{2} - \sec\frac{A}{2}\right)\left(1 + \tan \frac{A}{2} +
+    \sec\frac{A}{2}\right) = \sin A\sec^2\frac{A}{2}`
+
+    L.H.S. :math:`= \left(1 + \tan \frac{A}{2} - \sec\frac{A}{2}\right)\left(1 + \tan \frac{A}{2} +
+    \sec\frac{A}{2}\right)`
+
+    :math:`= \left(1 + \tan\frac{A}{2}\right)^2 - sec^2\frac{A}{2} = 2\tan\frac{A}{2}`
+
+    :math:`= \frac{2\sin\frac{A}{2}\cos\frac{A}{2}}{\cos^2\frac{A}{2}} = \sin A\sec^2\frac{A}{2} =` R.H.S.
+
+95. We have to prove that :math:`\frac{1 + \sin A - \cos A}{1 + \sin A + \cos A} = \tan \frac{A}{2}`
+
+    L.H.S. :math:`= \frac{(1 - \cos A) + \sin A}{(1 + \cos A) + \sin A}`
+
+    :math:`= \frac{2\sin^2\frac{A}{2} + 2\sin\frac{A}{2}\cos\frac{A}{2}}{2\cos^2\frac{A}{2} + 2\sin\frac{A}{2}\cos\frac{A}{2}}`
+
+    :math:`= \frac{\sin\frac{A}{2}\left(\sin\frac{A}{2} + \cos\frac{A}{2}\right)}{\cos\frac{A}{2}\left(\sin\frac{A}{2} +
+    \cos\frac{A}{2}\right)}`
+
+    :math:`= \tan\frac{A}{2} =` R.H.S.
+
+96. We have to prove that :math:`\frac{1 - \tan \frac{A}{2}}{1 + \tan \frac{A}{2}} = \frac{1 + \sin A}{\cos A} = \tan
+    \left(\frac{\pi}{4} + \frac{A}{2}\right)`
+
+    :math:`\frac{1 + \sin A}{\cos A} = \frac{\sin^2\frac{A}{2} + \cos^2\frac{A}{2} + 2\sin\frac{A}{2}\cos
+    \frac{A}{2}}{\cos^2\frac{A}{2} - \sin^2\frac{A}{2}}`
+
+    :math:`= \frac{\sin\frac{A}{2} + \cos\frac{A}{2}}{\cos \frac{A}{2} - \sin \frac{A}{2}}`
+
+    Dividing numerator and denominator by :math:`\cos \frac{A}{2},` we get
+
+    :math:`= \frac{1 + \tan \frac{A}{2}}{1 - \tan \frac{A}{2}}`
+
+97. We have to prove that :math:`\cos^4\frac{\pi}{8} + \cos^4 \frac{3\pi}{8} + \cos^4\frac{5\pi}{8} + \cos^4\frac{7\pi}{8}=
+    \frac{3}{2}`
+
+    :math:`\cos^4\frac{\pi}{8} = \left(\cos^2\frac{\pi}{8}\right)^2 = \left(\frac{1 + \cos\frac{\pi}{4}}{2}\right)^2`
+
+    :math:`= \left(\frac{1 + \frac{1}{\sqrt{2}}}{2}\right)^2 = \frac{3}{8} + \frac{\sqrt{2}}{4}`
+
+    Similalry, :math:`\cos^4\frac{3\pi}{8} = \frac{3}{8} - \frac{\sqrt{2}}{4}`
+
+    :math:`\cos\frac{5\pi}{8} = \cos\left(\pi - \frac{3\pi}{8}\right) = -\cos\frac{3\pi}{8}`
+
+    :math:`\cos\frac{7\pi}{8} = -\cos\frac{\pi}{8}`
+
+    Thus, :math:`\cos^4\frac{\pi}{8} + \cos^4 \frac{3\pi}{8} + \cos^4\frac{5\pi}{8} + \cos^4\frac{7\pi}{8}=
+    \frac{3}{2}`
+
+98. We have to prove that :math:`\frac{2\sin A - \sin2A}{2\sin A + \sin 2A} = \tan^2\frac{A}{2}`
+
+    L.H.S. :math:`= \frac{2\sin A - 2\sin A\cos A}{2\cos A + 2\sin A\cos A} = \frac{2\sin A(1 - \cos A)}{2\sin A(1 + \cos A)}`
+
+    :math:`= \frac{2\sin^2\frac{A}{2}}{2\cos^2\frac{A}{2}} = \tan^2\frac{A}{2} =` R.H.S.
+
+99. We have to prove that :math:`\cot \frac{A}{2} - \tan \frac{A}{2} = 2\cot A`
+
+    L.H.S. :math:`= \frac{\cos \frac{A}{2}}{\sin \frac{A}{2}} - \frac{\sin \frac{A}{2}}{\cos\frac{A}{2}}`
+
+    :math:`= \frac{\cos^2\frac{A}{2} - \sin^2\frac{A}{2}}{\sin \frac{A}{2}\cos\frac{A}{2}}`
+
+    :math:`= \frac{2\cos A}{\sin A} = 2\cot A =` R.H.S.
+
+100. We have to prove that :math:`\frac{1 + \sin A}{1 - \sin A} = \tan^2\left(\frac{\pi}{4} + \frac{A}{2}\right)`
+
+     L.H.S. :math:`= \frac{\cos^2\frac{A}{2} + \sin^2\frac{A}{2} + 2\cos \frac{A}{2}\sin\frac{A}{2}}{\cos^2\frac{A}{2} +
+     \sin^2\frac{A}{2} - 2\cos \frac{A}{2}\sin\frac{A}{2}}`
+
+     :math:`= \frac{\cos \frac{A}{2} + \sin \frac{A}{2}}{\cos \frac{A}{2} - \sin \frac{A}{2}}`
+
+     Dividing both numerator and denominator by :math:`\cos \frac{A}{2},` we get
+
+     :math:`= \frac{1 + \tan\frac{A}{2}}{1 - \tan \frac{A}{2}} = \frac{\tan\frac{\pi}{4} + \tan \frac{A}{2}}{1 -
+     \tan\frac{\pi}{4}\tan\frac{A}{2}}`
+
+     :math:`= \tan\left(\frac{\pi}{4} + \frac{A}{2}\right) =` R.H.S.
+
+101. We have to prove that :math:`\sec A + \tan A = \tan\left(\frac{\pi}{4} + \frac{A}{2}\right)`
+
+     L.H.S. :math:`= \frac{1 + \sin A}{\cos A} = \frac{\left(\cos\frac{A}{2} + \sin\frac{A}{2}\right)^2}{\cos^2\frac{A}{2} -
+     \sin^2\frac{A}{2}}`
+
+     :math:`= \frac{\cos \frac{A}{2} + \sin \frac{A}{2}}{\cos \frac{A}{2} - \sin \frac{A}{2}}`
+
+     Now proceeding like previous problem
+
+     :math:`= \tan\left(\frac{\pi}{4} + \frac{A}{2}\right) =` R.H.S.
+
+102. We have to prove that :math:`\frac{\sin A + \sin B - \sin(A + B)}{\sin A + \sin B + \sin(A + B)} = \tan \frac{A}{2}\tan
+     \frac{B}{2}`
+
+     L.H.S. :math:`= \frac{2\sin\frac{A + B}{2}\cos\frac{A - B}{2} - 2\sin \frac{A + B}{2}\cos\frac{A + B}{2}}{2\sin\frac{A +
+     B}{2}\cos\frac{A - B}{2} + 2\sin \frac{A + B}{2}\cos\frac{A + B}{2}}`
+
+     :math:`= \frac{\cos\frac{A - B}{2} - \cos \frac{A + B}{2}}{\cos\frac{A - B}{2} + \cos \frac{A + B}{2}}`
+
+     :math:`= \frac{2\sin\frac{A}{2}\cos\frac{B}{2}}{2\cos\frac{A}{2}\cos\frac{B}{2}}`
+
+     :math:`= \tan \frac{A}{2}\tan \frac{B}{2} =` R.H.S.
+
+103. We have to prove that :math:`\tan \left(\frac{\pi}{4} - \frac{A}{2}\right) = \sec A - \tan A = \sqrt{\frac{1 - \sin A}{1 +
+     \sin A}}`
+
+     L.H.S. :math:`= \tan \left(\frac{\pi}{4} - \frac{A}{2}\right) = \frac{1 - \tan \frac{A}{2}}{1 + \tan \frac{A}{2}}`
+
+     :math:`= \frac{\cos\frac{A}{2} - \sin \frac{A}{2}}{\cos\frac{A}{2} + \sin \frac{A}{2}}`
+
+     Multiplying both numerator and denominator by :math:`\cos\frac{A}{2} + \sin\frac{A}{2}`
+
+     :math:`= \frac{\cos A}{1 + \sin A} = \sqrt{\frac{\cos^2A}{(1 + \sin A)^2}} = \sqrt{\frac{1 - \sin A}{1 + \sin A}}`
+
+     Also, :math:`\frac{\cos A}{1 + \sin A} = \frac{\cos A(1 - \sin A)}{1 - \sin^2A} = \sec A - \tan A`
+
+104. We have to prove that :math:`\cosec\left(\frac{\pi}{4} + \frac{A}{2}\right)\cosec \left(\frac{\pi}{4} - \frac{A}{2}\right) =
+     2\sec A`
+
+     L.H.S. :math:`= \frac{1}{\sin\left(\frac{\pi}{4} + \frac{A}{2}\right)}.\frac{1}{\sin\left(\frac{\pi}{4} -
+     \frac{A}{2}\right)}`
+
+     :math:`= \frac{2}{\cos A - \cos \frac{\pi}{2}} = 2\sec A =` R.H.S.
+
+105. We have to prove that :math:`\cos^2\frac{\pi}{8} + \cos^2\frac{3\pi}{8} + \cos^2\frac{5\pi}{8} + \cos^2\frac{7\pi}{8} = 2`
+
+     :math:`\cos^2\frac{\pi}{8} = \frac{1 + \cos \frac{\pi}{4}}{2} = \frac{1 + \sqrt{2}}{2\sqrt{2}}`
+
+     :math:`\cos^2\frac{3\pi}{8} = \frac{1 + \cos \frac{3\pi}{4}}{2} = \frac{\sqrt{2} - 1}{2\sqrt{2}}`
+
+     :math:`\cos^2\frac{5\pi}{8} = \cos^2\frac{3\pi}{8}`
+
+     :math:`\cos^2\frac{7\pi}{8} = \cos^2\frac{\pi}{8}`
+
+     L.H.S. :math:`= 2\left(\frac{1 + \sqrt{2}}{2\sqrt{2}} + \frac{\sqrt{2} - 1}{2\sqrt{2}}\right)`
+
+     :math:`= 2 =` R.H.S.
+
+106. This problem is similar to previous problem and can be solved in a likewise manner.
+
+107. We have to prove that :math:`\left(1 + \cos \frac{\pi}{8}\right)\left(1 + \cos\frac{3\pi}{8}\right)\left(1 +
+     \cos\frac{5\pi}{8}\right)\left(1 + \cos \frac{7\pi}{8}\right) = \frac{1}{8}`
+
+     :math:`\cos\frac{7\pi}{8} = \cos\left(\pi - \frac{\pi}{8}\right) = -\cos\frac{\pi}{8}`
+
+     :math:`\cos\frac{5\pi}{8} = \cos\left(\pi - \frac{3\pi}{8}\right) = -\cos\frac{3\pi}{8}`
+
+     L.H.S. :math:`= \left(1 - \cos^2\frac{\pi}{8}\right)\left(1 - \cos^2\frac{3\pi}{8}\right)`
+
+     :math:`= \sin^2\frac{\pi}{8}\sin^2\frac{3\pi}{8}`
+
+     :math:`= \frac{1 - 2\cos\frac{\pi}{4}}{2}.\frac{1 - 2\cos\frac{3\pi}{4}}{2}`
+
+     Substituting values from 105 we get desired result.
+
+108. We have to find the value of :math:`\sin \frac{23\pi}{24}`
+
+     :math:`\sin \left(\pi - \frac{\pi}{24}\right) = \sin\frac{15^\circ}{2}`
+
+     :math:`\sin^2A = \frac{1}{2}(1 - \cos 2A) = \frac{1}{2}(1 - \cos15^\circ)`
+
+     :math:`= \frac{1}{2}\left(1 - \frac{\sqrt{3} + 1}{2\sqrt{2}}\right)`
+
+     :math:`\therefore \sin A = \frac{1}{4}\sqrt{8 - 2\sqrt{6} - 2\sqrt{2}}`
+
+109. Given :math:`A = 112^\circ30'\therefore 2A = 225^\circ`
+
+     :math:`\cos 2A = \cos(180^\circ + 45^\circ) = -\frac{1}{\sqrt{2}}`
+
+     :math:`|\sin A| = \sqrt{\frac{1 - \left(-\frac{1}{\sqrt{2}}\right)}{2}} = \sqrt{\frac{2 + \sqrt{2}}{2}}`
+
+     :math:`\because` A lies in 2nd quadrant :math:`\therefore \sin A` will be positive and :math:`\cos A` will be negative.
+
+     :math:`|\cos A| = -\frac{\sqrt{2 - \sqrt{2}}}{2}`
+
+110. We have to prove that :math:`\sin^224^\circ - \sin^26^\circ = \frac{1}{8}(\sqrt{5} - 1)`
+
+     L.H.S. :math:`= \sin(24^\circ + 6^\circ)\sin(24^\circ - 6^\circ) = \frac{1}{2}.\frac{\sqrt{5} - 1}{4}`
+
+     :math:`= \frac{1}{8}(\sqrt{5} - 1) =` R.H.S.
+
+111. We have to prove that :math:`\tan6^\circ.\tan42^\circ.\tan66^\circ.\tan78^\circ = 1`
+
+     L.H.S. :math:`= \frac{\sin66^\circ6^\circ}{\cos66^\circ\cos6^\circ}.\frac{\sin78^\circ\sin42^\circ}{\cos78^\circ\cos42^\circ}`
+
+     :math:`= \frac{\cos60^\circ - \cos72^\circ}{\cos60^\circ + \cos72^\circ}.\frac{\cos36^\circ - \cos120^\circ}{\cos36^\circ +
+     \cos120^\circ}`
+
+     :math:`= \frac{1 - 2\sin18^\circ}{1 + 2\sin18^\circ}.\frac{2\cos36^\circ + 1}{2\cos36^\circ - 1}`
+
+     :math:`= \frac{1 - 2\left(\frac{\sqrt{5} - 1}{4}\right)}{1 + 2\left(\frac{\sqrt{5} -
+     1}{4}\right)}.\frac{2.\left(\frac{\sqrt{5} + 1}{4}\right) + 1}{2.\left(\frac{\sqrt{5} + 1}{4}\right) - 1}`
+
+     :math:`= 1 =` R.H.S.
+
+112. We have to prove that :math:`\sin47^\circ + \sin61^\circ - \sin 11^\circ - \sin25^\circ = \cos 7^\circ`
+
+     L.H.S. :math:`= 2\sin54^\circ\cos7^\circ - 2\sin18^\circ\cos7^\circ`
+
+     :math:`= 2\cos7^\circ.2\cos36^\circ.\sin18^\circ = 2\cos7^\circ.2\frac{\sqrt{5} + 1}{4}.\frac{\sqrt{5} - 1}{4}`
+
+     :math:`= \cos7^\circ`
+
+113. We have to prove that :math:`\sin 12^\circ\sin48^\circ\sin54^\circ = \frac{1}{8}`
+
+     L.H.S. :math:`= \frac{1}{2}.2\sin48^\circ\sin12^\circ.\sin54^\circ`
+
+     :math:`= \frac{1}{2}(\cos 36^\circ - \cos60^\circ).\cos36^\circ`
+
+     :math:`= \frac{1}{2}\left(\frac{\sqrt{5} + 1}{4} - \frac{1}{2}\right).\frac{\sqrt{5} + 1}{4}`
+
+     :math:`= \frac{1}{8} =` R.H.S.
+
+114. We have to prove that :math:`\cot 142\frac{1}{2}^\circ = \sqrt{2} + \sqrt{3} - 2 - \sqrt{6}`
+
+     L.H.S. :math:`\cos 142\frac{1}{2}^\circ = \cot\left(180^\circ - 37\frac{1}{2}^\circ\right) = -\cot37\frac{1}{2}^\circ`
+
+     We know that :math:`\tan 15^\circ = \cot 75^\circ = \frac{\sqrt{3} - 1}{\sqrt{3} + 1}`
+
+     :math:`\therefore -\cot37\frac{1}{2}^\circ = \sqrt{2} + \sqrt{3} - 2 - \sqrt{6} =` R.H.S.
+
+115. We have to prove that :math:`\sin^248^\circ - \cos^212^\circ = -\frac{\sqrt{5} + 1}{8}`
+
+     L.H.S. :math:`= \frac{1}{2}\left(2\sin^248^\circ - 2\cos^212^\circ\right)`
+
+     :math:`= \frac{1}{2}\left(1 - \cos96^\circ \right - 1 - \cos24^\circ)`
+
+     :math:`= -\frac{1}{2}\left(2\cos60^\circ\cos36^\circ\right)`
+
+     :math:`= -\frac{1}{2}.\frac{\sqrt{5} + 1}{4} = -\frac{\sqrt{5} + 1}{8} =` R.H.S.
+
+116. We have to prove that :math:`4(\sin 24^\circ + \cos6^\circ) = \sqrt{3} + \sqrt{15}`
+
+     L.H.S. :math:`= 4(\sin24^\circ + \sin84^\circ) = 8\sin54^\circ\cos30^\circ = 4\sqrt{3}\sin54^\circ`
+
+     :math:`= 4\sqrt{3}(3\sin18^\circ - 4\sin^318^\circ)`
+
+     We know that :math:`\sin 18^\circ = \frac{\sqrt{5} - 1}{4}`
+
+     :math:`\therefore 4\sqrt{3}(3\sin18^\circ - 4\sin^318^\circ) = \sqrt{3} + \sqrt{15} =` R.H.S.
+
+117. We have to prove that :math:`\cot6^\circ\cot42^\circ\cot66^\circ\cot78^\circ = 1`
+
+     L.H.S. :math:`= \frac{1}{\tan6^\circ\tan42^\circ\tan66^\circ\tan78^\circ}`
+
+     We know that :math:`\tan(60^\circ - x)\tan x\tan(60^\circ + x) = \tan 3x`
+
+     Putting :math:`x=18^\circ,` we get
+
+     :math:`\tan42^\circ\tan18^\circ\tan78^\circ = \tan54^\circ`
+
+     Putting :math:`x=6^\circ,` we get
+
+     :math:`\tan54^\circ\tan6^\circ\tan66^\circ = \tan18^\circ`
+
+     From these two, we derive that
+
+     :math:`\tan6^\circ\tan42^\circ\tan66^\circ\tan78^\circ = 1`
+
+118. We have to prove that :math:`\tan12^\circ\tan24^\circ\tan48^\circ\tan84^\circ = 1`
+
+     We know that :math:`\tan(60^\circ - x)\tan x\tan(60^\circ + x) = \tan 3x`
+
+     Putting :math:`x= 12^\circ,` we get
+
+     :math:`\tan48^\circ\tan 12^\circ\tan72^\circ = \tan 36^\circ`
+
+     Putthing :math:`x = 24^\circ,` we get
+
+     :math:`\tan36^\circ\tan24^\circ\tan84^\circ = \tan72^\circ`
+
+     From these two, we derive that
+
+     :math:`\tan12^\circ\tan24^\circ\tan48^\circ\tan84^\circ = 1`
+
+119. We have to prove that :math:`\sin6^\circ\sin42^\circ\sin66^\circ\sin78^\circ = \frac{1}{16}`
+
+     L.H.S. :math:`= \sin6^\circ\sin66^\circ\sin42^\circ\sin78^\circ`
+
+     :math:`= \frac{1}{4}(\cos60^\circ - \cos72^\circ)(\cos 36^\circ - \cos120^\circ)`
+
+     :math:`= \frac{1}{4}\left(\frac{1}{2} - \cos72^\circ\right)\left(\cos36^\circ + \frac{1}{2}\right)`
+
+     :math:`= \frac{1}{16}(1 - 2\cos72^\circ)(2\cos36^\circ + 1)`
+
+     :math:`= \frac{1}{16}[1 + 2\cos36^\circ - 2\cos72^\circ - 4\cos36^\circ\cos72^\circ]`
+
+     :math:`= \frac{1}{16} + \frac{1}{8}[\cos36^\circ - \cos72^\circ - \cos 108^\circ - \cos36^\circ]`
+
+     :math:`= \frac{1}{16} + \frac{1}{8}[\cos72^\circ + \circ108^\circ]`
+
+     :math:`= \frac{1}{16} + \frac{1}{8}[\cos72^\circ + \cos(180^\circ - 72^\circ)]`
+
+     :math:`= \frac{1}{16}`
+
+120. We have to prove that :math:`\sin\frac{\pi}{5}\sin\frac{2\pi}{5}\sin\frac{3\pi}{5}\sin\frac{4\pi}{5} = \frac{5}{16}`
+
+     L.H.S. :math:`= \sin\frac{\pi}{5}\sin\frac{2\pi}{5}\sin\left(\pi - \frac{2\pi}{5}\right)\sin\left(\pi - \frac{\pi}{5}\right)`
+
+     :math:`= \sin^2\frac{\pi}{5}\sin^2\frac{2\pi}{5} = \sin^218^\circ\sin^236^\circ = \left(\frac{\sqrt{5} -
+     1}{4}\right)^2\left(\frac{1}{4}\sqrt{10 - 2\sqrt{5}}\right)^2`
+
+     :math:`= \frac{5}{16} =` R.H.S.
+
+121. We have to prove that :math:`\cos36^\circ\cos72^\circ\cos108^\circ\cos144^\circ = \frac{1}{16}`
+
+     L.H.S. :math:`= \cos36^\circ\cos72^\circ\cos(180^\circ - 72^\circ)\cos(180^\circ - 36^\circ)`
+
+     :math:`= \cos^236^\circ\cos^272^\circ`
+
+     :math:`\cos 36^\circ = \frac{\sqrt{5} + 1}{4}, \cos72^\circ = 2\cos^236^\circ - 1`
+
+     Thus, :math:`\cos^236^\circ\cos^272^\circ = \frac{1}{16}`
+
+122. We have to prove that
+     :math:`\cos\frac{\pi}{15}\cos\frac{2\pi}{15}\cos\frac{3\pi}{15}\cos\frac{4\pi}{15}\cos\frac{5\pi}{15}\cos\frac{6\pi}{15}\cos\frac{7\pi}{15} = \frac{1}{2^7}`
+
+     L.H.S. :math:`=
+     \frac{1}{2\sin\frac{\pi}{15}}2\sin\frac{\pi}{15}\cos\frac{\pi}{15}\cos\frac{2\pi}{15}\cos\frac{3\pi}{15}\cos\frac{4\pi}{15}\cos\frac{5\pi}{15}\cos\frac{6\pi}{15}\cos\frac{7\pi}{15}`
+
+     :math:`=
+     \frac{1}{2\sin\frac{\pi}{15}}\sin\frac{2\pi}{15}\cos\frac{2\pi}{15}\cos\frac{3\pi}{15}\cos\frac{4\pi}{15}\cos\frac{5\pi}{15}\cos\frac{6\pi}{15}\cos\frac{7\pi}{15}`
+
+     :math:`= \frac{1}{2^2\sin\frac{\pi}{15}}\sin\frac{4\pi}{15}\cos\frac{3\pi}{15}\cos\frac{4\pi}{15}\cos\frac{5\pi}{15}\cos\frac{6\pi}{15}\cos\frac{7\pi}{15}`
+
+     :math:`=
+     \frac{1}{2^3\sin\frac{\pi}{15}}\sin\frac{8\pi}{15}\cos\frac{3\pi}{15}\cos\frac{5\pi}{15}\cos\frac{6\pi}{15}\cos\frac{7\pi}{15}`
+
+     Now, :math:`\sin\frac{8\pi}{15} = \sin\left(\pi - \frac{7\pi}{15}\right) = \sin\frac{7\pi}{15},` therefore
+
+     :math:`=
+     \frac{1}{2^4\sin\frac{\pi}{15}}2\sin\frac{7\pi}{15}\cos\frac{3\pi}{15}\cos\frac{5\pi}{15}\cos\frac{6\pi}{15}\cos\frac{7\pi}{15}`
+
+     :math:`= \frac{1}{2^4\sin\frac{\pi}{15}}\sin\frac{14\pi}{15}\cos\frac{3\pi}{15}\cos\frac{5\pi}{15}\cos\frac{6\pi}{15}`
+
+     Now :math:`\sin\frac{14\pi}{15} = \sin\left(\pi - \frac{\pi}{15}\right) = \sin\frac{\pi}{15},` therefore
+
+     :math:`= \frac{1}{2^4}\cos\frac{3\pi}{15}\cos\frac{5\pi}{15}\cos\frac{6\pi}{15}`
+
+     :math:`= \frac{1}{2^5\sin\frac{3\pi}{15}}2\sin\frac{3\pi}{15}\cos\frac{3\pi}{15}\cos\frac{5\pi}{15}\cos\frac{6\pi}{15}`
+
+     :math:`= \frac{1}{2^6\sin\frac{3\pi}{15}}2\sin\frac{6\pi}{15}\cos\frac{6\pi}{15}\cos\frac{\pi}{3}`
+
+     :math:`= \frac{1}{2^6\sin\frac{3\pi}{15}}\sin\frac{12\pi}{15}\cos\frac{\pi}{3}`
+
+     Similarly :math:`\sin\frac{12\pi}{15} = \sin \frac{3\pi}{15}`
+
+     :math:`= \frac{1}{2^6}\cos\frac{\pi}{3} = \frac{1}{2^7} =` R.H.S.
+
+123. We have to prove that
+     :math:`\cos\frac{\pi}{65}\cos\frac{2\pi}{65}\cos\frac{4\pi}{65}\cos\frac{8\pi}{65}\cos\frac{16\pi}{65}\cos\frac{32\pi}{65} =
+     \frac{1}{64}`
+
+     :math:`=
+     \frac{1}{2\sin\frac{\pi}{65}}2\sin\frac{\pi}{65}\cos\frac{\pi}{65}\cos\frac{2\pi}{65}\cos\frac{4\pi}{65}\cos\frac{8\pi}{65}\cos\frac{16\pi}{65}\cos\frac{32\pi}{65}`
+
+     :math:`=
+     \frac{1}{2\sin\frac{\pi}{65}}\sin\frac{2\pi}{65}\cos\frac{2\pi}{65}\cos\frac{4\pi}{65}\cos\frac{8\pi}{65}\cos\frac{16\pi}{65}\cos\frac{32\pi}{65}`
+
+     :math:`=
+     \frac{1}{2^2\sin\frac{\pi}{65}}2\sin\frac{2\pi}{65}\cos\frac{2\pi}{65}\cos\frac{4\pi}{65}\cos\frac{8\pi}{65}\cos\frac{16\pi}{65}\cos\frac{32\pi}{65}`
+
+     :math:`=
+     \frac{1}{2^2\sin\frac{\pi}{65}}\sin\frac{4\pi}{65}\cos\frac{4\pi}{65}\cos\frac{8\pi}{65}\cos\frac{16\pi}{65}\cos\frac{32\pi}{65}`
+
+     :math:`=
+     \frac{1}{2^3\sin\frac{\pi}{65}}2\sin\frac{4\pi}{65}\cos\frac{4\pi}{65}\cos\frac{8\pi}{65}\cos\frac{16\pi}{65}\cos\frac{32\pi}{65}`
+
+     Proceeding similalry we find that above is equal to
+
+     :math:`\frac{1}{2^7\sin\frac{\pi}{65}}\sin\frac{64\pi}{65}`
+
+     However, :math:`\sin\frac{64\pi}{65} = \sin\frac{\pi}{65},` therefore
+
+     :math:`\cos\frac{\pi}{65}\cos\frac{2\pi}{65}\cos\frac{4\pi}{65}\cos\frac{8\pi}{65}\cos\frac{16\pi}{65}\cos\frac{32\pi}{65} =
+     \frac{1}{64}`
+
+124. Given, :math:`\tan \frac{A}{2} = \sqrt{\frac{a - b}{a + b}}\tan \frac{B}{2}`
+
+     Now, :math:`\cos A = \frac{1 - \tan^2\frac{A}{2}}{1 + \tan^2\frac{A}{2}} = \frac{1 - \frac{a - b}{a + b}\tan^2\frac{B}{2}}{1 +
+     \frac{a - b}{a + b}\tan^2\frac{B}{2}}`
+
+     :math:`= \frac{(a + b)\cos^2\frac{B}{2} - (a - b)\sin^2\frac{B}{2}}{(a + b)\cos^2\frac{B}{2} + (a - b)\sin^2\frac{B}{2}}`
+
+     :math:`= \frac{a\cos B + b}{a + b\cos B}`
+
+125. This problem is similar to previous problem with :math:`a = 1, e = b` and has been left as an exercise.
+
+126. Given :math:`\sin A + \sin B = a` and :math:`\cos A + \cos B = b,` we have to prove that :math:`\sin(A + B) = \frac{2ab}{a^2 +
+     b^2}`
+
+     :math:`2ab = 2(\sin A + \sin B)(\cos A + \cos B) = 2\sin A\cos A + 2\sin A\cos B + 2\sin B\cos A + 2\sin B\cos B = \sin 2A +
+     \sin 2B + 2\sin(A + B)`
+
+     :math:`= 2\sin(A + B)[\cos(B - A) + 1]`
+
+     :math:`a^2 + b^2 = \sin^2A + \sin^2B + 2\sin A\sin B + \cos^2A + \cos^2B + 2\cos A\cos B`
+
+     :math:`= 2 + 2\cos(B - A)`
+
+     :math:`\therefore \sin(A + B) = \frac{2ab}{a^2 + b^2}`
+
+127. Given :math:`\sin A + \sin B = a` and :math:`\cos A + \cos B = b,` we have to prove that :math:`\cos(A - B) =
+     \frac{1}{2}(a^2 + b^2 - 2)`
+
+     From previous problem, :math:`2\cos(B - A) = a^2 + b^2 - 2 \Rightarrow \cos(A - B) = \frac{1}{2}(a^2 + b^2 - 2)`
+
+128. Let us solve these one by one.
+
+     i. Given :math:`A` and :math:`B` be two different roots of equation :math:`a\cos\theta + b\sin\theta = c`
+
+        :math:`a\cos A + b\sin A = c` and :math:`a\cos B + b\sin B = c`
+
+        :math:`\Rightarrow a(\cos A - \cos B) + b(\sin A - \sin B) = 0`
+
+        :math:`b(\sin A - \sin B) = a(\cos A - \cos B)`
+
+        :math:`b.2\cos\frac{A + B}{2}\sin\frac{A - B}{2} = a.2\sin\frac{A + B}{2}\sin \frac{A - B}{2}`
+
+        :math:`\Rightarrow \tan\frac{A + B}{2} = \frac{b}{a}`
+
+        :math:`\tan{A + B} = \frac{2\tan\frac{A + B}{2}}{1 - \tan^2\frac{A + B}{2}} = \frac{2ab}{a^2 + b^2}`
+
+     ii. We have :math:`\tan(A + B) = \frac{2ab}{a^2 + b^2}`
+
+         :math:`\therefore \cos(A + B) = \frac{a^2 - b^2}{a^2 + b^2}`
+
+129. Given :math:`\cos A + \cos B = \frac{1}{3}` and :math:`\sin A + \sin B = \frac{1}{4},` we have to prove that :math:`\cos
+     \frac{A - B}{2} = \pm\frac{5}{24}`
+
+     Squaring and adding :math:`(\cos^2A + \sin^2A) + (\cos^2B + \sin^B) + 2(\cos A\cos B + \sin A\sin B) = \frac{1}{9} +
+     \frac{1}{16}`
+
+     :math:`2 + 2\cos(A - B) = \frac{25}{144}`
+
+     :math:`4\cos^2\frac{A - B}{2} = \frac{25}{144} \Rightarrow \cos\frac{A - B}{2} = \pm\frac{5}{24}`
+
+130. Given :math:`2\tan \frac{A}{2} = \tan \frac{B}{2},` we have to prove that :math:`\cos A = \frac{3 + 5\cos B}{5 + 3\cos B}`
+
+     :math:`\tan\frac{A}{2} = \frac{1}{2}\tan\frac{B}{2}`
+
+     :math:`\cos A = \frac{1 - \tan^2\frac{A}{2}}{1 + \tan^2\frac{A}{2}} = \frac{1 - \frac{\tan^2\frac{B}{2}}{4}}{1 +
+     \frac{\tan^2\frac{B}{2}}{4}}`
+
+     :math:`= \frac{4 - \tan^2\frac{B}{2}}{4 + \tan^2\frac{B}{2}} = \frac{3 + 5.\frac{1 - \tan^2\frac{B}{2}}{1 +
+     \tan^2\frac{B}{2}}}{5 + 3\frac{1 - \tan^2\frac{B}{2}}{1 + \tan^2\frac{B}{2}}}`
+
+     :math:`= \frac{3 + 5\cos B}{5 + 3\cos B} =` R.H.S.
+
+131. Given :math:`\sin A = \frac{4}{5}` and :math:`\cos B = \frac{5}{13},` we have to prove that one value of :math:`\cos \frac{A -
+     B}{2} = \frac{8}{\sqrt{65}}`
+
+     :math:`\cos A = \frac{3}{5}` and :math:`\sin B = \frac{12}{13}`
+
+     :math:`\cos^2\frac{A - B}{2} = \frac{1 + \cos(A - B)}{2}`
+
+     :math:`\cos(A - B) = \cos A\cos B + \sin A\sin B = \frac{15}{65} + \frac{48}{65} = \frac{63}{65}`
+
+     :math:`\frac{1 + \cos(A - B)}{2} = \frac{128}{2.65}`
+
+     :math:`\cos\frac{A - B}{2} = \pm\frac{8}{\sqrt{65}}`
+
+132. Given, :math:`\sec(A + B) + \sec(A - B) = 2\sec A,` we have to prove that :math:`\cos B = \pm \sqrt{2}\cos \frac{B}{2}`
+
+     L.H.S. :math:`= \frac{1}{\cos(A + B)} + \frac{1}{\cos(A - B)} = \frac{\cos(A - B) + \cos (A + B)}{\cos(A - B)\cos(A + B)}`
+
+     :math:`= \frac{4(\cos A\cos B)}{\cos 2A + \cos 2B}`
+
+     :math:`\frac{2\cos A\cos B}{\cos 2A + \cos 2B} = \frac{1}{\cos A}`
+
+     :math:`2\cos^2A\cos B = 2\cos^2A - 1 + 2\cos^2B - 1`
+
+     :math:`2\cos^2A(\cos B - 1) = 2(\cos^2B - 1)`
+
+     :math:`\cos^2A = \cos B + 1 = 2\cos^2\frac{B}{2}`
+
+     :math:`\cos A = \pm\sqrt{2}\cos\frac{B}{2}`
+
+133. Given :math:`\cos \theta = \frac{\cos\alpha\cos\beta}{1 - \sin\alpha\sin\beta},` we have to prove that one of the values of
+     :math:`\tan \frac{\theta}{2}` is :math:`\frac{\tan \frac{\alpha}{2} - \tan\frac{\beta}{2}}{1 -
+     \tan\frac{\alpha}{2}\tan\frac{\beta}{2}}`
+
+     :math:`\tan^2\frac{\theta}{2} = \frac{1 - \cos\theta}{1 + \cos\theta}`
+
+     :math:`= \frac{1 - \frac{\cos\alpha\cos\beta}{1 - \sin\alpha\sin\beta}}{1 + \frac{\cos\alpha\cos\beta}{1 -
+     \sin\alpha\sin\beta}}`
+
+     :math:`= \frac{1 - (\cos\alpha\cos\beta + \sin\alpha\sin\beta)}{1 + (\cos\alpha\cos\beta - \sin\alpha\sin\beta)}`
+
+     :math:`= \frac{1 - \cos(\alpha - \beta)}{1 + \cos(\alpha + \beta)}`
+
+     :math:`= \frac{2\sin^2\frac{\alpha - \beta}{2}}{2\cos^2\frac{\alpha + \beta}{2}}`
+
+     :math:`\tan\frac{\theta}{2} = \frac{\sin\frac{\alpha - \beta}{2}}{\cos\frac{\alpha + \beta}{2}}`
+
+     :math:`= \frac{\sin\frac{\alpha}{2}\cos\frac{\beta}{2} -
+     \cos\frac{\alpha}{2}\cos\frac{\beta}{2}}{\cos\frac{\alpha}{2}\cos\frac{\beta}{2} - \sin\frac{\alpha}{2}\sin\frac{\beta}{2}}`
+
+     Dividing both numerator and denominator by :math:`\cos\frac{\alpha}{2}\cos\frac{\beta}{2}`
+
+     :math:`\tan\frac{\theta}{2} = \frac{\tan \frac{\alpha}{2} - \tan\frac{\beta}{2}}{1 -
+     \tan\frac{\alpha}{2}\tan\frac{\beta}{2}}`
+
+134. Given :math:`\tan\alpha = \frac{\sin\theta\sin\phi}{\cos\theta + \cos\phi},` we have to prove that one of the values of
+     :math:`\tan\frac{\alpha}{2}` is :math:`\tan\frac{\theta}{2}\tan\frac{\phi}{2}`
+
+     :math:`\Rightarrow \frac{2\tan\frac{\alpha}{2}}{1 - \tan^2\frac{\alpha}{2}} = \frac{\frac{2\tan\frac{\theta}{2}}{1 +
+     \tan^2\frac{\theta}{2}}\frac{2\tan\frac{\phi}{2}}{1 + \tan^2\frac{\phi}{2}}}{\frac{1 - \tan^2\frac{\theta}{2}}{1 +
+     \tan^2\frac{\theta}{2}} + \frac{1 - \tan^2\frac{\phi}{2}}{1 + \tan^2\frac{\phi}{2}}}`
+
+     :math:`= \frac{4\tan\frac{\theta}{2}\tan\frac{\phi}{2}}{1 + \tan^2\frac{\phi}{2} - \tan^2\frac{\theta}{2} -
+     \tan^2\frac{\phi}{2}.\tan^2\frac{\theta}{2} + 1 + \tan^2\frac{\theta}{2} -\tan^2\frac{\phi}{2} -
+     \tan^2\frac{\phi}{2}.\tan^2\frac{\theta}{2}}`
+
+     :math:`= \frac{2\tan\frac{\theta}{2}\tan\frac{\phi}{2}}{1 - \tan^2\frac{\theta}{2}\tan^2\frac{\phi}{2}}`
+
+     Solving this quadratic equationin :math:`\tan\frac{\alpha}{2}` we obtain the desired result.
+
+135. Given :math:`\cos\theta = \frac{\cos\alpha + \cos\beta}{1 + \cos\alpha\cos\beta},` we have to prove that one of the values of
+     :math:`\tan\frac{\theta}{2}` is :math:`\tan\frac{\alpha}{2}\tan\frac{\beta}{2}`
+
+     :math:`\cos\theta = \frac{\cos\alpha + \cos\beta}{1 + \cos\alpha\cos\beta}`
+
+     :math:`\frac{1 - \tan^2\frac{\theta}{2}}{1 + \tan^2\frac{\theta}{2}} = \frac{\cos\alpha + \cos\beta}{1 + \cos\alpha\cos\beta}`
+
+     :math:`\tan^2\frac{\theta}{2} = \frac{1 - \cos\alpha\cos\beta - \cos\alpha + \cos\beta}{1 - \cos\alpha\cos\beta + \cos\alpha -
+     \cos\beta}`
+
+     :math:`= \frac{(1 - \cos\alpha)(1 + \cos\beta)}{(1 + \cos\allpha)(1 + \cos\beta)}`
+
+     :math:`\tan^2\frac{\theta}{2} = \tan^2\frac{\alpha}{2}\cot^2\frac{\beta}{2}`
+
+     :math:`\tan\frac{\theta}{2} = \pm\tan\frac{\alpha}{2}\cot\frac{\beta}{2}`
