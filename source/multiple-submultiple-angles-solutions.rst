@@ -1410,7 +1410,7 @@ Multiple and Submultiple Angles Solutions
      :math:`\tan^2\frac{\theta}{2} = \frac{1 - \cos\alpha\cos\beta - \cos\alpha + \cos\beta}{1 - \cos\alpha\cos\beta + \cos\alpha -
      \cos\beta}`
 
-     :math:`= \frac{(1 - \cos\alpha)(1 + \cos\beta)}{(1 + \cos\allpha)(1 + \cos\beta)}`
+     :math:`= \frac{(1 - \cos\alpha)(1 + \cos\beta)}{(1 + \cos\alpha)(1 + \cos\beta)}`
 
      :math:`\tan^2\frac{\theta}{2} = \tan^2\frac{\alpha}{2}\cot^2\frac{\beta}{2}`
 

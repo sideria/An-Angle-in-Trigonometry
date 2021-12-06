@@ -23,6 +23,7 @@ An Angle in Trigonometry
    transformation-formulae-solutions
    multiple-submultiple-angles
    multiple-submultiple-angles-solutions
+   trigonometrical-identities
 
 Indices and tables
 ==================
