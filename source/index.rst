@@ -1,4 +1,4 @@
-.. Informal Algebra documentation master file, created by
+.. An Angle in Trigonometry documentation master file, created by
    sphinx-quickstart on Sat Mar  2 06:17:53 2013.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
@@ -24,6 +24,7 @@ An Angle in Trigonometry
    multiple-submultiple-angles
    multiple-submultiple-angles-solutions
    trigonometrical-identities
+   trigonometrical-identities-solutions
 
 Indices and tables
 ==================
