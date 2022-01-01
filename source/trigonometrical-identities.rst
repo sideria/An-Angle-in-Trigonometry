@@ -137,7 +137,7 @@ In this chapter we will have only problems and we will use the theory we have le
 56. If :math:`A + B + C + D = 2\pi,` prove that :math:`\cos A + \cos B + \cos C + \cos D = 4\cos\frac{A + B}{2}\cos\frac{B +
     C}{2}\cos\frac{C + A}{2}`
 
-57. If :math:`A + B + C = 2S,` prove that :math:`\cos^2S + cos^2(S - A) + \cos^2(S - B) + \cos^2(S - C) = 2 + 2\cos A\cos B\cos C`
+57. If :math:`A + B + C = 2S,` prove that :math:`\cos^2S + \cos^2(S - A) + \cos^2(S - B) + \cos^2(S - C) = 2 + 2\cos A\cos B\cos C`
 
 58. If :math:`A + B + C = \pi,` prove that :math:`\tan^2\frac{A}{2} + \tan^2\frac{B}{2} + \tan^2\frac{C}{2}\geq 1`
 
@@ -158,6 +158,3 @@ In this chapter we will have only problems and we will use the theory we have le
     \frac{C}{2}\cos\frac{A -B}{2} = \sin A + \sin B + \sin C`
 
 66. In a :math:`\triangle ABC,` prove that :math:`\sin 3A\sin(B - C) + \sin 3B\sin(C - A) + \sin3C\sin(A - B) = 0`
-
-67. In a :math:`\triangle ABC,` prove that :math:`\sin^3A\cos(B - C) + \sin^3B\cos(C - A) + \sin^3C\cos(A - B) = 3\sin A\sin B\sin
-    C`
