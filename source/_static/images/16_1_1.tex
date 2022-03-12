@@ -1,0 +1,17 @@
+\documentclass[tikz]{standalone}
+\usetikzlibrary{calc,patterns,angles,quotes}
+\usepackage{pgfplots}
+\pgfplotsset{compat=newest}
+
+\pagestyle{empty}
+
+\begin{document}
+\begin{tikzpicture}
+  \draw (-2,0) -- (2, 0) -- (0, 3) -- cycle;
+  \draw [blue] (-2, 0) node[anchor=north east] {$B$};
+  \draw [blue] (2, 0) node[anchor=north west] {$C$};
+  \draw [blue] (0, 3) node[anchor=south] {$A$};
+  \draw [dashed] (0, 3) -- (0, 0);
+  \draw [blue] (0, 0) node[anchor=north] {$D$};
+\end{tikzpicture}
+\end{document}

@@ -25,6 +25,7 @@ An Angle in Trigonometry
    multiple-submultiple-angles-solutions
    trigonometrical-identities
    trigonometrical-identities-solutions
+   properties-of-triangles
 
 Indices and tables
 ==================
