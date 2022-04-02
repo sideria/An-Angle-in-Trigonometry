@@ -299,7 +299,7 @@ Trigonometrical Ratios of Angle and Sign Solutions
 
     :math:`= \frac{9}{8}`
 
-56. Given expression is :math:`\frac{\sec\circ(2\pi + 120^\circ).\cosec(2\pi + 210^\circ).\tan(2\pi - 30^\circ)}{\sin(\2\pi +
+56. Given expression is :math:`\frac{\sec\circ(2\pi + 120^\circ).\cosec(2\pi + 210^\circ).\tan(2\pi - 30^\circ)}{\sin(2\pi +
     240^\circ).\cos(2\pi + 300^\circ).\cot(2\pi + 45^\circ)}`
 
     :math:`= \frac{\sec(90^\circ + 30^\circ).\cosec(180^\circ + 30^\circ).-\tan 30^\circ}{\sin(180^\circ + 60^\circ).\cos(360^\circ
@@ -318,9 +318,11 @@ Trigonometrical Ratios of Angle and Sign Solutions
 
     Thus, L.H.S. = R.H.S.
 
-58. L.H.S. :math:`= \left(1 + 1 + \sqrt{2}\right)(1 + 1 - {\sqrt{2}) = 4 - 2 = 2 = \cosec^245^\circ`
+58. L.H.S. :math:`= \left(1 + 1 + \sqrt{2}\right)(1 + 1 - \sqrt{2}) = 4 - 2 = 2 = \cosec^2\frac{\pi}{4}`
+
 
 59 and 60 are similar to 52 and 51 respectively and have been left as an exercise.
+
 
 61. L.H.S. :math:`= \sin^2 \frac{\pi}{18} + \sin^2\frac{2\pi}{18} + \ldots + \sin^2\frac{9\pi}{18}`
 

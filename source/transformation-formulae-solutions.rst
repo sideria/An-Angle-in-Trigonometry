@@ -34,7 +34,7 @@ Transformation Formulae Solutions
 
 8. We have to prove, :math:`\frac{\sin 2A + \sin 2B}{\sin 2A - \sin 2B} = \frac{\tan(A + B)}{\tan(A - B)}`
 
-   L.H.S. :math:`= \frac{\2\sin(A + B)\cos(A - B)}{2\cos(A + B)\sin(A - B)}`
+   L.H.S. :math:`= \frac{2\sin(A + B)\cos(A - B)}{2\cos(A + B)\sin(A - B)}`
 
    :math:`= \frac{\tan(A + B)}{\tan(A - B)}`
 

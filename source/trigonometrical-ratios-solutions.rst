@@ -272,7 +272,7 @@ Go through the list of relationship between trigonometrical ratios as the proble
 
 42. L.H.S. :math:`= \frac{\tan A}{\sec A - 1} + \frac{\tan A}{\sec A + 1}`
 
-    :math:`= \frac{\tanA\sec A + \tan A + \tan A\sec A - \tan A}{(\sec^2A - 1)}`
+    :math:`= \frac{\tan A\sec A + \tan A + \tan A\sec A - \tan A}{(\sec^2A - 1)}`
 
     :math:`= \frac{2\tan A\sec A}{\tan^2 A} = 2\cosec A =` R.H.S.
 
@@ -388,7 +388,7 @@ Go through the list of relationship between trigonometrical ratios as the proble
 
 55. Given, :math:`\tan^2A + \sec A = 5 \Rightarrow \sec^2A - 1 + \sec A = 5`
 
-    :math:`\sec^2A + \secA - 6 = 0`
+    :math:`\sec^2A + \sec A - 6 = 0`
 
     :math:`\sec A = -3, 2\Rightarrow \cos A = -\frac{1}{3}, \frac{1}{2}`
 
@@ -574,7 +574,7 @@ Go through the list of relationship between trigonometrical ratios as the proble
 
     :math:`\Rightarrow (x + y)^2 \leq 4xy \Rightarrow (x - y)^2 \leq 0`
 
-    But for real :math:`\x` and :math:`y, (x - y)^2\nless 0`
+    But for real :math:`x` and :math:`y, (x - y)^2\nless 0`
 
     :math:`\therefore (x - y)^2 = 0 \therefore x - y`
 
@@ -610,7 +610,7 @@ Go through the list of relationship between trigonometrical ratios as the proble
 
     Squaring, we get
 
-    :math:`\frac{\sin^2A}{\sin^2B} = p^2, \frac{\cos^2A}{\cos^2B}= q^`
+    :math:`\frac{\sin^2A}{\sin^2B} = p^2, \frac{\cos^2A}{\cos^2B}= q^2`
 
     :math:`\frac{\sin^2A - \sin^2B}{\sin^2B} = p^2 - 1, \frac{\cos^2B - \cos^2A}{\cos^2B} = 1 - q^2`
 

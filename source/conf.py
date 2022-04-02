@@ -32,7 +32,7 @@ sphinx.application.ExtensionError = sphinx.errors.ExtensionError
 # coming with Sphinx (named 'sphinx.ext.*') or your custom ones.
 extensions = ['sphinx.ext.autodoc', 'sphinx.ext.doctest', 'sphinx.ext.intersphinx', 'sphinx.ext.todo', 'sphinx.ext.coverage', 'sphinxcontrib.katex', 'sphinx.ext.ifconfig', 'sphinxcontrib.tikz', 'sphinxcontrib.googleanalytics']
 
-#katex_prerender = True
+katex_prerender = True
 tikz_tikzlibraries = 'arrows'
 pngmath_dvipng_args = ['-gamma', '1.5', '-D', '112', '-bg', 'Transparent']
 # Add any paths that contain templates here, relative to this directory.

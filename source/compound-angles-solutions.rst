@@ -234,7 +234,7 @@ Compound Angles Solutions
 
 26. Given, :math:`\cos 18^\circ - \sin 18^\circ = \sqrt{2}\sin 27^\circ`
 
-    :math:`\frac{1}{\sqrt{2}}\cos\18^\circ - \frac{1}{\sqrt{2}}\sin18^\circ = \sin 27^\circ`
+    :math:`\frac{1}{\sqrt{2}}\cos 18^\circ - \frac{1}{\sqrt{2}}\sin18^\circ = \sin 27^\circ`
 
     L.H.S. :math:`= \sin45^\circ\cos18^\circ - \cos45^\circ\sin18^\circ`
 
@@ -577,7 +577,7 @@ Compound Angles Solutions
 
     :math:`\tan(\theta + \alpha) + 2\tan\alpha = 0`
 
-61. Given, :math:`3\tan\theta\tan\phi = 1 \Rightarrow \cot\tehta\cot\phi = 3`
+61. Given, :math:`3\tan\theta\tan\phi = 1 \Rightarrow \cot\theta\cot\phi = 3`
 
     :math:`\frac{\cos\theta\cos\phi}{\sin\theta\sin\phi} = 3`
 
@@ -595,7 +595,7 @@ Compound Angles Solutions
 
 63. Let :math:`z = 5\cos\theta + 3\cos\left(\theta + \frac{\pi}{3}\right) + 3`
 
-    :math:`z = 5\cos\thete + \frac{3}{2}\cos\theta - \frac{3\sqrt{3}}{2}\sin\theta + 3`
+    :math:`z = 5\cos\theta + \frac{3}{2}\cos\theta - \frac{3\sqrt{3}}{2}\sin\theta + 3`
 
     :math:`= \frac{13}{2}\cos\theta - \frac{3\sqrt{3}}{2}\sin\theta + 3`
 
@@ -603,7 +603,7 @@ Compound Angles Solutions
 
     Let :math:`\cos\alpha = \frac{13}{14}` then :math:`\sin\alpha = \frac{3\sqrt{3}}{14}`
 
-    :math:`y = 7(\cos\alpha\cos\theta - \sin\alpha\sin\thete) + 3`
+    :math:`y = 7(\cos\alpha\cos\theta - \sin\alpha\sin\theta) + 3`
 
     :math:`y = 7\cos(\theta + \alpha) + 3`
 

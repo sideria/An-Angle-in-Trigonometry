@@ -472,6 +472,6 @@ Measurement of Angles Solutions
 
     Therefore angle subtended :math:`= \frac{2\pi}{2} = \pi` radians.
 
-79. Length of arc :math:`= 10 \time \frac{36}{3600} = \frac{1}{10}` miles.
+79. Length of arc :math:`= 10 \times \frac{36}{3600} = \frac{1}{10}` miles.
 
     :math:`d = 2\frac{l}{\theta} = \frac{2}{10}\frac{180}{56\pi}` miles

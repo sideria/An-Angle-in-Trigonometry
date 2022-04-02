@@ -1107,7 +1107,7 @@ Multiple and Submultiple Angles Solutions
 
      L.H.S. :math:`= \frac{1}{2}\left(2\sin^248^\circ - 2\cos^212^\circ\right)`
 
-     :math:`= \frac{1}{2}\left(1 - \cos96^\circ \right - 1 - \cos24^\circ)`
+     :math:`= \frac{1}{2}\left(1 - \cos96^\circ - 1 - \cos24^\circ\right)`
 
      :math:`= -\frac{1}{2}\left(2\cos60^\circ\cos36^\circ\right)`
 
