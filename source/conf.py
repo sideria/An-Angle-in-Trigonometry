@@ -180,7 +180,7 @@ html_show_sourcelink = False
 # Output file base name for HTML help builder.
 #htmlhelp_basename = 'algebradoc'
 
-
+html_css_files = ['css/style.css']
 # -- Options for LaTeX output --------------------------------------------------
 latex_elements = {
 # The paper size ('letterpaper' or 'a4paper').

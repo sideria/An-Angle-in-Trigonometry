@@ -461,17 +461,114 @@ Other Forms
 Results Related with Escribed Circles
 =====================================
 .. image:: _static/images/16_1_10.png
-   :alt: in-cicle
+   :alt: escribed circle
    :align: center
 
-Problems
-========
-1. The sides of a triangle are :math:`8cm, 10cm` and :math:`12cm.` Prove that the greatest angle is double the smallest angle.
+Let :math:`ABC` be a triangle. Let two sides :math:`AB` and :math:`AC` be extended to :math:`AP` and :math:`AQ` respectively. Let
+the bisectors of exterior angles :math:`B` and :math:`C` meet at :math:`I.` Let :math:`ID\perp BC.` If we take :math:`I` as the
+center and :math:`ID` as the radius and draw a circle, it will touch all the three sides(two extended sides and :math:`BC`) of the
+triangle. The circle is called escribed circle to the triangle :math:`ABC.` Three such circles can be drawn, each opposite to each
+angle. We denotge these radii by :math:`r_1, r_2` and :math:`r_3.` for angles :math:`A, B` and :math:`C` respectively.
 
-2. In a :math:`\triangle ABC,` if :math:`\frac{b + c}{11} = \frac{c + a}{12} = \frac{a + b}{13},` prove that :math:`\frac{\cos
-   A}{7} = \frac{\cos B}{19} = \frac{\cos C}{25}`
+In such a triangle :math:`ABC,` :math:`r_1 = \frac{\Delta}{s - a}, r_2 = \frac{\Delta}{s - b}, r_3 = \frac{\Delta}{s - c}`
 
-3. If :math:`\triangle = a^2 - (b - c)^2,` where :math:`\triangle` is the area of the :math:`\triangle ABC,` then prove that
-   :math:`\tan A = \frac{8}{15}`
+**Proof:** Area of :math:`\triangle ABC = \Delta IAB + \Delta IAC - \Delta IBC`
 
-4.
+:math:`= \frac{1}{2}cr_1 + \frac{1}{2}br_1 - \frac{1}{2}ar_1`
+
+:math:`= \frac{1}{2}(b + c - a)r_! = \frac{1}{2}(a + b + c - 2a)r1 = \frac{1}{2}(2s - 2a)r_1 = (s - a)r_1`
+
+:math:`\Rightarrow r_1 = \frac{\Delta}{s - a}`
+
+Similarly, it can be proven for :math:`r_2` and :math:`r_3.`
+
+Other Forms
+-----------
+1. :math:`r_1 = s\tan\frac{A}{2} = 4R\sin\frac{A}{2}\cos\frac{B}{2}\cos\frac{C}{2}`
+
+2. :math:`r_2 = s\tan\frac{B}{2} = 4R\cos\frac{A}{2}\sin\frac{B}{2}\cos\frac{C}{2}`
+
+3. :math:`r_3 = s\tan\frac{C}{2} = 4R\cos\frac{A}{2}\cos\frac{B}{2}\sin\frac{C}{2}`
+
+Distannces of Circum-center, In-center, Orthocenter and Centroid from Vertices
+==============================================================================
+We have already shown that for circum-center distance is equal to circum-radius i.e. :math:`R`
+
+Referring to the image of in-cicle, :math:`IF = r, \angle FAI = \frac{A}{2}`
+
+From right-angle triangle :math:`FIA, \sin\frac{A}{2} = \frac{r}{AI} \Rightarrow AI = r\cosec\frac{A}{2}`
+
+Similarly, :math:`BI = r\cosec\frac{B}{2}` and :math:`CI = r\cosec\frac{C}{2}`
+
+Orthocenter
+-----------
+Orthocenter is point of intersection of perpendiculars from a vertex to opposite side.
+
+.. image:: _static/images/16_1_11.png
+   :alt: ortho center
+   :align: center
+
+Let the orthocenter be :math:`H` which is intersection of perpendiculars from any vertex to opposite side.
+
+From right angle triangle :math:`AEB, \cos A= \frac{AE}{AB} \Rightarrow AE = c\cos A`
+
+From right angle triangle :math:`ADC, \angle DAC = 90^\circ - C`
+
+From right angle triangle :math:`AEH, \cos(90^\circ - C) = \frac{AE}{AH}`
+
+:math:`\Rightarrow AH = \frac{c\cos A}{\sin C} = 2R\cos A`
+
+Similarly, :math:`BH = 2R\cos B, CH=2R\cos C`
+
+Centroid
+--------
+.. image:: _static/images/16_1_12.png
+   :alt: centroid
+   :align: center
+
+Let :math:`G` be the centroid. Since, it is the point of intersection of medians, it will lie on median :math:`AD.`
+
+From geometry, :math:`AB^2 + AC^2 = 2DB^2 + 2AD^2`
+
+:math:`\Rightarrow c^2 + b^2 2.\left(\frac{a}{2}\right)^2 + 2AD^2`
+
+:math:`\Rightarrow 2AD^2 = \frac{2b^2 + 2c^2 - a^2}{2}`
+
+:math:`\because AG:GD = 2:1` [property of centroid that it divides median in the ratio of :math:`2:1` ]
+
+:math:`AG = \frac{2}{3}AD = \frac{1}{3}\sqrt{2b^2 + 2c^2 - a^2}`
+
+Similarly, :math:`BG = \frac{1}{3}\sqrt{2a^2 + 2c^2 - b^2}, CG = \frac{1}{3}\sqrt{2a^2 + 2b^2 - c^2}`
+
+Area of a Cyclid Quadrilateral
+==============================
+.. image:: _static/images/16_1_13.png
+   :alt: cyclic quadrilateral
+   :align: center
+
+If :math:`a, b, c, d` be the sides and :math:`s` the subperimeter of a cyclic quadrilateral, then its area is :math:`\sqrt{(s -
+a)(s - b)(s - c)(s - d)}`
+
+**Proof:** Let :math:`ABCD` be the cyclic quadrilateral having sides :math:`AB = a, BC = b, CD = c` and :math:`AD = d`
+
+Since opposing angles of a quadrilateral are complementary, therefore :math:`B + D = A + C = \pi`
+
+Applying cosine law in :math:`\triangle ABC, \cos B = \frac{a^2 + b^2 - AC^2}{2ab} \Rightarrow AC^2 = a^2 + b^2 - 2ab\cos B`
+
+Similarly, in :math:`\triangle ACD, AC^2 = c^2 + d^2 -2cd\cos(\pi - B) = c^2 + d^2 + 2cd\cos B`
+
+From these two equations, we get :math:`\cos B = \frac{a^2 + b^2 - c^2 - d^2}{2(ab + cd)}`
+
+Area of quadrilateral :math:`ABCD` = Area of :math:`\triangle ABC` + Area of :math:`\triangle ACD`
+
+:math:`= \frac{1}{2}ad\sin B + \frac{1}{2}cd \sin(\pi - B) = \frac{1}{2}(ab + cd)\sin B`
+
+Also, :math:`\sin^2B = 1 - \cos^2B = 1 - \left[\frac{a^2 + b^2 - c^2 - d^2}{2(ab + cd)}\right]^2`
+
+:math:`= \frac{(2ab + 2cd + a^2 + b^2 - c^2 - d^2)(2ab + 2cd - a^2 - b^2 + c^2 + d^2)}{4(ab + cd)^2}`
+
+:math:`= \frac{[(a + b)^2 -(c - d)^2][(c + d)^2 - (a - b)^2]}{4(ab + cd)^2}`
+
+:math:`= \frac{4(s - a)(s - b)(s - c)(s - d)}{4(ab + cd)^2}`
+
+Thus, area of quadrilateral :math:`= \sqrt{(s - a)(s - b)(s - c)(s - d)}`

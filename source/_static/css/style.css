@@ -1,0 +1,132 @@
+/*
+ * Style tweaks
+ * --------------------------------------------------
+ */
+html,
+body {
+  overflow-x: hidden; /* Prevent scroll on narrow devices */
+  background: #f7f7f7;
+}
+body {
+  padding-top: 70px;
+}
+footer {
+  padding: 15px 15px 30px 15px;
+}
+h1 h2 h3 h4 h5 h6 {
+    color: rgb(15, 157, 88);
+}
+.my-box {
+  border: 1px solid #eee;
+}
+.cat-header {
+  padding: 1rem 1rem;
+  text-align: center;
+  color: #000000;
+}
+.card-header{
+  background-color:#fefefe;
+  border-bottom: 1px solid #ddd;
+}
+#header {
+  background: rgb(66, 133, 244);
+  border-bottom: 1px solid #eee;
+}
+#header .navbar-nav .nav-item .nav-link{
+  color: #333;
+}
+
+.navbar-brand {
+  color: #ffffff!important;
+}
+
+#header .navbar-nav .nav-item .nav-link:hover{
+  color: #777;
+}
+#middle .card-block {
+  min-height: 100px;
+}
+#middle .card {
+  margin-bottom:2.75rem;
+  box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14),0 3px 1px -2px rgba(0,0,0,0.12),0 1px 5px 0 rgba(0,0,0,0.2);
+  min-height: 150px;
+}
+#middle .card-header {
+  /*border-bottom:0px;*/
+  padding-top: 5px;
+}
+#middle, .card-header, h1, h2, h3, h4, h5, h6 {
+  font-weight: 100;
+  color: rgb(15, 157, 88);
+}
+.card-block {
+    padding: 5px;
+    margin-left: 10px;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #08c;
+    /*border-color: #02231d;*/
+    padding: 10px 10px;
+    margin-left: 140px;
+    border-radius: 30px;
+    /*border: 2px solid #eee;*/
+}
+
+a:hover, a:active, a:focus {
+color: #0275d8;
+text-decoration: none;
+}
+
+footer {
+    padding: 15px 15px 0px 15px;
+    border-top: 1px solid #ccc;
+    /*color: #eee;*/
+}
+.card-title{
+  color: #eee;
+}
+footer a {
+  color: #16a085;
+}
+#footerTop #footLink p {
+  margin-bottom:0;
+}
+#footerTop #socialLink p {
+  margin-bottom:5px;
+}
+#footerTop #socialLink p span {
+  margin-bottom:0;
+  font-size: 28px;
+  width: 32px;
+  height: 32px;
+  vertical-align: middle;
+  text-align: center;
+  padding-top: 2px;
+}
+#footerTop #socialLink p a{
+  text-decoration: none;
+}
+#footerTop {
+  margin-bottom: 15px;
+}
+#footerBottom{
+  border-top: 1px solid #555;
+  padding: 15px 0px 0px 0px;
+}
+.credit {
+  text-align: right;
+}
+.fa-github-square {color: #333;background:#fff;}
+.fa-youtube-square {color: #fff;background: #b00;}
+.fa-linkedin -square{color: #fff;background:#007BB6;}
+.fa-facebook-square {color: #fff;background:#3b5998;}
+.fa-twitter-square {color: #fff;background:#00aced;}
+
+
+#teamMember .card-img-top {
+    border-radius: 125px;
+    margin-top: 20px;
+    max-height: 175px;
+    min-height: 175px;
+}

@@ -26,6 +26,7 @@ An Angle in Trigonometry
    trigonometrical-identities
    trigonometrical-identities-solutions
    properties-of-triangles
+   properties-of-triangles-problems
 
 Indices and tables
 ==================
