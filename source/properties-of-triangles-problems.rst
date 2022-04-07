@@ -1,6 +1,7 @@
-Problems
-********
-1. The sides of a triangle are :math:`8cm, 10cm` and :math:`12cm.` Prove that the greatest angle is double the smallest angle.
+Properties of Triangles' Problems
+*********************************
+1. The sides of a triangle are :math:`8` cm, :math:`10` cm and :math:`12` cm. Prove that the greatest angle is double the smallest
+   angle.
 
 2. In a :math:`\triangle ABC,` if :math:`\frac{b + c}{11} = \frac{c + a}{12} = \frac{a + b}{13},` prove that :math:`\frac{\cos
    A}{7} = \frac{\cos B}{19} = \frac{\cos C}{25}`
@@ -487,3 +488,219 @@ Problems
 #. In a triangle :math:`ABC,` prove that :math:`4R\sin A\sin B\sin C = a\cos A + b\cos B + c\cos C.`
 
 #. In a triangle :math:`ABC,` prove that :math:`(r_1 - r)(r_2 - r)(r_3 - r) = 4Rr^2`
+
+#. In a triangle :math:`ABC,` prove that :math:`r^2 + r_1^2 + r_2^2 + r_3^2 = 16R^2 - a^2 - b^2 - c^2`
+
+#. In a triangle :math:`ABC,` prove that :math:`IA. IB. IC = abc\tan\frac{A}{2}\tan\frac{B}{2}\tan\frac{C}{2}`
+
+#. In a triangle :math:`ABC,` prove that :math:`AI_1 = r_1\cosec\frac{A}{2}`
+
+#. In a triangle :math:`ABC,` prove that :math:`II_1 = a\sec\frac{A}{2}`
+
+#. In a triangle :math:`ABC,` prove that :math:`I_2I_3 = a\cosec\frac{A}{2}`
+
+#. In a triangle :math:`ABC,` if :math:`I` is the in-center and :math:`I_1, I_2` and :math:`I_3` are the centers of the escribed
+   circles, then prove that :math:`II_1.II_2.II_3 = 16R^2r`
+
+#. In a triangle :math:`ABC,` if :math:`I` is the in-center and :math:`I_1, I_2` and :math:`I_3` are the centers of the escribed
+   circles, then prove that :math:`II_1^2.I_2I_3^2 = II_2^2 + I_3I_1^2 = II_3^2 + I_1I_2^2 = 16R^2`
+
+#. In a triangle :math:`ABC,` if :math:`O` is the circumcenter and :math:`I,` the in-center then prove that :math:`OI^2 = R^2(3 -
+   2\cos A - 2\cos B - 2\cos C).`
+
+#. In a triangle :math:`ABC,` if :math:`H` is the orthocenter and :math:`I` the in-center then prove that :math:`IH^2 = 2r^2 -
+   4R^2\cos A\cos B\cos C.`
+
+#. In a triangle :math:`ABC,` if :math:`O` is the circumcenter, :math:`G,` the cetroid and :math:`H,` the orthocenter then prove
+   that :math:`OG^2 = R^2 - \frac{1}{9}(a^2 + b^2 + c^2).`
+
+#. Given an isosceles triangle with lateral side of length :math:`b,` base angle :math:`\alpha < \frac{\pi}{4};R, r` the radii and
+   :math:`O, I` the centers of the circumcircle and in-circle respectively, then prove that :math:`R =
+   \frac{1}{2}b\cosec\frac{\alpha}{2}.`
+
+#. Given an isosceles triangle with lateral side of length :math:`b,` base angle :math:`\alpha < \frac{\pi}{4};R, r` the radii and
+   :math:`O, I` the centers of the circumcircle and in-circle respectively, then prove that :math:`r = \frac{b\sin2\alpha}{2(1 +
+   \cos\alpha)}`
+
+#. Given an isosceles triangle with lateral side of length :math:`b,` base angle :math:`\alpha < \frac{\pi}{4};R, r` the radii and
+   :math:`O, I` the centers of the circumcircle and in-circle respectively, then prove that :math:`OI =
+   \left|\frac{b\cos\frac{3\alpha}{2}}{2\sin \alpha\cos\frac{\alpha}{2}}\right|`
+
+#. In a triangle :math:`ABC,` prove that :math:`\frac{1}{ab} + \frac{1}{bc} + \frac{1}{ca} = \frac{1}{2Rr}`
+
+#. In a triangle :math:`ABC,` prove that :math:`\frac{r_1}{(s - b)(s - c)} + \frac{r_2}{(s - c)(s - a)} + \frac{r_3}{(s - a)(s -
+   b)} = \frac{3}{r}.`
+
+#. If :math:`\alpha, \beta, \gamma` are the distances of the vertices of a triangle from the corresponding points of contact with
+   the in-circle, prove that :math:`r^2 = \frac{\alpha\beta\gamma}{\alpha + \beta + \gamma}`
+
+#. Tangents are drawn to the in-circle of triangle :math:`ABC` which are parallel to its sides. If :math:`x, y, z` be the lengths
+   of the tangents and :math:`a, b, c` be the sides of triangle then prove that :math:`\frac{x}{a} + \frac{y}{b} + \frac{z}{c} = 1`
+
+#. If :math:`t_1, t_2, t_3` be the length of tangents from the centers of escribed circles to the circumcircle, prove that
+   :math:`\frac{1}{t_1^2} + \frac{1}{t_2^2} + \frac{1}{t_3^2} = \frac{2s}{abc}.`
+
+#. If in a triangle :math:`ABC,` :math:`\left(1 - \frac{r_1}{r_2}\right)\left(1 - \frac{r_1}{r_3}\right) = 2,` prove that the
+   triangle is right angled.
+
+#. In a triangle :math:`ABC,` prove that the area of the in-circle is to the area of the triangle itself is :math:`\pi:
+   \cot\frac{A}{2}\cot\frac{B}{2}\cot\frac{C}{2}`
+
+#. Let :math:`A_1, A_2, A_3, \ldots, A_n` be the vertices of polygon having an :math:`n` sides such that :math:`\frac{1}{A_1A_2} =
+   \frac{1}{A_1A_3} + \frac{1}{A_1A_4}` then find the value of :math:`n.`
+
+#. Prove that the sum of radii of the circles, which are respectively inscribed in and circumscibed about a regular polygon of
+   :math:`n` sides, is :math:`\frac{a}{2}\cot\frac{\pi}{2n},` where :math:`a` is the side of the polygon.
+
+#. The sides of a quadrilateral are :math:`3, 4, 5` and :math:`6` cms. The sum of a pair of opposite angles is :math:`120^\circ.`
+   Show that the area of the quadrilateral is :math:`3\sqrt{30}` sq. cm.
+
+#. The two adjacent sides of a quadrilateral are :math:`2` and :math:`5` and the angle between them is :math:`60^\circ.` If the
+   area of the quadrilateral is :math:`4\sqrt{3},` find the two remaining sides.
+
+#. A cyclic quadrilateral :math:`ABCD` of area :math:`\frac{3\sqrt{3}}{4}` is inscribed in a unit circle. If one of its sides
+   :math:`Ab = 1` and the diagonal :math:`BD = \sqrt{3},` find lengths of the other sides.
+
+#. If :math:`ABCD` be a quadrilateral inscribed in a circle, prove that :math:`\tan\frac{B}{2} = \sqrt{\frac{(S - a)(S - b)}{(S -
+   c)(S - d)}}.`
+
+#. :math:`a, b, c` and :math:`d` are the sides of a quadrilateral taken in order and :math:`\alpha` is the angle between diagonals
+   opposite to :math:`b` or :math:`d,` prove that the area of the quadrilateral is :math:`\frac{1}{2}(a^2 - b^2 + c^2 -
+   d^2)\tan\alpha`
+
+#. If a quadrilateral can be inscribed in one circle and circumscribed about another circle, prove that its area is
+   :math:`\sqrt{abcd}` and the radius of the latter circle is :math:`\frac{2\sqrt{abcd}}{a + b + c + d}.`
+
+#. The sides of a quadrilateral which can be inscribed in a circle are :math:`3, 3, 4` and :math:`4` cm; find the radii of
+   in-circle and circumcircle.
+
+#. A square whose sides are :math:`2` cm., has its corners cut away so as to form a regular octagon; find its area.
+
+#. If an equilateral triangle and a regular hexagon have the same perimeter, prove that ratio of their areas is :math:`2:3.`
+
+#. Given that the area of a polygon of :math:`n` sides circumscribed about a circle is to the area of the circumscribed polygon of
+   :math:`2n` sides as :math:`3:2,` find :math:`n.`
+
+#. The area of a polygon of :math:`n` sides inscribed in a circle is to that of the same number of sides circumscribing the same
+   circle as :math:`3:4.` Fine the value of :math:`n.`
+
+#. There are two regular polygons, the number of sides in one being the double the number in the other, and an angle of one ploygon
+   is to an angle of the other is :math:`9:8;` find the number of sides of each polygon.
+
+#. Six equal circles, each of radius :math:`a,` are placed so that each touches to others, their centers are joined to form a
+   hexagon. Prove that the area which the circles enclose is :math:`2a^2(3\sqrt{3} - \pi).`
+
+#. A cyclic quadrilateral :math:`ABCD` of area :math:`\frac{3\sqrt{3}}{4}` is inscribed in a unit circle. If one of its sides
+   :math:`AB = 1` and the diagonal :math:`BD=\sqrt{3},` find lengths of the other sides.
+
+#. If :math:`ABCD` is a cyclic quadrilateral, then prove that :math:`AC.BD = AB.CD + BC.AD`
+
+#. If the number of sides of two regular polygons having the same perimeter be :math:`n` and :math:`2n` respectively, prove that
+   their areas are in the ratio :math:`2\cos\frac{\pi}{n}:\left(1 + \cos\frac{\pi}{n}\right).`
+
+#. In a triangle :math:`ABC,` prove that :math:`\sin \frac{A}{2}\sin \frac{B}{2}\sin \frac{C}{2}\leq \frac{1}{8}`
+
+#. The sides of a triangle inscribed in a given circle subtend angles :math:`\alpha, \beta` and :math:`\gamma` at the center. Find
+   the value of the arithmetic mean of :math:`\cos\left(\alpha + \frac{\pi}{2}\right), \cos\left(\beta + \frac{\pi}{2}\right)` and
+   :math:`\cos\left(\gamma + \frac{\pi}{2}\right)`
+
+#. In a triangle :math:`ABC,` prove that :math:`\tan^2\frac{A}{2}\tan^2\frac{B}{2}\tan^2\frac{C}{2} \geq 1`
+
+#. Let :math:`1<m<3.` In a triangle :math:`ABC` if :math:`2b = (m + 1)a` and :math:`\cos A = \frac{1}{2}\sqrt{\frac{(m - 1)(m +
+   3)}{m}},` prove that there are two values of the third side, one of which is :math:`m` times the other.
+
+#. If :math:`\Delta` denotes the area of any triangle and :math:`s` its semiperimeter, prove that :math:`\Delta < \frac{s^2}{4}.`
+
+#. Let :math:`A, B, C` be three angles such that :math:`A = \frac{\pi}{4}` and :math:`\tan B\tan C = p.` Find all possible
+   values of :math:`p` such that :math:`A, B, C` are the angles of a triangle.
+
+#. Through the angular points of a triangle straight lines are drawn, which make the same angle :math:`\alpha` with the opposite
+   side of the triangle. Prove that the area of the triangle formed by them is to the area of the triangle is
+   :math:`4\cos^2\alpha:1`
+
+#. Consider the following statements about a triangle :math:`ABC`
+
+   #. The sides :math:`a,b,c` and :math:`\Delta` are rational.
+
+   #. :math:`a, \tan\frac{B}{2}, \tan\frac{ C}{2}` are rational
+
+   #. :math:`a, \sin A, \sin B, \sin C` are rational.
+
+   Prove that :math:`1 \Rightarrow 2 \Rightarrow 3 \Rightarrow 1`
+
+#. Two sides of a triangle are of length :math:`\sqrt{6}` and :math:`4` and the angle opposite to smaller side is :math:`30^\circ.`
+   How many such triangles are possible? Find the length of their third side and area.
+
+#. A circle is inscribed in an equilateral triangle of side :math:`a.` Prove that the area of any square inscribed in this circle
+   is :math:`\frac{a^2}{6}.`
+
+#. In a triangle :math:`ABC, AD` is the altitude from :math:`A.` Given :math:`b > c, \angle C = 23^\circ` and :math:`AD =
+   \frac{abc}{b^2 - c^2},` then find :math:`\angle B.`
+
+#. In a triangle :math:`ABC, a:b:c = 4:5:6,` then find the ratio of the radius of the circumcircle to that of in-circle.
+
+#. In a triangle :math:`ABC, \angle B = \frac{\pi}{3}, \angle C= \frac{\pi}{4}` and :math:`D` divides :math:`BC` internally in the
+   ratio of :math:`1:3.` Prove that :math:`\frac{\sin\angle BAD}{\sin\angle CAD} = \frac{1}{\sqrt{6}}`
+
+#. In a triangle :math:`ABC,` angle :math:`A` is greater than angle :math:`B.` If the measure of angle :math:`A` and :math:`B`
+   satisfy the equation :math:`3\sin x - 4\sin^3x - k = 0, 0< k < 1,` then find the measure of angle :math:`C.`
+
+#. :math:`ABC` is a triangle such that :math:`\sin(2A + B) = \sin(C - A) = -\sin(B + 2C),` if :math:`A, B, C` are in A.P. determine
+   the value of :math:`A, B` and :math:`C.`
+
+#. In a right angled triangle the hypotenuse is :math:`2\sqrt{2}` times the length of perpendicular drawn from the opposite vertex
+   on the hypotenuse. Find the two angles.
+
+#. In a triangle :math:`PQR, \angle R = \frac{\pi}{2}.` If :math:`\tan\frac{P}{2}` and :math:`\tan\frac{Q}{2}` are the roots of the
+   equation :math:`ax^2 + bx + c = 0(a\neq 0),` then prove that :math:`a + b = c.`
+
+#. In a triangle :math:`ABC,` the medians to the side :math:`BC` is of length :math:`\frac{1}{\sqrt{1 - 6\sqrt{3}}}` and it divides
+   the angle :math:`A` into angles of :math:`30^\circ` and :math:`45^\circ.` Find the lngth of side :math:`BC.`
+
+#. If :math:`A, B, C` are the anngles of an acute-angled triangle, show that :math:`\tan A + \tan B + \tan C \geq 3\sqrt{3}.`
+
+#. In a triangle :math:`ABC, \cos \frac{A}{2} = \frac{1}{2}\sqrt{\frac{b}{c} + \frac{c}{b}},` show that the square describe on one
+   side of the is equal to twice the rectangle contained by two other sides.
+
+#. If in a triangle :math:`ABC, \theta` be the angle determined by the relation :math:`\cos\theta = \frac{a - b}{c}.` Prove that
+   :math:`\cos\frac{A - B}{2} = \frac{(a + b)\sin\theta}{2\sqrt{ab}}` and :math:`\cos \frac{A+B}{2} =
+   \frac{c\cos\theta}{2\sqrt{ab}}.`
+
+#. If :math:`R` be the circum-radius and :math:`r` the in-radius of a triangle :math:`ABC,` show that :math:`R\geq 2r.`
+
+#. If :math:`\cos A = \tan B, \cos B = \tan C` and :math:`\cos C = \tan A,` show that :math:`\sin A = \sin B = \sin C = 2\sin
+   18^\circ,` where :math:`A, B, C` lie between :math:`0` and :math:`\pi.`
+
+#. In a triangle :math:`ABC,` prove that :math:`\cot^2A + \cot^2B + \cot^2C\geq 1`
+
+#. In a triangle :math:`ABC,` prove that :math:`\tan^2A + \tan^2B + \tan^2C \geq 9`
+
+#. In a triangle :math:`ABC,` prove that :math:`\cosec\frac{A}{2} + \cosec\frac{B}{2} + \cosec\frac{C}{2} \geq 6`
+
+#. In a triangle :math:`ABC,` prove that :math:`1 < \cos A + \cos B + \cos C \leq \frac{3}{2}`
+
+#. In a triangle :math:`ABC,` prove that :math:`\cos A\cos B\cos C \leq \frac{1}{8}`
+
+#. Two circles of radii :math:`a` and :math:`b` cut each other at an angle :math:`\theta.` Prove that the length of the common
+   chord is :math:`\frac{2ab\sin\theta}{\sqrt{a^2 + b^22ab\cos\theta}}.`
+
+#. Three equal circles touch one another; find the radius of the circle which touches all the three circles.
+
+#. In a triangle :math:`ABC,` prove that :math:`{}^nC_ra^rb^{n - r}\cos[rB - (n - r)A] = C^n`
+
+#. In a triangle :math:`ABC, \tan A + \tan B + \tan C = k,` then find the interval in which :math:`k` should lie so that there
+   exists one isosceles triangle :math:`ABC.`
+
+#. If :math:`\Delta` be the area and :math:`s,` the semi-perimeter of a triangle, then prove that :math:`\Delta \leq
+   \frac{s^2}{3\sqrt{3}}.`
+
+#. Show that the tirangle having sides :math:`3x + 4y, 4x + 3y` and :math:`5x + 5y` units where :math:`x > 0, y > 0` is
+   obtuse-angled triangle.
+
+#. Let :math:`ABC` be a triangle having altitudes :math:`h_1, h_2, h_3` from the vertices :math:`A, B, C` respectively and
+   :math:`r` be the in-radius, then prove that :math:`\frac{h_1 + r}{h_1 - r} + \frac{h_2 + r}{h_2 - r} + \frac{h_3 + r}{h_3 -
+   r}\geq 0.`
+
+#. If :math:`\Delta_0` be the area of the triangle formed by joining the points of contact of the inscribed circle with the sides
+   of the given triangle, whose area is :math:`\Delta,` and :math:`\Delta_1, \Delta_2` and :math:`\Delta_3` be the corresponding
+   areas for the escribed circles, prove that :math:`\Delta_1 + \Delta_2 + \Delta_3 - \Delta_0 = 2\Delta.`
