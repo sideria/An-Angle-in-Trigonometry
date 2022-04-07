@@ -40,7 +40,7 @@ Properties of Triangles' Problems
 14. The angles of a triangle are in the ratio of :math:`2:3:7,` then prove that the sides are in the ratio of
     :math:`\sqrt{2}:2:(\sqrt{3} + 1)`
 
-15. In a triangle :math:`ABC,` if :math:`\frac{\sin A}{7} = \frac{\sin B}{6} = \frac{\sin C}{7},` show that :math:`\cos A:\cos
+15. In a triangle :math:`ABC,` if :math:`\frac{\sin A}{7} = \frac{\sin B}{6} = \frac{\sin C}{5},` show that :math:`\cos A:\cos
     B:\cos C = 7:19:25`
 
 16. In any triangle :math:`ABC` if :math:`\tan\frac{A}{2} = \frac{5}{6}, \tan\frac{B}{2} = \frac{20}{37},` find
@@ -56,7 +56,7 @@ Properties of Triangles' Problems
 19. In a triangle :math:`ABC,` if :math:`\frac{a}{b} = 2 + \sqrt{3}` and :math:`\angle C= 60^\circ,` show that :math:`\angle A =
     105^\circ` and :math:`\angle B=15^\circ.`
 
-20. If two sides of a triangle and the included angle are given by :math:`a = (1 + \sqrt{3}), b = 2` and :math:`C60^\circ,` find
+20. If two sides of a triangle and the included angle are given by :math:`a = (1 + \sqrt{3}), b = 2` and :math:`C=60^\circ,` find
     the other two angles and the third side.
 
 21. The sides of a triangle are :math:`x, y` and :math:`\sqrt{x^2 + xy + y^2}.` prove that the greatest angle is :math:`120^\circ.`
