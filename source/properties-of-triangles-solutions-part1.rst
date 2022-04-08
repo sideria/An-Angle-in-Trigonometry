@@ -379,6 +379,86 @@ Properties of Triangles' Solutions Part 1
 
    :math:`= \frac{1}{k}\left[2\cos\frac{B + C}{2}\sin\frac{C - B}{2}\right] = \frac{1}{k}[\sin C - \sin B]`
 
-   Similarly second term :math:`= \frac{1}{k}[\sin A - \sin C]` and third term :math:`= \frac{1}{k}[\sin B - \sin A]`
+   Similarly, second term :math:`= \frac{1}{k}[\sin A - \sin C]` and third term :math:`= \frac{1}{k}[\sin B - \sin A]`
 
    Thus, L.H.S. = R.H.S. = 0
+
+#. First term of L.H.S. :math:`= a^3\sin(B - C) = Ra^2.2\sin A\sin(B - C) = Ra^2.2\sin(B + C)\sin(B - C)`
+
+   :math:`= Ra^2[\cos 2C - \cos 2B] = Ra^2(1 - \sin^2C - 1 + \sin^2B) = R[(2R\sin B)^2 - (2R\sin C)^2]`
+
+   :math:`= R[b^2 - c^2]`
+
+   Similarly, second term :math:`= R[c^2 - a^2]` and third term :math:`= R[a^2 - b^2]`
+
+   Thus, L.H.S. :math:`= 0 =` R.H.S.
+
+#. Consider first term i.e. :math:`(b + c - a)\tan \frac{A}{2}`
+
+   :math:`b + c - a = 2s - 2a = 2(s - a)`
+
+   :math:`\tan\frac{A}{2} = \sqrt{\frac{(s - b)(s - c)}{s(s - a)}}`
+
+   :math:`\therefore (b + c - a)\tan \frac{A}{2} = 2\sqrt{\frac{(s - a)(s - b)(s - a)}{s}}`
+
+   Similarly, :math:`(c + a - b)\tan \frac{B}{2} = 2\sqrt{\frac{(s - a)(s - b)(s - a)}{s}} = (a + b - c)\tan\frac{C}{2}`
+
+#. :math:`1 - \tan\frac{A}{2}\tan\frac{B}{2} = 1 =- \sqrt{\frac{(s - b)(s - c)}{s(s - a)}.\frac{(s - a)(s - c)}{s(s - b)}}`
+
+   :math:`= 1 - \frac{s - c}{s} = \frac{c}{s} = \frac{2c}{a + b + c} =` R.H.S.
+
+#. L.H.S. :math:`= \frac{\cos2A}{a^2} - \frac{\cos2B}{b^2}`
+
+   :math:`= \frac{1 - 2\sin^2A}{a^2} - \frac{1 - 2\sin^2B}{b^2}`
+
+   :math:`= \frac{1 - 2.\frac{a^2}{4r^2}}{a^2} - \frac{1 - 2.\frac{b^2}{4r^2}}{b^2}`
+
+   :math:`= \frac{1}{a^2} - \frac{1}{b^2} =` R.H.S.
+
+#. We have to prove that :math:`a^2(\cos^2B - \cos^2C) + b^2(\cos^2C - \cos^2A) + c^2(\cos^2A - \cos^2B) = 0`
+
+   L.H.S. :math:`= a^2(\sin^2C - \sin^2B) + b^2(\sin^2A - \sin^2C) + c^2(\sin^2B - \sin^2A)`
+
+   :math:`= 4R^2\sin^A(\sin^2C - \sin^2B) + 4R^2\sin^2B(\sin^2A - \sin^2C) + 4R^2\sin^2C(\sin^2B - \sin^2A)`
+
+   :math:`= 0 =` R.H.S.
+
+#. First term of L.H.S. :math:`= \frac{a^2\sin(B - C)}{\sin B + \sin C}`
+
+   :math:`= \frac{2Ra\sin A\sin(B - C)}{\sin B + \sin C} = \frac{2Ra\sin(B + C)\sin(B - C)}{\sin B + \sin C}`
+
+   :math:`= \frac{Ra(\cos 2C - \cos 2B)}{\sin B + \sin C} = \frac{Ra(2\sin^2B - 2\sin^2C)}{\sin B + \sin C}`
+
+   :math:`= 2Ra(\sin B - \sin C) = a(b - c)`
+
+   Similarly, second term :math:`= b(c - a)` and third term :math:`= c(a - b)`
+
+   Thus, L.H.S. :math:`= 0 =` R.H.S.
+
+#. L.H.S. :math:`= \frac{\cos A}{a} + \frac{\cos B}{b} + \frac{\cos C}{c}`
+
+   :math:`= \frac{b^2 + c^2 - a^2}{2abc} + \frac{c^2 + a^2 - b^2}{2abc} + \frac{a^2 + b^2 - c^2}{2abc}`
+
+   :math:`= \frac{a^2 + b^2 + c^2}{2abc} =` R.H.S.
+
+#. First term of L.H.S. :math:`= \frac{\cos A}{a} + \frac{a}{bc}`
+
+   :math:`= \frac{b^2 + c^2 - a^2}{2abc} + \frac{a}{bc} = \frac{a^2 + b^2 + c^2}{2abc}`
+
+   Similarly, second term = third term = :math:`\frac{a^2 + b^2 + c^2}{2abc}`
+
+#. First term of L.H.S. :math:`= (b^2 - c^2)\frac{\cos A}{\sin A}`
+
+   :math:`= \frac{(b^2 - c^2)(b^2 + c^2 - a^2)}{2abc} = \frac{b^4 - c^4 - a^2(b^2 - c^2)}{2abc}`
+
+   Similarly, second term :math:`= \frac{c^4 - a^4 - b^2(c^2 - a^2)}{2abc}`
+
+   and third term :math:`= \frac{a^4 - b^4 - c^2(a^2 - b^2)}{2abc}`
+
+   Thus, L.H.S. :math:`= 0 =` R.H.S.
+
+#. L.H.S. :math:`= :math:`(b - c)\frac{s(s - a)}{\Delta} + (c - a)\frac{s(s - b)}{\Delta} + (a - b)\frac{s(s - c)}{\Delta}`
+
+   :math:`= \frac{s}{\Delta}(b^2 - c^2 + c^2 - a^2 + a^2 - b^2) = 0 =` R.H.S.
+
+#.
