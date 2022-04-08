@@ -457,8 +457,98 @@ Properties of Triangles' Solutions Part 1
 
    Thus, L.H.S. :math:`= 0 =` R.H.S.
 
-#. L.H.S. :math:`= :math:`(b - c)\frac{s(s - a)}{\Delta} + (c - a)\frac{s(s - b)}{\Delta} + (a - b)\frac{s(s - c)}{\Delta}`
+#. L.H.S. :math:`= (b - c)\frac{s(s - a)}{\Delta} + (c - a)\frac{s(s - b)}{\Delta} + (a - b)\frac{s(s - c)}{\Delta}`
 
    :math:`= \frac{s}{\Delta}(b^2 - c^2 + c^2 - a^2 + a^2 - b^2) = 0 =` R.H.S.
 
-#.
+#. L.H.S. :math:`= (a - b)^2 + \sin^2\frac{C}{2}\left[(a + b)^2 - (a - b)^2\right]`
+
+   :math:`= (a - b)^2 + 2ab.2\sin^2\frac{C}{2} = (a - b)^2 + 2ab[1 - \cos C]`
+
+   :math:`= a^2 - 2ab + b^2 +2ab - a^2 - b^2 + c^2 = c^2 =` R.H.S.
+
+#. L.H.S. :math:`= \frac{a - b}{a + b} = \frac{\sin A - \sin B}{\sin A + \sin B}`
+
+   :math:`= \frac{2\cos\frac{A + B}{2}\sin\frac{A - B}{2}}{2\sin\frac{A = B}{2}\cos\frac{A - B}{2}}`
+
+   :math:`= \cot \frac{A + B}{2}\tan\frac{A - B}{2} =` R.H.S.
+
+#. The diagram is given below:
+
+   .. image:: _static/images/18_4.png
+      :alt: Problem 47
+      :align: center
+
+   :math:`\cos C = \frac{b}{a/2} = \frac{2b}{a}`
+
+   :math:`\frac{a^2 + b^2 - c^2}{2ab} = \frac{2b}{a} \Rightarrow 3b^2 = a^2 - c^2`
+
+   :math:`\cos A\cos C = \frac{b^2 + c^2 - a^2}{2bc}.\frac{2b}{a}`
+
+   :math:`= \frac{\frac{a^2 - c^2}{3} + c^2 - a^2}{ac} = \frac{2(c^2 - a^2)}{3ac} =` R.H.S.
+
+#. The diagram is given below:
+
+   .. image:: _static/images/18_5.png
+      :alt: Problem 48
+      :align: center
+
+   Here :math:`BD = DC.` Let :math:`AE\perp BC`
+
+   Now, :math:`AC^2 - AB^2 = (AE^2 + EC^2) - (AE^2 + BE^2)`
+
+   :math:`= EC^2 - BE^2 = (EC + BE)(EC - BE) = BE[(ED + DC) - (BD - ED)]`
+
+   :math:`= 2BE.ED[\because BD=DC]`
+
+   Also, :math:`4\Delta = 4.\frac{1}{2}BC.AE = 2BC.AE`
+
+   :math:`\frac{AC^2 - AB^2}{4\Delta} = \frac{2BE.ED}{2BC.AE} = \frac{ED}{AE} = \cot\theta`
+
+#. The diagram is given below:
+
+   .. image:: _static/images/18_6.png
+      :alt: Problem 49
+      :align: center
+
+   Let :math:`\angle DBA = \alpha` then
+
+   :math:`\angle BDC = \alpha [\because AB\parallel DC]`
+
+   :math:`\Rightarrow \angle DAB = \pi - (\theta + \alpha)`
+
+   Now applying sine rule in :math:`\triangle ADB`
+
+   :math:`\frac{AB}{\sin \theta} = \frac{\sqrt{p^2 + q^2}}{\sin(\pi  - \theta - \alpha)}`
+
+   :math:`AB = \frac{\sqrt{p^2 + q^2}\sin\theta}{\sin(\theta + \alpha)}`
+
+   :math:`= \frac{\sqrt{p^2 + q^2}\sin\theta}{\sin\theta\cos\alpha + \sin\alpha\cos\theta}`
+
+
+   :math:`= \frac{(p^2 + q^2)\sin\theta}{p\cos\theta + q\sin\theta}`
+
+#. The diagram is given below:
+
+   .. image:: _static/images/18_7.png
+      :alt: Problem 50
+      :align: center
+
+   :math:`\angle AOB = \pi - B` and :math:`\angle BOC = \pi - C`
+   Applying sine rule in triangle :math:`AOB,` we have
+
+   :math:`\frac{OB}{\sin\theta} = \frac{c}{\sin(\pi - B)} \therefore OB = \frac{c\sin\theta}{\sin B}`
+
+   Similarly, in triangle :math:`BOC,`
+
+   :math:`OB = \frac{a\sin(C - \theta)}{\sin C}`
+
+   :math:`\Rightarrow \frac{2R\sin C\sin\theta}{\sin B} = \frac{2R\sin A\sin(C - \theta)}{\sin C}`
+
+   :math:`\frac{\sin C}{\sin A\sin B} = \frac{\sin(C - \theta)}{\sin C\sin\theta}`
+
+   :math:`\frac{\sin(A + B)}{\sin A\sin B} = \frac{\sin C\cos\theta - \cos C\sin\theta}{\sin C\sin\theta}`
+
+   :math:`\cot B + \cot A = \cot\theta - \cot C`
+
+   :math:`\cot\theta = \cot A + \cot B + \cot C`
