@@ -30,7 +30,7 @@ sphinx.application.ExtensionError = sphinx.errors.ExtensionError
 
 # Add any Sphinx extension module names here, as strings. They can be extensions
 # coming with Sphinx (named 'sphinx.ext.*') or your custom ones.
-extensions = ['sphinx.ext.autodoc', 'sphinx.ext.doctest', 'sphinx.ext.intersphinx', 'sphinx.ext.todo', 'sphinx.ext.coverage', 'sphinxcontrib.katex', 'sphinx.ext.ifconfig', 'sphinxcontrib.tikz', 'sphinxcontrib.googleanalytics']
+extensions = [ 'sphinxcontrib.katex', 'sphinxcontrib.googleanalytics']
 
 katex_prerender = True
 tikz_tikzlibraries = 'arrows'
@@ -49,7 +49,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'An Angle in Trigonometry'
-copyright = u'2021, Shiv S. Dayal'
+copyright = u'2021-2022, Shiv S. Dayal'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -176,7 +176,6 @@ html_show_sourcelink = False
 
 # This is the file name suffix for HTML files (e.g. ".xhtml").
 #html_file_suffix = None
-
 # Output file base name for HTML help builder.
 #htmlhelp_basename = 'algebradoc'
 
