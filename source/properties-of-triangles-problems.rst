@@ -221,7 +221,7 @@ Properties of Triangles' Problems
 
 84. In any triangle :math:`ABC,` if :math:`\cos\theta = \frac{a}{b + c}, \cos\phi = \frac{b}{a + c}, \cos\psi = \frac{c}{a +
     b}` where :math:`\theta, \phi` and :math:`\psi` lie between :math:`0` and :math:`\pi,` prove that
-    :math:`\tan^2\frac{\theta}{2} + \tan62\frac{\phi}{2} + \tan^2\frac{\psi}{2} = 1.`
+    :math:`\tan^2\frac{\theta}{2} + \tan^2\frac{\phi}{2} + \tan^2\frac{\psi}{2} = 1.`
 
 85. In a triangle :math:`ABC,` if :math:`\cos A\cos B + \sin A\sin B\sin C = 1,` show that the sides are in the proportion
     :math:`1:1:\sqrt{2}.`
@@ -229,7 +229,7 @@ Properties of Triangles' Problems
 86. The product of the sines of the angles of a triangle is :math:`p` and the product of their cosines is :math:`q.` Show that the
     tangents of the angles are the roots of the equation :math:`qx^3 - px^2 + (1 + q)x - p = 0`
 
-87. In a :math:`\triangle ANC,` if :math:`\sin^3\theta = \sin(A - B)\sin(B - \theta)\sin(C - \theta),` prove that :math:`\cot\theta
+87. In a :math:`\triangle ANC,` if :math:`\sin^3\theta = \sin(A - \theta)\sin(B - \theta)\sin(C - \theta),` prove that :math:`\cot\theta
     = \cot A + \cot B + \cot C.`
 
 88. In a triangle of base :math:`a,` the ratio of the other two sides is :math:`r(< 1),` show that the altitude of the triangle is
