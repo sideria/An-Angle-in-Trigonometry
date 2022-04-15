@@ -725,4 +725,171 @@ Properties of Triangles' Solutions Part 3
 
      Hence :math:`A < B < \frac{\pi}{3} < C`
 
-132.
+132.  The diagram is given below:
+
+      .. image:: _static/images/20_5.png
+         :alt: Problem 132
+         :align: center
+
+      We are given :math:`AM = p, BN = q`
+
+      Let :math:`\angle ACM = \theta` and :math:`\angle BCN = \phi`
+
+      Then, :math:`\sin\theta = \frac{p}{b}` and :math:`\sin\phi = \frac{q}{a}`
+
+      Now :math:`C = \pi - (\theta + \phi)`
+
+      :math:`\cos C = -\cos(\theta + \phi) = \sin\theta\sin\phi -\cos\theta\cos\phi`
+
+      :math:`\Rightarrow \sqrt{1 - \frac{p^2}{b^2}}\sqrt{1 - \frac{q^2}{a^2}} = \frac{pq}{ab} - \cos C`
+
+      Squaring, we get
+
+      :math:`\left(1 - \frac{p^2}{q^2}\right)\left(1 - \frac{q^2}{a^2}\right) = \frac{p^2q^2}{a^2b^2} - 2\frac{pq}{ab}\cos C +
+      \cos^2C`
+
+      :math:`a^2b^2 + b^2q^2 - 2abpq\cos C = a^2b^2\sin^2C`
+
+133. :math:`\angle OCB = \theta, \angle BOC = \pi - \theta - (C - \theta) = \pi - C`
+
+     Similarly, :math:`\angle AOB = \pi - B`
+
+     From :math:`\triangle AOB,` we have
+
+     :math:`\frac{OB}{\sin\theta} = \frac{AB}{\sin(\pi - B)} = \frac{c}{\sin B} \Rightarrow OB = \frac{c\sin\theta}{\sin B}`
+
+     Again from :math:`\triangle OBC,` we have
+
+     :math:`\frac{OB}{\sin(C - \theta)} = \frac{BC}{\sin(\pi - C)} = \frac{a}{\sin C} \Rightarrow OB = \frac{a\sin(C -
+     \theta)}{\sin C}`
+
+     :math:`\Rightarrow \frac{c\sin\theta}{\sin B} = \frac{a\sin(C - \theta)}{\sin C}`
+
+     :math:`\Rightarrow \sin C\sin\theta\sin C = \sin A\sin(C - \theta)\sin B`
+
+     :math:`\Rightarrow \sin C\sin\theta\sin(A + B) = \sin A\sin B\sin(C - \theta)`
+
+     :math:`\Rightarrow \sin C\sin\theta\sin A\cos B + \sin C\sin\theta\cos A\sin B = \sin A\sin B\sin C\cos\theta - \sin A\sin
+     B\cos C\sin\theta`
+
+     Dividing by :math:`\sin A\sin B\sin C\sin\theta,` we get
+
+     :math:`\Rightarrow \cot B + \cot A = \cot \theta - \cot C`
+
+     :math:`\cot\theta = \cot A + \cot B + \cot C`
+
+     In a triangle :math:`\cot A\cot B + \cot B\cot C + \cot C\cot A = 1`
+
+     Thus, squaaring we get
+
+     :math:`\cosec^2\theta = \cosec^2A + \cosec^2B + \cosec^2C`
+
+134. The diagram is given below:
+
+      .. image:: _static/images/20_6.png
+         :alt: Problem 134
+         :align: center
+
+      Let :math:`O` be the circumcenter and :math:`OP = x.` We have :math:`BP= \frac{a}{2}.`
+
+      Angle made at center will be double that made at perimeter, thus
+
+      :math:`\tan A = \frac{a}{2x}`
+
+      Similarly, :math:`\tan B = \frac{b}{2y}, \tan C = \frac{c}{2z}`
+
+      In a :math:`\triangle ABC,` we know that
+
+      :math:`\tan A + \tan B + \tan C = \tan A\tan B\tan C`
+
+      :math:`\Rightarrow \frac{a}{x} + \frac{b}{y} + \frac{c}{z} = \frac{abc}{4xyz}`
+
+135. Given, :math:`\frac{BD}{m} = \frac{DC}{n} = \frac{BC}{m + n}`
+
+     :math:`\Rightarrow BD = \frac{ma}{m + n}`
+
+     In :math:`\triangle ABD,` we have
+
+     :math:`x^2 = AB^2 + BD^2 - 2AB.BD.\cos B = c^2 + \frac{m^2a^2}{(m + n)^2} - 2.c.\frac{ma}{m + n}.\frac{c^2 + a^2 - b^2}{2ca}`
+
+     Hence the result.
+
+136. Given, :math:`\sin A + \sin B + \sin C = \frac{3\sqrt{3}}{2}`
+
+     :math:`\Rightarrow \cos\frac{A}{2}\cos\frac{B}{2}\cos\frac{C}{2} = \left(\frac{\sqrt{3}}{2}\right)^3`
+
+     Under the constraint :math:`A + B + C = \pi` the product will be maximum if :math:`A = B = C = \frac{\pi}{3}`
+
+     If :math:`A = B = C`
+
+     :math:`\cos\frac{A}{2}\cos\frac{B}{2}\cos\frac{C}{2} = \cos^330^\circ = \left(\frac{\sqrt{3}}{2}\right)^3`
+
+     Thus, the triangle is equilateral.
+
+137. This problem can be solved like previous problem.
+
+138. Given, :math:`\cos A + 2\cos B + \cos C = 2`
+
+     :math:`\cos A + \cos C = 2(1 - \cos B) \Rightarrow 2\cos\frac{A + C}{2}\cos\frac{A - C}{2} = 2.2\sin^2\frac{B}{2}`
+
+     :math:`\cos\frac{A - C}{2} = 2.\cos\frac{A + C}{2}`
+
+     :math:`2\sin\frac{A + C}{2}\cos\frac{A - C}{2} = 2.2\sin\frac{A + C}{2}\cos\frac{A + C}{2}`
+
+     :math:`\sin A + \sin C = 2.\sin(A + C) = 2\sin B \Rightarrow a + c = 2b`
+
+     Thus, the sides are in :math:`a,b,c.`
+
+139. :math:`\tan\frac{A}{2} + \tan\frac{C}{2} = \sqrt{\frac{(s - b)(s - c)}{s(s - a)}} + \sqrt{\frac{(s - a)(s - b)}{s(s - c)}}`
+
+     :math:`= \sqrt{\frac{s - b}{s}}\left(\sqrt{\frac{s - c}{s - a}} + \sqrt{\frac{s - a}{s - c}}\right)`
+
+     :math:`= \sqrt{\frac{s - b}{s}} \left(\frac{s - c + s - a}{\sqrt{(s - a)(s - c)}}\right)`
+
+     :math:`= \frac{b}{s}\sqrt{\frac{s(s - b)}{(s - a)(s - c)}} = \frac{b}{s}\cot\frac{B}{2}`
+
+     Since sides are in A.P. :math:`2b = a + c \Rightarrow 2s = 3b`
+
+     :math:`\tan\frac{A}{2} + \tan\frac{C}{2} = \frac{2}{3}\cot\frac{B}{2}`
+
+140. Given, :math:`\frac{a - b}{b - c} = \frac{s - a}{s - c}`
+
+     :math:`\Rightarrow \frac{s - a}{a - b} = \frac{s - c}{b - c}`
+
+     :math:`\Rightarrow \frac{s - a}{(s - b) - (s - a)} = \frac{s - c}{(s - c) - (s - b)}`
+
+     :math:`\Rightarrow \frac{\frac{\Delta}{r_1}}{\frac{\Delta}{r_2} - \frac{\Delta}{r_1}} =
+     \frac{\frac{\Delta}{r_3}}{\frac{\Delta}{r_3} - \frac{\Delta}{r_2}}`
+
+     :math:`\Rightarrow 2r_2 = r_1 + r_3`
+
+     Hence the result.
+
+141. Let the sides be :math:`a, ar, ar^2.`
+
+     :math:`x = (b^2 - c^2)\frac{\tan B + \tan C}{\tan B - \tan C} = (b^2 - c^2)\frac{\sin B\cos C + \cos B\sin C}{\sin B\cos C -
+     \cos B\sin C}`
+
+     :math:`= (b^2 - c^2)\frac{\sin(B + C)}{\sin(B - C)} = 4R^2(\sin^2B - \sin^2C)\frac{\sin^2(B + C)}{\sin^2B - \sin^2C}`
+
+     :math:`= a^2`
+
+     Similalry, :math:`y = a^2r^2` and :math:`z = a^2r^4`
+
+     Thus, :math:`x,y,z` are in G.P.
+
+142. Given, :math:`r_1,r_2,r_3` are in H.P.
+
+     :math:`\Rightarrow \frac{1}{r_1}, \frac{1}{r_2}, \frac{1}{r_3}` are in A.P.
+
+     :math:`\Rightarrow \frac{1}{r_2} - \frac{1}{r_1} = \frac{1}{r_3}- \frac{1}{r_2}`
+
+     :math:`\Rightarrow \frac{s - b}{\Delta} - \frac{s - a}{\Delta} = \frac{s - c}{\Delta} - \frac{s - b}{\Delta}`
+
+     :math:`\Rightarrow s - b - s + a = s - c - s + b`
+
+     :math:`\Rightarrow a - b = b - c`
+
+     Hence :math:`a,b,c` are in A.P.
+
+143.

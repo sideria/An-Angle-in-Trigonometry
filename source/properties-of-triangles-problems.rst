@@ -393,7 +393,7 @@ Properties of Triangles' Problems
 #. The sides :math:`a, b, c` of a triangle :math:`ABC` of a triangle are in A.P., then find the value of :math:`\tan\frac{A}{2} +
    \tan\frac{C}{2}` in terms of :math:`\cot\frac{B}{2}.`
 
-#. in a triangle :math:`ABC,` if :math:`\frac{a - b}{b - c}= \frac{s - a}{s - c},` prove that :math:`r_1, r_2, r_3` are in A.P.
+#. In a triangle :math:`ABC,` if :math:`\frac{a - b}{b - c}= \frac{s - a}{s - c},` prove that :math:`r_1, r_2, r_3` are in A.P.
 
 #. If the sides :math:`a, b, c` of a triangle :math:`ABC` are in G.P., then prove that :math:`x, y, z` are also in G.P., where
    :math:`x = (b^2 - c^2)\frac{\tan B + \tan C}{\tan B - \tan C}, y = (c^2 - a^2)\frac{\tan C + \tan A}{\tan C - \tan A}, z =
