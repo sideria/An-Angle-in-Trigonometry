@@ -892,4 +892,200 @@ Properties of Triangles' Solutions Part 3
 
      Hence :math:`a,b,c` are in A.P.
 
-143.
+143. Given, :math:`r_1 = r_2 + r_3 + r \Rightarrow r_1 - r = r_2 + r_3`
+
+     :math:`\Rightarrow \frac{\Delta}{s - a} - \frac{\Delta}{s} = \frac{\Delta}{s - b} + \frac{\Delta}{s - c}`
+
+     :math:`\Rightarrow \frac{a}{s(s - a)} = \frac{a}{(s - b)(s - c)}`
+
+     :math:`\Rightarrow s(s - a) = (s - b)(s - c)`
+
+     :math:`\Rightarrow s(b + c - a) = bc`
+
+     :math:`\Rightarrow \frac{b + c - a}{2}(b + c - a) = bc`
+
+     :math:`\Rightarrow (b + c)^2 - a^2 = 2bc`
+
+     :math:`\Rightarrow b^2 + c^2 = a^2`
+
+     Thus, the triangle is right angled.
+
+144. R.H.S. :math:`= 1 + \frac{r}{R} = 1 + \frac{\frac{\Delta}{s}}{\frac{abc}{4\Delta}} = 1 + \frac{4\Delta^2}{abcs}`
+
+     L.H.S. :math:`= \cos A + \cos B + \cos C = 2\cos\frac{A + B}{2}\cos\frac{A - B}{2} + \cos C`
+
+     :math:`= 2\sin\frac{C}{2}\cos\frac{A - B}{2} + 1 - 2\sin^2\frac{C}{2}`
+
+     :math:`= 1 + 2\sin\frac{C}{2}\left[\cos\frac{A - B}{2} - \sin\frac{C}{2}\right]`
+
+     :math:`= 1 + 2\sin\frac{C}{2}\left[\cos\frac{A - B}{2} - \cos\frac{A + B}{2}\right]`
+
+     :math:`= 1 + 4\sin\frac{A}{2}\sin\frac{B}{2}\sin\frac{C}{2}`
+
+     :math:`= 1 + 4\sqrt{\frac{(s - b)(s - c)}{bc}}\sqrt{\frac{(s - a)(s - c)}{ca}}\sqrt{\frac{(s - a)(s - b)}{ab}}`
+
+     :math:`= 1 + 4\frac{(s - a)(s - b)(s - c)}{abc}.\frac{s}{s}`
+
+     :math:`= 1 + 4\frac{\Delta^2}{abcs}`
+
+     Thus, L.H.S. = R.H.S.
+
+145. Let :math:`r_1, r_2, r_3` be the radii of escribed circles of triangle :math:`ABC,` then :math:`r_1, r_2, r_3` will be the
+     roots of the equation,
+
+     :math:`x^3 - (r_1 + r_2 + r_3)x^2 + (r_1r_2 + r_2r_3 + r_3r_1)x - r_1r_2r_3 = 0`
+
+     Now, :math:`r_1 + r_2 + r_3 = \frac{\Delta}{s - a} + \frac{\Delta}{s - b} + \frac{\Delta}{s - c}`
+
+     :math:`= \Delta\left[\frac{1}{s - a} + \frac{1}{s - b}\right] + \frac{\Delta}{s - c} - \frac{\Delta}{s} + \frac{\Delta}{s}`
+
+     :math:`= \Delta\left[\frac{s - b + s - a}{(s - a)(s - b)}\right] + \frac{\Delta(s - s + c)}{s(s - c)} + \frac{\Delta}{s}`
+
+     :math:`= \frac{\Delta.c}{(s - a)(s - b)} + \frac{\Delta.c}{s(s - c)} + \frac{\Delta}{s}`
+
+     :math:`= \Delta.c\left[\frac{s^2 - cs + s^2 - as - bs + ab}{s(s - a)(s - b)(s - c)}\right] + \frac{\Delta}{s}`
+
+     :math:`= \frac{abc}{\Delta} + \frac{\Delta}{s} = r + 4R`
+
+     Now, :math:`r_1r_2 + r_2r_3 + r_3r_1 = \Delta^2\left[\frac{s - c + s - a + s - b}{(s - a)(s - b)(s - c)}\right]`
+
+     :math:`= \frac{\Delta^2.s}{(s - a)(s - b)(s - c)} = s^2`
+
+     :math:`r_1r_2r_3 = \frac{\Delta^3.s}{s(s - a)(s - b)(s - c)} = \Delta.s = rs^2`
+
+     Thus, :math:`r_1, r_2, r_3` are roots of the equation
+
+     :math:`x^3 - (r + 4R)x^2 + s^2x - rs^2 = 0`
+
+146. Let :math:`s` be the semi perimeter, then :math:`s = 12` cm. Area is :math:`\Delta = 24` sq. cm.
+
+     Let :math:`a,b,c` be the lengths of the sides.
+
+     :math:`r_1 = \frac{\Delta}{s - a} = \frac{24}{12 - a}`
+
+     :math:`r_2 = \frac{\Delta}{s - b} = \frac{24}{12 - b}`
+
+     :math:`r_3 = \frac{\Delta}{s - c} = \frac{24}{12 - c}`
+
+     Given :math:`r_1, r_2, r_3` are in H.P.
+
+     :math:`\therefore \frac{1}{r_2} - \frac{1}{r_1} = \frac{1}{r_3} - \frac{1}{r_2}`
+
+     :math:`\Rightarrow \frac{12 - b}{24} - \frac{12 - a}{24} = \frac{12 - c}{24} - \frac{12 - b}{24}`
+
+     :math:`\Rightarrow a - b = b - c \Rightarrow 2b = a + c`
+
+     :math:`a + b + c = 24 \Rightarrow b = 8` cm.
+
+     :math:`a + c = 16 \Rightarrow c = 16 - a`
+
+     Now, :math:`\Delta = \sqrt{s(s - a)(s - b)(s - c)} \Rightarrow 24.24 = 12(12 - a)(12 - b)(12 - c)`
+
+     :math:`\Rightarrow a^2 - 16 a + 60 = 0 \Rightarrow a = 6, 10 \Rightarrow c = 10, 6`
+
+147. :math:`\frac{a}{\sin A} = \frac{b}{\sin B} = \frac{c}{\sin C} = 2R`
+
+     Given, :math:`8R^2 = a^2 + b^2 + c^2 = 4R^2(\sin^2A + \sin^2B + \sin^2C)`
+
+     :math:`\Rightarrow (1 - \sin^2A) + (1 - \sin^2B) - \sin^2C = 0`
+
+     :math:`\Rightarrow \cos^2A + \cos^2B - \sin^2C = 0`
+
+     :math:`\Rightarrow \cos^2A + \cos(B + C)\cos(B - C) = 0`
+
+     :math:`\Rightarrow \cos A[\cos A - \cos(B - C)] = 0`
+
+     :math:`\Rightarrow \cos A[\cos(B + C) + \cos(B - C)] = 0`
+
+     :math:`\Rightarrow \cos A\cos B\cos C = 0`
+
+     Thus, either :math:`A = 90^\circ` or :math:`B = 90^\circ` or :math:`C = 90^\circ` and hence the triangle is :math:`90^\circ.`
+
+148. The diagram is given below:
+
+      .. image:: _static/images/20_7.png
+         :alt: Problem 148
+         :align: center
+
+      Let :math:`O` be the center of the inscribed circle of triangle :math:`ABC.` We have drawn another circle passitng through
+      :math:`O, B` and :math:`C.` Suppose that the radius of this circle is :math:`R.` Applying sine law in :math:`\triangle OBC,`
+      we get
+
+      :math:`\frac{a}{\sin BOC} = 2R \Rightarrow R = \frac{a}{2\sin BOC}`
+
+      Now since :math:`O` is the center of the inscribed circle. Hence :math:`BO` and :math:`OC` are bisectors of angle :math:`B`
+      and :math:`C` respectively
+
+      :math:`\angle OBC = \frac{B}{2}` and :math:`\angle OCB = \frac{C}{2}`
+
+      :math:`\Rightarrow \angle BOC = 180^\circ - \frac{B}{2} - \frac{C}{2} = 90^\circ + \frac{A}{2}`
+
+      :math:`\therefore R = \frac{a}{2.\sin\left(90^\circ + \frac{A}{2}\right)} = \frac{a}{2}\sec\frac{A}{2}`
+
+149. The diagram is given below:
+
+      .. image:: _static/images/20_8.png
+         :alt: Problem 149
+         :align: center
+
+      Let the centers of the circle be :math:`C_1, C_2` and :math:`C_3` and theier radii be :math:`a, b` and :math:`c`
+      respectively. Let the circles touch each other at :math:`P, Q` and :math:`R.` Let the tangents at their points of contact
+      meet at :math:`O.`
+
+      Since :math:`OP` and :math:`OQ` are two tangents from :math:`O` to the circle :math:`C_3,` they are equal i.e. :math:`OP =
+      OQ`
+
+      Similarly, :math:`OQ = OR \Rightarrow OP=OQ=OR`
+
+     Also, :math:`OP\perp C_1C_3, OQ\perp C_2C_3` and :math:`OR\perp C_1C_2`
+
+     Hence, :math:`OP, OQ` and :math:`OR` are the in-radii of :math:`\triangle C_1C_2C_3.`
+
+     Let :math:`OP=OQ=OR = r` which is given as :math:`4.`
+
+     :math:`r = \frac{\Delta}{s}` where :math:`s =` semi-perimeter of :math:`\triangle C_1C_2C_3` and :math:`\Delta =` are of
+     :math:`\triangle C_1C_2C_3`
+
+     Now, :math:`s = \frac{(a + b) + (b + c) + (c + a)}{2} = a + b + c` and
+
+     :math:`\Delta = \sqrt{s(s - a - b)(s - b - c)(s - c - a)} = \sqrt{(a + b + c)c.a.b}`
+
+     :math:`r = \frac{\Delta}{s} = \sqrt{\frac{abc}{a + b + c}} = 4`
+
+     :math:`\Rightarrow \frac{abc}{a + b + c} = 16`
+
+150. The diagram is given below:
+
+      .. image:: _static/images/20_9.png
+         :alt: Problem 150
+         :align: center
+
+      Let :math:`R` be the circum-radius of the :math:`\triangle ABC.` From geometry we know that
+
+      :math:`AH = 2OE = 2R\cos A` and :math:`OA = R`
+
+      :math:`\angle BOC = 2A \therefore \angle COE = A \Rightarrow \angle OCE = 90^\circ - A`
+
+      :math:`\therefore \angle OCA = \angle BCA - \angle OCE = C - (90^\circ - A) = A + C - 90^\circ`
+
+      :math:`\because OA = OC \therefore \angle OAC = \angle OCA = A + C - 90^\circ`
+
+      From :math:`\triangle CDA, \angle CAD = 90^\circ - C`
+
+      :math:`\therefore \angle HAO = \angle CAD - \angle CAO = (90^\circ - C) - (A + C - 90^\circ)`
+
+      :math:`= 180^\circ - A - 2C = A + B + C - A - 2C = B - C`
+
+      Applying cosine rule in :math:`\triangle AHO,` we get
+
+      :math:`\cos(B - C) = \frac{AH^2 + AO^2 - OH^2}{2AH.AO}`
+
+      :math:`OH^2 = 4R^2\cos^2A + R^2 - 2.2R\cos A.R\cos(B - C)`
+
+      :math:`= R^2[4\cos^2A + 1 - 4\cos A\cos(B - C)] = R^2[1 - 4\cos A\{\cos(B - C) - \cos A\}]`
+
+      :math:`= R^2[1 - 4\cos A\{\cos(B - C) + \cos(B + C)\}]`
+
+      :math:`= R^2[1 - 8\cos A\cos B\cos C]`
+
+     :math:`OH = R\sqrt{1 - 8\cos A\cos B\cos C}`
