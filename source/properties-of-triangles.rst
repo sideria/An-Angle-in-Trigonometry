@@ -423,7 +423,7 @@ In a :math:`\triangle ABC, R = \frac{abc}{4\Delta}`
 Results Related with In-Circle
 ==============================
 .. image:: _static/images/16_1_9.png
-   :alt: in-cicle
+   :alt: in-circle
    :align: center
 
 The circle touching all the three sides of a triangle internally is called the inscribed circle or in-circle. Its radius is called
@@ -494,7 +494,7 @@ Distannces of Circum-center, In-center, Orthocenter and Centroid from Vertices
 ==============================================================================
 We have already shown that for circum-center distance is equal to circum-radius i.e. :math:`R`
 
-Referring to the image of in-cicle, :math:`IF = r, \angle FAI = \frac{A}{2}`
+Referring to the image of in-circle, :math:`IF = r, \angle FAI = \frac{A}{2}`
 
 From right-angle triangle :math:`FIA, \sin\frac{A}{2} = \frac{r}{AI} \Rightarrow AI = r\cosec\frac{A}{2}`
 

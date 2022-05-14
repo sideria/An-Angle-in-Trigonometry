@@ -502,3 +502,13 @@ Properties of Triangles' Solutions Part 4
      :math:`= 16R^2 [\because a = 2R\sin A]`
 
      Similalrly other terms can be proven to be equal to :math:`16R^2`
+
+180. In problem 151 we have proven that :math:`OI^2 = R^2\left(1 - 8\sin\frac{A}{2}\sin\frac{B}{2}\sin\frac{C}{2}\right)`
+
+     :math:`= R^2\left[1 - 4\left(\cos\frac{A - B}{2} - \cos \frac{A + B}{2}\right)\sin\frac{C}{2}\right]`
+
+     :math:`= R^2\left[1 - 4\cos\frac{A - B}{2}\cos\frac{A + B}{2} + 4\sin^2\frac{C}{2}\right]`
+
+     :math:`= R^2\left[1 - 2(\cos A + \cos B) + 2(1 - \cos C)\right]`
+
+     :math:`= R^2[3 - 2\cos A -2\cos B - 2\cos C] =` R.H.S.

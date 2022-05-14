@@ -29,4 +29,5 @@ label("$O$", cc, align=NE, 0.6*blue);
 label("$I$", i, align=NE, 0.6*blue);
 markangle("$90^\circ$", radius=10, i,intersectionpoint(n, line(b,a)),a, 0.6*blue);
 label("$M$", intersectionpoint(l, line(b,c)), align=SW, 0.6*blue);
-draw("$D$", intersectionpoint(m, line(b,c)), align=SW, 0.6*blue);
+label("$D$", intersectionpoint(m, line(b,c)), align=SW, 0.6*blue);
+label("$E$", intersectionpoint(n, line(b,a)) + (-0.3, 0.2), align=W, 0.6*blue);
