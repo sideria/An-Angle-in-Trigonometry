@@ -540,6 +540,81 @@ From geometry, :math:`AB^2 + AC^2 = 2DB^2 + 2AD^2`
 
 Similarly, :math:`BG = \frac{1}{3}\sqrt{2a^2 + 2c^2 - b^2}, CG = \frac{1}{3}\sqrt{2a^2 + 2b^2 - c^2}`
 
+Angle Made by Medians with Sides
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+If :math:`\angle BAD=\beta` and :math:`\angle CAD=\gamma,` then we have
+
+:math:`\frac{\sin \gamma}{\sin C} = \frac{DC}{AD}`
+
+:math:`\sin \gamma = \frac{DC.\sin C}{AD} = \frac{a\sin C}{\sqrt{2b^2 + 2c^2 - a^2}}`
+
+Similarly, :math:`\sin\beta = \frac{a\sin B}{\sqrt{2b^2 + 2c^2 - a^2}}`
+
+If :math:`\angle ADC` be :math:`\theta,` then we have
+
+:math:`\sin\theta = \frac{2b\sin C}{2b^2 + 2c^2 - a^2}`
+
+
+Esccribed Triangles
+===================
+.. image:: _static/images/16_1_10.png
+   :alt: escribed circles
+   :align: center
+
+Let :math:`I` be the incenter and :math:`I_1,I_2` and :math:`I_3` be centers of excircles opposite to vertices :math:`A, B` and
+:math:`C` respectively. We know that :math:`IC` will bisect the :math:`\angle ACB` and :math:`I_1C` will bisect the external angles
+at :math:`B` and :math:`C` produced by extending the sides i.e. :math:`\angle BCM` as shown in figure.
+
+:math:`\therefore ICI_1 = \angle ICB + \angle I_CB`
+
+:math:`= \frac{1}{2}ACB + \frac{1}{2}\angle BCM = 90^\circ`
+
+Similarly, :math:`\angle ICI_2` and :math:`\angle ICI_3` will be right angles.
+
+Hence, :math:`I_1C_I2` is perpendicular to :math:`IC.` Similarly, :math:`I_2AI_3` is perpendicular to :math:`IA,` and
+:math:`I_3BI_1` is perpendicular to :math:`IB.`
+
+We also see that :math:`IA` and :math:`I_1A` both bisect :math:`\angle A` so :math:`I_1IA` is a straight line. Similarly,
+:math:`I_2IB` and :math:`I_3IC` are straight lines.
+
+The :math:`\triangle I_1I_2I_3` is called *excentric* triangle of :math:`\triangle ABC`.
+
+Distance between Orthocenter and Circumcenter
+=============================================
+Let :math:`O` be circumcenter, :math:`OF\perp AB` and :math:`H` be orthocenter. Then,
+
+:math:`\angle OAF = 90^\circ - \angle AOF = 90^\circ - C`
+
+Let :math:`BL` perpendicular to :math:`AC` so it will pass through :math:`H.`
+
+:math:`\angle HAL = 90^\circ - C`
+
+:math:`\angle OAH = A - \angle OAF - \angle HAL = A - (180^\circ - 2C) = C - B`
+
+Also, :math:`OA = R` and :math:`HA = 2R\cos A`
+
+:math:`OH^2 = OA^2 + HA^2 - 2OA.HA.\cos OAH = R^2 + 4R^2\cos^2A - 4R^2\cos A\cos(C - B)`
+
+:math:`= R^2 + 4R^2\cos A[\cos A - \cos(C - B)] = R^2 - 8R^2\cos A\cos B\cos C`
+
+:math:`OH = R\sqrt{1 - 8\cos A\cos B\cos C}`
+
+Distance between Incenter and Circumcenter
+==========================================
+Let :math:`O` be orthocenter and :math:`OF\perp AB.` Let :math:`I` be the incenter and :math:`IC\perp AB.`
+
+:math:`\angle OAF = 90^\circ - C \therefore \angle OAI = \angle IAF - OAF = \frac{A}{2} - 90^\circ + C = \frac{C - B}{2}`
+
+Also, :math:`AI = \frac{IE}{\sin\frac{A}{2}} = \frac{r}{\sin\frac{A}{2}} = 4R\sin\frac{B}{2}\sin\frac{C}{2}`
+
+:math:`\therefore OI^2 = OA^2 + AI^2 - 2.OA.AI.\cos OAI`
+
+:math:`= R^2 + 16R^2\sin^2\frac{B}{2}\sin^2\frac{C}{2} - 8R^2\sin\frac{B}{2}\sin\frac{C}{2}\cos\frac{C - B}{2}`
+
+:math:`OI = R\sqrt{1 - 8\sin\frac{A}{2}\sin\frac{B}{2}\sin\frac{C}{2}}`
+
+:math:`= \sqrt{R^2 - 2Rr}`
+
 Area of a Cyclid Quadrilateral
 ==============================
 .. image:: _static/images/16_1_13.png

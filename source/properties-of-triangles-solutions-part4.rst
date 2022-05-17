@@ -479,7 +479,7 @@ Properties of Triangles' Solutions Part 4
 177. If :math:`E_2` be the point of contact of the circle whose center is :math:`I_2` with the side :math:`AC` of the triangle
      :math:`ABC,` we have
 
-     :math:`AI_2 = AE_2\secI_2AE_2 = AE_2sec\left(90^\circ - \frac{A}{2}\right) = (s - b)\cosec \frac{A}{2}`
+     :math:`AI_2 = AE_2\sec I_2AE_2 = AE_2sec\left(90^\circ - \frac{A}{2}\right) = (s - b)\cosec \frac{A}{2}`
 
      :math:`I_2I_3 = AI_2 + AI_3 = (s - b + s - c)\cosec\frac{A}{2} = a\cosec\frac{A}{2}`
 
@@ -497,8 +497,54 @@ Properties of Triangles' Solutions Part 4
 
      :math:`II_1^2 + I_2I_3^2 = a^2\left(\frac{1}{\sin^2\frac{A}{2}} + \frac{1}{\sin^2\frac{A}{2}}\right)`
 
-     :math:`= \left(\frac{a}{\sin\frac{A}{2}\cos\frac{A}{2}}\right)^2 = \letf(\frac{2a}{2\sin\frac{A}{2}\cos\frac{A}{2}}\right)^2`
+     :math:`= \left(\frac{a}{\sin\frac{A}{2}\cos\frac{A}{2}}\right)^2 = \left(\frac{2a}{2\sin\frac{A}{2}\cos\frac{A}{2}}\right)^2`
 
      :math:`= 16R^2 [\because a = 2R\sin A]`
 
      Similalrly other terms can be proven to be equal to :math:`16R^2`
+
+180. We know that :math:`OI^2 = R^2\left(1 - 8\sin\frac{A}{2}\sin\frac{B}{2}\sin\frac{C}{2}\right)`
+
+     :math:`= R^2\left[1 - 4\left(\cos \frac{A - B}{2} - \cos\frac{A + B}{2}\right)\sin\frac{C}{2}\right]`
+
+     :math:`= R^2\left[1 - 4\cos\frac{A - B}{2}\cos\frac{A + B}{2} + 4\sin^2\frac{C}{2}\right][\because \sin \frac{C}{2} = \cos\frac{A + B}{2}]`
+
+     :math:`= R^2\left[1 - 2(\cos A + \cos B) + 2(1 - \cos C)\right]`
+
+     :math:`=R^2(3 - 2\cos A - 2\cos B - 2\cos C)`
+
+181. We have, :math:`IH^2 = AH^2 + AI^2 - 2.AH.AI.\cos IAH`
+
+     :math:`\angle IAH = \frac{A}{2} - \angle HAC = \frac{A}{2} - (90^\circ - C) = \frac{C - B}{2}`
+
+     :math:`IH^2 = 4R^2\cos^2A + 16R^2\sin^2\frac{B}{2}\sin^2\frac{C}{2} - 16R^2\cos A\sin\frac{B}{2}\sin\frac{C}{2}\cos\frac{C - B}{2}`
+
+     :math:`= 4R^2\left[\cos^2A + 4\sin^2\frac{B}{2}\sin^2\frac{C}{2} - 4\cos A\sin\frac{B}{2}\sin\frac{C}{2}\cos\frac{C}{2}\cos\frac{B}{2} - 4\cos A\sin^2\frac{B}{2}\sin^2\frac{C}{2}\right]`
+
+     :math:`= 4R^2\left[\cos^2A + 4\sin^2\frac{B}{2}\sin^2\frac{C}{2}(1 - \cos A) - \cos A\sin B\sin C\right]`
+
+     :math:`= 4R^2\left[8\sin^2\frac{A}{2}\sin^2\frac{B}{2}\sin^2\frac{C}{2} + \cos^2A - \cos A\sin B\sin C\right]`
+
+     :math:`= 2r^2 + 4R^2\cos A(\cos A - \sin B\sin C)`
+
+     :math:`= 2r^2 - 4R^2\cos A\cos B\cos C`
+
+182. We know that :math:`OG = \frac{1}{3}OH \Rightarrow OG^2 = \frac{OH^2}{9}`
+
+     :math:`= \frac{1}{9}[R^2 - 8R^2\cos A\cos B\cos C] = \frac{R^2}{9}[1 - 4\{\cos(A + B) + \cos(A - B)\}\cos C]`
+
+     :math:`= \frac{R^2}{9}[1 + 4\cos^2C + 4\cos(A - B)\cos(A + B)]`
+
+     :math:`= \frac{R^2}{9}[1 + 2(1 + \cos 2C) +2(\cos 2A + \cos 2C)]`
+
+     :math:`= \frac{R^2}{9}[3 + \cos 2A + \cos 2B + \cos 2C]`
+
+     :math:`= \frac{R^2}{9}[9 - 2(1 - \cos 2A) - 2(1 - \cos 2B) - 2(1 - \cos 2C)]`
+
+     :math:`= \frac{R^2}{9}[9 - 4(\sin^2A + \sin^2B + \sin^2C)]`
+
+     :math:`= R^2 - \frac{1}{9}(2R\sin A)^2 - \frac{1}{9}(2R\sin B)^2 - \frac{1}{9}(2R\sin C)^2`
+
+     :math:`= R^2 - \frac{1}{9}(a^2 + b^2 + c^2)`
+
+183.
