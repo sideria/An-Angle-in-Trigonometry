@@ -366,7 +366,8 @@ Properties of Triangles' Solutions Part 4
         :alt: Problem 165
         :align: center
 
-     Clearly, :math:`OB = r, AD = h, OD=h - r` (If :math:`O` is below :math:`BD` then :math:`OD = r - h`)
+     Clearly, :math:`OB = r, AD = h, OD=h - r` (If :math:`O` is below
+     :math:`BD` then :math:`OD = r - h`)
 
      :math:`BD = \sqrt{OB^2 - OB^2} = \sqrt{r^2 - (h - r)^2} = \sqrt{2rh - h^2}`
 
@@ -547,4 +548,61 @@ Properties of Triangles' Solutions Part 4
 
      :math:`= R^2 - \frac{1}{9}(a^2 + b^2 + c^2)`
 
-183.
+183. The diagram is given below:
+
+     .. image:: _static/images/21_9.png
+        :alt: Problem 183
+        :align: center
+
+
+     Clearly, :math:`R = \frac{b}{2\sin\frac{\alpha}{2}} = \frac{b\cosec\frac{\alpha}{2}}{2}`
+
+184. We know that in a :math:`\triangle ABC,` :math:`r = 4R\sin\frac{A}{2}\sin\frac{B}{2}\sin\frac{C}{2}`
+
+     Let :math:`AD` be the perpedicular bisector to :math:`BC.`
+
+     :math:`\Delta = BD.AD = b\cos\alpha.b\sin\alpha = \frac{1}{2}b^2\sin2\alpha`
+
+     :math:`r = \frac{\Delta}{s} = \frac{\frac{1}{2}b^2\sin2\alpha}{\frac{1}{2}(b + b + 2b\cos\alpha)} = \frac{b\sin2\alpha}{2(1 + \cos\alpha)}`
+
+185. :math:`OI = |OD + DI| = |OD + r|` because :math:`\alpha < \pi/4, A>\pi/2` and :math:`O` lies on :math:`AD` produced.
+
+     From right-angled :math:`\triangle ODB,` we get
+
+     :math:`OD^2 = OB^2 - BD^2 = R^2 - b^2\cos^2\alpha`
+
+     :math:`= \frac{1}{4}\frac{b^2}{\sin^2\alpha} - b^2\cos^2\alpha`
+
+     :math:`= \frac{b^(1 - 4\sin^2\alpha\cos^2\alpha)}{4\sin^2\alpha} = \frac{b^2(\cos^2\alpha - \sin^2\alpha)}{4\sin^2\alpha}`
+
+     :math:`= \frac{b^2\cos^22\alpha}{(2\sin\alpha)^2}`
+
+     :math:`\therefore OI = \left|\frac{b\sin2\alpha}{2(1 + \cos\alpha)} + \frac{b\cos2\alpha}{2\sin\alpha}\right|`
+
+     :math:`= \left|\frac{b\sin2\alpha}{4\cos^2\frac{\alpha}{2}} + \frac{b\cos2\alpha}{4\sin\frac{\alpha}{2}\cos\frac{\alpha}{2}}\right|`
+
+     :math:`= \left|\frac{b}{4\cos\alpha/2}.\frac{\sin2\alpha\sin\alpha/2 + \cos2\alpha\cos\alpha/2}{\sin\alpha/2\cos\alpha/2}\right|`
+
+     :math:`= \left|\frac{b\cos3\alpha/2}{2\sin\alpha\cos\alpha/2}\right|`
+
+186. L.H.S. :math:`= \frac{1}{ab} + \frac{1}{bc} + \frac{1}{ca} = \frac{a + b + c}{abc}`
+
+     :math:`= \frac{2s}{4RS} = \frac{1}{2RS/s} = \frac{1}{2Rr} =` R.H.S.
+
+187. We know that :math:`r_1 = \frac{\Delta}{s - a}, r_2 = \frac{\Delta}{s - b}, r_3 = \frac{\Delta}{s - c}` and :math:`r = \frac{\Delta}{s}`
+
+     L.H.S. :math:`= \frac{3\Delta}{(s - a)(s - b)(s - c)} = \frac{3s\Delta}{\Delta^2} = \frac{3s}{\Delta} = \frac{3}{r} =` R.H.S.
+
+188. The diagram is given below:
+
+     .. image:: _static/images/21_10.png
+        :alt: Problem 188
+        :align: center
+
+     :math:`2s = 2(\alpha + \beta + \gamma) \Rightarrow s = \alpha + \beta + \gamma`
+
+     We know that :math:`r = \frac{\Delta}{s} \Rightarrow s^2 = \frac{(s - a)(s - b)(s - c)}{s}`
+
+     Clearly, :math:`s - a = \gamma, s - b = \beta, s - c = \alpha`
+
+     :math:`\Rightarrow s = \frac{\alpha\beta\gamma}{\alpha + \beta + \gamma}`
