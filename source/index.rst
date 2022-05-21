@@ -31,6 +31,7 @@ An Angle in Trigonometry
    properties-of-triangles-solutions-part2
    properties-of-triangles-solutions-part3
    properties-of-triangles-solutions-part4
+   properties-of-triangles-solutions-part5
 
 Indices and tables
 ==================

@@ -606,3 +606,312 @@ Properties of Triangles' Solutions Part 4
      Clearly, :math:`s - a = \gamma, s - b = \beta, s - c = \alpha`
 
      :math:`\Rightarrow s = \frac{\alpha\beta\gamma}{\alpha + \beta + \gamma}`
+
+189. The diagram is given below:
+
+     .. image:: _static/images/21_11.png
+        :alt: Problem 189
+        :align: center
+
+     Let :math:`PQ=x, PQ\parallel BC, RS = y, RS\parallel AC, TU = z, TU\parallel AB`
+
+     In :math:`\triangle APQ, \frac{x}{\sin A} = \frac{AQ}{\sin B} = \frac{AP}{\sin C}`
+
+     :math:`\Rightarrow AQ = \frac{bx}{a}, AP = \frac{cx}{a}`
+
+     :math:`r = \left(\frac{x + AP + AQ}{2}\right)\tan\frac{A}{2} = \frac{a + b + c}{2}x\tan\frac{A}{2}`
+
+     :math:`= \frac{sx}{a}\tan\frac{A}{2} = (s - a)\tan\frac{A}{2}`
+
+     :math:`\Rightarrow \frac{sx}{a} = s - a`
+
+     Similarly, :math:`\frac{sy}{b} = s - b` and :math:`\frac{sz}{c} = s - c`
+
+     :math:`\Rightarrow s\left(\frac{x}{a} + \frac{y}{b} + \frac{z}{c}\right) = 3s - (a + b + c)`
+
+     :math:`\Rightarrow \frac{x}{a} + \frac{x}{b} + \frac{x}{c} = 1`
+
+190. The diagram is given below:
+
+     .. image:: _static/images/21_12.png
+        :alt: Problem 190
+        :align: center
+
+     Since :math:`I` is the incenter, :math:`AI` will be angle bisector. Let :math:`AI` cut circumcirlce at :math:`D.`
+
+     :math:`\angle DBI=\angle DBC+\angle IBC=\angle DAB+\angle ABI=\angle BID` and then :math:`DB=DI`
+
+     Likewise :math:`DC = DI` and then :math:`DB = BI = DC`
+
+     :math:`I_1C` bisects :math:`\angle BCT \Longrightarrow \angle ICI_1 = 90^\circ`
+
+     Let the perpendicular bisector of :math:`BC` cut circumcircle at :math:`M` also.
+
+     :math:`\triangle SAI_1 ~ \triangle BMD`
+
+     Power of :math:`I_1` w.r.t the circumcircle of :math:`\triangle ABC = OI_1^2 - R^2 = I_1D.I_1A`
+
+     :math:`\Rightarrow \frac{MD}{BD} = \frac{I_1A}{SI_1} \Rightarrow 2Rr_1 = OI_1^2 - R^2`
+
+     Thus, :math:`OI_1 = R^2 + 2Rr_1`
+
+     Thus length of tangent :math:`t_1^2 = OI_1^2 - R^2 = 2Rr_1`
+
+     :math:`\frac{1}{t_12} + \frac{1}{t_2^2} + \frac{1}{t_3^2} = \frac{1}{2R}\left(\frac{1}{r_1} + \frac{1}{r_2} +
+     \frac{1}{r_3}\right)`
+
+     :math:`= \frac{1}{2R}\frac{3s - (a + b + c)}{\Delta} = \frac{4\Delta}{2}.\frac{s}{\Delta} = \frac{2s}{abc}`
+
+191. :math:`r_1 = \frac{\Delta}{s - a}` and so on. Given,
+
+     :math:`\left(1 - \frac{r_1}{r_2}\right)\left(1 - \frac{r_1}{r_3}\right) = 2`
+
+     :math:`\left(1 - \frac{s - b}{s - a}\right)\left(1 - \frac{s - c}{s - a}\right) = 2`
+
+     :math:`(b - a)(c - a) = 2(s - a)^2`
+
+     :math:`bc + a^2 - ac - ab = (b + c - a)^2/2`
+
+     :math:`b^2 + c^2 = a^2`
+
+     Thus the triangle is right-angled.
+
+192. :math:`\frac{\text{Area of in-circle}}{\text{Area of triangle}} = \frac{\pi r^2}{\Delta} = \frac{\pi}{\Delta}.\frac{\Delta^2}{s^2}`
+
+     :math:`= \pi .\frac{\Delta}{s^2}`
+
+     :math:`\cot\frac{A}{2}\cot\frac{B}{2}\cot\frac{C}{2} = \sqrt{\frac{s(s - a)}{(s - b)(s - c)}.\frac{s(s - b)}{(s - a)(s - c)}.\frac{s(s - c)}{(s - a)(s - b)}}`
+
+     :math:`= \sqrt{\frac{s^4}{s(s - a)(s - b)(s - c)}} = \frac{s^2}{\Delta}`
+
+     :math:`\Rightarrow \frac{\pi}{\cot\frac{A}{2}\cot\frac{B}{2}\cot\frac{C}{2}} = \frac{\pi\Delta}{s^2}`
+
+     Thus, we have the desired result by combining both the equations.
+
+193. The diagram is given below:
+
+     .. image:: _static/images/21_13.png
+        :alt: Problem 193
+        :align: center
+
+     Let :math:`O` be the center of the regular polygon :math:`A_1, A_2, A_3, \ldots, A_n` which has :math:`n` sides.
+
+     Since it is a regular polyogn so :math:`\angle A_1OA_2 = \angle A_2OA_3 = \ldots = \angle A_nOA_1 = \frac{2\pi}{n}`
+
+     Also, let :math:`OA_1 = OA_2 = \ldots = OA_n = r`
+
+     Applying cosine rule in :math:`\triangle A_1OA_2,`
+
+     :math:`\cos\frac{2\pi}{n} = \frac{OA_1^2 + OA_2^2 - A_1A_2^2}{2OA_1.OA_2}`
+
+     :math:`\Rightarrow A_1A_2^2 = 2r^2\left(1 - \cos \frac{2\pi}{n}\right)`
+
+     :math:`\Rightarrow A_1A_2^2 = 4r^2\sin^\frac{\pi}{n}`
+
+     :math:`\Rightarrow A_1A_2 = 2r\sin\frac{\pi}{n}`
+
+     Likewise :math:`A_1A_3 = 2r\sin\frac{2\pi}{n} A_1A_4 = 2r\sin\frac{3\pi}{n}`
+
+     Given, :math:`\frac{1}{A_1A_2} = \frac{1}{A_1A_3} + \frac{1}{A_1A_4}`
+
+     :math:`\Rightarrow \frac{1}{2r\sin\frac{\pi}{n}} = \frac{1}{2r\sin\frac{2\pi}{n}} + \frac{1}{2r\sin\frac{3\pi}{n}}`
+
+     :math:`\Rightarrow \frac{1}{\sin\frac{\pi}{n}} - \frac{1}{\sin\frac{3\pi}{n}} = \frac{1}{\sin\frac{2\pi}{n}}`
+
+     :math:`\Rightarrow \frac{2\cos\frac{2\pi}{n}\sin\frac{\pi}{n}}{\sin\frac{\pi}{n}\sin\frac{3\pi}{n}} = \frac{1}{\sin\frac{2\pi}{n}}`
+
+     :math:`\Rightarrow 2\cos\frac{2\pi}{n}\sin\frac{2\pi}{n} = \sin\frac{3\pi}{n}`
+
+     :math:`\Rightarrow \sin\frac{4\pi}{n} = \sin\frac{3\pi}{n}`
+
+     :math:`\Rightarrow \cos\frac{7\pi}{2n}.\sin\frac{\pi}{2n} = 0`
+
+     :math:`\Rightarrow \cos\frac{7\pi}{2n} = 0\left[\sin\frac{\pi}{2n} \neq 0\right]`
+
+     :math:`\Rightarrow \frac{7\pi}{2n} = \text{odd integer} \times \frac{\pi}{2}`
+
+     :math:`\Rightarrow n = \frac{7}{\text{odd integer}} = 7[n\in I, n > 1]`
+
+194. The diagram is given below:
+
+     .. image:: _static/images/21_13.png
+        :alt: Problem 194
+        :align: center
+
+     Let :math:`O` be the center of the circumscribing circle regular polygon :math:`A_1, A_2, A_3, \ldots, A_n` which has :math:`n` sides.
+
+     Since the polygon is regular, therefore :math:`O` will also be the center of inscribing circle.
+
+     Let :math:`OD\perp A_1A_2.` Now :math:`\angle A_1OA_2 = \frac{2\pi}{n}`
+
+     :math:`\angle A_OD = \angle A_2OD = \frac{\pi}{n}`
+
+     Also, :math:`A_1D = A_2D = a/2` where :math:`a` is the length of a side of the polygon.
+
+     Here, :math:`R =` radius of the circumscribing circle :math:`= OA`
+
+     and :math:`r =` radius of the inscribing circle :math:`= OD`
+
+     From right angled triangle :math:`ODA_1`
+
+     :math:`\sin\frac{\pi}{n} = \frac{a/2}{R} \Rightarrow R = \frac{a}{2}\cosec\frac{\pi}{n}`
+
+     and :math:`\tan\frac{\pi}{n} = \frac{a/2}{r} \Rightarrow r = \frac{a}{2}\cot\frac{\pi}{n}`
+
+     :math:`\therefore R + r = \frac{a}{2}\left[\cosec\frac{\pi}{n} + \cot\frac{\pi}{n}\right]`
+
+     :math:`= \frac{a}{2}\left[\frac{1 + \cos\frac{\pi}{n}}{\sin\frac{\pi}{n}}\right]`
+
+     :math:`= \frac{a}{2}\cot\frac{\pi}{2n}`
+
+195. Let :math:`ABCD` be a quadrilateral such that :math:`AB = 3 cm, BC = 4 cm, CD= 5 cm` and :math:`AD = 6 cm.`
+
+     Also, let that :math:`\angle BAC = \theta` and :math:`\angle BCD = 120^\circ - \theta` as it is given that sum of pair of
+     opposite angles is :math:`120^\circ.`
+
+     Applying cosine law in :math:`\triangle ABD,`
+
+     :math:`\cos\theta = \frac{AB^2 + AD^2 - BD^2}{2.AB.AD} \Rightarrow BD = 45 - 36\cos\theta`
+
+     Applying cosine law in :math:`\triangle BCD,`
+
+     :math:`\cos(120^\circ - \theta) = \frac{BC^2 + CD^2 - BD^2}{2.BC.CD} \Rightarrow BD^2 = 41 + 20\cos \theta - 20\sqrt{3}\sin\theta`
+
+     Thus, :math:`45 - 36\cos\theta = 41 + 20\cos\theta - 20\sqrt{3}\sin\theta`
+
+     :math:`\Rightarrow 14\cos\theta - 5\sqrt{3}\sin\theta = 1`
+
+     Area of the quadrilateral :math:`= \Delta ABD + \Delta BCD`
+
+     :math:`= \frac{1}{2}3.6.\sin\theta + \frac{1}{2}4..5\sin(120^\circ - \theta)`
+
+     :math:`= 14\sin\theta + 5\sqrt{3}\sin\theta = z` (let)
+
+     Solving the two equations thus obtaiined, we get
+
+     :math:`196(\sin^2\theta + \cos^2\theta) + 75(\cos^2\theta + \sin^2\theta) = z^2 + 1`
+
+     :math:`\Rightarrow z = 2\sqrt{30}` sq.cm.
+
+196. Let :math:`ABCD` be a cyclic quadrilateral such that :math:`AD = 2, AB = 5, \angle DAB = 60^\circ`
+
+     Since the quadrilateral is cyclic :math:`\angle BCD = 120^\circ`
+
+     Area of quadrilateral :math:`ABD = \frac{1}{2}.2.5.\sin60^\circ = \frac{5\sqrt{3}}{2}`
+
+     Area of :math:`\triangle BCD =` Area of quadrilateral :math:`ABCD` - Area of :math:`\triangle ABD`
+
+     :math:`= 4\sqrt{3} = \frac{5\sqrt{3}}{2} = \frac{3\sqrt{3}}{2}`
+
+     Let :math:`CD = x, BC = y`
+
+     Now area of :math:`\triangle BCD = \frac{1}{2}.x.y.\sin120^\circ \Rightarrow \frac{3\sqrt{3}}{2} = \frac{1}{2}xy\frac{\sqrt{3}}{2}`
+
+     :math:`\Rightarrow xy = 6`
+
+     Applying cosine rule in :math:`\triangle ABD,`
+
+     :math:`\cos60^\circ = \frac{AD^2 + AB^2 - BD^2}{2.AD.AB} \Rightarrow BD^2 = 19`
+
+     Applying cosine rule in :math:`\triangle BCD,`
+
+     :math:`\cos120^\circ = \frac{x^2 + y^2 - 19}{2xy}\Rightarrow x^2 + y^2 = 13`
+
+     :math:`(x + y)^2 = 25 \Rightarrow x + y = \pm5`
+
+     :math:`(x - y)^2 = 1 \Rightarrow x - y = \pm1`
+
+     :math:`\Rightarrow x = 3, y = 2` or :math:`x = 2, y = 3`
+
+197. From question, :math:`AB = 1, BD = \sqrt{3}.` Let :math:`BAD=\theta, AD = x, BC = y` and :math:`CD = z.` Since the given
+     circle is also circum-circle of :math:`\triangle ABD, \Rightarrow \frac{BD}{\sin\theta} = 2R`
+
+     :math:`\Rightarrow \sin\theta = \frac{\sqrt{3}}{2}\Rightarrow \theta = 60^\circ`
+
+     Now :math:`\angle BCD = 180^\circ - 60^\circ = 120^\circ`
+
+     Applying cosine rule in :math:`\triangle ABD,`
+
+     :math:`\cos60^\circ = \frac{AB^2 + AD^2 - BD^2}{2.AB.AD} \Rightarrow \frac{1}{2} = \frac{1 + x^2 - 3}{2x}`
+
+     :math:`\Rightarrow x^2 - x - 2 = 0 \Rightarrow x = 2`
+
+     Applying cosine law in :math:`\triangle BCD,`
+
+     :math:`\cos120^\circ = \frac{y^2 + z^2 - 3}{2yz} \Rightarrow y^2 + z^2 + yz = 3`
+
+     Area of quadrilateral :math:`ABCD =` Area of :math:`\triangle BCD` + Area of :math:`\triangle ABD`
+
+     :math:`\frac{3\sqrt{3}}{2} = \frac{1}{2}1.x.\sin60^\circ + \frac{1}{2}yz\sin 120^\circ`
+
+     :math:`\Rightarrow yz = 1`
+
+     :math:`\Rightarrow y^2 + z^2 = 2`
+
+     :math:`\Rightarrow (y + z)^2 = 4, (y - z)^2 = 0`
+
+     :math:`\Rightarrow y = z = 1`
+
+198. Let :math:`ABCD` be the cyclic quadrilateral in which :math:`AB = a, BC = b, CD = c, DA =d.`
+
+     Applying cosine rule in :math:`\triangle ABC,`
+
+     :math:`\cos B = \frac{a^2 + b^2 - AC^2}{2ab} \Rightarrow AC^2 = a^2 + b^2 - 2ab\cos B`
+
+     Applying cosine rule in :math:`\triangle ADC,`
+
+     :math:`\cos(\pi - B) = \frac{c^2 + d^2 - AC^2}{2cd} \Rightarrow AC^2 = c^2 + d^2 + 2cd\cos B`
+
+     :math:`\Rightarrow \cos B = \frac{a^2 + b^2 - c^2 - d^2}{2(ab + cd)}`
+
+     :math:`\tan^2\frac{B}{2}= \frac{1 - \cos B}{1 + \cos B}`
+
+     :math:`\Rightarrow \tan\frac{B}{2} = \sqrt{\frac{(S - a)(S - b)}{(S - c)(S - d)}}`
+
+199. Let :math:`ABCD` be the quadrilateral for which :math:`Ab = a, BC=b, CD=c, DA = d.` Let diagonals be, :math:`AC=x, BD = y.`
+
+     Given, :math:`\angle AOD = \angle BOC = \alpha \therefore \angle AOB = \angle COD = 180^\circ - \alpha`
+
+     Area of the quadrilateral :math:`= \frac{1}{2}xy\sin\alpha`
+
+     Applying cosine rule in :math:`\triangle AOB,`
+
+     :math:`a^2 = AO^2 + BO^2 - 2.AO.BO.\cos(180^\circ - \alpha)`
+
+     :math:`a^2 = AO^2 + BO^2 + 2.AO.BO.\cos\alpha`
+
+     Likewise in :math:`\triangle BOC,`
+
+     :math:`b^2 = BO^2 + CO^2 + 2.BO.CO.\cos \alpha`
+
+     And in :math:`\triangle COD`
+
+     :math:`c^2 = CO^2 + DO^2 + 2.CO.DO.\cos\alpha`
+
+     And in :math:`\triangle AOD,`
+
+     :math:`d^2 = AO^2 + DO^2 + 2AO.DO.\cos\alpha`
+
+     :math:`a^2 + c ^2 - b^2 - d^2 = 2\cos\alpha.x.y`
+
+     Thus, area :math:`= \frac{1}{2}(a^2 + c^2 - b^2 - d^2)`
+
+200. If the quadrilateral :math:`ABCD` can have a circle inscribed such that it touches the quadrilateral on sides :math:`AB, BC,
+     CD, DA` at points :math:`P,Q,R,S` then we will have
+
+     :math:`AP = AS, BP = BQ, CQ = CR, DR = DS`
+
+     Since lengths of tnagents are equal,
+
+     :math:`\therefore AP + BP + CR + DR = AS + BQ + CQ + DS`
+
+     :math:`\Rightarrow AB + CD = AD + BC`
+
+     :math:`\Rightarrow a + c = b + d`
+
+     :math:`\Rightarrow s = a + c = b + d`
+
+     Area of cyclic quadrilateral :math:`= \sqrt{(s - a)(s - b)(s - c)(s - d)} = \sqrt{abcd} = \frac{1}{2}r(a + b + c + d)` where
+     :math:`r` is the in-radius.
+
+     :math:`r = \frac{2\sqrt{abcd}}{a + b + c + d}`

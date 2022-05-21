@@ -540,7 +540,7 @@ Properties of Triangles' Problems
 #. If :math:`t_1, t_2, t_3` be the length of tangents from the centers of escribed circles to the circumcircle, prove that
    :math:`\frac{1}{t_1^2} + \frac{1}{t_2^2} + \frac{1}{t_3^2} = \frac{2s}{abc}.`
 
-#. If in a triangle :math:`ABC,` :math:`\left(1 - \frac{r_1}{r_2}\right)\left(1 - \frac{r_1}{r_3}\right) = 2,` prove that the
+#. If in a triangle :math:`ABC, \left(1 - \frac{r_1}{r_2}\right)\left(1 - \frac{r_1}{r_3}\right) = 2,` prove that the
    triangle is right angled.
 
 #. In a triangle :math:`ABC,` prove that the area of the in-circle is to the area of the triangle itself is :math:`\pi:
@@ -559,7 +559,7 @@ Properties of Triangles' Problems
    area of the quadrilateral is :math:`4\sqrt{3},` find the two remaining sides.
 
 #. A cyclic quadrilateral :math:`ABCD` of area :math:`\frac{3\sqrt{3}}{4}` is inscribed in a unit circle. If one of its sides
-   :math:`Ab = 1` and the diagonal :math:`BD = \sqrt{3},` find lengths of the other sides.
+   :math:`AB = 1` and the diagonal :math:`BD = \sqrt{3},` find lengths of the other sides.
 
 #. If :math:`ABCD` be a quadrilateral inscribed in a circle, prove that :math:`\tan\frac{B}{2} = \sqrt{\frac{(S - a)(S - b)}{(S -
    c)(S - d)}}.`
