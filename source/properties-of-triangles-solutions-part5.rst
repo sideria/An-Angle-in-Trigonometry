@@ -322,4 +322,164 @@ Properties of Triangles' Solutions Part 5
 
      :math:`\therefore \Delta_1, \Delta_2 = \frac{1}{2}a.c.\sin30^\circ = 2\sqrt{3}\pm\sqrt{2}`
 
-220.
+220. Let :math:`\triangle ABC` be the equilateral triangle such that its sides have length :math:`a.`
+
+     :math:`s = \frac{3a}{2}, \Delta = \frac{\sqrt{3}}{2}a`
+
+     :math:`r = \frac{\Delta}{s} = \frac{a}{2\sqrt{3}}`
+
+     Diameter of incircle will be diagonal of inscribed square i.e. :math:`2r = \frac{a}{\sqrt{3}}`
+
+     Thus, side of square :math:`= \frac{a}{\sqrt{6}}`
+
+     :math:`\therefore` Area of square :math:`= \frac{a^2}{6}`
+
+221. Given, :math:`AD = \frac{abc}{b^2 - c^2}`
+
+     Also, :math:`AD = b\sin 23^\circ \Rightarrow \frac{abc}{b^2 - c^2} = b\sin23^\circ`
+
+     :math:`\Rightarrow \frac{ac}{b^2 - c^2} = \sin23^\circ`
+
+     :math:`\Rightarrow \frac{\sin A\sin C}{\sin^2B - \sin^2C} = \sin23^\circ`
+
+     :math:`\Rightarrow \frac{\sin C\sin 23^\circ}{\sin(B + C)\sin(B - C)} = \sin23^\circ`
+
+     :math:`\Rightarrow \sin(B - 23^\circ) = 1 = \sin90^\circ`
+
+     :math:`\Rightarrow B = 113^\circ`
+
+222. Given :math:`a:b:c = 4:5:6 \Rightarrow a = 4k, b = 5k, c = 6k` (let)
+
+     :math:`\frac{R}{r} = \frac{abc}{4\Delta}.\frac{s}{\Delta} = \frac{abc.\frac{a + b + c}{2}}{4.s(s - a)(s - b)(s - c)}`
+
+     :math:`= \frac{16}{7}`
+
+223. Let :math:`\angle BAD = \alpha, \angle CAD = \beta`
+
+     Applying sine law in :math:`\triangle ADB, \frac{BD}{\sin\alpha} = \frac{AD}{\sin B}`
+
+     :math:`\Rightarrow AD = \frac{BD}{\sin\alpha}.\frac{\sqrt{3}}{2}`
+
+     Applying sine law in :math:`\triangle ADC, \frac{CD}{\sin\beta} = \frac{AD}{\sin C}`
+
+     :math:`\Rightarrow AD = \frac{CD}{\sin\beta}.\frac{1}{\sqrt{2}}`
+
+     :math:`\Rightarrow \frac{BD}{CD}.\frac{\sqrt{3}}{\sqrt{2}} = \frac{\sin\alpha}{\sin\beta}`
+
+     :math:`\Rightarrow \frac{\sin\alpha}{\sin\beta} = \frac{1}{\sqrt{6}}`
+
+224. Given, :math:`3\sin x - 4\sin^2x - k = 0`
+
+     :math:`\sin3x = k`
+
+     Since :math:`A` and :math:`B` satisfy the equations :math:`\therefore \sin3A = \sin3B = k`
+
+     :math:`\sin3A - \sin3B = 0`
+
+     :math:`\therefore -2\sin\frac{3C}{2}\sin\frac{3(A - B)}{2} = 0`
+
+     Since :math:`A\neq B` and also both :math:`A` and :math:`B` are less that :math:`\pi/3[\because 0<k<1]`
+
+     :math:`\Rightarrow \sin\frac{3C}{2} = 0 \Rightarrow C = \frac{2\pi}{3}`
+
+225. Since :math:`A,B,C` are in A.P. :math:`\therefore 2B = A + C`
+
+     :math:`A + B + C = \pi \Rightarrow B = \pi/3`
+
+     :math:`\sin(2A + B) = \frac{1}{2} = \sin\frac{\pi}{6}`
+
+     :math:`\Rightarrow 2A + B = n\pi + (-1)^n\frac{\pi}{6}`
+
+     :math:`A = \frac{\pi}{4},\frac{11\pi}{12}` these are the values between :math:`0` and :math:`\pi.`
+
+     But :math:`\frac{11\pi}{12}` is not possible as :math:`B = \pi/3`
+
+     :math:`\therefore A = \pi/4`
+
+226. Let :math:`ABC` be the triangle having right angle at :math:`B`. From question, :math:`AC = 2\sqrt{2}BD`
+
+     Let :math:`BD = x \therefore AC = 2\sqrt{2}x` and :math:`\angle C = \theta`
+
+     :math:`\tan C = \frac{BD}{CD} = \frac{x}{CD}\Rightarrow CD = x\cot\theta`
+
+     :math:`\tan(90^\circ - C) = \frac{BD}{AD} \therefore AD = x\tan\theta`
+
+     :math:`AD + CD = AC \Rightarrow \tan\theta + \cot\theta = 2\sqrt{2}`
+
+     :math:`\Rightarrow 2\sin\theta\cos\theta = \frac{1}{\sqrt{2}}`
+
+     :math:`\Rightarrow \sin2\theta = \sin\frac{\pi}{4}`
+
+     :math:`\Rightarrow \theta = \frac{\pi}{8}, \frac{3\pi}{8}`
+
+     :math:`\Rightarrow A = \frac{3\pi}{8}, \frac{\pi}{8}`
+
+227. :math:`P + Q + R = \pi`
+
+     :math:`\therefore P + Q = \pi/2 [\because R = \pi/2]`
+
+     :math:`\Rightarrow  \tan\left(\frac{P + Q}{2}\right) = 1`
+
+     :math:`\Rightarrow \tan\frac{P}{2} + \tan\frac{Q}{2} = 1 - \tan\frac{P}{2}\tan\frac{Q}{2}`
+
+     Since :math:`\tan\frac{P}{2}` and :math:`\tan\frac{Q}{2}` are roots of the equation :math:`ax^2 + bx + c = 0`
+
+     :math:`\Rightarrow \tan\frac{P}{2} + \tan\frac{Q}{2} = -\frac{b}{a}, \tan\frac{P}{2}\tan\frac{Q}{2} = \frac{c}{2}`
+
+     :math:`\Rightarrow -\frac{b}{a} = 1 - \frac{c}{a}`
+
+     :math:`\Rightarrow a + b = c`
+
+228. Let :math:`AD` be the median such that :math:`\angle BAD = 30^\circ, \angle DAC = 45^\circ` and :math:`\angle ADC = \theta`
+
+     Applying :math:`mn` theorem, we get
+
+     :math:`2\cot\theta = \cot30^\circ - \cot45^\circ`
+
+     :math:`\Rightarrow \tan\theta = \sqrt{3} + 1`
+
+     :math:`\sin C = \frac{\sqrt{3} + 2}{\sqrt{2}\sqrt{5 + 2\sqrt{3}}}`
+
+     Applying sine law in :math:`\triangle ADC,` we get
+
+     :math:`\frac{AD}{\sin C} = \frac{DC}{\sin45^\circ}`
+
+     :math:`\Rightarrow DC = 1`
+
+     :math:`\Rightarrow DC = BD = 1 \Rightarrow BC = 2`
+
+229. We know that in a triangle :math:`\tan A + \tan B + \tan C = \tan A + \tan B + \tan C`
+
+     Also, since A.M :math:`\geq` G.M.
+
+     :math:`\Rightarrow \frac{\tan A + \tan B + \tan C}{3}\geq \sqrt[3]{\tan A\tan B\tan C}`
+
+     :math:`\Rightarrow \tan A\tan B\tan C\geq 3\sqrt[3]{\tan A\tan B\tan C}`
+
+     :math:`\Rightarrow \tan^2A\tan^2B\tan^2C\geq 27`
+
+     :math:`\Rightarrow \tan A + \tan B + \tan C\geq 3\sqrt{3}`
+
+230. Given, :math:`\cos\frac{A}{2} = \frac{1}{2}\sqrt{\frac{b}{c} + \frac{c}{b}}`
+
+     :math:`\sqrt{\frac{s(s - a)}{bc}} = \frac{1}{2}\sqrt{\frac{b}{c} + \frac{c}{b}}`
+
+     :math:`\frac{(a + b + c)(b + c - a)}{4bc} = \frac{b^2 + c^2}{4bc}`
+
+     :math:`\Rightarrow a^2 = 2bc`
+
+     Thus, square described on side :math:`a` is twice the rectangle contained by two other sides.
+
+231. Given, :math:`\cos\theta = \frac{a - b}{c} \Rightarrow \sin\theta = \frac{1}{c}\sqrt{c^2 - (a - b)^2}`
+
+     :math:`\frac{(a + b)\sin\theta}{2\sqrt{ab}} = \frac{(a + b)\sqrt{c^2 - (a - b)^2}}{2c\sqrt{ab}}`
+
+     :math:`\frac{(a + b)\sqrt{2ab(1 - \cos C)}}{2c\sqrt{ab}} = \frac{a + b}{\sqrt{2}c}.\sqrt{2}\sin\frac{C}{2}`
+
+     :math:`= \frac{\sin A + \sin B}{\sin C}.\sin\frac{C}{2}`
+
+     :math:`= \cos\frac{A - B}{2}`
+
+     :math:`\frac{c\sin\theta}{2\sqrt{ab}} = \frac{c\sqrt{c^2 - (a - b)^2}}{2\sqrt{ab}}`
+
+     :math:`= \frac{c\sqrt{2ab(1 - \cos C)}}{2\sqrt{ab}} = \sin \frac{C}{2} = \cos \frac{A + B}{2}`
