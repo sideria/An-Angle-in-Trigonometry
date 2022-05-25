@@ -601,7 +601,7 @@ Properties of Triangles' Problems
 #. In a triangle :math:`ABC,` prove that :math:`\sin \frac{A}{2}\sin \frac{B}{2}\sin \frac{C}{2}\leq \frac{1}{8}`
 
 #. The sides of a triangle inscribed in a given circle subtend angles :math:`\alpha, \beta` and :math:`\gamma` at the center. Find
-   the value of the arithmetic mean of :math:`\cos\left(\alpha + \frac{\pi}{2}\right), \cos\left(\beta + \frac{\pi}{2}\right)` and
+   the minimum value of the arithmetic mean of :math:`\cos\left(\alpha + \frac{\pi}{2}\right), \cos\left(\beta + \frac{\pi}{2}\right)` and
    :math:`\cos\left(\gamma + \frac{\pi}{2}\right)`
 
 #. In a triangle :math:`ABC,` prove that :math:`\tan^2\frac{A}{2}\tan^2\frac{B}{2}\tan^2\frac{C}{2} \geq 1`
