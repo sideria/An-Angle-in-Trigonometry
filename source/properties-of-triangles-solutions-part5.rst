@@ -483,3 +483,196 @@ Properties of Triangles' Solutions Part 5
      :math:`\frac{c\sin\theta}{2\sqrt{ab}} = \frac{c\sqrt{c^2 - (a - b)^2}}{2\sqrt{ab}}`
 
      :math:`= \frac{c\sqrt{2ab(1 - \cos C)}}{2\sqrt{ab}} = \sin \frac{C}{2} = \cos \frac{A + B}{2}`
+
+232. We have proven earlier that distance between circumcenter and incenter is :math:`\sqrt{R^2 - 2rR}`
+
+     Clearly, :math:`\sqrt{R^2 - 2rR}\geq 0`
+
+     :math:`\Rightarrow R\geq 2r`
+
+233. Given, :math:`\tan B = \cos A`
+
+     :math:`\Rightarrow \frac{\sqrt{1 - \cos^2B}}{\cos B} = \cos A`
+
+     :math:`\Rightarrow \cos^2B = \frac{1}{2 - \sin^2A}`
+
+     Also given that :math:`\cos C = \tan A`
+
+     :math:`\Rightarrow \tan^2 C = \frac{1 - 2\sin^2A}{\sin^2A}`
+
+     Now given that :math:`\cos B = \tan C`
+
+     :math:`\Rightarrow \frac{1}{2 - \sin^2A} = \frac{1 - 2\sin^2A}{\sin^2A}`
+
+     :math:`\Rightarrow \sin A = \pm\sqrt{\frac{3\pm\sqrt{5}}{2}}`
+
+     Same value will be obtained for :math:`\sin B` and :math:`\sin C` and that is equal to :math:`2\sin 18^\circ`
+
+234. :math:`A + B + C = 180^\circ`
+
+     :math:`\Rightarrow \cos(A + B) = -\cot C`
+
+     :math:`\Rightarrow \cot A\cot B + \cot B\cot C + \cot C\cot A = 1`
+
+     Now :math:`\cot^2A + \cot^2B + \cot^2C - 1 = \cot^2A + \cot^2B + \cot^2C - (\cot A\cot B + \cot B\cot C + \cot C\cot A)`
+
+     :math:`= \frac{1}{2}[(\cot A - \cot B)^2 + (\cot B - \cot C)^2 + (\cot C - \cot A)^2] \geq 0`
+
+     :math:`\Rightarrow \cot^2A + \cot^2B + \cot^2C \geq 1`
+
+235. We have proven in 229 that :math:`\tan A + \tan B + \tan C \geq 3\sqrt{3}`
+
+     We apply A.M. :math:`\geq` G.M. again on :math:`\tan^2A, \tan^2B, \tan^2C`
+
+     :math:`\frac{\tan^2A + \tan^2B + \tan^2C}{3}\geq (\tan^2A\tan^B\tan^2C)^{1/3}`
+
+     :math:`\Rightarrow \tan^2A + \tan^2B + \tan^C \geq 9`
+
+236. We know that in a :math:`\triangle ABC, \sin\frac{A}{2} + \sin\frac{B}{2} + \sin\frac{C}{2} \leq \frac{3}{2}`
+
+     Now we know that A.M. :math:`\geq` H.M.
+
+     :math:`\frac{\cosec\frac{A}{2} + \cosec\frac{B}{2} + \cosec\frac{C}{2}}{3}\geq \frac{3}{\sin\frac{A}{2} + \sin\frac{B}{2} + \sin\frac{C}{2}}`
+
+     :math:`\Rightarrow \cosec\frac{A}{2} + \cosec\frac{B}{2} + \cosec\frac{C}{2} \geq 6`
+
+237. :math:`\cos A + \cos B + \cos C -\frac{3}{2} = 2\cos\frac{A + B}{2}\cos\frac{A - B}{2} + 1 - 2\sin^2\frac{C}{2} - \frac{3}{2}`
+
+     :math:`\Rightarrow  -2\sin^2\frac{C}{2} + 2\cos\frac{A - B}{2}\sin\frac{C}{2} - \frac{1}{2} = 0`
+
+     Clearly :math:`D = 4\cos^2\frac{A - B}{2} - 4 < 0` so sign of quadratic equation will be same as that of first term.
+
+     :math:`\Rightarrow \cos A + \cos B + \cos C \leq \frac{3}{2}`
+
+     Now :math:`\cos A + \cos B + \cos C - 1 = 2\sin\frac{C}{2}\cos\frac{A - B}{2} - 2\sin^\frac{C}{2}`
+
+     :math:`= 2\sin\frac{C}{2}\left[\cos\frac{A - B}{2} - \cos\frac{A + B}{2}\right]`
+
+     :math:`= 4\sin\frac{A}{2}\sin\frac{B}{2}\sin\frac{C}{2} > 0`
+
+     :math:`\therefore \cos A + \cos B + \cos C > 1`
+
+238. :math:`y=2\cos A\cos B\cos C=[\cos(A-B)+\cos(A+B)]\cos C=[\cos(A-B)-\cos C]\cos C`
+
+     :math:`\implies\cos^2C-\cos(A-B)\cos C+y=0`
+
+     which is quadratic equation in :math:`\cos C` which would be real.
+
+     :math:`\Rightarrow D \geq 0 \implies \cos^2(A-B)-4y\ge0\iff y\le\dfrac{\cos^2(A-B)}4\le\dfrac14`
+
+     Hence proved.
+
+239. Let :math:`A` be the center of first circle having radius :math:`a` and :math:`B` be the center of second circle having radius :math:`b.`
+
+     Let the two circles intersect at :math:`C` and :math:`D` so :math:`\angle ACB = \angle ADB = \theta`
+
+     We know that perpendicular from the center of a circle divides the chord in two equal parts. So :math:`AB` will divide :math:`CD` in two equal parts.
+
+     Let :math:`CD = 2x.` Let :math:`AB` cut :math:`CD` at :math:`O` then :math:`OC = OD = x`
+
+     :math:`AB = OA + OB = \sqrt{a^2 - x^2} + \sqrt{b^2 - x^2}`
+
+     Clearly, :math:`\angle ACB = \theta`
+
+     Applying cosine law in :math:`\triangle ABC`
+
+     :math:`AB^2 = AC^2 + BC^2 - 2.AC.BC\cos(\pi - \theta)`
+
+     :math:`\Rightarrow a^2 - x^2 + b^2 - x^2 + 2\sqrt{a^2 - x^2}\sqrt{b^2 - x^2} = a^2 + b^2 + 2ab\cos\theta`
+
+     :math:`\Rightarrow CD = 2x = \frac{2ab\sin\theta}{\sqrt{a^2 + b^2 + 2ab\cos\theta}}`
+
+240.  The diagram is given below:
+
+     .. image:: _static/images/22_1.png
+        :alt: Problem 240
+        :align: center
+
+     Let the triangle be :math:`ABC` which will be equilateral triangle having radius :math:`2` if all the circles are unit
+     circle(i.e. having radius :math:`1` ).
+
+     There will be two circles which will touch all three circles. One is the smaller one which will be inside the area enclosed by
+     three circles and the other will be one which will enclose all the circles.
+
+     Clearly, the center of the two circles will bisect the angles of the triangle.
+
+     :math:`\therefore \cos30^\circ = \frac{1}{x + 1}` where :math:`x` is the radius of inner circle.
+
+     :math:`\implies x = \frac{2 - \sqrt{3}}{\sqrt{3}}`
+
+     Radius of outer circle :math:`= 2 + x = \frac{2 + \sqrt{3}}{\sqrt{3}}`
+
+241. We have to prove that :math:`\sum_{r=0}^n{}^nC_ra^rb^{n - r}\cos[rB - (n - r)A] = C^n`
+
+     From De Movire's theorem(this we have not studied yet),
+
+     L.H.S. :math:`= \sum_{r = 0}^n(ae^{iB})^r(b.e^{-iA})^r`
+
+     :math:`= (ae^iB + be^{-iA})^n = (a\cos B + ia\sin B + b\cos A - ib\sin A)`
+
+     :math:`\left[\because \frac{a}{\sin A} = \frac{b}{\sin B}\right]`
+
+     :math:`= (a\cos B + b\cos A)^n = c^n`
+
+242. Let :math:`A = B \implies A + B + C = \pi \implies 2A + C = \pi`
+
+     Given, :math:`\tan A +\tan B + \tan C = k`
+
+     :math:`\implies 2\tan A + \tan(\pi - 2A) = k`
+
+     :math:`\implies 2\tan A\left(1 + \frac{1}{1 - \tan^2A}\right) = k`
+
+     :math:`\implies 2\tan A\frac{\tan^2A}{1 - \tan^2A} = k`
+
+     :math:`\implies \frac{2\tan^3A}{1 - \tan^2A} = k`
+
+     Now, since it is an isoscles triangle :math:`A < \pi/2`
+
+     So there are three possibilities, :math:`0 < A < \pi/4, A=\pi/4, \pi/4 < A < \pi/2`
+
+     In first case :math:`k < 0,` in second case :math:`k=\infty` and in third case :math:`k > 0`
+
+     Whenever :math:`k<0` or :math:`k>0` multiple isosceles triangles are possible. For example, for :math:`k < 0`
+     i.e. for :math:`0 < A < \pi/4, A` can assume values like :math:`\pi/6, \pi/5, \pi/7` and so on.
+
+     Similarly, for :math:`k > 0, A` can assume multiple values.
+
+     However, if :math:`k = \infty` then :math:`A, B` can have only one value i.e. :math:`\pi/4` and only one isoceles triangle is possible.
+
+243. We have to prove that :math:`\Delta \leq \frac{s^2}{3\sqrt{3}}`
+
+     i.e. :math:`s(s - a)(s - b)(s - c) \leq \frac{s^4}{27}`
+
+     :math:`\implies \frac{(s - a)(s - b)(s - c)}{s^3}\leq 27`
+
+     We know that A.M. :math:`\geq` G.M.
+
+     :math:`\implies \frac{s - a + s - b + s - c}{3s}\geq \sqrt[3]{\frac{(s - a)(s - b)(s - c)}{s^3}}`
+
+     :math:`\implies \frac{1}{3}\geq \sqrt[3]{\frac{(s - a)(s - b)(s - c)}{s^3}}`
+
+     Cubing we get,
+
+     :math:`\frac{(s - a)(s - b)(s - c)}{s^3}\leq 27`
+
+     Hence proved.
+
+244. Let :math:`a=3x+4y,b=4x+3y` and :math:`c=5x+5y` be the largest side.
+
+     :math:`\cos C = \frac{a^2 + b^2 - c^2}{2ab} = \frac{-2xy}{2(3x + 4y)(4x + 3y)} < 0~\forall x, y >0`
+
+     Thus, it is an obstuse angled triangle.
+
+245. :math:`\Delta = \frac{1}{2}ah_1 = \frac{1}{2}bh_2 = \frac{1}{2}ch_3`
+
+     :math:`\implies h_1 = \frac{2\Delta}{a}, h_2 = \frac{2\Delta}{b}, h_3 = \frac{2\Delta}{h_3}`
+
+     We know that :math:`r = \frac{\Delta}{s}`
+
+     Now it is trivial to show the required condition.
+
+246. :math:`\Delta_0` can be evaluated to be :math:`\frac{1}{2}\frac{rS}{R}`
+
+     Likewise :math:`\Delta_1 = \frac{1}{2}\frac{r_1S}{R}` and so on.
+
+     Now it is trivial to prove the required equality.

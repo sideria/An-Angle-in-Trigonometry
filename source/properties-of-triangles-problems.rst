@@ -686,7 +686,7 @@ Properties of Triangles' Problems
 
 #. Three equal circles touch one another; find the radius of the circle which touches all the three circles.
 
-#. In a triangle :math:`ABC,` prove that :math:`{}^nC_ra^rb^{n - r}\cos[rB - (n - r)A] = C^n`
+#. In a triangle :math:`ABC,` prove that :math:`\sum_{r=0}^n{}^nC_ra^rb^{n - r}\cos[rB - (n - r)A] = C^n`
 
 #. In a triangle :math:`ABC, \tan A + \tan B + \tan C = k,` then find the interval in which :math:`k` should lie so that there
    exists one isosceles triangle :math:`ABC.`
