@@ -12,11 +12,7 @@
 # serve to show the default.
 
 import sys, os
-#import sphinx_bootstrap_theme
 import sphinx_rtd_theme
-import sphinx.application
-import sphinx.errors
-sphinx.application.ExtensionError = sphinx.errors.ExtensionError
 
 # If extensions (or modules to document with autodoc) are in another directory,
 # add these directories to sys.path here. If the directory is relative to the
@@ -30,7 +26,7 @@ sphinx.application.ExtensionError = sphinx.errors.ExtensionError
 
 # Add any Sphinx extension module names here, as strings. They can be extensions
 # coming with Sphinx (named 'sphinx.ext.*') or your custom ones.
-extensions = [ 'sphinxcontrib.katex', 'sphinxcontrib.googleanalytics']
+extensions = [ 'sphinxcontrib.katex']
 
 katex_prerender = True
 tikz_tikzlibraries = 'arrows'
@@ -38,8 +34,7 @@ pngmath_dvipng_args = ['-gamma', '1.5', '-D', '112', '-bg', 'Transparent']
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
 
-# The suffix of source filenames.
-source_suffix = '.rst'
+# The suffix of source'
 
 # The encoding of source files.
 #source_encoding = 'utf-8-sig'
@@ -337,9 +332,8 @@ latex_documents = [
 # Example configuration for intersphinx: refer to the Python standard library.
 intersphinx_mapping = {'http://docs.python.org/': None}
 
-googleanalytics_id = 'UA-17487464-7'
+#googleanalytics_id = 'UA-17487464-7'
 html_theme_options = {
-    'analytics_anonymize_ip': False,
     'logo_only': False,
     'display_version': True,
     'prev_next_buttons_location': 'both',
