@@ -159,14 +159,14 @@ Solve the following:
 45. :math:`\sec4x - \sec2x = 2`
 46. :math:`\cos2x = (\sqrt{2} + 1)\left(\cos x - \frac{1}{\sqrt{2}}\right)`
 47. Find all the angles between :math:`-pi` and :math:`\pi` for which :math:`5\cos2x + 2\cos^2\frac{x}{2} + 1 = 0`
-48. :math:`\cot x - \tan x = sec x`
+48. :math:`\cot x - \tan x = \sec x`
 49. :math:`1 + \sec x = \cot^2\frac{x}{2}`
 50. :math:`\cos3x\cos^3x + \sin3x\sin^3x = 0`
 51. :math:`\sin^3x + \sin x\cos x + \cos^3x = 1`
 52. Find all the value of :math:`x` between :math:`0` and :math:`\frac{\pi}{2},` for which :math:`\sin 7x + \sin4x + \sin x = 0`
 53. :math:`\sin x + \sqrt{3}\cos x = \sqrt{2}`
 54. Find the values of :math:`x` for which :math:`27^{\cos2x}.81^{\sin2x}` is minimum. Also, find this minimum value.
-55. If :math:`32\tan^8x = 2\cos^2y - 3\cos y` and :math:`3\cos2x = 1,` then find the general value of :math:`\alpha.`
+55. If :math:`32\tan^8x = 2\cos^2y - 3\cos y` and :math:`3\cos2x = 1,` then find the general value of :math:`y.`
 56. Find all the values of :math:`x` in the interval :math:`\left(-\frac{\pi}{2}, \frac{\pi}{2}\right)` for which :math:`(1 - \tan
     x)(1 + \tan x)sec^2x + 2^{\tan^2x} = 0`
 57. Solve the equation :math:`e^{\cos x} = e^{-\cos x} + 4.`
