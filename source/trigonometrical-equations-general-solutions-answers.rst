@@ -675,4 +675,384 @@ Trigonometrical Equations and their General Solutions Answers
 
     :math:`\Rightarrow x + y = n\pi\pm\frac{\pi}{4}`
 
-59.
+59. Given equation is :math:`\tan(\cot x) = \cot(\tan x)`
+
+    :math:`\Rightarrow \tan(\cot x) = \tan\left(\frac{\pi}{2} - \tan x\right)`
+
+    :math:`\Rightarrow \cot x = n\pi + \left(\frac{\pi}{2} - \tan x\right)`
+
+    :math:`\Rightarrow \tan x + \cot x = n\pi + \frac{\pi}{2}`
+
+    :math:`\Rightarrow \frac{\sin^2x + \cos^2x}{\sin x + \cos x} = (2n + 1)\pi/2`
+
+    :math:`\Rightarrow \frac{1}{\sin2x} = (2n + 1)\pi/4 \Rightarrow \sin2x = \frac{4}{(2n + 1)\pi}`
+
+60. We have :math:`a\tan z+ b\sec z = c`
+
+    :math:`\Rightarrow c - a\tan z = b\sec z \Rightarrow (c - a\tan z)^2 = b^2sec^2z`
+
+    :math:`\Rightarrow (a^2 - b^2)\tan^2x -2ac\tan z + (c^2 - b^2) = 0`
+
+    Given that :math:`x` and :math:`y` are roots of original equation so :math:`\tan x` and :math:`\tan y` will be roots of last
+    equation.
+
+    :math:`\Rightarrow \tan x + \tan y = \frac{2ac}{a^2 - b^2}` and :math:`\tan x\tan y = \frac{c^2 - b^2}{a^2 - b^2}`
+
+    :math:`\Rightarrow \tan(x + y) = \frac{\tan x + \tan y}{1 - \tan x\tan y} = \frac{2ac}{a^2 - c^2}`
+
+61. Given :math:`\sin(\pi\cos x) = \cos(\pi\sin x)`
+
+    :math:`\Rightarrow \pi\cos x = \frac{\pi}{2} - \pi\sin x`
+
+    :math:`\Rightarrow \sin x + \cos x = \frac{1}{2}`
+
+    1. Fividing both sides by :math:`\sqrt{2}`
+
+       :math:`\Rightarrow \frac{\sin x}{\sqrt{2}} + \frac{\cos x}{\sqrt{2}} = \frac{1}{2\sqrt{2}}`
+
+       :math:`\cos\left(x \pm \frac{\pi}{4}\right) = \frac{1}{2\sqrt{2}}`
+
+    2. Squaring both sides
+
+       :math:`\Rightarrow \sin^2x + \cos^2x + 2\sin x\cos x = \frac{1}{4}`
+
+       :math:`\Rightarrow \sin 2x = -\frac{3}{4}`
+
+62. Given equation is :math:`\tan(x + 100^\circ) = \tan(x + 50^\circ).\tan x.\tan(x - 50^\circ)`
+
+    :math:`\Rightarrow \frac{\tan(x+100^\circ)}{\tan x} = \tan(x+50^\circ)\tan(x-50^\circ)`
+
+    :math:`\Rightarrow \frac{\sin(x+100^\circ)\cos x}{\cos(x + 100^\circ)\sin x} =
+    \frac{\sin(x+50^\circ)\sin(x-50^\circ)}{\cos(x+50^\circ)\cos(x-50^\circ)}`
+
+    Appplying componendo and dividendo
+
+    :math:`\Rightarrow \frac{\sin(x + 100^\circ)\cos x + \cos(x + 100^\circ)\sin x}{\sin(x + 100^\circ)\cos x - \cos(x +
+    100^\circ)\sin x} = \frac{\sin(x+50^\circ)\sin(x-50^\circ) + \cos(x+50^\circ)\cos(x-50^\circ)}{\sin(x+50^\circ)\sin(x-50^\circ)
+    -\cos(x+50^\circ)\cos(x-50^\circ)}`
+
+    :math:`\Rightarrow \frac{\sin 2x + 100^\circ}{\sin100^\circ} = \frac{\cos100^\circ}{-\cos 2x}`
+
+    :math:`\Rightarrow -2\sin(2x + 100^\circ)\cos2x = 2\sin100^\circ\cos100^\circ`
+
+    :math:`\Rightarrow -\sin(4x + 100^\circ) - \sin100^\circ = \sin200^\circ`
+
+    :math:`\Rightarrow \sin(4x + 100^\circ) = -2\sin1506\circ.\cos50^\circ = -\cos50^\circ = \sin220^\circ`
+
+    Thus, minimum value of :math:`x` is :math:`30^\circ.`
+
+63. We have to find :math:`x` for which :math:`\tan^2x + \sec 2x = 1`
+
+    :math:`\Rightarrow \tan^2x + \frac{1 + \tan2x}{1 - \tan^2x} = 1`
+
+    :math:`\Rightarrow \tan^2x - \tan^4x + 1 + \tan^2x = 1 - \tan^2x`
+
+    :math:`\Rightarrow \tan^4x - 3\tan^2x = 0`
+
+    :math:`\Rightarrow \tan^2x(\tan^2x - 3) = 0`
+
+    If :math:`\tan^2x = 0 \Rightarrow x = n\pi`
+
+    If :math:`\tan^2x = 3\Rightarrow x = n\pi\pm\frac{\pi}{3}`
+
+    Clearly, for all these values :math:`\tan x` and :math:`\sec 2x` are defined.
+
+64. Given equation is :math:`\sec x - \cosec x = \frac{4}{3}`
+
+    :math:`\Rightarrow \frac{1}{\cos x}- \frac{1}{\sin x} = \frac{4}{3}`
+
+    :math:`\Rightarrow 3(\sin x - \cos x) = 4\sin x\cos x`
+
+    Squaring both sides
+
+    :math:`\Rightarrow 9(\sin^2x + \cos^2x - 2\sin x\cos x) = 16\sin^2x\cos^2x`
+
+    :math:`\Rightarrow 9(1 - \sin2x) = 4\sin^22x`
+
+    :math:`\Rightarrow 4\sin^22x + 9\sin2x - 9 = 0`
+
+    :math:`\Rightarrow (\sin2x + 3)(4\sin2x - 3) = 0`
+
+    :math:`\sin2x \neq 3\therefore 4\sin2x = 3 \Rightarrow x = \frac{n\pi}{2} + (-1)^n/2.\sin^{-1}\frac{3}{4}`
+
+65. Given equation is :math:`\sin2x - 12(\sin x - \cos x) + 12 = 0.`
+
+    :math:`\Rightarrow 1 - \sin2x + 12(\sin x - \cos x) - 13 = 0`
+
+    :math:`\Rightarrow (\sin x - \cos x)^2 + 12(\sin x - \cos x) - 13 = 0`
+
+    :math:`\Rightarrow (\sin x - \cos x - 1)(\sin  x - \cos x + 13) = 0`
+
+    Clearly, :math:`\sin x - \cos x + 13 \neq 0`
+
+    :math:`\therefore \sin x - \cos x = 1`
+
+    :math:`\Rightarrow \frac{1}{\sqrt{2}}\sin x - \frac{1}{\sqrt{2}}\cos x = \frac{1}{\sqrt{2}}`
+
+    :math:`\Rightarrow \sin\left(x - \frac{\pi}{4}\right) = \sin\frac{\pi}{4}`
+
+    :math:`\Rightarrow x = n\pi + (-1)^n\frac{\pi}{4} + \frac{\pi}{4}`
+
+66. Given equation is :math:`\cos(p\sin x) = \sin(p\cos x)`
+
+    :math:`\Rightarrow p\sin x = 2n\pi \pm \left(\frac{\pi}{2} - p\cos x\right)`
+
+    Taking positive sign
+
+    :math:`p\sin x = 2n\pi + \frac{\pi}{2} - p\cos x`
+
+    :math:`\Rightarrow p(\sin x + \cos x) = (4n + 1)\frac{\pi}{2}`
+
+    :math:`\Rightarrow \sin x + \cos x = \frac{(4n + 1)\pi}{2p}`
+
+    :math:`\Rightarrow \frac{1}{\sqrt{2}}\sin x + \frac{1}{\sqrt{2}}\cos x = \frac{(4n + 1)\pi}{2\sqrt{2}p}`
+
+    :math:`\Rightarrow \sin(x + \pi/4) = \frac{(4n + 1)p}{2\sqrt{2}p}`
+
+    Clealry, :math:`\left|\frac{(4n + 1)\pi}{2\sqrt{2}p}\right|\leq 1`
+
+    :math:`\Rightarrow p \geq \frac{(4n + 1)\pi}{2\sqrt{2}}`
+
+    For smallest positive value :math:`n = 0 \therefore p = \frac{\pi}{2\sqrt{2}}`
+
+    Taking negative sing
+
+    :math:`p\sin x = 2n\pi - \frac{\pi}{2} + p\cos x`
+
+    :math:`\Rightarrow p(\cos x - \sin x) = -2n\pi + \frac{\pi}{2}`
+
+    Proceeding similarly, :math:`p \geq \frac{(-4n + 1)\pi}{2\sqrt{2}}`
+
+    Smallest positive value of :math:`p = \frac{\pi}{2\sqrt{2}}`
+
+67. Given equation is :math:`\cos x + \sqrt{3}\sin x = 2\cos2x`
+
+    :math:`\Rightarrow \frac{\cos x}{2} + \frac{\sqrt{3}\sin x}{2} = \cos 2x`
+
+    :math:`\Rightarrow \cos \left(x - \frac{\pi}{3}\right) = \cos 2x`
+
+    :math:`\Rightarrow x - \frac{\pi}{3} = 2n\pi \pm 2x`
+
+    Taking positive sign, :math:`x = -2n\pi - \frac{\pi}{3}`
+
+    Taking negative sing :math:`x = \frac{2n\pi}{3} + \frac{\pi}{9}`
+
+68. Given equation is :math:`\tan x+ \sec x = \sqrt{3}`
+
+    :math:`\Rightarrow \frac{\sin x}{\cos x} + \frac{1}{\cos x} = \sqrt{3}`
+
+    :math:`\Rightarrow \sqrt{3}\cos x - \sin x = 1`
+
+    Dividing both sides by :math:`2,` we get
+
+    :math:`\frac{\sqrt{3}}{2}\cos x - \frac{1}{2}\sin x = \frac{1}{2}`
+
+    :math:`\Rightarrow \cos\left(x + \frac{\pi}{6}\right) = \cos \frac{\pi}{3}`
+
+    :math:`\Rightarrow x + \frac{\pi}{6} = 2n\pi \pm \frac{\pi}{3}`
+
+    Taking positive sign
+
+    :math:`x = 2n\pi + \frac{\pi}{6}`
+
+    Taking negative sign
+
+    :math:`x = (4n - 1)\frac{\pi}{2}`
+
+    Values of :math:`x` between :math:`0` and :math:`2\pi` are :math:`\frac{\pi}{6}, \frac{3\pi}{2}`
+
+    However, when :math:`x = \frac{3\pi}{2}, \cos x = 0` which will be rejected.
+
+    :math:`\therefore x = \frac{\pi}{6}`
+
+69. Given equation is :math:`1 + \sin^3x + \cos^3x = \frac{3}{2}\sin2x`
+
+    :math:`\Rightarrow 1 + \sin^3x + \cos^3x = 3\sin x\cos x`
+
+    :math:`\Rightarrow 1 + \sin^3x + \cos^3x - 3\sin x\cos x = 0`
+
+    :math:`\Rightarrow (1 + \sin x+\cos x[(1 - \sin x)^2 + (\sin x - \cos x)^2 + (\cos x - 1)^2] = 0[\because a^3 + b^3 + c^3 -
+    3abc = (a + b + c).\frac{1}{2}[(a - b)^2 + (b - c)^2 + (c - a)^3]]`
+
+    If :math:`1 + \sin x + \cos x = 0 \Rightarrow \cos x + \sin x = -1`
+
+    :math:`\Rightarrow \frac{1}{\sqrt{2}}\cos x + \frac{1}{\sqrt{2}}\sin x = \frac{-1}{\sqrt{2}}`
+
+    :math:`\Rightarrow \cos\left(x - \frac{\pi}{4}\right) = \cos\frac{3\pi}{4}`
+
+    :math:`\Rightarrow x - \frac{\pi}{4} = 2n\pi \pm\frac{3\pi}{4} \Rightarrow x = 2n\pi + \frac{\pi}{4}\pm \frac{3\pi}{4}`
+
+    else :math:`\sin x = 1, \sin x = \cos x, \cos x = 1` which is not possible.
+
+70. Given equation is :math:`(2 + \sqrt{3})\cos x = 1 - \sin x`
+
+    :math:`\Rightarrow \frac{1 - \sin x}{\cos x} = 2 + \sqrt{3}`
+
+    :math:`\Rightarrow \frac{1 - \sin x}{\cos x}.\frac{1 + \sin x}{1 + \sin x} = (2 + \sqrt{3}).\frac{2 - \sqrt{3}}{2 - \sqrt{3}}`
+
+    :math:`\Rightarrow \frac{\cos x}{1 + \sin x} = \frac{1}{2 - \sqrt{3}}` [note that we have cancelled :math:`\cos x` here]
+
+    :math:`\Rightarrow \frac{1 + \sin x}{\cos x} = 2 - \sqrt{3}`
+
+    :math:`\Rightarrow \frac{1 + \sin x + 1 - \sin x}{\cos x} = 2 + \sqrt{3} + 2 - \sqrt{3}`
+
+    :math:`\Rightarrow \frac{2}{\cos x} = 4 \Rightarrow \cos x = \frac{1}{2} \Rightarrow x = 2n\pi \pm \frac{\pi}{3}`
+
+    Since we have cancelled :math:`\cos x` one of the possible solutions is :math:`\cos x = 0 \Rightarrow x = 2n\pi + \frac{\pi}{2}`
+
+71. Given equation is :math:`\tan\left(\frac{\pi}{2}\sin x\right) = \cot\left(\frac{\pi}{2}\cos x\right)`
+
+    :math:`\Rightarrow \frac{\pi}{2}\sin x = \frac{\pi}{2} - \frac{\pi}{2}\cos x`
+
+    :math:`\Rightarrow \sin x = 1 - \cos x`
+
+    :math:`\Rightarrow \sin x + \cos x = 1`
+
+    :math:`\Rightarrow \frac{1}{\sqrt{2}}\sin x + \frac{1}{\sqrt{2}}\cos x = \frac{1}{\sqrt{2}}`
+
+    :math:`\Rightarrow \cos(x - \frac{\pi}{4}) = \cos \frac{\pi}{4}`
+
+    :math:`\Rightarrow x - \frac{\pi}{4} = 2n\pi \pm \frac{\pi}{4}`
+
+    Taking positive sign :math:`x = 2n\pi + \pi/2`
+
+    Taking negative sign :math:`x = 2n\pi`
+
+72. Given equation is :math:`8\cos x\cos2x\cos4x = \frac{\sin6x}{\sin x}`
+
+    :math:`\Rightarrow 8\sin x\cos x\cos2x\cos4x = \sin6x`
+
+    :math:`\Rightarrow 4\sin2x\cos2x\cos4x = \sin6x`
+
+    :math:`\Rightarrow 2\sin4x\cos4x = \sin6x \Rightarrow \sin8x = \sin6x`
+
+    :math:`\Rightarrow 2\cos7x\sin x = 0`
+
+    If :math:`\cos7x = 0 \Rightarrow 7x = (2n + 1)\frac{\pi}{2}\Rightarrow x = (2n + 1)\frac{\pi}{14}`
+
+    :math:`\sin x` cannot be zeor as it is in denominator.
+
+73. Given equation is :math:`3 - 2\cos x - 4\sin x -\cos 2x + \sin 2x = 0`
+
+    :math:`\Rightarrow 3 - 2\cos x - 4\sin x -(1 - 2\sin^2) + 2\sin x\cos x = 0`
+
+    :math:`\Rightarrow 2(\sin^2x - 2\sin x + 1) + 2\cos x(\sin x -1) = 0`
+
+    :math:`\Rightarrow (\sin x- 1)(2\cos x + 2\sin x - 2) = 0`
+
+    If :math:`\sin x - 1 = 0 \Rightarrow x = n\pi + (-1)^n\frac{\pi}{2}`
+
+    If :math:`\sin x + \cos x = 1`
+
+    Like previous examples :math:`x = 2n\pi, 2n\pi + \frac{\pi}{2}`
+
+74. Given equation is :math:`\sin x - 3\sin 2x + \sin 3x = \cos x - 3\cos 2x + \cos 3x`
+
+    :math:`\Rightarrow 2\sin2x\cos x - 3\sin 2x = 2\cos2x\cos x - 3\cos 2x`
+
+    :math:`\Rightarrow \sin2x(2\cos x - 3) = \cos2x(2\cos x - 3)`
+
+    :math:`\because 2\cos x \neq 3 \therefore \sin 2x = \cos 2x`
+
+    :math:`\Rightarrow \frac{1}{\sqrt{2}}\cos2x - \frac{1}{\sqrt{2}}\sin2x = 0`
+
+    :math:`\Rightarrow 2x + \pi/4 = n\pi \Rightarrow x = n\pi/2 + \pi/8`
+
+75. Given equation is :math:`\sin^2x\tan x + \cos^2x\cot x - \sin 2x = 1 + \tan x + \cot x`
+
+    :math:`\Rightarrow \frac{\sin^3x}{\cos x} + \frac{\cos^3x}{\sin x} - \sin 2x = 1 + \frac{\sin x}{\cos x} + \frac{\cos x}{\sin
+    x}`
+
+    :math:`\Rightarrow \frac{\sin^4x + \cos^4x}{\sin x\cos x} - \sin2x = \frac{\sin x\cos x + \sin^2x + \cos^2x}{\sin x\cos x}`
+
+    :math:`\Rightarrow \frac{1 - 2\sin^2x\cos^2x}{\sin x\cos x} - \sin2x = 1 + \frac{1}{\sin x\cos x}`
+
+    :math:`\Rightarrow -2\sin x\cos x - \sin 2x = 1`
+
+    :math:`\Rightarrow \sin 2x = -1/2 \Rightarrow 2x = n\pi + (-1)^{n + 1}\frac{\pi}{6}`
+
+    :math:`\Rightarrow x = \frac{n\pi}{2} + (-1)^{n + 1}\frac{\pi}{12}`
+
+76. :math:`\sin x = -\frac{1}{2} \Rightarrow x = \frac{7\pi}{6}, \frac{11\pi}{6}`
+
+    :math:`\tan x = \frac{1}{\sqrt{3}}\Rightarrow x = \frac{\pi}{6}, \frac{7\pi}{6}`
+
+    So common value is :math:`\frac{7\pi}{6}`
+
+    Period of :math:`\sin x` is :math:`2\pi` and period of :math:`\tan x` is :math:`n\pi` so common period is :math:`2n\pi`
+
+    Thus, most general value of :math:`x` is :math:`2n\pi +\frac{7\pi}{6}`
+
+77. :math:`\tan(x - y) = 1 \Rightarrow x - y = \frac{\pi}{4}, \frac{5\pi}{4}`
+
+    :math:`\sec(x + y) = \frac{2}{\sqrt{3}}\Rightarrow x + y = \frac{\pi}{6}, \frac{11\pi}{6}`
+
+    Since :math:`x` and :math:`y` are positve so :math:`x + y > x - y`
+
+    When :math:`x - y = \frac{\pi}{4}` and :math:`x + y = \frac{11\pi}{6}`
+
+    :math:`x = \frac{25\pi}{24} y = \frac{19\pi}{24}`
+
+    When :math:`x - y = \frac{5\pi}{5}` and :math:`x + y = \frac{11\pi}{6}`
+
+    :math:`x = \frac{37\pi}{24}, y = \frac{7\pi}{24}`
+
+    General Solution:
+
+    :math:`\tan(x - y) = 1 \Rightarrow x - y = m\pi + \frac{\pi}{4}`
+
+    :math:`\sec(x + y) = \frac{2}{\sqrt{3}} \Rightarrow x + y = 2n\pi \pm \frac{\pi}{6}`
+
+    :math:`x = (2m + n)\frac{\pi}{2} + \frac{\pi}{8}\pm \frac{\pi}{12}`
+
+    :math:`y = (2m - n)\frac{\pi}{2} - \frac{pi}{8}\pm \frac{\pi}{12}`
+
+78. Given curves are :math:`y = \cos x` and :math:`y = \sin 3x`
+
+    For intersection point both the equations must be satisfied, thus
+
+    :math:`\cos x = \sin 3x = \cos\left(\frac{\pi}{2} - 3x\right)`
+
+    :math:`\Rightarrow x = 2n\pi \pm \left(\frac{\pi}{2} - 3x\right)`
+
+    :math:`\Rightarrow x = \frac{n\pi}{2} + \frac{\pi}{8}, n\pi + \frac{\pi}{4}`
+
+    So in the given interval values of :math:`x` are :math:`\frac{\pi}{8}, -\frac{3\pi}{8}, \frac{\pi}{4}.`
+
+79. From first equation :math:`r\sin x = \sqrt{3} \Rightarrow r = \frac{\sqrt{3}}{\sin x}`
+
+    Substituting this value in the second equagtion, we get
+
+    :math:`\frac{\sqrt{3}}{\sin x} + 4\sin x = 2(\sqrt{3} + 1)`
+
+    :math:`\Rightarrow 4\sin^2x - 2\sqrt{3}\sin x - 2\sin x + \sqrt{3} = 0`
+
+    :math:`\Rightarrow (2\sin x - \sqrt{3})(2\sin x - 1) = 0`
+
+    If :math:`2\sin x - \sqrt{3} = 0 \Rightarrow x = n\pi + (-1)^n\frac{\pi}{3}`
+
+    If :math:`2\sin x - 1 = 0 \Rightarrow x = n\pi + (-1)^n\frac{\pi}{6}`
+
+    Thus, for :math:`o\leq x\leq 2\pi, x = \frac{\pi}{6}, \frac{\pi}{3}, \frac{2\pi}{3}, \frac{5\pi}{6}`
+
+80. Given :math:`x - y = \frac{\pi}{4}` and :math:`\cot x + \cot y = 2`
+
+    From second equation :math:`\frac{\cos x}{\sin x} + \frac{\cos y}{\sin y} = 2`
+
+    :math:`\Rightarrow \sin(x + y) = 2\sin x\sin y = \cos(x - y) - \cos(x + y) = \cos \frac{\pi}{4} - \cos(x + y)`
+
+    :math:`\Rightarrow \sin(x + y) + \cos (x + y) = \cos\frac{\pi}{4}`
+
+    :math:`\Rightarrow \frac{1}{\sqrt{2}}\sin(x + y) + \frac{1}{\sqrt{2}}\cos(x + y) = \frac{1}{2} = \cos\frac{\pi}{3}`
+
+    :math:`\Rightarrow \cos(x + y - \pi/4) = \cos\frac{\pi}{3}`
+
+    :math:`\Rightarrow x + y - \frac{\pi}{4} = 2n\pi\pm \frac{\pi}{3}`
+
+    :math:`x + y = 2n\pi \pm \frac{\pi}{3} + \frac{\pi}{4}`
+
+    For :math:`n = 0, x + y = \frac{7\pi}{12}[\because x, y > 0]`
+
+    :math:`\Rightarrow x = \frac{5\pi}{12}, y = \frac{\pi}{6}`
+
+81. Given equations are :math:`x - y = \frac{\pi}{4}` and :math:`\cot x + \cot y = 2`
