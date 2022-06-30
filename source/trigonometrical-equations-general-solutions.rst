@@ -205,7 +205,7 @@ Solve the following:
 81. Find the general values of :math:`x` and :math:`y` such that :math:`5\sin x\cos y = 1` and :math:`4\tan x = \tan y.`
 82. Find all values of :math:`x` lying between :math:`0` and :math:`2\pi,` such that :math:`r\sin x = 3` and :math:`r = 4(1 + \sin
     x)`
-83. If :math:`\sin x = \sin y` and :math:`\cos x = \cos y` then prove that either :math:`x = y` or :math:`x - y = 2n\pi,` whete
+83. If :math:`\sin x = \sin y` and :math:`\cos x = \cos y` then prove that either :math:`x = y` or :math:`x - y = 2n\pi,` where
     :math:`n\in I.`
 84. If :math:`\cos(x - y) = \frac{1}{2}` and :math:`\sin(x + y) = \frac{1}{2}` find the smallest positive values of :math:`x` and
     :math:`y` and also their most general values.
@@ -235,8 +235,8 @@ Solve the following:
 102. Solve for :math:`x` and :math:`y,` the equation :math:`x\cos^3y + 3x\cos y.\sin^2y = 14` and :math:`x\sin^3y + 3x\cos^2y\sin y
      = 13`
 103. Find all the values of :math:`\alpha` for which the equation :math:`\sin^4x + \cos^4x + \sin2x + \alpha = 0` is valid.
-104. Solve :math:`\tan\left(x - \frac{\pi}{4}\right) = 2\cot x - 1.`
-105. If :math:`x, y` be two angles both satisfying the equation :math:`a\cos 2z + b\sin2z = c.`
+104. Solve :math:`\tan\left(x + \frac{\pi}{4}\right) = 2\cot x - 1.`
+105. If :math:`x, y` be two angles both satisfying the equation :math:`a\cos 2z + b\sin2z = c,` prove that :math:`\cos^2x + \cos^2y = \frac{a^2 + ac + b^2}{a^2 + b^2}`
 106. If :math:`x_1, x_2, x_3, x_4` be roots of the equation :math:`\sin(x + y) = k\sin 2x,` no two of which differ by a multiple of
      :math:`2\pi,` prove that :math:`x_1 + x_2 + x_3 + x_4 = (2n + 1)\pi.`
 107. Show that the equation :math:`\sec x + \cosec x = c` has two roots between :math:`0` and :math:`\pi` if :math:`c^2<8` and four
@@ -250,34 +250,32 @@ Solve the following:
      \cos x & \sin x\end{vmatrix} = 0` in the interval :math:`-\frac{\pi}{4}\leq x\leq \frac{\pi}{4}.`
 111. Find the number of values of :math:`x` in the interval :math:`[0, 5\pi]` satisfying the equation :math:`3\sin^2x - 7\sin x + 2
      = 0.`
-112. If :math:`\sin(\pi\cos x) = \cos(\pi\sin x),` prove that :math:`\cos\left(x\pm\frac{\pi}{4}\right) = \frac{1}{2\sqrt{2}}`
-113. If :math:`\sin(\pi\cos x) = \cos(\pi\sin x),` prove that :math:`\sin2x = \pm\frac{3}{4}.`
-114. Find the range of :math:`y` such that the following equation in :math:`x,` :math:`y + \cos x = \sin x` has a real
+112. Find the range of :math:`y` such that the following equation in :math:`x,` :math:`y + \cos x = \sin x` has a real
      solution. For :math:`y = 1,` find :math:`x` such that :math:`0\leq x\leq2\pi.`
-115. Solve :math:`\sum_{r = 1}^n\sin(rx)\sin(r^2x) = 1`
-116. Show that the equation :math:`\sin x(\sin x + \cos x) = a` has real solutions if :math:`a` is a real number lying between
+113. Solve :math:`\sum_{r = 1}^n\sin(rx)\sin(r^2x) = 1`
+114. Show that the equation :math:`\sin x(\sin x + \cos x) = a` has real solutions if :math:`a` is a real number lying between
      :math:`\frac{1}{2}(1 - \sqrt{2})` and :math:`\frac{1}{2}(1 + \sqrt{2}).`
-117. Find the real solutions of the equation :math:`2\cos^2\frac{x^2 + x}{6} = 2^x + 2^{-x}.`
-118. Solve the inequality :math:`\sin x\geq \cos2x.`
-119. Find the general solution of the equation :math:`\left(\cos\frac{x}{3} - 2\sin x\right)\sin x + \left(1 + \sin \frac{x}{4}
+115. Find the real solutions of the equation :math:`2\cos^2\frac{x^2 + x}{6} = 2^x + 2^{-x}.`
+116. Solve the inequality :math:`\sin x\geq \cos2x.`
+117. Find the general solution of the equation :math:`\left(\cos\frac{x}{4} - 2\sin x\right)\sin x + \left(1 + \sin \frac{x}{4}
      -2\cos x\right)\cos x = 0`
-120. Find the general solution of the equation :math:`2(\sin x -\cos2x) - \sin2x(1 + 2\sin x) + 2\cos x = 0.`
-121. Solve :math:`\frac{\sin2x}{\sin\frac{2x + \pi}{3}} = 0.`
-122. Solve the equation :math:`3\tan2x - 4\tan3x = \tan^23x\tan2x`
-123. Solve the equation :math:`\sqrt{1 + \sin2x} = \sqrt{2}\cos2x.`
-124. Show that :math:`x = 0` is the only solution satisfying the equation :math:`1 + \sin^2ax = \cos x` where :math:`a` is
+118. Find the general solution of the equation :math:`2(\sin x -\cos2x) - \sin2x(1 + 2\sin x) + 2\cos x = 0.`
+119. Solve :math:`\frac{\sin2x}{\sin\frac{2x + \pi}{3}} = 0.`
+120. Solve the equation :math:`3\tan2x - 4\tan3x = \tan^23x\tan2x`
+121. Solve the equation :math:`\sqrt{1 + \sin2x} = \sqrt{2}\cos2x.`
+122. Show that :math:`x = 0` is the only solution satisfying the equation :math:`1 + \sin^2ax = \cos x` where :math:`a` is
      irrational.
-125. Consider the system of linear equarions in :math:`x, y` and :math:`z, x\sin3\theta -y + z = 0, x\cos2\theta + 4y + 3z = 0,
+123. Consider the system of linear equarions in :math:`x, y` and :math:`z, x\sin3\theta -y + z = 0, x\cos2\theta + 4y + 3z = 0,
      2x + 7y + 7z = 0.` Find the values of :math:`\theta` for which the system has non-trivial solutions.
-126. Find all the solutions of the equation :math:`\sin x + \sin\frac{\pi}{8}\sqrt{(1 - \cos x)^2 + \sin^2x} = 0` in the interval
+124. Find all the solutions of the equation :math:`\sin x + \sin\frac{\pi}{8}\sqrt{(1 - \cos x)^2 + \sin^2x} = 0` in the interval
      :math:`\left[\frac{5\pi}{2}, \frac{7\pi}{2}\right]`
-127. Let :math:`A = \{x: \tan x -\tan^2x > 0\}` and :math:`y = \left\{x: |\sin x|<\frac{1}{2}\right\}`. Determine :math:`x\cap y.`
-128. If :math:`0\leq x\leq 2\pi,` then solve :math:`2^{\frac{1}{\sin^2x}}\sqrt{y^2 - 2y + 2}\leq 2`
-129. If :math:`|\tan x| = \tan x + \frac{1}{\cos x}(0\leq x\leq 2\pi)` then prove that :math:`x = \frac{7\pi}{6}` or
+125. Let :math:`A = \{x: \tan x -\tan^2x > 0\}` and :math:`y = \left\{x: |\sin x|<\frac{1}{2}\right\}`. Determine :math:`A\cap B.`
+126. If :math:`0\leq x\leq 2\pi,` then solve :math:`2^{\frac{1}{\sin^2x}}\sqrt{y^2 - 2y + 2}\leq 2`
+127. If :math:`|\tan x| = \tan x + \frac{1}{\cos x}(0\leq x\leq 2\pi)` then prove that :math:`x = \frac{7\pi}{6}` or
      :math:`\frac{11\pi}{6}`
-130. Find the smallest positive solution satisfying :math:`\log_{\cos x}\sin x + \log_{\sin x}\cos x = 2`
-131. Solve the inequality :math:`\sin x\cos x + \frac{1}{2}\tan x\geq 1`
-132. Solve :math:`\tan x^{\cos^2 x} = \cot x^{\sin x}`
-133. If :math:`0\leq \alpha, \beta \leq 3,` then :math:`x^2 + 4 + 3\cos(\alpha x + \beta) = 2x` has at least one solution, then
-     prove thatt :math:`\alpha + \beta = \pi.`
-134. Prove that the equation :math:`2\sin x = |x| + a` has no solution for :math:`a\in \left(\frac{3\sqrt{3 - \pi}}{3}, \infty\right)`
+128. Find the smallest positive solution satisfying :math:`\log_{\cos x}\sin x + \log_{\sin x}\cos x = 2`
+129. Solve the inequality :math:`\sin x\cos x + \frac{1}{2}\tan x\geq 1`
+130. Solve :math:`\tan x^{\cos^2 x} = \cot x^{\sin x}`
+131. If :math:`0\leq \alpha, \beta \leq 3,` then :math:`x^2 + 4 + 3\cos(\alpha x + \beta) = 2x` has at least one solution, then
+     prove thatt :math:`\alpha + \beta = \pi, 3\pi.`
+132. Prove that the equation :math:`2\sin x = |x| + a` has no solution for :math:`a\in \left(\frac{3\sqrt{3 - \pi}}{3}, \infty\right)`

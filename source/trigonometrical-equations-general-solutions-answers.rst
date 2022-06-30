@@ -1055,4 +1055,837 @@ Trigonometrical Equations and their General Solutions Answers
 
     :math:`\Rightarrow x = \frac{5\pi}{12}, y = \frac{\pi}{6}`
 
-81. Given equations are :math:`x - y = \frac{\pi}{4}` and :math:`\cot x + \cot y = 2`
+81. Given equations are :math:`5\sin x\cos y = 1` and :math:`4\tan x = \tan y`
+
+    :math:`\Rightarrow 4\frac{\sin x}{\cos x} = \frac{\sin y}{\cos y}`
+
+    :math:`\Rightarrow 4\sin x\cos y = \sin y \cos x \Rightarrow \frac{4}{5} = \sin y\cos x`
+
+    Thus, :math:`\sin x\cos y + \cos x\sin y = 1`
+
+    :math:`\Rightarrow \sin(x + y) = \sin\frac{\pi}{2}`
+
+    :math:`\Rightarrow x + y = n\pi + (-1)^n\frac{\pi}{2}`
+
+    and :math:`\sin x\cos y - \cos x\sin y = -\frac{3}{5}`
+
+    :math:`\Rightarrow \sin(x - y) = -\frac{3}{5}`
+
+    :math:`\Rightarrow x - y = n\pi + (-1)^k\sin^{-1}\frac{-3}{5}`
+
+    :math:`\therefore x = \frac{1}{2}\left[(n - k)\pi +(-1)^n\frac{\pi}{2} + (-1)^k\sin^{-1}\frac{-3}{5}\right]`
+
+    and :math:`y = \frac{1}{2}\left[(n - k)\pi +(-1)^n\frac{\pi}{2} - (-1)^k\sin^{-1}\frac{-3}{5}\right]`
+
+82. Given equations are :math:`r\sin x = 3` and :math:`r = 4(1 + \sin x)`
+
+    :math:`\Rightarrow r = \frac{3}{\sin x}`
+
+    Substituting this in second equation
+
+    :math:`3 = 4\sin x + 4\sin^2x \Rightarrow 4\sin^2x + 4\sin x - 3 = 0`
+
+    :math:`\Rightarrow (2\sin x + 3)(2\sin x - 1) = 0`
+
+    :math:`\because 2\sin \neq -3 \therefore 2\sin x = 1`
+
+    :math:`x = n\pi + (-1)^n\frac{\pi}{6}`
+
+    Thus, values of :math:`x` between :math:`0` and :math:`2\pi` are :math:`\pi/6` and :math:`5\pi/6.`
+
+83. Given :math:`\sin x = \sin y` and :math:`\cos x = \cos y`
+
+    Clearly, one of the solutions is :math:`x = y`
+
+    :math:`x = n\pi + (-1)^ny` and :math:`x = 2n\pi\pm y`
+
+    :math:`\therefore x - y = 2n\pi` is the only other solution.
+
+84. Given equations are :math:`\cos(x - y) = \frac{1}{2}` and :math:`\sin(x + y) = \frac{1}{2}`
+
+    :math:`x - y = \frac{\pi}{3}`
+
+    :math:`x + y = \frac{\pi}{6}, \frac{5\pi}{6}`
+
+    For positive values of :math:`x` and :math:`y, x + y > x - y`
+
+    :math:`\therefore x + y = \frac{5\pi}{6}`
+
+    :math:`2x = \frac{7\pi}{6}\Rightarrow x = \frac{7\pi}{12}`
+
+    :math:`\Rightarrow y = \frac{\pi}{4}`
+
+    General values:
+
+    :math:`x - y = 2n\pi \pm \frac{\pi}{3}`
+
+    :math:`x + y = m\pi + (-1)^m\frac{pi}{6}`
+
+    :math:`\therefore x = (2n + m)\frac{\pi}{2}\pm\frac{\pi}{6} + (-1)^m\frac{\pi}{12}`
+
+    and :math:`y = (m - 2n)\frac{\pi}{2}\mp\frac{\pi}{6} + (-1)^m\frac{\pi}{12}`
+
+85. Given curves are :math:`y = \cos 2x` and :math:`y = \sin x`
+
+    For them to intersect both equations must be satisfied together. Thus,
+
+    :math:`\cos2x = \sin x`
+
+    :math:`\Rightarrow 2\sin^2x + \sin x - 1 = 0`
+
+    :math:`\Rightarrow (2\sin x - 1)(\sin x + 1) = 0`
+
+    If :math:`2\sin x - 1 = 0 \Rightarrow x = \frac{\pi}{6} [\because -\frac{\pi}{2}\leq x\leq
+    \frac{\pi}{2}]`
+
+    :math:`y = \frac{1}{2}.` So the point is :math:`\left(\frac{\pi}{6}, \frac{1}{2}\right)`
+
+    If :math:`\sin x = -1 \Rightarrow x = -\frac{\pi}{2}`
+
+    So the point is :math:`\left(-\frac{\pi}{2}, -1\right)`
+
+86. Given equations are :math:`\cos x = \frac{1}{\sqrt{2}}` and :math:`\tan x = -1`
+
+    :math:`\Rightarrow x = 2n\pi \pm \frac{\pi}{4}` and :math:`x = m\pi - \frac{\pi}{4}`
+
+    :math:`2n\pi \pm \frac{\pi}{4}` lies in first and fourth quadrant while :math:`m\pi - \frac{\pi}{4}` lies in second and fouth
+    quadrant.
+
+    Thus, most general value will be :math:`2k\pi + \frac{7\pi}{4}.`
+
+87. Given equations are :math:`\tan x = \sqrt{3}` and :math:`\cosec x = -\frac{2}{\sqrt{3}}`
+
+    :math:`\Rightarrow x = n\pi + \frac{\pi}{3}` and :math:`x = m\pi + (-1)^{m + 1}\frac{\pi}{3}`
+
+    :math:`n\pi + \frac{\pi}{3}` lies in first and third quadrant while :math:`m\pi + (-1)^{m + 1}\frac{\pi}{3}` lies in third and
+    fourth quadrant.
+
+    Therefore common general value is :math:`2n\pi + \frac{4\pi}{3}.`
+
+88. Since :math:`x, y` satisfies :math:`3\cos z + 4\sin z = 2,` therefore
+
+    :math:`3\cos x + 4\sin x = 2` and :math:`3\cos y + 4\sin y = 2`
+
+    Subtracting, we get
+
+    :math:`3(\cos x - \cos y) + 4(\sin x - \sin y) = 0`
+
+    :math:`\Rightarrow 6\sin\frac{x + y}{2}\sin\frac{y - x}{2} + 8\cos\frac{x + y}{2}\sin\frac{x - y}{2} = 0`
+
+    :math:`\Rightarrow 2\sin\frac{x - y}{2}\left[4\cos\frac{x + y}{2} - 3\sin\frac{x + y}{2}\right] = 0`
+
+    :math:`\sin\frac{x - y}{2}\neq 0 \because x\neq y`
+
+    :math:`\therefore \tan\frac{x + y}{2}  = \frac{4}{3} \Rightarrow \sin(x + y) = \frac{24}{25}`
+
+89. Let :math:`y = 2\cos^2\frac{x}{2}\sin^2x = x^2+ x^{-2}`
+
+    :math:`y = (1 + \cos x)\sin^2x = [< 2].[\leq 1] [\because 0<x\leq \frac{\pi}{2}]`
+
+    :math:`y < 2`
+
+    :math:`y = x^2 + x^{-2} = \left(x - \frac{1}{x}\right)^2 + 2\geq 2`
+
+    Thus no solution is possible.
+
+90. Given equation is :math:`y = \frac{3 + 2i\sin x}{1 - 2i\sin x}`
+
+    :math:`= \frac{3 + 2i\sin x}{1 - 2i\sin x}.\frac{1 + 2i\sin x}{1 + 2i\sin x}`
+
+    :math:`= \frac{3 - 4\sin^2x}{1 + 4\sin^2x} + i\frac{8\sin x}{1 + 4\sin^2x}`
+
+    For :math:`y` to be purely real, imaginary part has to be zero.
+
+    :math:`\Rightarrow \sin x = 0 \Rightarrow x = n\pi`
+
+    For :math:`y` to be purely imaginary, real part has to be zero.
+
+    :math:`\Rightarrow \sin x = \pm\frac{\sqrt{3}}{2}`
+
+    :math:`x = n\pi + (-1)^n\left(\pm\frac{\pi}{3}\right)`
+
+91. Given equation is :math:`a^2 - 2a + \sec^2\pi(a + x) = 0`
+
+    :math:`\Rightarrow a^2 - 2a + 1 + \tan^2\pi(a + x) = 0`
+
+    :math:`\Rightarrow (a - 1)^2 + \tan^2\pi(a + x) = 0`
+
+    For L.H.S. to be zero both terms must be zero. Thus, :math:`(a - 1)^2 = 0`
+
+    :math:`\Rightarrow a = 1` and :math:`\tan^2\pi(1 + x) = 0`
+
+    :math:`\Rightarrow \pi(1 + x) = n\pi`
+
+    :math:`x = n - 1 = m` where :math:`m\in I`
+
+92. Given equation is :math:`8^{1 + |\cos x| + \cos^2x + |\cos^3 x| + \ldots \text{~to~}\infty} = 4^3`
+
+    :math:`\Rightarrow 1 + |\cos x| + \cos^2x + |\cos^3 x| + \ldots \text{~to~}\infty = 2`
+
+    This is a geomtric progression with common ratio :math:`|\cos x|.` We know that :math:`|\cos x|\leq 1` but :math:`|\cos x| =1`
+    will render the previous equation meaningless(:math:`\infty=2`)
+
+    :math:`\Rightarrow \frac{1}{1 - |\cos x|} = 2 \Rightarrow |\cos x| = \frac{1}{2}`
+
+    :math:`\cos x = \pm\frac{1}{2} \Rightarrow x = 2n\pi\pm\frac{\pi}{3}, 2n\pi\pm\frac{2\pi}{3}`
+
+    The values of :math:`x` in the given interval are :math:`\pm\frac{\pi}{3}, \pm\frac{2\pi}{3}`
+
+93. Given equation is :math:`|\cos x|^{\sin^2x - \frac{3}{2}\sin x + \frac{1}{2}} = 1`
+
+    Taking log of both sides,
+
+    :math:`\left(\sin^2x - \frac{3}{2}\sin x + \frac{1}{2}\right)\log |\cos x|`
+
+    If :math:`\sin^2x - \frac{3}{2}\sin x + \frac{1}{2} = 0`
+
+    :math:`\Rightarrow (\sin x - 1)(2\sin x - 1) = 0`
+
+    When :math:`\sin x = 1 \Rightarrow |\cos x| = 0` which is not a solution because it means :math:`0^0` for original equation.
+
+    If :math:`2\sin x - 1= 0 \Rightarrow x = n\pi + (-1)^n\frac{\pi}{6}`
+
+    If :math:`\log|\cos x| = 0 \Rightarrow \cos x = \pm1`
+
+    :math:`x = 2n\pi, 2n\pi\pm\pi`
+
+94. Given equation is :math:`3^{\sin2x + 2\cos^2x} + 3^{1 -\sin2x + 2\sin^2x} = 28.`
+
+    :math:`\Rightarrow 3^{\sin2x + 2\cos^2x} + 3^{3 - \sin2x + 2\cos^2x} = 28`
+
+    :math:`\Rightarrow 3^{\sin2x + 2\cos^2x} + \frac{3^3}{3^{\sin2x + 2\cos^2x}} = 28`
+
+    Let :math:`3^{\sin2x + 2\cos^2x} = y`
+
+    :math:`\Rightarrow y + \frac{27}{y} = 28`
+
+    :math:`\Rightarrow (y - 1)(y - 27) = 0`
+
+    If :math:`y = 27 \Rightarrow \sin2x + 2\cos^2x = 3` which is not possible for any value of :math:`x.`
+
+    If :math:`y = 1 \Rightarrow \sin 2x + 2\cos^2x = 0 \Rightarrow 2\cos x(\sin x + \cos x) = 0`
+
+    :math:`\cos x = 0 \Rightarrow x = 2n\pi + \frac{\pi}{2}`
+
+    If :math:`\sin x + \cos x = 0 \Rightarrow \tan x = -1 = \tan\left(-\frac{\pi}{4}\right)`
+
+    :math:`x = n\pi - \frac{\pi}{4}`
+
+95. Given :math:`2\cos^2x + \sin x\leq 2 \Rightarrow 2(1 - \sin^2x) + \sin x\leq 2`
+
+    :math:`\Rightarrow -2\sin^2x + \sin x\leq 0`
+
+    :math:`\Rightarrow \sin x(2\sin x - 1)\geq 0`
+
+    :math:`\Rightarrow \sin x \leq 0` or :math:`\sin x\geq \frac{1}{2}`
+
+    :math:`\Rightarrow \pi \leq x \leq 2\pi` or :math:`\frac{\pi}{6}\geq x \leq \frac{5\pi}{6}`
+
+    Also, :math:`\frac{\pi}{2}\leq x\leq \frac{3\pi}{2}` from second condition.
+
+    Thus intersection of these two will be the solution.
+
+    :math:`\Rightarrow A\cap B = \left\{x/\pi\leq x\leq \frac{3\pi}{2}, \frac{\pi}{2}\leq x\leq\frac{5\pi}{6}\right\}`
+
+96. Given equation is :math:`\sin x + \cos x = 1 + \sin x\cos x`
+
+    Squaring :math:`\sin^2x + \cos^2x + 2\sin x\cos x = 1 + \sin^2x\cos^2x + 2\sin x\cos x`
+
+    :math:`\Rightarrow 1 + \sin 2x = 1 + \sin 2x + \sin^2x\cos^2x`
+
+    :math:`\Rightarrow \sin x = 0` or :math:`\cos x = 0`
+
+    :math:`x = n\pi` or :math:`x = 2n\pi \pm \frac{\pi}{2}`
+
+97. Given :math:`\sin 6x + \cos4x + 2 = 0`
+
+    :math:`\Rightarrow \sin6x = -1` and :math:`\cos4x=-1` and both must be satisfied simultaneously.
+
+    :math:`\Rightarrow 6x = 2n\pi + \frac{3\pi}{2} \Rightarrow x = n\pi/3 + \pi/4`
+
+    :math:`\Rightarrow 4x = 2n\pi + \pi \Rightarrow x = n\pi/2 + \pi/4`
+
+    Thus, general solution is :math:`m\pi + \pi/4`
+
+98. Let :math:`n = 3` then
+
+    :math:`\sin 2x + \sin 3x = 2`
+
+    This will be true if :math:`\sin 2x = 1` and :math:`\sin3x =1` simultaneously.
+
+    :math:`\Rightarrow x = \frac{\pi}{4}, \frac{5\pi}{4}` and :math:`x = \frac{\pi}{6}, \frac{5\pi}{6}, \frac{9\pi}{6}`
+
+    Clearly there is no solution for :math:`n =3` and thus there will be no solution for higher vallues of :math:`n.`
+
+99. Given equation is :math:`\cos^7x + \sin^4x = 1`
+
+    :math:`\cos^7x \leq \cos^2x` and :math:`\sin^4x\leq \sin^2x`
+
+    :math:`\therefore \cos^7x + \sin^4x \leq 1`
+
+    The equality is satisfied only when :math:`\cos^7x = \cos^2x` and :math:`\sin^4x = \sin^2x`
+
+    :math:`\Rightarrow x = (2n + 1)\frac{\pi}{2}` or :math:`x = 2n\pi`
+
+100. Given equation is :math:`\sin3x -\sin x -2\sin2x + 3 = 0`
+
+     :math:`\Rightarrow 2\sin x\cos2x - 4\sin x\cos x + 3 = 0`
+
+     :math:`\Rightarrow \sin x(2\cos2x - 4\cos x) + 3 = 0`
+
+     :math:`\Rightarrow \sin x(4\cos^2x - 4\cos x -2) + 3 = 0`
+
+     :math:`\Rightarrow \sin x(2\cos x - 1)^2 + 3(1 - \sin x) = 0`
+
+     In the interval :math:`0\leq x\leq \pi, 1 - \sin x\geq 0`
+
+     Also,, :math:`(2\cos x - 1)^2\geq 0`
+
+     Thus above equation holds true only if :math:`\sin x(2\cos x - 1)^2 = 0` and :math:`1 - \sin x = 0`
+
+     :math:`\sin x = 1 \Rightarrow \cos x = 0 \Rightarrow \sin x(2\cos x - 1)^2 = 1\neq 0`
+
+     Thus all the equations are not satisfied simultaneously. Hence, no solution is possible.
+
+101. Given equation is :math:`\sin x + \cos(k + x) + \cos(k - x) = 2`
+
+     :math:`\Rightarrow \sin x + 2\cos k\cos x = 2`
+
+     Dividing both sides by :math:`\sqrt{1 + 4\cos^2k}`
+
+     :math:`\frac{\sin x}{\sqrt{1 + 4\cos^2k}}\ + \frac{2\cos k\cos x}{\sqrt{1 + 4\cos^2k}} = \frac{2}{\sqrt{1 + 4\cos^2k}}`
+
+     L.H.S. if of the form :math:`\cos(x + y)` and thus for solutions to exist
+
+     :math:`2\leq \sqrt{1 + 4\cos^2k} \Rightarrow \cos^2k \geq \frac{3}{4}`
+
+     :math:`\Rightarrow 1 - \cos^2k\leq \frac{1}{4} \Rightarrow \sin^2k\leq \frac{1}{4}`
+
+     :math:`\Rightarrow \left(\sin k + \frac{1}{2}\right)\left(\sin k - \frac{1}{2}\right)\leq 0`
+
+     :math:`\Rightarrow -\frac{1}{2}\leq \sin k\leq \frac{1}{2}`
+
+     :math:`\Rightarrow n\pi - \frac{\pi}{6}leq k \leq n\pi + \frac{\pi}{6}`
+
+102. Given equations are :math:`x\cos^3y + 3x\cos y.\sin^2y = 14` and :math:`x\sin^3y + 3x\cos^2y\sin y = 13`
+
+     Clearly :math:`x\neq 0,` dividing both the equations
+
+     :math:`\frac{\cos^3y + 3\cos y\sin^2y}{\sin^3y + 3\cos^2y\sin y} = \frac{14}{13}`
+
+     By componendo and dividendo, we get
+
+     :math:`\left(\frac{\cos y + \sin y}{cos y - \sin y}\right)^3 = 27`
+
+     :math:`\Rightarrow \frac{\cos y + \sin y}{cos y - \sin y} = 3`
+
+     Dividing numerator and denominator by :math:`\cos y,` we get
+
+     :math:`\frac{1 + \tan y}{1 - \tan y} = 3`
+
+     :math:`\Rightarrow \tan y = \frac{1}{2}`
+
+     When :math:`y` is in first quadrant :math:`\sin y = \frac{1}{\sqrt{5}}, \cos y = \frac{2}{\sqrt{5}}`
+
+     When :math:`y` is in third quadrant :math:`\sin y = -\frac{1}{\sqrt{5}}, \cos y = -\frac{2}{\sqrt{5}}`
+
+     Thus, when :math:`y` is in first quadrant :math:`x = 5\sqrt{5}`
+
+     and when :math:`y` is in third quadrant :math:`x = -5\sqrt{5}.`
+
+103. Given equation is :math:`\sin^4x + \cos^4x + \sin2x + \alpha = 0`
+
+     :math:`\Rightarrow (\sin^2x + \cos^2x)^2 - 2\sin^2x\cos^2x + \sin2x + \alpha = 0`
+
+     :math:`\Rightarrow \sin^22x - 2\sin2x - 2(\alpha + 1) = 0`
+
+     The above equation is a quadratic equation in :math:`\sin2x,`
+
+     :math:`\therefore \sin2x = \frac{2\pm\sqrt{4 + 8(\alpha + 1)}}{2} = 1\pm \sqrt{2\alpha + 3}`
+
+     :math:`\sin2x = 1 + \sqrt{2\alpha + 3}` is rejected because it is greater than :math:`1` and if :math:`2\alpha + 3 = 0` then
+     it will be included in follwing.
+
+     :math:`\therefore \sin2x = 1 - \sqrt{2\alpha + 3}`
+
+     For :math:`\sin2x` to be real :math:`\sqrt{2\alpha + 3}\geq 0`
+
+     :math:`\Rightarrow \alpha \geq \frac{-3}{2}`
+
+     Also, :math:`-1\leq \sin2x\leq 1 \Rightarrow \alpha \leq \frac{1}{2}`
+
+     Thus possible solutions are :math:`-\frac{3}{2}\leq \alpha \leq \frac{1}{2}`
+
+     The general solution is :math:`x = \frac{n\pi}{2} + (-1)^n\frac{\sin^{-1}()1 - \sqrt{2\alpha + 3}}{2}`
+
+104. Given equation is :math:`\tan\left(x + \frac{\pi}{4}\right) = 2\cot x - 1`
+
+     :math:`\Rightarrow \frac{\tan x + \tan\frac{\pi}{4}}{1 - \tan x\tan\frac{\pi}{4}} = \frac{2}{\tan x} - 1`
+
+     :math:`\Rightarrow (1 + \tan x)\tan x = (1 - \tan x)(2 - \tan x)`
+
+     :math:`\Rightarrow 4\tan x = 2\Rightarrow \tan x = \frac{1}{2}`
+
+     :math:`x = n\pi + \tan^{-1}\frac{1}{2}`
+
+     For :math:`\tan\left(x + \frac{\pi}{4}\right)` to be defined.
+
+     :math:`x + \frac{\pi}{4}\neq` odd multiple of :math:`\frac{\pi}{2}`
+
+     :math:`x + \frac{\pi}{4}\neq (2n + 1)\frac{\pi}{2}`
+
+     Also for :math:`\cot x` to be defined. :math:`x\neq` a multiple of :math:`\pi`
+
+     :math:`\Rightarrow x \neq n\pi`
+
+     We have restrocted the domain above but there many be a root loss. So we need to check if :math:`x = (2n + 1)\frac{\pi}{2}`
+     satisfies the original equation.
+
+     :math:`\tan\left(n\pi + \frac{\pi}{2} + \frac{\pi}{4}\right) = -1`
+
+     :math:`2\cot x - 1 = -1`
+
+     Thus, :math:`(2n + 1)\frac{\pi}{2}` is a solution of the equation.
+
+105. Given equation is :math:`a\cos 2z + b\sin2z = c`
+
+     :math:`\Rightarrow b\sin 2z = c - a\cos2z \Rightarrow b^2\sin^22z = (c - a\cos2z)^2`
+
+     :math:`\Rightarrow b^2(1 - \cos^22z) = c^2 + a^2\cos^22z -2ac\cos2z`
+
+     :math:`\Rightarrow (a^2 + b^2)\cos^22z -2ac\cos2z + c^2 - b^2= 0`
+
+     :math:`\Rightarrow (a^2 + b^2)(2\cos^2z - 1)^2 - 2ac(2\cos^2z - 1) + c^2 - b^2 = 0`
+
+     :math:`\Rightarrow 4(a^2 + b^2)\cos^4z - 4(a^2 + b^2 + ac)\cos^2z + (a + c)^2 = 0`
+
+     This is a quadratic equation in :math:`\cos^2z,` and sum of roots :math:`= \frac{4(a^2 + b^2 + ac)}{4(a^2 + b^2)}`
+
+     Now of :math:`x` and :math:`y` satisfy the equation then
+
+     :math:`\cos^2x + \cos^2y = \frac{4(a^2 + b^2 + ac)}{4(a^2 + b^2)}`
+
+106. Given equation is :math:`\sin(x + y) = k\sin 2x`
+
+     :math:`\Rightarrow \sin x\cos y + \cos x\sin y = k\sin2x`
+
+     :math:`\Rightarrow \frac{s\tan\frac{x}{2}}{1 + \tan^2\frac{x}{y}}\cos y + \frac{1 -\tan^2\frac{x}{2}}{1 +
+     \tan^2\frac{x}{2}}\sin y = k.2.\frac{2\tan\frac{x}{2}}{1 + \tan^2\frac{x}{2}}\frac{1 - \tan^2\frac{x}{2}}{1 +
+     \tan^2\frac{x}{2}}`
+
+     Let :math:`\tan\frac{x}{2} = t,` then
+
+     :math:`2t(1 + t^2)\cos y + (1 - t^2)(1 + t^2)\sin y = 4kt(1 - t^2)`
+
+     :math:`\Rightarrow \sin y.t^4 - (4k + 2\cos y)t^3 + (4k - 2\cos y)t - \sin y = 0`
+
+     If :math:`x_1, x_2, x_3, x_y` are roots of this equation then
+
+     :math:`\sum x_1 = x_1 + x_2 + x_3 + x_4 = \frac{4k + 2\cos y}{\sin y} = s_1`
+
+     :math:`\sum x_1x_2 = x_1x_2 + x_2x_3 + \ldots = 0 = s_2`
+
+     :math:`\sum x_1x_2x_3 = \frac{2\cos y - 4k}{\sin y} = s_3`
+
+     :math:`x_1x_2x_3x_4 = \frac{-\sin y}{\sin y} = -1 = s_4`
+
+     Now, :math:`\tan\left(\frac{x_1 + x_2 + x_3 + x_4}{2}\right) = \frac{s_1 - s_3}{1 - s_2 + s_4}`
+
+     :math:`= \frac{8k}{\sin y.0} = \tan\frac{\pi}{2}`
+
+     :math:`x_1 + x_2 + x_3 + x_4 = 2n\pi + \pi`
+
+107. Given equation is :math:`\sec x + \cosec x = c`
+
+     :math:`\Rightarrow \sin x + \cos x = c\sin x\cos x`
+
+     Squaring, we get
+
+     :math:`1 + \sin2x = \frac{c^2}{4}\sin2x`
+
+     :math:`1 + \frac{2\tan x}{1 + \tan^2x} = \frac{c^2}{4}\left(\frac{2\tan x}{1 + \tan^2x}\right)^2`
+
+     Let :math:`\tan x = t,` then
+
+     :math:`1 + \frac{2t}{1 + t^2} = \frac{c^2}{4}.\frac{4t^2}{(1 + t^2)^2}`
+
+     :math:`\Rightarrow (1 + t + t^2)^2 = t^2(c^2 + 1)`
+
+     **Case I:** When :math:`c^2< 8`
+
+     :math:`\Rightarrow (1 + t + t^2) < 9t^2`
+
+     :math:`\Rightarrow (t^2 + 4t + 1)(t^2 - 2t + 1) < 0`
+
+     :math:`t^2 - 2t + 1 > 0 \because (t - 1)^2 > 0`
+
+     :math:`\therefore t^2 + 4t + 1 < 0`
+
+     :math:`\Rightarrow 2 - \sqrt{3}< t < -2 + \sqrt{3}`
+
+     :math:`\Rightarrow t` is negative i.e. :math:`\tan x` will be negative.
+
+     Thus, it will have two values between :math:`0` and :math:`2\pi.`
+
+     **Case II:** When :math:`c^2 > 8`
+
+     :math:`\Rightarrow (t^2 + 4t + 1)(t - 1)^2 > 0`
+
+     :math:`\Rightarrow -\infty < t < -2 -\sqrt{3}` or :math:`-2 + \sqrt{3}< t< 1` or :math:`1< t< \infty`
+
+     Thus, :math:`t` will be negative and positve and hence :math:`\tan x` will be positive and negative.
+
+     :math:`\Rightarrow x` will have four roots between :math:`0` and :math:`2\pi.`
+
+108. For non-trivial solutions
+
+     :math:`\begin{vmatrix}\lambda & \sin\alpha & \cos\alpha \\ 1 & \cos\alpha & \sin\alpha \\ -1 & \sin\alpha &
+     -\cos\alpha\end{vmatrix} = 0`
+
+     :math:`\Rightarrow \lambda(-\cos^2\alpha - \sin^2\alpha) + \sin\alpha(-\sin\alpha + \cos\alpha) + \cos\alpha(\sin\alpha +
+     \cos\alpha) = 0`
+
+     :math:`\Rightarrow \lambda = \cos2\alpha + \sin2\alpha`
+
+     :math:`\Rightarrow \frac{\lambda}{\sqrt{2}} = \frac{\cos2\alpha}{\sqrt{2}} + \frac{\sin2\alpha}{\sqrt{2}}`
+
+     Clearly. :math:`|\lambda| \leq \sqrt{2}`
+
+     When :math:`\lambda = 1\Rightarrow \cos\left(2\alpha - \frac{\pi}{4}\right) = \cos\frac{\pi}{4}`
+
+     :math:`\Rightarrow 2\alpha - \frac{\pi}{4} = 2n\pi\pm\frac{\pi}{4}`
+
+     :math:`\Rightarrow \alpha = n\pi, n\pi + \frac{\pi}{4}`
+
+109. Given equation is :math:`\cos x \cos y\cos(x + y) = -\frac{1}{8}`
+
+     :math:`\Rightarrow 8\cos x\cos y\cos(x + y) + 1 = 0`
+
+     :math:`\Rightarrow 4[\cos(x + y) + \cos(x - y)]\cos(x + y) + 1 = 0`
+
+     :math:`\Rightarrow 4\cos^2(x + y) + 4\cos(x - y)\cos(x + y) + 1 = 0`
+
+     This is a quadratic equation in :math:`\cos(x + y)`
+
+     For real value of :math:`\cos(x + y), D\geq 0`
+
+     :math:`\Rightarrow 16\cos^2(x - y) - 16\geq0`
+
+     :math:`\Rightarrow \sin^2(x - y)\leq 0`
+
+     :math:`\Rightarrow \sin^2(x - y) = 0 \Rightarrow x = y`
+
+     :math:`\Rightarrow 4\cos^22x + 3\cos2x + 1 = 0`
+
+     :math:`\Rightarrow (2\cos2x + 1)^2 = 0`
+
+     :math:`\Rightarrow \cos2x = -\frac{1}{2} \Rightarrow 2\alpha = \frac{2\pi}{3}\Rightarrow x = \frac{\pi}{3}`
+
+     :math:`\therefore x = y = \frac{\pi}{3}`
+
+110. Given :math:`\begin{vmatrix}\sin x& \cos x & \cos x \\\cos x & \sin x & \cos x\\\cos x & \cos x & \sin x\end{vmatrix} = 0`
+
+     :math:`C_1\Rightarrow C_1 + C_2 + C_3` and taking that out
+
+     :math:`\Rightarrow (\sin x + 2\cos x)\begin{vmatrix}1 & \cos x & \cos x\\1&\sin x& \cos x\\1&\cos x&\sin x\end{vmatrix} = 0`
+
+     :math:`\Rightarrow (\sin x + 2\cos x)\begin{vmatrix}1 & \cos x & \cos x\\0 & \sin x - \cos x & 0\\0 & 0 & \sin x - \cos
+     x\end{vmatrix} = 0`
+
+     :math:`\Rightarrow (\sin x + 2\cos x)(\sin x - \cos x)^2 = 0`
+
+     :math:`\Rightarrow` either :math:`\tan x = 1` or :math:`\tan x = -2`
+
+     For :math:`-\frac{\pi}{4}\leq x\leq \frac{\pi}{4} \tan \neq -2`
+
+     :math:`\therefore \tan x = 1 \Rightarrow x = \frac{\pi}{4}`
+
+111. Given :math:`3\sin^2x - 7\sin x + 2 = 0.`
+
+     :math:`\Rightarrow (\sin x - 2)(3\sin x - 1) = 0`
+
+     :math:`\because \sin \neq 2 \therefore \sin x = \frac{1}{3}`
+
+     :math:`\Rightarrow x` will have six values between :math:`[0, 5\pi]`
+
+112. Given equation is :math:`y + \cos x = \sin x`
+
+     :math:`\Rightarrow \frac{y}{\sqrt{2}} = \frac{\sin x}{\sqrt{2}} - \frac{\cos x}{\sqrt{2}}`
+
+     :math:`\Rightarrow \frac{y}{\sqrt{2}} = -\cos\left(x - \frac{\pi}{4}\right)`
+
+     :math:`-1 \leq \cos\left(x - \frac{\pi}{4}\right)\leq 1`
+
+     :math:`\Rightarrow -\sqrt{2}\leq y \leq \sqrt{2}`
+
+     If :math:`y = 1,` then
+
+     :math:`\cos\left(x + \frac{\pi}{4}\right) = -1/\sqrt{2} = -\cos\frac{\pi}{4} = \frac{3\pi}{4}, \frac{5\pi}{4}[because 0\leq
+     x\leq 2\pi]`
+
+     :math:`x = \frac{\pi}{2}, \pi`
+
+113. Given equation is :math:`\sum_{r = 1}^n\sin(rx)\sin(r^2x) = 1`
+
+     :math:`\Rightarrow t_r = \frac{1}{2}2\sin(rx)\sin(r^2x) = \frac{1}{2}[\cos(r^2 - r)x - \cos(r^2 + r)x]`
+
+     :math:`\Rightarrow t_1 = \frac{1}{2}[\cos0 - \cos2x]`
+
+     :math:`t_2 = \frac{1}{2}[\cos2x - \cos6x]`
+
+     :math:`t_3 = \frac{1}{2}[\cos6x - \cos12x]`
+
+     :math:`\ldots`
+
+     :math:`t_n = \frac{1}{2}[\cos(n^2 - n)x - \cos(n^2 + n)x]`
+
+     Adding all these
+
+     :math:`\sum_{r = 1}^n\sin(rx)\sin(r^2x) = \frac{1}{2}[\cos0 - \cos(n^2 + n)x] = 1`
+
+     :math:`\Rightarrow \cos(n^2+ n)x = -1 = \cos\pi`
+
+     :math:`x = \frac{(2m + 1)\pi}{n(n + 1)}`
+
+114. Given equation is :math:`\sin x(\sin x + \cos x) = a`
+
+     :math:`\Rightarrow \sin^2x + \sin x\cos x = a`
+
+     :math:`\Rightarrow \sin^2x\cos^2x = a^2 + \sin^4x -2a\sin^2x`
+
+     :math:`\Rightarrow 2\sin^4x - \sin^2x(2a + 1) + a^2 = 0`
+
+     This is a quadratic equation in :math:`\sin^2x` which is real so :math:`D\geq 0`
+
+     :math:`\Rightarrow (2a + 1)^2 - 8a^2 \geq 0`
+
+     :math:`\Rightarrow 4a^2 - 4a - 1\leq 0`
+
+     :math:`\Rightarrow \frac{1}{2}(1 - \sqrt{2})\leq a\leq \frac{1}{2}(1 + \sqrt{2})`
+
+115. Given equation is :math:`2\cos^2\frac{x^2 + x}{6} = 2^x + 2^{-x}`
+
+     :math:`-1 \leq \cos\frac{x^2 + x}{6} \leq 1`
+
+     :math:`\Rightarrow 0\leq \cos^2\frac{x^2 + x}{6}\leq 1`
+
+     Also, becasue A.M. :math:`\geq` G.M.
+
+     :math:`\frac{2^x + 2^{-x}}{2}\geq \sqrt{2^x.2^{-x}} = 1`
+
+     :math:`\Rightarrow \cos^2\frac{x^2 + x}{6} = 1 = \cos 0`
+
+     :math:`\Rightarrow x = 0`
+
+116. Given inequality is :math:`\sin x\geq \cos2x`
+
+     :math:`\Rightarrow \sin x\geq 1 - 2\sin^2x`
+
+     :math:`\Rightarrow 2\sin^2x + \sin x -1 \geq 0`
+
+     :math:`\Rightarrow (2\sin x - 1)(\sin x + 1)\geq 0`
+
+     Limiting value of :math:`\sin x + 1 = 0 \Rightarrow \sin x = -\sin\frac{\pi}{2}`
+
+     :math:`x = 2n\pi -\frac{\pi}{2}`
+
+     Also, :math:`2\sin x - 1\geq 0 \Rightarrow \sin x>\frac{1}{2}\Rightarrow 2n\pi + \frac{\pi}{6}\leq x \leq 2n\pi +
+     \frac{5\pi}{6}`
+
+117. Given equation is :math:`\left(\cos\frac{x}{4} - 2\sin x\right)\sin x + \left(1 + \sin \frac{x}{4} -2\cos x\right)\cos x = 0`
+
+     :math:`\Rightarrow \sin x\cos\frac{x}{4} -2\sin^2x + \cos x + \cos x\sin\frac{x}{4} - 2\cos^2x = 0`
+
+     :math:`\sin\left(x +\frac{x}{4}\right) + \cos x = 2`
+
+     This is possible only if :math:`\sin\frac{5x}{4} = 1` and :math:`\cos x = 1` simultaneously.
+
+     :math:`\frac{5x}{4} = 2n\pi + \frac{\pi}{2}` and :math:`x = 2m\pi`
+
+     :math:`x = \frac{8n\pi + 2\pi}{5}` and :math:`x = 2m\pi`
+
+     Thus, general solution is :math:`(8n + 2)\pi`
+
+118. Given equation is :math:`2(\sin x -\cos2x) - \sin2x(1 + 2\sin x) + 2\cos x = 0`
+
+     :math:`\Rightarrow 2\sin x -\sin2x - 2\cos2x -2\sin x\sin2x + 2\cos x = 0`
+
+     :math:`\Rightarrow 2\sin x -\sin2x - 2\cos2x - (\cos x - \cos3x) + 2\cos x = 0`
+
+     :math:`\Rightarrow 2\sin x(1 - \cos x) + 4\cos^3x - 3\cos x + \cos x - 2(2\cos^2x - 1) = 0`
+
+     :math:`\Rightarrow 2\sin x(1 - \cos x) -4\cos^2x(1 - \cos x) + 2(1 - \cos x) = 0`
+
+     :math:`\Rightarrow (1 - \cos x)[2\sin x - 4(1 - \sin^2x) + 2] =0`
+
+     :math:`\Rightarrow \cos x = 1` or :math:`\sin x - 2(1 -\sin^2x) + 1 = 0`
+
+     :math:`x = 2n\pi` or :math:`(2\sin x - 1)(\sin x+ 1) = 0`
+
+     :math:`x = 2n\pi` or :math:`\sin x = \frac{1}{2}` or :math:`\sin x = -1`
+
+     :math:`x = 2n\pi, n\pi + (-1)^n\frac{\pi}{6}, n\pi - (-1)^n\frac{\pi}{2}`
+
+119. Given equation is :math:`\frac{\sin2x}{\sin\frac{2x + \pi}{3}} = 0`
+
+     This is true if :math:`\sin2x = 0` and :math:`\sin\frac{2x + \pi}{3}\neq 0`
+
+     :math:`2x = n\pi` and :math:`\frac{2x + \pi}{3} = m\pi`
+
+     :math:`x = n\pi/2` and :math:`x = (3m - 1)\pi/2 \neq n\pi/2 \Rightarrow n \neq 3m - 1`
+
+120. Given equation is :math:`3\tan2x - 4\tan3x = \tan^23x\tan2x`
+
+     :math:`\Rightarrow 3\tan2x - 3\tan3x = \tan3x + \tan^23x\tan2x`
+
+     :math:`\Rightarrow 3(\tan2x - \tan3x) = \tan3x(1 + \tan3x\tan2x)`
+
+     :math:`\Rightarrow -3\tan(2x - 3x) = \tan 3x \Rightarrow \tan3x + 3\tan x = 0`
+
+     Let :math:`\tan x = t,` then :math:`3t + \frac{3t - t^3}{1 - 3t^2} = 0`
+
+     :math:`\Rightarrow 6t - 10t^3 = 0`
+
+     :math:`t = 0` or :math:`t = \pm\sqrt{3/5}`
+
+     :math:`x = n\pi` or :math:`x = n\pi \pm \tan^{-1}\sqrt{3/5}`
+
+121. Given equation is :math:`\sqrt{1 + \sin2x} = \sqrt{2}\cos2x`
+
+     :math:`\Rightarrow \sqrt{\sin^2x + \cos^2x + 2\sin x\cos x} = \sqrt{2}\cos2x`
+
+     :math:`\Rightarrow \sin x + \cos x = \sqrt{2}\cos2x`
+
+     :math:`\Rightarrow \frac{\sin x}{\sqrt{2}} + \frac{\cos x}{\sqrt{2}} = \cos2x`
+
+     :math:`\Rightarrow \cos\left(x - \frac{\pi}{4}\right) = \cos 2x`
+
+     :math:`\Rightarrow x - \frac{\pi}{4} = 2n\pi \pm 2x`
+
+     Now it is trivial to find :math:`x`
+
+122. Given equation is :math:`1 + \sin^2ax = \cos x`
+
+     This is only possible if :math:`\sin^2ax = 0` and :math:`\cos x = 1` simultaneously.
+
+     Thus, :math:`x = 0` is the only solution because :math:`a` is irrational.
+
+123. For non-trivial solutions
+
+     :math:`\begin{vmatrix}\sin3\theta & -1 & 1\\\cos2\theta & 4 & 3\\2 & 7 & 7\end{vmatrix} = 0`
+
+     Applying :math:`C_2\Rightarrow C_2 + C_3`
+
+     :math:`\Rightarrow \begin{vmatrix}\sin3\theta & 0 & 1\\\cos2\theta & 7 & 3\\2 & 14 & 7\end{vmatrix} = 0`
+
+     :math:`\Rightarrow 7\sin3\theta + 14\cos2\theta - 14 = 0`
+
+     :math:`\Rightarrow 3\sin\theta - 4\sin^3\theta + 2 - 4\sin^2\theta + 2 = 0`
+
+     :math:`\Rightarrow \sin\theta(4\sin^2\theta + 4\sin\theta - 3) = 0`
+
+     :math:`\Rightarrow \sin\theta(2\sin\theta + 3)(2\sin\theta - 1) = 0`
+
+     :math:`2\sin\theta + 3 \neq 0`
+
+     :math:`\therefore \sin\theta = 0, 2\sin\theta - 1 = 0`
+
+     :math:`\Rightarrow \theta = n\pi, n\pi + (-1)^n\frac{\pi}{6}`
+
+124. Given equation is :math:`\sin x + \sin\frac{\pi}{8}\sqrt{(1 - \cos x)^2 + \sin^2x} = 0`
+
+     :math:`\Rightarrow \sin x + \sin\frac{\pi}{8}\sqrt{1 - 2\cos x + \cos^2x + \sin^2x} = 0`
+
+     :math:`\Rightarrow \sin x + \sin\frac{\pi}{8}\sqrt{2 - 2\cos x} = 0`
+
+     :math:`\Rightarrow 2\sin\frac{x}{2}\cos\frac{x}{2} + \sin\frac{\pi}{8}2\sin\frac{x}{2} = 0`
+
+     :math:`\Rightarrow 2\sin\frac{x}{2}\left(\cos\frac{x}{2} + \sin\frac{\pi}{8}\right) = 0`
+
+     If :math:`\sin\frac{x}{2} = 0 \Rightarrow x = 2n\pi` and :math:`\cos\frac{x}{2} = -\sin\frac{\pi}{8} = \sin\frac{9\pi}{8}`
+
+     :math:`x = 2n\pi` is not valid for given range. :math:`\therefore \frac{x}{2} = 2n\pi\pm\frac{5\pi}{8}`
+
+     In the given range :math:`x = \frac{11\pi}{4}` is the only solution.
+
+125. :math:`\tan x - \tan^2x > 0 \Rightarrow \tan x > 0, \tan x < 1` :math:`x \in \left(0, \frac{\pi}{4}\right)`
+
+     :math:`|\sin x|< \frac{1}{2} \Rightarrow -\frac{1}{2}< \sin x < \frac{1}{2}`
+
+     :math:`x\in \left(0, \frac{\pi}{6}\right)` and :math:`x\in \left(\pi, \frac{7\pi}{6}\right)`
+
+     Clearly, :math:`A\cap B = x\in \left(0, \frac{\pi}{6}\right) \cup x\in \left(\pi, \frac{7\pi}{6}\right)`
+
+126. Given equation is :math:`2^{\frac{1}{\sin^2x}}\sqrt{y^2 - 2y + 2}\leq 2`
+
+     :math:`\sqrt{y^2 - 2y + 2} = \sqrt{(y - 1)^2 + 1} \geq 1`
+
+     Thus, :math:`2^{\frac{1}{\sin^2x}} leq 2` for equality to be satisfied.
+
+     If :math:`|\sin x| < 1` then equality will not hold true.
+
+     :math:`\therefore |\sin x| = 1 \Rightarrow x = \frac{\pi}{2}, \frac{3\pi}{2}`
+
+     And thus :math:`y - 1 = 0 \Rightarrow y = 1`
+
+127. Given :math:`|\tan x| = \tan x + \frac{1}{\cos x}`
+
+     If :math:`\tan x = \tan x + \frac{1}{\cos x} \Rightarrow \sec x = 0` which is not possible.
+
+     :math:`\therefore -\tan x = \tan x + \frac{1}{\cos x} \Rightarrow \sin x = -\frac{1}{2}`
+
+     :math:`\therefore x = \frac{7\pi}{6}, \frac{11\pi}{6}` in the given interval.
+
+128. Given equation is :math:`\log_{\cos x}\sin x + \log_{\sin x}\cos x = 2`
+
+     Let :math:`y = \log_{\cos x}\sin x,` then
+
+     :math:`y + \frac{1}{y} = 2 \Rightarrow (y - 1)^2 = 0 \Rightarrow y = 1`
+
+     :math:`\Rightarrow \sin x = \cos x \Rightarrow x = \frac{\pi}{4}`
+
+129. Given equation is :math:`\sin x\cos x + \frac{1}{2}\tan x\geq 1`
+
+     :math:`\Rightarrow \frac{\sin 2x}{2} + \frac{\tan x}{2}\geq 1`
+
+     :math:`\Rightarrow \frac{2\tan x}{1 + \tan^2x} + \tan x \geq 2`
+
+     :math:`\Rightarrow (\tan x - 1)(\tan^2x - \tan x + 2)\geq 0`
+
+     :math:`\tan^2x - \tan x + 2\geq 0~\forall~x`
+
+     :math:`\Rightarrow \tan x \geq 1`
+
+     :math:`x\in\left(n\pi + \pi/4, n\pi + \pi2\right)`
+
+130. Given equation is :math:`\tan x^{\cos^2 x} = \cot x^{\sin x}`
+
+     :math:`\Rightarrow (\sin x)^{\cos^2x + \sin x} = (\cos x)^{\cos^2x + \sin x}`
+
+     **Case I:** :math:`\sin x = \cos x\Rightarrow x = n\pi +\frac{\pi}{4}`
+
+     **Case II:** :math:`\cos^2x + \sin x = 0 \Rightarrow \sin^2x - \sin x - 1 = 0`
+
+     :math:`\sin x = \frac{1\pm\sqrt{5}}{2}` but :math:`\frac{1 + \sqrt{5}}{2} > 1` so it is rejected.
+
+     :math:`\Rightarrow \sin x = \frac{1 - \sqrt{5}}{2} = \sin y` (say)
+
+     :math:`x = n\pi + (-1)^ny`
+
+131. Given equation is :math:`x^2 + 4 + 3\cos(\alpha x + \beta) = 2x`
+
+     :math:`\Rightarrow 3\cos(\alpha x + \beta) = -3 - 3(x - 1)^2`
+
+     For this to have a real solution :math:`x = 1`
+
+     :math:`\Rightarrow \cos(\alpha + \beta) = \pi, 3\pi`
+
+132. Slope of :math:`y = |x| + a = 1, -1`
+
+     :math:`y = 2\sin x \Rightarrow \frac{dy}{dx} = 2\cos x = 1`
+
+     :math:`x = \frac{\pi}{3}`
+
+     So if :math:`a + \frac{\pi}{3} > 2\sin\frac{\pi}{3}` then it will have no solution.
+
+     :math:`a > \frac{3\sqrt{3} - \pi}{3}`
