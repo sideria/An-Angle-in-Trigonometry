@@ -346,4 +346,17 @@ Find the value of the following:
 37. Prove that :math:`\tan^{-1}\frac{a^3 - b^3}{1 + a^3b^3} + \tan^{-1}\frac{b^3 - c^3}{1 + b^3c^3} + \tan^{-1}\frac{c^3 - a^3}{1 +
     c^3a^3} = 0`
 38. Prove that :math:`\cot^{-1}\frac{xy + 1}{y - x} + \cot^{-1}\frac{yz + 1}{z - y} + \cot^{-1}z = \tan^{-1}\frac{1}{x}`
-39.
+39. Prove that :math:`\cos^{-1}\left(\frac{\cos\theta + \cos\phi}{1 + \cos\theta\cos\phi}\right) =
+    2\tan^{-1}\left(\tan\frac{\theta}{2}\tan\frac{\pi}{2}\right)`
+40. Prove that :math:`\sin^{-1}\frac{3}{5} + \sin^{-1}\frac{8}{17} = \sin^{-1}\frac{77}{85}`
+41. Prove that :math:`\cos^{-1}\frac{3}{5} + \cos^{-1}\frac{12}{13} + \cos^{-1}\frac{63}{65} = \frac{\pi}{2}`
+42. Prove that :math:`\sin^{-1}x + \sin^{-1}y = \cos^{-1}\left(\sqrt{1 - x^2}\sqrt{1 - y^2} - xy\right)` where :math:`x, y \in[0, 1]`
+43. Prove that :math:`4\left(\sin^{-1}\frac{1}{\sqrt{10}} + \cos^{-1}\frac{2}{\sqrt{5}}\right) =\pi`
+44. Prove that :math:`\cos(2\sin^{-1}x) = 1 - 2x^2`
+45. Prove that :math:`\frac{1}{2}\cos^{-1}x = \sin^{-1}\sqrt{\frac{1 - x}{2}} = \cos^{-1}\sqrt{\frac{1 + x}{2}} =
+    \tan^{-1}\frac{\sqrt{1 - x^2}}{1 + x}`
+46. Prove that :math:`\sin^{-1}x + \cos^{-1}y = \tan^{-1}\frac{xy + \sqrt{(1 - x^2)(1 - y^2)}}{y\sqrt{1 - x^2} - x\sqrt{1 - y^2}}`
+47. Prove that :math:`\tan^{-1}x + \tan^{-1}y = \frac{1}{2}\sin^{-1}\frac{2(x + y)(1 - xy)}{(1 + x^2)(1 + y^2)}`
+48. Prove that :math:`2\tan^{-1}(\cosec\tan^{-1}x - \tan\cot^{-1}x) = tan^{-1}x`
+49. Prove that :math:`\cos\tan^{-1}\sin\cot^{-1}x = \sqrt{\frac{x^2 + 1}{x^2 + 2}}`
+50. In
