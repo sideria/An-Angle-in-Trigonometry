@@ -293,3 +293,57 @@ Similarly we can prove that :math:`\sin^{-1}x - \sin^{-1}y = \sin^{-1}[x\sqrt{1 
 
 Problems
 ========
+Evaluate the following:
+
+1. :math:`\tan^{-1}(-1)`
+2. :math:`\cot^{-1}(-1)`
+3. :math:`\sin^{-1}\left(-\frac{\sqrt{3}}{2}\right)`
+
+Find the value of the following:
+
+4. :math:`\sin\left[\frac{\pi}{3} - \sin^{-1}\frac{-1}{2}\right]`
+5. :math:`\sin\left[\cos^{-1}\frac{-1}{2}\right]`
+6. :math:`\sin\left[\tan^{-1}(-\sqrt{3}) + \cos^{-1}\frac{-\sqrt{3}}{2}\right]`
+7. Evaluate :math:`\tan\left[\frac{1}{2}\cos^{-1}\frac{\sqrt{5}}{3}\right]`
+8. Find the angle :math:`\sin^{-1}\left(\sin\frac{2\pi}{3}\right)`
+
+Find the value of the following:
+
+9. :math:`\sin^{-1}\frac{\sqrt{3}}{2}`
+10. :math:`\tan^{-1}\frac{-1}{\sqrt{3}}`
+11. :math:`\cot^{-1}(-\sqrt{3})`
+12. :math:`\cot^{-1}\cot\frac{5\pi}{4}`
+13. :math:`\tan^{-1}\left(\tan\frac{3\pi}{4}\right)`
+14. :math:`\sin^{-1}\frac{1}{2} + \cos^{-1}\frac{1}{2}`
+15. :math:`\cos\left[\tan^{-1}\left(\frac{3}{4}\right)\right]`
+16. :math:`\cos\left[\cos^{-1}\left(\frac{\sqrt{3}}{2}\right) + \frac{\pi}{6}\right]`
+
+17. Prove that :math:`2\tan^{-1}\frac{1}{3} + \tan^{-1}\frac{1}{7} = \frac{\pi}{4}`
+18. Prove that :math:`\tan^{-1}\frac{1}{3} + \tan^{-1}\frac{1}{5} + \tan^{-1}\frac{1}{7} + \tan^{-1}\frac{1}{8} = \frac{\pi}{4}`
+19. Prove that :math:`\sin^{-1}\frac{4}{5} + \sin^{-1}\frac{5}{13} + \sin^{-1}\frac{16}{65} = \frac{\pi}{2}`
+20. Prove that :math:`4\tan^{-1}\frac{1}{5} - \tan^{-1}\frac{1}{70} + \tan^{-1}\frac{1}{99} = \frac{\pi}{4}`
+21. Prove that :math:`\cot^{-1}9 + \cosec^{-1}\frac{\sqrt{41}}{4} = \frac{\pi}{4}`
+22. Prove that :math:`4(\cot^{-1}3 + cosec^{-1}\sqrt{5}) = \pi`
+23. Prove that :math:`\tan^{-1}x = 2\tan^{-1}[\cosec\tan^{-1}x - \tan\cot^{-1}x]`
+24. Prove that :math:`2\tan^{-1}\left[\sqrt{\frac{a - b}{a + b}}\tan\frac{x}{2}\right] = \cos^{-1}\left[\frac{b + a\cos x}{a +
+    b\cos x}\right]` for :math:`0<b\leq a,` and :math:`x\geq 0.`
+25. Prove that :math:`\tan^{-1}\frac{x - y}{1 + xy} + \tan^{-1}\frac{y - z}{1 + yz} + \tan^{-1}\frac{z - x}{1 + zx} =
+    \tan^{-1}\left(\frac{x^2 - y^2}{1 + x^2y^2}\right) + \tan^{-1}\left(\frac{y^2 - z^2}{1 + y^2z^2}\right) +
+    \tan^{-1}\left(\frac{z^2 - x^2}{1 + z^2x^2}\right)`
+26. Prove that :math:`\sin\cot^{-1}\tan\cos^{-1}x = x`
+27. Prove that :math:`\tan^{-1}\left(\frac{1}{2}\tan 2x\right) + \tan^{-1}(\cot x) +\tan^{-1}(\cot^3x) = 0` if
+    :math:`\frac{\pi}{4}< x < \frac{\pi}{2}, = \pi` if :math:`0<x<\pi`
+28. Prove that :math:`\tan^{-1}\frac{1}{2} + \tan^{-1}\frac{1}{3} = \tan^{-1}\frac{3}{5} + \tan^{-1}\frac{1}{4} = \frac{\pi}{4}`
+29. Prove that :math:`\tan^{-1}\frac{2a - b}{\sqrt{3}b} + \tan^{-1}\frac{2b - a}{\sqrt{3}a} = \frac{\pi}{3}`
+30. Prove that :math:`\tan^{-1}\frac{2}{5} + \tan^{-1}\frac{1}{3} + \tan^{-1}\frac{1}{12} = \frac{\pi}{4}`
+31. Prove that :math:`2\tan^{-1}\frac{1}{5} + \tan^{-1}\frac{1}{4} = \tan^{-1}\frac{32}{43}`
+32. Prove that :math:`\tan^{-1}1 + \tan^{-1}2 + \tan^{-1}3 = \pi = 2\left(\tan^{-1}1 + \tan^{-1}\frac{1}{2} +
+    \tan^{-1}\frac{1}{3}\right)`
+33. Prove that :math:`\tan^{-1}x + \cot^{-1}y = \tan^{-1}\frac{xy + 1}{y - x}`
+34. Prove that :math:`\tan^{-1}\frac{1}{x + y} + \tan^{-1}\frac{y}{x^2 + xy + 1} = \cot^{-1}x`
+35. Prove that :math:`2\cot^{-1}5 + \cot^{-1}7 + 2\cot^{-1}8 = \pi/4`
+36. Prove that :math:`\tan^{-1}\frac{a - b}{1 + ab} + \tan^{-1}\frac{b - c}{1 + bc} + \tan^{-1}\frac{c - a}{1 + ca} = 0`
+37. Prove that :math:`\tan^{-1}\frac{a^3 - b^3}{1 + a^3b^3} + \tan^{-1}\frac{b^3 - c^3}{1 + b^3c^3} + \tan^{-1}\frac{c^3 - a^3}{1 +
+    c^3a^3} = 0`
+38. Prove that :math:`\cot^{-1}\frac{xy + 1}{y - x} + \cot^{-1}\frac{yz + 1}{z - y} + \cot^{-1}z = \tan^{-1}\frac{1}{x}`
+39.
