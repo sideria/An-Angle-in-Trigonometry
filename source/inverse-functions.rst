@@ -291,6 +291,78 @@ Similarly we can prove that :math:`\sin^{-1}x - \sin^{-1}y = \sin^{-1}[x\sqrt{1 
 
    These can be proven like previous proof.
 
+Graph of Important Inverse Trigonometric Functions
+==================================================
+1. :math:`y = \sin^{-1}x, -1\leq x\leq 1`
+
+   .. image:: _static/images/25_1.png
+      :alt: y = sin^{-1}x
+      :align: center
+
+   Frpm this graph we observer following:
+
+   1. Domain is :math:`-1\leq x\leq 1`
+
+   2. Range is :math:`-\frac{\pi}{2}\leq y \leq \frac{\pi}{2}`
+
+   3. :math:`\because \sin^{-1}x = -\sin^{-1}x \therefore y = \sin^{-1}x` is an odd function.
+
+   4. It is a non-periodic function
+
+   5. It passes through origin i.e. when :math:`x = 0, y = 0`
+
+2. :math:`y = \cos^{-1}x, -1\leq x\leq 1`
+
+   .. image:: _static/images/25_2.png
+      :alt: y = cos^{-1}x
+      :align: center
+
+   Follwing points can be observed from the graph:
+
+   1. Domain is :math:`-1\leq x\leq 1`
+
+   2. Range is :math:`0\leq x\leq \pi`
+
+   3. :math:`\because \cos^{-1}(-x) = \pi - \cos^{-1}x`
+
+      :math:`\Rightarrow y = \cos^{-1}x` is neither odd nor even.
+
+   4. It is a non-periodic function
+
+3. :math:`y = \tan^{-1}x, -\infty< x <\infty`
+
+   .. image:: _static/images/25_3.png
+      :align: center
+      :alt: y = \tan^{-1}x
+
+   From the graph follwing points can be observed:
+
+   1. Domain is :math:`-\infty < x < \infty`
+
+   2. Range is :math:`-\frac{\pi}{2} < x < \frac{\pi}{2}`
+
+   3. :math:`y = \tan^{-1}x` is an odd function
+
+   4. It is a non-periodic function.
+
+   5. It passes through origin.
+
+4. :math:`y = \cot^{-1}x, -\infty< x <\infty`
+
+   .. image:: _static/images/25_4.png
+      :align: center
+      :alt: y = \cot^{-1}x
+
+   From the graph follwing points can be observed:
+
+   1. Domain is :math:`-\infty < x < \infty`
+
+   2. Rnage is :math:`0<y<\pi`
+
+   3. The function is neither odd nor even.
+
+   4. It is a non-periodic function
+
 Problems
 ========
 Evaluate the following:
@@ -350,7 +422,8 @@ Find the value of the following:
     2\tan^{-1}\left(\tan\frac{\theta}{2}\tan\frac{\pi}{2}\right)`
 40. Prove that :math:`\sin^{-1}\frac{3}{5} + \sin^{-1}\frac{8}{17} = \sin^{-1}\frac{77}{85}`
 41. Prove that :math:`\cos^{-1}\frac{3}{5} + \cos^{-1}\frac{12}{13} + \cos^{-1}\frac{63}{65} = \frac{\pi}{2}`
-42. Prove that :math:`\sin^{-1}x + \sin^{-1}y = \cos^{-1}\left(\sqrt{1 - x^2}\sqrt{1 - y^2} - xy\right)` where :math:`x, y \in[0, 1]`
+42. Prove that :math:`\sin^{-1}x + \sin^{-1}y = \cos^{-1}\left(\sqrt{1 - x^2}\sqrt{1 - y^2} - xy\right)` where :math:`x, y \in[0,
+    1]`
 43. Prove that :math:`4\left(\sin^{-1}\frac{1}{\sqrt{10}} + \cos^{-1}\frac{2}{\sqrt{5}}\right) =\pi`
 44. Prove that :math:`\cos(2\sin^{-1}x) = 1 - 2x^2`
 45. Prove that :math:`\frac{1}{2}\cos^{-1}x = \sin^{-1}\sqrt{\frac{1 - x}{2}} = \cos^{-1}\sqrt{\frac{1 + x}{2}} =
@@ -359,4 +432,44 @@ Find the value of the following:
 47. Prove that :math:`\tan^{-1}x + \tan^{-1}y = \frac{1}{2}\sin^{-1}\frac{2(x + y)(1 - xy)}{(1 + x^2)(1 + y^2)}`
 48. Prove that :math:`2\tan^{-1}(\cosec\tan^{-1}x - \tan\cot^{-1}x) = tan^{-1}x`
 49. Prove that :math:`\cos\tan^{-1}\sin\cot^{-1}x = \sqrt{\frac{x^2 + 1}{x^2 + 2}}`
-50. In
+50. In any :math:`\triangle ABC` if :math:`A = \tan^{-1}2` and :math:`B = \tan^{-1}3,` prove that :math:`C = \frac{\pi}{4}`
+51. If :math:`\cos^{-1}x + \cos^{-1}y + \cos^{-1}z = \pi` then prove that :math:`x^2 + y^2 + z^2 + 2xyz = 1`
+52. If :math:`\cos^{-1}\frac{x}{2}+ \cos^{-1}\frac{y}{3} = \theta,` prove that :math:`9x^2 - 12xy\cos\theta + 4y^2 =
+    36\sin^2\theta`
+53. If :math:`r = x + y + z` then prove that :math:`\tan^{-1}\sqrt{\frac{xr}{yz}} + \tan^{-1}\sqrt{\frac{yr}{xz}} +=
+    \tan^{-1}\sqrt{\frac{zr}{xy}} = \pi`
+54. If :math:`u = \cot^{-1}\sqrt{\cos2\theta} - \tan^{-1}\sqrt{\cos2\theta}` then prove that :math:`\sin u = \tan^2\theta`
+55. Solve :math:`\cos^{-1}x\sqrt{3} + \cos^{-1}x = \frac{\pi}{2}`
+56. Solve :math:`\sin^{-1}x + \sin^{-1}2x = \frac{\pi}{3}`
+57. If :math:`\tan^{-1}x + \tan^{-1}y + \tan^{-1}z= \frac{\pi}{2},` prove that :math:`xy + yz + zx = 1`
+58. If :math:`\tan^{-1}x + \tan^{-1}y + \tan^{-1}z= \pi,` prove that :math:`x + y + z = xyz`
+59. If :math:`\sin^{-1}x + \sin^{-1}y = \frac{\pi}{2},` prove that :math:`x\sqrt{1 - y^2} + y\sqrt{1 - x^2} = 1`
+60. If :math:`\sin^{-1}x + \sin^{-1}y + \sin^{-1}z = \pi,` prove that :math:`x\sqrt{1 - x^2} + y\sqrt{1 - y^2} + z\sqrt{1 - z^2} =
+    2xyz`
+61. Establish the relationship between :math:`\tan^{-1}x, \tan^{-1}y, \tan^{-1}z` are in A.P. and if further :math:`x, y, z` are
+    also in A.P. then prove that :math:`x = y = z.`
+62. Solve for :math:`x, \cot^{-1}x + \sin^{-1}\frac{1}{\sqrt{5}} = \frac{\pi}{4}`
+63. Solve :math:`\tan^{-1}2x + \tan^{-1}3x = \frac{\pi}{4}`
+64. Solve :math:`\tan^{-1} x + \tan^{-1}\frac{2x}{1 - x^2} = \frac{\pi}{3}`
+65. Solve :math:`\tan^{-1}\frac{1}{2} = \cot^{-1}x + \tan^{-1}\frac{1}{7}`
+66. Solve :math:`\tan^{-1}(x - 1) + \tan^{-1}x + \tan^{-1}(x + 1) = \tan^{-1}3x`
+67. Solve :math:`\tan^{-1}\frac{x + 1}{x - 1} + \tan^{-1}\frac{x - 1}{x} = \pi + \tan^{-1}(-7)`
+68. Solve :math:`\cot^{-1}(a - 1) = \cot^{-1}x + \cot^{-1}(a^2 - x + 1)`
+69. Solve :math:`\sin^{-1}\frac{2\alpha}{1 + \alpha^2} + \sin^{-1}\frac{2\beta}{1 + \beta^2} = 2\tan^{-1}x`
+70. Solve :math:`\cot^{-1}\frac{x^2 - 1}{x^2 + 1} + \tan^{-1}\frac{2x}{x^2 - 1} = \frac{2\pi}{3}`
+71. Solve :math:`\sin^{-1}\frac{2a}{1 + a^2} + \cos^{-1}\frac{1 - b^2}{1 + b^2} = 2\tan^{-1}x`
+72. Solve :math:`\sin^{-1}x + \sin^{-1}(1 - x) = \cos^{-1}x`
+73. Solve :math:`\tan^{-1}ax + \frac{1}{2}\sec^{-1}bx = \frac{\pi}{4}`
+74. Solve :math:`\tan(\cos^{-1}x) = \sin(\tan^{-1}2)`
+75. Solve :math:`\tan\left(\sec^{-1}\frac{1}{x}\right) = \sin\cos^{-1}\frac{1}{\sqrt{5}}`
+76. Find the values of :math:`x` and :math:`y` satisfying :math:`\sin^{-1}x + \sin^{-1}y = \frac{2\pi}{3}` and :math:`\cos^{-1}x -
+    \cos^{-1}y = \frac{\pi}{3}`
+77. Find the angle :math:`\sin(\sin^{-1}10)`
+78. Using principal values, express the following as a single angle :math:`3\tan^{-1}\frac{1}{2} + 2\tan^{-1}\frac{1}{5} +
+    \sin^{-1}\frac{142}{65\sqrt{5}}`
+79. Find the value of :math:`2\cos^{-1}x + \sin^{-1}x` at :math:`x = \frac{1}{5}`
+80. Show that :math:`\frac{1}{2}\cos^{-1}\frac{3}{5} = \tan^{-1}\frac{1}{2} = \frac{\pi}{4} - \frac{1}{2}\cos^{-1}\frac{4}{5}`
+81. Find the greater angle between :math:`2\tan^{-1}(2\sqrt{2} - 1)` and :math:`3\sin^{-1}\frac{1}{3} + \sin^{-1}\frac{3}{5}`
+82. Prove that :math:`\tan^{-1}\left(\frac{a_1x - y}{x + a_1y}\right) + \tan{-1}\left(\frac{a_2 - a_1}{1 + a_2a_1}\right) +
+    \tan^{-1}\left(\frac{a3 - a_2}{1 + a_3a_2}\right) + \ldots + \tan^{-1}\left(\frac{a_n - a_{n - 1}}{1 + a_na_{n - 1}}\right) +
+    \tan^{-1}\frac{1}{a_n} = \tan^{-1}\frac{x}{y}`

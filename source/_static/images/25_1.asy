@@ -1,8 +1,8 @@
-settings.outformat="png";
-defaultpen(fontsize(24pt));
+settings.outformat="pdf";
+defaultpen(fontsize(14pt));
 
 import graph;
-size(12cm);
+size(6cm);
 
 real f(real x) {return asin(x);}
 
