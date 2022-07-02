@@ -473,3 +473,78 @@ Find the value of the following:
 82. Prove that :math:`\tan^{-1}\left(\frac{a_1x - y}{x + a_1y}\right) + \tan{-1}\left(\frac{a_2 - a_1}{1 + a_2a_1}\right) +
     \tan^{-1}\left(\frac{a3 - a_2}{1 + a_3a_2}\right) + \ldots + \tan^{-1}\left(\frac{a_n - a_{n - 1}}{1 + a_na_{n - 1}}\right) +
     \tan^{-1}\frac{1}{a_n} = \tan^{-1}\frac{x}{y}`
+83. Find the sum :math:`\cot^{-1}2 + \cot^{-1}8 + \cot^{-1}17 + \ldots +` to :math:`\infty`
+84. Show that the function :math:`y = 2\tan^{-1}x + \sin^{-1}\frac{2x}{1 + x^2}` is constant for :math:`x\geq 1.` Find the value of
+    this constant.
+85. Prove the relations :math:`\cot^{-1}x_0 = \frac{\sqrt{1 - x_0^2}}{x_1x_2x_3\ldots\text{~to~}\infty}` where the successive
+    quantities :math:`x_r` are connected by the relation :math:`x_{r + 1} = \sqrt{\frac{1 + x_r}{2}}`
+86. If :math:`a, b` are positive quantities and if :math:`a_1 = \frac{a + b}{2}, b_1 = \sqrt{a_1b}, a_2 = \frac{a_1 + b_1}{2}, b_2
+    = \sqrt{a_2b_1}` and so on then show that :math:`\lim_{n\to \infty}a_n\lim_{n\to\infty}b_n = \frac{\sqrt{b^2 - a^2}}{\cos^{-1}\frac{a}{b}}`
+87. Using Mathematical Induction prove that :math:`\tan^{-1}\frac{1}{3} + \tan^{-1}\frac{1}{7} + \ldots + \tan^{-1}\frac{1}{n^2 + n
+    + 1} = \tan^{-1}\frac{n}{n + 2}`
+88. If :math:`x_1, x_2, x_3, x_4` are the roots of the equation :math:`x^4 - x^3\sin2\beta + x^2\cos2\beta - x\cos\beta - \sin\beta
+    = 0` then prove that :math:`\tan^{-1}x_1 + \tan^{-1}x_2 + \tan^{1}x_3 + \tan^{-1}x_4 = n\pi + \frac{\pi}{2} - \beta`
+89. Find theh value of :math:`\cot^{-1}\left(\cot \frac{5\pi}{4}\right)`
+90. Find the value of :math:`\sin^{-1}(\sin 5)`
+91. Find the value of :math:`\cos^{-1}\cos\frac{5\pi}{4}`
+92. Find the value of :math:`\cos^{-1}(\cos 10)`
+93. Evaluate :math:`\sin\left(2\tan^{-1}\frac{1}{3}\right) + \cos\tan^{-1}2\sqrt{2}`
+94. Evaluate :math:`\cot[\cot^{-1}7 + \cot^{-1}8 + \cot^{-1}18]`
+95. Prove that :math:`\sin^{-1}\frac{3}{5} + \cos^{-1}\frac{12}{14} + \cot^{-1}\frac{56}{33} = \frac{\pi}{2}`
+96. Prove that :math:`2\cot^{-1}6 + \cot^{-1}7 + 2\cot^{-1}8 = \frac{\pi}{4}`
+97. Prove that :math:`\tan^{-1}1 + \tan^{-1}2 + \tan^{-1}3 = 2\left(\tan^{-1}1 + \tan^{-1}\frac{1}{2} +
+    \tan^{-1}\frac{1}{3}\right).`
+98. If :math:`A = \tan^{-1}\frac{1}{7}` and :math:`B = \tan^{-1}\frac{1}{3}` then prove that :math:`\cos 2A = \sin 4B.`
+99. Find the sum :math:`\tan^{-1}\frac{x}{1 + 1.2x^2} + \tan^{-1}\frac{x}{1 + 2.3x^2} + \ldots + \tan^{-1}\frac{1}{1 + n(n +
+    1)x^2}, x> 0.`
+100. Find the sum :math:`\tan^{-1}\frac{d}{1 + a_1a_2} + \tan^{-1}\frac{d}{1 + a_2a_3} + \ldots + \tan^{-1}\frac{d}{1 + a_na_{n +
+     1}}` if :math:`a_1, a_2, \ldots, a_{n + 1}` form an arithmetic progression with a common difference of :math:`d` and :math:`d
+     > 0, a_i>0` for :math:`i = 1,2,3,\ldots, n + 1.`
+101. For what value of :math:`x,` the equality :math:`\sin^{-1}(\sin 5) > x^2 - 4x` holds.
+102. If :math:`\tan^{-1}y = 5\tan^{-1}x,` express :math:`y` as an algebraic function of :math:`x` and hence show that
+     :math:`18^\circ` is a root of :math:`5u^4 - 10u^2 + 1 = 0.`
+103. If :math:`\cos^{-1}x + \cos^{-1}y + \cos^{-1}z = \pi` and :math:`x + y + z = \frac{3}{2},` then prove that :math:`x = y = z.`
+104. If :math:`\sin^{-1}x + \sin^{-1}y + \sin^{-1}z = \pi,` prove that :math:`x^4 + y^4 + z^4 + 4x^2y^2z^2 = 2(x^2y^2 + y^2z^2 +
+     z^2x^2).`
+105. Prove that :math:`\frac{\alpha^3}{2}\cosec^2\left(\frac{1}{2}\tan^{-1}\frac{\alpha}{\beta}\right) +
+     \frac{\beta^3}{2}\sec^2\left(\frac{1}{2}\tan^{-1}\frac{\alpha}{\beta}\right) = (\alpha + \beta)(\alpha^2 + \beta^2).`
+106. Prove that :math:`2\tan^{-1}\left[\tan\frac{\alpha}{2}\tan\left(\frac{\pi}{4} - \frac{\beta}{2}\right)\right] =
+     \tan^{-1}\left[\frac{\sin\alpha\cos\beta}{\sin\beta + \cos\alpha}\right].`
+107. Prove that :math:`\tan^{-1}\left[\frac{1}{2}\cos2\alpha\sec2\beta + \frac{1}{2}\cos2\beta\sec2\alpha\right] = \tan^{-1}[\tan^2(\alpha +
+     \beta)\tan^2(\alpha -\beta)] + \frac{\pi}{4}.`
+108. Express :math:`\cot^{-1}\left(\frac{y}{\sqrt{1 - x^2 - y^2}}\right) = 2\tan^{-1}\sqrt{\frac{3 - 4x^2}{4x^2}} -
+     \tan^{-1}\sqrt{\frac{3 - 4x^2}{x^2}}` as a rational integral equation in :math:`x` and :math:`y.`
+109. If :math:`\frac{m\tan(\alpha - \theta)}{\cos^2\theta} = \frac{n\tan\theta}{\cos^2(\alpha - \theta)}` then prove that
+     :math:`\theta = \frac{1}{2}\left[\alpha - \tan^{-1}\left(\frac{n - m}{n + m}\right)\tan\alpha\right].`
+110. If :math:`\sin^{-1}\frac{x}{a} + \sin^{-1}\frac{y}{b} = \sin^{-1}\frac{c^2}{ab}` then prove that :math:`b^2x^2 +
+     2xy\sqrt{a^2b^2 - c^2} = c^4 - a^2y^2.`
+111. Prove that :math:`\tan^{-1}t + \tan^{-1}\frac{2t}{1 - t^2} = \tan^{-1}\frac{3t - t^3}{1 - 3t^2},` if
+     :math:`-\frac{1}{\sqrt{3}} < x < \frac{1}{\sqrt{3}}.`
+112. Prove that :math:`\cos^{-1}\sqrt{\frac{a - x}{a - b}} = \sin^{-1}\sqrt{\frac{x - b}{a - b}}` if :math:`a > x> b` or :math:`a <
+     x < b.`
+113. Find all values of :math:`p` and :math:`q` such that :math:`\cos^{-1}\sqrt{p} + \cos^{-1}\sqrt{1 - p} + \cos^{-1}\sqrt{1 - q}
+     = \frac{3\pi}{4}.`
+114. Find all positive integral solution of the equation :math:`\tan^{-1}x + \cot^{-1}y = \tan^{-1}3.`
+115. Solve :math:`\sin^{-1}\frac{ax}{c} + \sin^{-1}\frac{bx}{c} = \sin^{-1}x` where :math:`a^2 + b^2 = c^2, c\neq 0.`
+116. Convert the trigonometric function :math:`\sin[2\cos^{-1}\{\cot(2\tan^{-1}x)\}]` into an algebraic function :math:`f(x).` Then
+     from the algebraic function find all the values of :math:`x` for which :math:`f(x)` is zero. Express the value of :math:`x` in
+     the form of :math:`a\pm\sqrt{b}` where :math:`a` and :math:`b` are rational numbers.
+117. Solve the equation :math:`\theta = \tan^{-1}(2\tan^2\theta) - \frac{1}{2}\sin^{-1}\left(\frac{3\sin2\theta}{5 +
+     4\cos2\theta}\right).`
+118. Solve :math:`\tan^{-1}2x + \tan^{-1}3x = \frac{\pi}{4}.`
+119. If :math:`\sin^{-1}\left(x - \frac{x^2}{2} + \frac{x^3}{4} - \ldots\right) + \cos^{-1}\left(x^2 - \frac{x^4}{2} +
+     \frac{x^6}{4} + \ldots\right) = \frac{\pi}{2}~\forall~0<|x|<\sqrt{2}` then find :math:`x.`
+120. Find the number of real solutions for :math:`\tan^{-1}\sqrt{x(x + 1)} + \sin^{-1}\sqrt{x^2 + x + 1} = \frac{\pi}{2}.`
+121. Solve :math:`\sin^{-1}\frac{3x}{5} + \cos^{-1}\frac{4x}{5} = \sin^{-1}x.`
+122. Solve :math:`\sin^{-1}(1 - x) - 2\sin^{-1}x = \frac{\pi}{2}.`
+123. If :math:`k` be a positive integer, show that the equation :math:`\tan^{-1}x + \tan^{-1}y = \tan^{-1}k` has no positive
+     integral solution.
+124. Solve :math:`\tan^{-1}\frac{x + 1}{x - 1} + \tan^{-1}\frac{x - 1}{x} = \tan^{-1}(-7).`
+125. Solve :math:`\tan^{-1}\frac{1}{a - 1} = \tan^{-1}\frac{1}{x} + \tan^{-1}\frac{1}{a^2 - x + 1}.`
+126. Solve :math:`\cos^{-1}\frac{x^2 - 1}{x^2 + 1} + \tan^{-1}\frac{2x}{x^2 - 1} = \frac{2\pi}{3}`
+127. If :math:`\theta = \tan^{-1}\frac{x\sqrt{3}}{2k - x}` and :math:`\phi = \tan^{-1}\frac{2x - k}{k\sqrt{3}},` show that one
+     value of :math:`\theta - \phi` is :math:`\pi/6.`
+128. Find all positive integral solutions of the equation :math:`\tan^{-1}x + \cos^{-1}\frac{y}{\sqrt{1 + y^2}} =
+     \sin^{-1}\frac{3}{\sqrt{10}}`
+
+129. Solve the equation :math:`2\cos^{-1}x = \sin^{-1}2x\sqrt{1 - x^2}`
