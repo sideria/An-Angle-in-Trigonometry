@@ -268,7 +268,7 @@ Similarly we can prove that :math:`\sin^{-1}x - \sin^{-1}y = \sin^{-1}[x\sqrt{1 
 
    :math:`2\tan^{-1}x = \cos^{-1}\frac{1 - x^2}{1 + x^2}`
 
-   For :math:`x geq 0` both sides will be balanced.
+   For :math:`x \geq 0` both sides will be balanced.
 
    For :math:`x<0, 2\tan^{-1}x` will represent a negative angle where R.H.S. will always lie between :math:`0` and :math:`\pi.`
    Hence two sides cannot be equal.
@@ -548,3 +548,16 @@ Find the value of the following:
      \sin^{-1}\frac{3}{\sqrt{10}}`
 
 129. Solve the equation :math:`2\cos^{-1}x = \sin^{-1}2x\sqrt{1 - x^2}`
+130. Solve :math:`\sin^{-1}\frac{x}{\sqrt{1 + x^2}} - \sin^{-1}\frac{1}{\sqrt{1 + x^2}} = \sin^{-1}\frac{1 + x}{1 + x^2}`
+131. Show that the function :math:`y = 2\tan^{-1}\left[\sqrt{\frac{a - b}{a + b}}\tan\frac{x}{2}\right] - \cos^{-1}\left[\frac{b +
+     a\cos x}{a + b\cos x}\right]` is a constant for :math:`0 < n \leq a,` find the value of this constant for :math:`x\geq 0.`
+132. Find the sum :math:`\sum_{i = 1}^n\tan^{-1}\frac{2i}{2 + i^2 + i^4}.`
+133. Find the sum of infinite terms of the series :math:`\cot^{-1}\left(1^2 + \frac{3}{4}\right) + \cot^{-1}\left(2^2 +
+     \frac{3}{4}\right) + \cot^{-1}\left(3^3 + \frac{3}{4}\right) +\ldots`
+134. Solve for :math:`x` the equation :math:`(\tan^{-1}x)^2 + (\cot^{-1}x)^2 = \frac{5\pi^2}{8}`
+135. Find the number of solutions of the equation :math:`|y| = \sin x` and :math:`y = \cos^{-1}\cos x` where :math:`-2\pi\leq x\leq
+     2x`
+136. Show that the greatest and the least values of :math:`(\sin^{-1}x)^3 + (\cos^{-1}x)^3` are :math:`\frac{7\pi^3}{8}` and
+     :math:`\frac{\pi^2}{32}` respectively.
+137. Obtain the integral values of :math:`p` for which the following system of equations possesses real solution
+     :math:`\cos^{-1}x + (\sin^{-1}y)^2 = \frac{p\pi^2}{4}` and :math:`(\cos^{-1}x)(\sin^{-1}y)^2 = \frac{\pi^2}{16}.`

@@ -35,6 +35,7 @@ An Angle in Trigonometry
    trigonometrical-equations-general-solutions
    trigonometrical-equations-general-solutions-answers
    inverse-functions
+   inverse-functions-solutions
 
 Indices and tables
 ==================
