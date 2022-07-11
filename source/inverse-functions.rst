@@ -395,7 +395,7 @@ Find the value of the following:
 19. Prove that :math:`\sin^{-1}\frac{4}{5} + \sin^{-1}\frac{5}{13} + \sin^{-1}\frac{16}{65} = \frac{\pi}{2}`
 20. Prove that :math:`4\tan^{-1}\frac{1}{5} - \tan^{-1}\frac{1}{70} + \tan^{-1}\frac{1}{99} = \frac{\pi}{4}`
 21. Prove that :math:`\cot^{-1}9 + \cosec^{-1}\frac{\sqrt{41}}{4} = \frac{\pi}{4}`
-22. Prove that :math:`4(\cot^{-1}3 + cosec^{-1}\sqrt{5}) = \pi`
+22. Prove that :math:`4(\cot^{-1}3 + \cosec^{-1}\sqrt{5}) = \pi`
 23. Prove that :math:`\tan^{-1}x = 2\tan^{-1}[\cosec\tan^{-1}x - \tan\cot^{-1}x]`
 24. Prove that :math:`2\tan^{-1}\left[\sqrt{\frac{a - b}{a + b}}\tan\frac{x}{2}\right] = \cos^{-1}\left[\frac{b + a\cos x}{a +
     b\cos x}\right]` for :math:`0<b\leq a,` and :math:`x\geq 0.`
@@ -419,7 +419,7 @@ Find the value of the following:
     c^3a^3} = 0`
 38. Prove that :math:`\cot^{-1}\frac{xy + 1}{y - x} + \cot^{-1}\frac{yz + 1}{z - y} + \cot^{-1}z = \tan^{-1}\frac{1}{x}`
 39. Prove that :math:`\cos^{-1}\left(\frac{\cos\theta + \cos\phi}{1 + \cos\theta\cos\phi}\right) =
-    2\tan^{-1}\left(\tan\frac{\theta}{2}\tan\frac{\pi}{2}\right)`
+    2\tan^{-1}\left(\tan\frac{\theta}{2}\tan\frac{\phi}{2}\right)`
 40. Prove that :math:`\sin^{-1}\frac{3}{5} + \sin^{-1}\frac{8}{17} = \sin^{-1}\frac{77}{85}`
 41. Prove that :math:`\cos^{-1}\frac{3}{5} + \cos^{-1}\frac{12}{13} + \cos^{-1}\frac{63}{65} = \frac{\pi}{2}`
 42. Prove that :math:`\sin^{-1}x + \sin^{-1}y = \cos^{-1}\left(\sqrt{1 - x^2}\sqrt{1 - y^2} - xy\right)` where :math:`x, y \in[0,
@@ -430,13 +430,13 @@ Find the value of the following:
     \tan^{-1}\frac{\sqrt{1 - x^2}}{1 + x}`
 46. Prove that :math:`\sin^{-1}x + \cos^{-1}y = \tan^{-1}\frac{xy + \sqrt{(1 - x^2)(1 - y^2)}}{y\sqrt{1 - x^2} - x\sqrt{1 - y^2}}`
 47. Prove that :math:`\tan^{-1}x + \tan^{-1}y = \frac{1}{2}\sin^{-1}\frac{2(x + y)(1 - xy)}{(1 + x^2)(1 + y^2)}`
-48. Prove that :math:`2\tan^{-1}(\cosec\tan^{-1}x - \tan\cot^{-1}x) = tan^{-1}x`
+48. Prove that :math:`2\tan^{-1}(\cosec\tan^{-1}x - \tan\cot^{-1}x) = \tan^{-1}x`
 49. Prove that :math:`\cos\tan^{-1}\sin\cot^{-1}x = \sqrt{\frac{x^2 + 1}{x^2 + 2}}`
 50. In any :math:`\triangle ABC` if :math:`A = \tan^{-1}2` and :math:`B = \tan^{-1}3,` prove that :math:`C = \frac{\pi}{4}`
 51. If :math:`\cos^{-1}x + \cos^{-1}y + \cos^{-1}z = \pi` then prove that :math:`x^2 + y^2 + z^2 + 2xyz = 1`
 52. If :math:`\cos^{-1}\frac{x}{2}+ \cos^{-1}\frac{y}{3} = \theta,` prove that :math:`9x^2 - 12xy\cos\theta + 4y^2 =
     36\sin^2\theta`
-53. If :math:`r = x + y + z` then prove that :math:`\tan^{-1}\sqrt{\frac{xr}{yz}} + \tan^{-1}\sqrt{\frac{yr}{xz}} +=
+53. If :math:`r = x + y + z` then prove that :math:`\tan^{-1}\sqrt{\frac{xr}{yz}} + \tan^{-1}\sqrt{\frac{yr}{xz}} +
     \tan^{-1}\sqrt{\frac{zr}{xy}} = \pi`
 54. If :math:`u = \cot^{-1}\sqrt{\cos2\theta} - \tan^{-1}\sqrt{\cos2\theta}` then prove that :math:`\sin u = \tan^2\theta`
 55. Solve :math:`\cos^{-1}x\sqrt{3} + \cos^{-1}x = \frac{\pi}{2}`
@@ -456,7 +456,7 @@ Find the value of the following:
 67. Solve :math:`\tan^{-1}\frac{x + 1}{x - 1} + \tan^{-1}\frac{x - 1}{x} = \pi + \tan^{-1}(-7)`
 68. Solve :math:`\cot^{-1}(a - 1) = \cot^{-1}x + \cot^{-1}(a^2 - x + 1)`
 69. Solve :math:`\sin^{-1}\frac{2\alpha}{1 + \alpha^2} + \sin^{-1}\frac{2\beta}{1 + \beta^2} = 2\tan^{-1}x`
-70. Solve :math:`\cot^{-1}\frac{x^2 - 1}{x^2 + 1} + \tan^{-1}\frac{2x}{x^2 - 1} = \frac{2\pi}{3}`
+70. Solve :math:`\cos^{-1}\frac{x^2 - 1}{x^2 + 1} + \tan^{-1}\frac{2x}{x^2 - 1} = \frac{2\pi}{3}`
 71. Solve :math:`\sin^{-1}\frac{2a}{1 + a^2} + \cos^{-1}\frac{1 - b^2}{1 + b^2} = 2\tan^{-1}x`
 72. Solve :math:`\sin^{-1}x + \sin^{-1}(1 - x) = \cos^{-1}x`
 73. Solve :math:`\tan^{-1}ax + \frac{1}{2}\sec^{-1}bx = \frac{\pi}{4}`

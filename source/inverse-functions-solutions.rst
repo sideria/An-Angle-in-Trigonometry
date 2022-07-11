@@ -147,3 +147,623 @@ Inverse Circular Functions Solutions
     :math:`\tan^{-1}\frac{1}{9} + \tan^{-1}\frac{4}{5} = \tan^{-1}\frac{\frac{1}{9} + \frac{4}{5}}{1 - \frac{1}{9}\frac{4}{5}}`
 
     :math:`=\tan^{-1}\frac{41}{45}.\frac{45}{41} = \tan^{-1}1 = \frac{\pi}{4} =` R.H.S.
+
+22. We have to prove that :math:`4(\cot^{-1}3 + \cosec^{-1}\sqrt{5}) = \pi`
+
+    :math:`\cot^{-1}3 = \tan^{-1}\frac{1}{3}`
+
+    :math:`\cosec^{-1}\sqrt{5} = \tan^{-1}\frac{1}{2}`
+
+    L.H.S. :math:`=4(\tan^{-1}\frac{1}{3} + \tan^{-1}\frac{1}{2}) = 4\left(\tan^{-1}\frac{\frac{1}{2} + \frac{1}{3}}{1 -
+    \frac{1}{2}.\frac{1}{3}}\right)`
+
+    :math:`= 4\tan^{-1}1 = \pi =` R.H.S.
+
+23. We have to prove that :math:`\tan^{-1}x = 2\tan^{-1}[\cosec\tan^{-1}x - \tan\cot^{-1}x]`
+
+    R.H.S. :math:`= 2\tan^{-1}[\cosec\cosec^{-1}\frac{\sqrt{1 + x^2}}{x} - \tan\tan^{-1}\frac{1}{x}]`
+
+    :math:`= 2\tan^{-1}\left(\frac{\sqrt{1 + x^2} - 1}{x}\right)`
+
+    Let :math:`x = \tan\theta,` then R.H.S. :math:`= 2\tan^{-1}\left(\frac{sec\theta - 1}{\tan\theta}\right)`
+
+    :math:`=2\tan^{-1}\left(\frac{1 - \cos\theta}{\sin\theta}\right) =
+    2\tan^{-1}\left(\frac{2\sin^2\frac{\theta}{2}}{2\sin\frac{\theta}{2}\cos\frac{\theta}{2}}\right)`
+
+    :math:`= 2\tan^{-1}.\tan\frac{\theta}{2} = \theta = tan^{-1}x =` L.H.S.
+
+24. :math:`\because 0 < b \leq a \therefore \sqrt{\frac{a - b}{a + b}}` is real.
+
+    L.H.S. :math:`= 2\tan^{-1}\left[\sqrt{\frac{a - b}{a + b}}\tan\frac{x}{2}\right]`
+
+    :math:`= \cos^{-1}\left[\frac{1 - \frac{a- b}{a + b}\tan^2\frac{x}{2}}{1 + \frac{a - b}{a + b}\tan^2\frac{x}{2}}\right]`
+
+    :math:`= \cos^{-1}\left[\frac{a\left(1 - \tan^2\frac{x}{2}\right)+ b\left(1 + \tan^2\frac{x}{2}\right)}{a\left(1 +
+    \tan^2\frac{x}{2}\right)+ b\left(1 + \tan^2\frac{x}{2}\right)}\right]`
+
+    :math:`= \cos^{-1}\left[\frac{a\left(\frac{1 - \tan^2\frac{x}{2}}{1 + \tan^2\frac{x}{2} + b}\right)}{a + b\frac{1 -
+    \tan^2\frac{x}{2}}{1 + \tan^2\frac{x}{2}}}\right]`
+
+    :math:`= \cos^{-1}\left[\frac{b + a\cos x}{a + b\cos x}\right] =` R.H.S.
+
+25. L.H.S :math:`= \tan^{-1}\frac{x - y}{1 + xy} + \tan^{-1}\frac{y - z}{1 + yz} + \tan^{-1}\frac{z - x}{1 + zx}`
+
+    :math:`= \tan^{-1}x - \tan^{-1}y + \tan^{-1}y - \tan^{-1}z + \tan^{-1}z - \tan^{-1}x = 0`
+
+    R.H.S. :math:`= \tan^{-1}\left(\frac{x^2 - y^2}{1 + x^2y^2}\right) + \tan^{-1}\left(\frac{y^2 - z^2}{1 + y^2z^2}\right) +
+    \tan^{-1}\left(\frac{z^2 - x^2}{1 + z^2x^2}\right)`
+
+    :math:`= \tan^{-1}x^2 - \tan^{-1}y^2 + \tan^{-1}y^2 - \tan^{-1}z^2 + \tan^{-1}z^2 - \tan^{-1}x^2 = 0`
+
+    :math:`\therefore` L.H.S. = R.H.S.
+
+26. We have to prove that :math:`\sin\cot^{-1}\tan\cos^{-1}x = x`
+
+    L.H.S. :math:`= \sin\cot^{-1}\tan\tan^{-1}\frac{\sqrt{1 - x^2}}{x}`
+
+    :math:`= \sin\cot^{-1}\frac{\sqrt{1 - x^2}}{x}`
+
+    Let :math:`\cot^{-1}\frac{1 - x^2}{x} = \theta` then :math:`\cot\theta = \frac{\sqrt{1 - x^2}}{x}`
+
+    :math:`\sin\theta = x`
+
+    Thus, L.H.S. = R.H.S.
+
+27. **Case I:** When :math:`\frac{\pi}{4}<x<\frac{\pi}{2}`
+
+    :math:`0<\cot x< 1` and :math:`0<\cot^3x<1 \therefore 0<\cot x\cot^3x<1`
+
+    :math:`\tan^{-1}\cot x + \tan^{-1}\cot^3x =\tan^{-1}\frac{\cot x + \cot^3x}{1 - \cot x\cot^3x}`
+
+    :math:`=\tan^{-1}\frac{\cot x}{1 - \cot^2x} = \tan^{-1}\frac{\tan x}{\tan^2 - 1}`
+
+    :math:`= -\tan^{-1}\left(\frac{1}{2}\tan 2x\right)`
+
+    :math:`\Rightarrow \tan^{-1}\left(\frac{1}{2}\tan 2x\right) + \tan^{-1}\cot x + \tan^{-1}\cot^3x = 0`
+
+    **Case II:** When :math:`0<x<\frac{\pi}{4}`
+
+    :math:`\cot x> 1` and :math:`\cot^3x > 1`
+
+    :math:`\Rightarrow \tan^{-1}\cot x + \tan^{-1}\cot^3x = \pi - \tan^{-1}\left(\frac{1}{2}\tan2x\right)`
+
+    :math:`\Rightarrow \tan^{-1}\left(\frac{1}{2}\tan 2x\right) + \tan^{-1}\cot x + \tan^{-1}\cot^3x = \pi`
+
+28. :math:`\tan^{-1}\frac{1}{2} + \tan^{-1}\frac{1}{3} = \tan^{-1}\frac{\frac{1}{2} + \frac{1}{3}}{1 - \frac{1}{2}.\frac{1}{3}}`
+
+    :math:`= \tan^{-1}\frac{5/6}{5/6} = \tan^{-1}1 = \frac{\pi}{4}`
+
+    :math:`\tan^{-1}\frac{3}{5} + \tan^{-1}\frac{1}{4} = \tan^{-1}\frac{\frac{3}{5} + \frac{1}{4}}{1 - \frac{3}{5}.\frac{1}{4}}`
+
+    :math:`=\tan^{-1}\frac{17/20}{17/20} = \tan^{-1}1 = \frac{\pi}{4}`
+
+29. We have to prove that :math:`\tan^{-1}\frac{2a - b}{\sqrt{3}b} + \tan^{-1}\frac{2b - a}{\sqrt{3}a} = \frac{\pi}{3}`
+
+    L.H.S. :math:`= \tan^{-1}\frac{\frac{2a - b}{\sqrt{3}b} + \frac{2b - a}{\sqrt{3}a}}{1 - \frac{(2a - b)(2b - a)}{3ab}}`
+
+    :math:`= \tan^{-1}\frac{\frac{2\sqrt{3}a^2 - \sqrt{3}ab + 2\sqrt{3}b^2 -\sqrt{3}ab}{3ab}}{\frac{3ab - 4ab + 2a^2 +
+    2b^2 - ab}{3ab}}`
+
+    :math:`= \tan^{-1}\frac{2\sqrt{a^2} + 2\sqrt{3}b^2 - 2\sqrt{3}ab}{2a^2 + 2b^2 - 2ab} = \tan^{-1}\sqrt{3} = \frac{\pi}{3}`
+
+30. We have to prove that :math:`\tan^{-1}\frac{2}{5} + \tan^{-1}\frac{1}{3} + \tan^{-1}\frac{1}{12} = \frac{\pi}{4}`
+
+    L.H.S. :math:`= \tan^{-1}\frac{2}{5} + \tan^{-1}\frac{\frac{1}{3} + \frac{1}{12}}{1 - \frac{1}{3}.\frac{1}{12}}`
+
+    :math:`= \tan^{-1}\frac{2}{5} + \tan^{-1}\frac{5/12}{35/36} = \tan^{-1}\frac{2}{5} + \tan^{-1}\frac{3}{7}`
+
+    :math:`= \tan^{-1}\frac{\frac{2}{5} + \frac{3}{7}}{1 - \frac{2}{5}.\frac{3}{7}}`
+
+    :math:`= \tan^{-1}\frac{29/35}{29/35} = \tan^{-1}1 = \frac{\pi}{4}`
+
+31. We have to prove that :math:`2\tan^{-1}\frac{1}{5} + \tan^{-1}\frac{1}{4} = \tan^{-1}\frac{32}{43}`
+
+    L.H.S. :math:`= \tan^{-1}\frac{2.\frac{1}{5}}{1 - \frac{1}{5^2}} + \tan^{-1}\frac{1}{4}`
+
+    :math:`= \tan^{-1}\frac{5}{12} + \tan^{-1}\frac{1}{4}`
+
+    :math:`= \tan^{-1}\frac{\frac{5}{12} + \frac{1}{4}}{1 - \frac{5}{12}.\frac{1}{4}}`
+
+    :math:`= \tan^{-1}\frac{2/3}{43/48} = \tan^{-1}\frac{32}{43}`
+
+32. We have to prove that :math:`\tan^{-1}1 + \tan^{-1}2 + \tan^{-1}3 = \pi = 2\left(\tan^{-1}1 + \tan^{-1}\frac{1}{2} +
+    \tan^{-1}\frac{1}{3}\right)`
+
+    :math:`\tan^{-1}1 + \tan^{-1}2 + \tan^{-1}3 = \tan^{-1}1 + \tan^{-1}\frac{2 + 3}{1 - 2.3} = \tan^{-1}1 + \tan^{-1}(-1)`
+
+    :math:`= \tan^{-1}\frac{1 - 1}{1 + 1} =\tan^{-1}0 = n\pi`
+
+    :math:`2\left(\tan^{-1}1 + \tan^{-1}\frac{1}{2} + \tan^{-1}\frac{1}{3}\right)`
+
+    :math:`= 2\left(\tan^{-1}1 + \tan^{-1}\frac{\frac{1}{2} + \frac{1}{2}}{1 - \frac{1}{2}.\frac{1}{3}}\right)`
+
+    :math:`= 2\left(\frac{\pi}{4} + \tan^{-1}1\right) = 2.\frac{\pi}{2} = \pi`
+
+    Thus, the above expression will have principal value as :math:`pi.`
+
+33. We have to prove that :math:`\tan^{-1}x + \cot^{-1}y = \tan^{-1}\frac{xy + 1}{y - x}`
+
+    L.H.S. :math:`= \tan^{-1}x + \cot^{-1}y = \tan^{-1}x + \tan^{-1}\frac{1}{y}`
+
+    :math:`= \tan^{-1}\frac{x + \frac{1}{y}}{1 - x.\frac{1}{y}} = \tan^{-1}\frac{xy + 1}{y - x}`
+
+34. We have to prove that :math:`\tan^{-1}\frac{1}{x + y} + \tan^{-1}\frac{y}{x^2 + xy + 1} = \cot^{-1}x`
+
+    L.H.S. :math:`= \tan^{-1}\frac{1}{x + y} + \tan^{-1}\frac{y}{x^2 + xy + 1}`
+
+    :math:`= \tan^{-1}\frac{\frac{1}{x + y} + \frac{y}{x^2 + xy + 1}}{1 - \frac{1}{x + y}.\frac{y}{x^2 + xy + 1}}`
+
+    :math:`= \tan^{-1}\frac{x^2 + 2xy + y^2 + 1}{x^3 + 2x^2y + xy^2 + x} = \tan^{-1}\frac{1}{x} = \cot^{-1}x`
+
+35. We have to prove that :math:`2\cot^{-1}5 + \cot^{-1}7 + 2\cot^{-1}8 = \pi/4`
+
+    We know that :math:`\cot^{-1}x + \cot^{-1}y = \frac{xy - 1}{x + y}`
+
+    :math:`\therefore 2\left(\cot^{-1}5 + \cot^{-1}8\right) = 2\cot^{-1}\frac{39}{13} = 2\cos^{-1}3 = \cot^{-1}\frac{4}{3}`
+
+    :math:`\therefore 2\cot^{-1}5 + \cot^{-1}7 + 2\cot^{-1}8 = \cot^{-1}\frac{4}{3} + \cot^{-1}7`
+
+    :math:`=\cot^{-1}\frac{\frac{28}{3} - 1}{\frac{25}{3}} = \cot^{-1}1 = \pi/4`
+
+36. We have to prove that :math:`\tan^{-1}\frac{a - b}{1 + ab} + \tan^{-1}\frac{b - c}{1 + bc} + \tan^{-1}\frac{c - a}{1 + ca} = 0`
+
+    L.H.S. :math:`= \tan^{-1}a - \tan^{-1}b + \tan^{-1}b - \tan^{-1}c + \tan^{-1}c - \tan^{-1}a = 0`
+
+37. We have to prove that :math:`\tan^{-1}\frac{a^3 - b^3}{1 + a^3b^3} + \tan^{-1}\frac{b^3 - c^3}{1 + b^3c^3} +
+    \tan^{-1}\frac{c^3 - a^3}{1 + c^3a^3} = 0`
+
+    L.H.S. :math:`= \tan^{-1}a^3 - \tan^{-1}b^3 + \tan^{-1}b^3 - \tan^{-1}c^3 + \tan^{-1}c^3 - \tan^{-1}a^3 = 0`
+
+38. We have to prove that :math:`\cot^{-1}\frac{xy + 1}{y - x} + \cot^{-1}\frac{yz + 1}{z - y} + \cot^{-1}z = \tan^{-1}\frac{1}{x}`
+
+    L.H.S. :math:`= \cot^{-1}x - \cot^{-1}y + \cot^{-1}y - \cot^{-1}z + \cot^{-1}z= \cot^{-1}x = \tan^{-1}\frac{1}{x}`
+
+39. We have to prove that :math:`\cos^{-1}\left(\frac{\cos\theta + \cos\phi}{1 + \cos\theta\cos\phi}\right) =
+    2\tan^{-1}\left(\tan\frac{\theta}{2}\tan\frac{\phi}{2}\right)`
+
+    L.H.S. :math:`= \cos^{-1}\left(\frac{\cos\theta + \cos\phi}{1 + \cos\theta\cos\phi}\right)`
+
+    :math:`= \tan^{-1}\frac{\sqrt{1 + \cos^2\theta\cos^2\phi + 2\cos\theta\cos\phi - \cos^2\theta\cos^2\phi -
+    2\cos\theta\cos\phi}}{\cos\theta + \cos\phi}`
+
+    :math:`= \tan^{-1}\frac{\sqrt{(1 - \cos^2\theta)(1 - \cos^2\phi)}}{\cos\theta + \cos\phi} =
+    \tan^{-1}\frac{\sin\theta\sin\phi}{\cos\theta + \cos\phi}`
+
+    R.H.S. :math:`= 2\tan^{-1}\left(\tan\frac{\theta}{2}\tan\frac{\phi}{2}\right)`
+
+    :math:`= \tan^{-1}\frac{2\tan\frac{\theta}{2}\tan\frac{\phi}{2}}{1 - \tan^2\frac{\theta}{2}\tan^2\frac{\phi}{2}}`
+
+    :math:`=\tan^{-1}\frac{2\tan\frac{\theta}{2}\tan\frac{\phi}{2}.\cos^2\frac{\theta}{2}\cos^2\frac{\phi}{2}}{\cos^2\frac{\theta}{2}\cos^2\frac{\phi}{2}
+    - \sin^2\frac{\theta}{2}\sin^2\frac{\phi}{2}}`
+
+    :math:`= \tan^{-1}\frac{1}{2}.\frac{\sin\theta\sin\phi}{\cos^2\frac{\theta}{2}\cos^2\frac{\phi}{2} - \left(1 -
+    \cos^2\frac{\theta}{2}\right)\left(1-\cos^2\frac{\phi}{2}\right)}`
+
+    :math:`= \tan^{-1}\frac{\sin\theta\sin\phi}{\cos\theta + \cos\phi}`
+
+40. We have to prove that :math:`\sin^{-1}\frac{3}{5} + \sin^{-1}\frac{8}{17} = \sin^{-1}\frac{77}{85}`
+
+    L.H.S. :math:`= \sin^{-1}\frac{3}{5} + \sin^{-1}\frac{8}{17}`
+
+    :math:`=\sin^{-1}\left(\frac{3}{5}\sqrt{1 - \frac{8^2}{17^2}} + \frac{8}{17}\sqrt{1 - \frac{3^2}{5^2}}\right)`
+
+    :math:`= \sin^{-1}\left(\frac{3}{5}.\frac{15}{17} + \frac{8}{17}.\frac{4}{5}\right)`
+
+    :math:`\sin^{-1}\left(\frac{45 + 32}{85}\right) = \sin^{-1}\frac{77}{85} =` R.H.S.
+
+41. We have to prove that :math:`\cos^{-1}\frac{3}{5} + \cos^{-1}\frac{12}{13} + \cos^{-1}\frac{63}{65} = \frac{\pi}{2}`
+
+    We know that :math:`\cos^{-1}x + \cos^{-1}y = xy - \sqrt{(1 - x^2)(1 - y^2)}`
+
+    L.H.S. :math:`= \cos^{-1}\frac{3}{5} + \cos^{-1}\frac{12}{13} + \cos^{-1}\frac{63}{65}`
+
+    :math:`= \cos^{-1}\left(\frac{3}{5}.\frac{12}{13} - \sqrt{\left(1 - \frac{3^2}{5^2}\right)\left(1 -
+    \frac{12^2}{13^2}\right)}\right) + \cos^{-1}\frac{63}{65}`
+
+    :math:`= \cos^{-1}\left(\frac{36}{65} - \frac{4}{5}.\frac{5}{13}\right) + \cos^{-1}\frac{63}{65}`
+
+    :math:`= \cos^{-1}\left(\frac{36}{65} - \frac{20}{65}\right) + \cos^{-1}\frac{63}{65}`
+
+    :math:`= \cos^{-1}\frac{16}{65} + \cos^{-1}\frac{63}{65}`
+
+    :math:`= \cos^{-1}\left(\frac{16}{65}.\frac{63}{64} - \sqrt{\left(1 - \frac{16^2}{65^2}\right)\left(1 -
+    \frac{63^2}{65^2}\right)}\right)`
+
+    :math:`= \cos^{-1}0 = \frac{\pi}{2} =` R.H.S.
+
+42. We have to prove that :math:`\sin^{-1}x + \sin^{-1}y = \cos^{-1}\left(\sqrt{1 - x^2}\sqrt{1 - y^2} - xy\right)`
+
+    L.H.S. :math:`= \sin^{-1}x + \sin^{-1}y = \cos^{-1}\sqrt{1 - x^2} + \cos^{-1}\sqrt{1 - y^2}`
+
+    :math:`= \cos^{1-}(\sqrt{1 - x^2}\sqrt{1 - y^2} - \sqrt{[1 - (1 - x^2)][1 - (1 - y^2)]})`
+
+    :math:`= \cos^{-1}\left(\sqrt{1 - x^2}\sqrt{1 - y^2} - xy\right) =` R.H.S.
+
+43. We have to prove that :math:`4\left(\sin^{-1}\frac{1}{\sqrt{10}} + \cos^{-1}\frac{2}{\sqrt{5}}\right) =\pi`
+
+    or :math:`\sin^{-1}\frac{1}{\sqrt{10}} + \cos^{-1}\frac{2}{\sqrt{5}} =\pi/4`
+
+    L.H.S. :math:`= \sin^{-1}\frac{1}{\sqrt{10}} + \sin^{-1}\frac{1}{\sqrt{5}}`
+
+    :math:`= \sin^{-1}\left(\frac{1}{\sqrt{10}}\sqrt{1 - \frac{1}{5}} + \frac{1}{\sqrt{5}}\sqrt{1 - \frac{1}{10}}\right)`
+
+    :math:`= \sin^{-1}\left(\frac{2}{\sqrt{50}} + \frac{3}{\sqrt{50}}\right) = \sin^{-1}\frac{1}{\sqrt{2}}`
+
+    :math:`= \frac{\pi}{4} =` R.H.S.
+
+44. We have to prove that :math:`\cos(2\sin^{-1}x) = 1 - 2x^2`
+
+    L.H.S. :math:`= \cos[\sin^{-1}(2x\sqrt{1 - x^2})] = \cos[\cos^{-1}\sqrt{1 - 4x^2(1 - x^2)}] = \cos[\cos^{-1}(1 - 2x^2)]`
+
+    :math:`= 1 - 2x^2 =` R.H.S.
+
+45. We have to prove that :math:`\frac{1}{2}\cos^{-1}x = \sin^{-1}\sqrt{\frac{1 - x}{2}} = \cos^{-1}\sqrt{\frac{1 + x}{2}} =
+    \tan^{-1}\frac{\sqrt{1 - x^2}}{1 + x}`
+
+    or :math:`\cos^{-1}x = 2\sin^{-1}\sqrt{\frac{1 - x}{2}} = 2\cos^{-1}\sqrt{\frac{1 + x}{2}} = 2\tan^{-1}\frac{\sqrt{1 -
+    x^2}}{1 + x}`
+
+    :math:`2\sin^{-1}\sqrt{\frac{1 - x}{2}} = \sin^{-1}\left[2.\sqrt{\frac{1 - x}{2}}.\sqrt{1 - \frac{1 - x}{2}}\right]`
+
+    :math:`= \sin^{-1}2.\sqrt{\frac{1 - x}{2}}.\sqrt{\frac{1 + x}{2}} = \sin^{-1}\sqrt{1 - x^2} = \cos^{-1}x`
+
+    :math:`2\cos^{-1}\sqrt{\frac{1 + x}{2}} = \cos^{-1}\left[2.\frac{1 + x}{2} - 1\right][\because 2\cos^{-1}x = \cos^{-1}(2x^2 -
+    1)]`
+
+    :math:`= \cos^{-1}x`
+
+    :math:`2\tan^{-1}\frac{\sqrt{1 - x^2}}{1 + x} = \tan^{-1}\frac{2.\frac{\sqrt{1 - x^2}}{(1 + x)}}{1 - \frac{1 - x^2}{(1 + x)^2}}`
+
+    :math:`= \tan^{-1}\frac{\sqrt{1 - x^2}}{x} = \cos^{-1}x`
+
+46. We have to prove that :math:`\sin^{-1}x + \cos^{-1}y = \tan^{-1}\frac{xy + \sqrt{(1 - x^2)(1 - y^2)}}{y\sqrt{1 - x^2} -
+    x\sqrt{1 - y^2}}`
+
+    L.H.S. :math:`= \sin^{-1}x + \cos^{-1}y = \sin^{-1}x + \sin^{-1}\sqrt{1 - y^2}`
+
+    :math:`= \sin^{-1}[x\sqrt{1 -(1 - y^2)} + \sqrt{1 - y^2}\sqrt{1 - x^2}]`
+
+    :math:`=\tan^{-1}\frac{xy + \sqrt{1 - x^2}\sqrt{1 - y^2}}{\sqrt{1 - (xy + \sqrt{1 - x^2}(1 - y^2))^2}}`
+
+    :math:`=\tan^{-1}\frac{xy + \sqrt{1 - x^2}\sqrt{1 - y^2}}{\sqrt{1 - x^2y^2 - (1 - x^2)(1 - y^2) - 2xy\sqrt{1 - x^2}\sqrt{1 -
+    y^2}}}`
+
+    :math:`= \tan^{-1}\frac{xy + \sqrt{1 - x^2}\sqrt{1 - y^2}}{\sqrt{x^2 + y^2 - 2xy\sqrt{1 - x^2}\sqrt{1 - y62}}}`
+
+    :math:`= \tan^{-1}\frac{xy + \sqrt{(1 - x^2)(1 - y^2)}}{y\sqrt{1 - x^2} - x\sqrt{1 - y^2}}`
+
+47. We have to prove that :math:`\tan^{-1}x + \tan^{-1}y = \frac{1}{2}\sin^{-1}\frac{2(x + y)(1 - xy)}{(1 + x^2)(1 + y^2)}`
+
+    or :math:`2(\tan^{-1}x + \tan^{-1}y = \sin^{-1}\frac{2(x + y)(1 - xy)}{(1 + x^2)(1 + y^2)}`
+
+    L.H.S. :math:`2\tan^{-1}\frac{x + y}{1 - xy} = \tan^{-1}\frac{2.\frac{x + y}{1 - xy}}{1 - \frac{(x + y)^2}{(1 - xy)^2}}`
+
+    :math:`= \tan^{-1}\frac{2(x + y)(1 - xy)}{(1 + x^2y^2 - 2xy - x^2 - Y^2 - 2xy)}`
+
+    :math:`= \sin^{-1}\frac{2(x + y)(1 - xy)}{\sqrt{4(x + y)^2(1 - xy)^2  + (1 + 2x^2y^2 - 4xy - x^2 - y^2)^2}}`
+
+    :math:`= \sin^{-1}\frac{2(x + y)(1 - xy)}{(1 + x^2)(1 + y^2)}`
+
+48. We have to prove that :math:`2\tan^{-1}(\cosec\tan^{-1}x - \tan\cot^{-1}x) = \tan^{-1}x`
+
+    L.H.S. :math:`= 2\tan^{-1}(\cosec\tan^{-1}x - \tan\cot^{-1}x)`
+
+    :math:`= 2\tan^{-1}\left(\cosec\cosec^{-1}\frac{\sqrt{1 + x^2}}{x} - \tan\tan^{-1}\frac{1}{x}\right)`
+
+    :math:`= 2\tan^{-1}\left(\frac{\sqrt{1 + x^2}}{x} - \frac{1}{x}\right) = 2\tan^{-1}\frac{\sqrt{1 + x^2} - 1}{x}`
+
+    :math:`= \tan^{-1}\frac{2.\frac{\sqrt{1 + x^2} - 1}{x}}{1 - \left(\frac{\sqrt{1 + x^2} - 1}{x}\right)^2}`
+
+    :math:`= \tan^{-1}x`
+
+49. We have to prove that :math:`\cos\tan^{-1}\sin\cot^{-1}x = \sqrt{\frac{x^2 + 1}{x^2 + 2}}`
+
+    L.H.S. :math:`= \cos\tan^{-1}\sin\cot^{-1}x = \cos\tan^{-1}\sin\sin^{-1}\frac{1}{\sqrt{1 + x^2}}`
+
+    :math:`= \cos\tan^{-1}\frac{1}{\sqrt{1 + x^2}} = \cos\cos^{-1}\frac{\sqrt{1 + x^2}}{\sqrt{x^2 + 2}}`
+
+    :math:`= \sqrt{\frac{x^2 + 1}{x^2 + 2}}`
+
+50. Clearly in a triangle :math:`A + B + C = \pi` where :math:`A, B, C` are angled of the triangle.
+
+    Thus, :math:`\pi - C = A + B`
+
+    Given :math:`A + B = \tan^{-1}2 + \tan^{-1}3 = \tan^{-1}\frac{2 + 3}{1 - 2.3} = \tan^{-1}-1 = \frac{3\pi}{4}`
+
+    :math:`C = \pi - 3\pi/4 = \pi/4`
+
+51. Given :math:`\cos^{-1}x + \cos^{-1}y + \cos^{-1}z = \pi`
+
+    :math:`\Rightarrow \cos^{-1}x + \cos^{-1}y = \pi - \cos^{-1}z`
+
+    :math:`\Rightarrow xy - \sqrt{1 - x^2}\sqrt{1 - y^2} = \cos(\pi - \cos^{-1}z) = -z`
+
+    :math:`\Rightarrow xy + z = \sqrt{1 - x^2}\sqrt{1 - y^2}`
+
+    Squaring, we get
+
+    :math:`x^2y^2 + z^2 + 2xyz = 1 - x^2 - y^2 + x^2y^2`
+
+    :math:`\Rightarrow x^2 + y^2 + z^2 + 2xyz = 1`
+
+52. Given :math:`\cos^{-1}\frac{x}{2}+ \cos^{-1}\frac{y}{3} = \theta`
+
+    :math:`\Rightarrow \cos^{-1}\left[\frac{xy}{6} - \frac{\sqrt{(4 - x^2)(9 - y^2)}}{6}\right] = \theta`
+
+    :math:`\Rightarrow xy - 6\cos\theta = \sqrt{(4 - x^2)(9 - y^2)}`
+
+    Squaring, we get
+
+    :math:`x^2y^2 + 36\cos^2\theta - 12xy\cos\theta = 36 -9x^2 - 4y^2 + x^2y^2`
+
+    :math:`\Rightarrow 9x^2 - 12xy\cos\theta + 4y^2 = 36\sin^2\theta`
+
+53. Let :math:`\sqrt{\frac{xr}{yz}} = a, \sqrt{\frac{yr}{zx}} = b` and :math:`\sqrt{\frac{zr}{xy}} = c`
+
+
+    Then, L.H.S. :math:`= \tan^{-1}a + \tan^{-1}b + \tan^{-1}c = \frac{a + b + c- abc}{1 - ab - bc - ca}`
+
+    Now, :math:`a + b + c - abc = \frac{x\sqrt{r} + y\sqrt{r} + z\sqrt{r}}{\sqrt{xyz}} - \frac{r\sqrt{r}}{\sqrt{xyz}}`
+
+    :math:`= \frac{\sqrt{r}(x + y + z) - r\sqrt{r}}{\sqrt{xyz}} = 0`
+
+    and, :math:`1 - ab - bc - ca = 1- r\left[\frac{1}{x} + \frac{1}{y} + \frac{1}{z}\right]\neq 0[\because \frac{1}{x} +
+    \frac{1}{y} + \frac{1}{z}\neq \frac{1}{r}]`
+
+    :math:`\Rightarrow` L.H.S. :math:`= 0 = n\pi` and hence principal value is :math:`\pi` because sum of three positive angles
+    cannot be zero or negative.
+
+54. Given :math:`u = \cot^{-1}\sqrt{\cos2\theta} - \tan^{-1}\sqrt{\cos2\theta}`
+
+    :math:`\sin u = \sin[\cot^{-1}\sqrt{\cos2\theta} - \tan^{-1}\sqrt{\cos2\theta}]`
+
+    :math:`= \sin\left[\tan^{-1}\frac{1}{\sqrt{\cos2\theta}} - \tan^{-1}\sqrt{\cos2\theta}\right]`
+
+    :math:`=\sin\left[\tan^{-1}\frac{\frac{1}{\sqrt{\cos2\theta}} - \sqrt{\cos2\theta}}{1 + 1}\right]`
+
+    :math:`=\sin\left[\tan^{-1}\frac{1}{2}\frac{2\sin^2\theta}{\sqrt{\cos2\theta}}\right]`
+
+    :math:`= \sin\left[\sin^{-1}\frac{\sin^2\theta}{\sqrt{\sin^4\theta + \cos2\theta}}\right]`
+
+    :math:`= \sin\left[\sin^{-1}\frac{\sin^2\theta}{(1 - \sin^2\theta)}\right] = \sin\sin^{-1}\tan^2\theta = \tan^2\theta`
+
+55. Given :math:`\cos^{-1}x\sqrt{3} + \cos^{-1}x = \frac{\pi}{2}`
+
+    :math:`\cos^{-1}x\sqrt{3} = \frac{\pi}{2} - \cos^{-1}x \Rightarrow \cos\cos^{-1}x\sqrt{3} = \cos\left(\frac{\pi}{2} -
+    \cos^{-1}x\right)`
+
+    :math:`\Rightarrow x\sqrt{3} = \sin\cos^{-1}x = \sin\sin^{-1}\sqrt{1 - x^2}`
+
+    :math:`\Rightarrow x\sqrt{3} = \sqrt{1  - x^2}`
+
+    :math:`\Rightarrow 3x^2 = 1 - x^2 \Rightarrow x = \pm\frac{1}{2}`
+
+    **Case I:** When :math:`x = \frac{1}{2},` given equation becomes
+
+    :math:`\cos^{-1}\frac{\sqrt{3}}{2} + \cos^{-1}\frac{1}{2} = \frac{\pi}{6} + \frac{\pi}{3} = \frac{\pi}{2}`
+
+    **Case II:** When :math:`x = -\frac{1}{2},`
+
+    :math:`\cos^{-1}-\frac{\sqrt{3}}{2} + \cos^{-1}-\frac{1}{2} = \pi - \cos^{-1}\frac{\sqrt{3}}{2} + \pi - \cos^{-1}\frac{1}{2}`
+
+    :math:`= \frac{3\pi}{2}\neq \frac{\pi}{2}`
+
+    Thus, :math:`x = \frac{1}{2}` is the only solution.
+
+56. Given equation is :math:`\sin^{-1}x + \sin^{-1}2x = \frac{\pi}{3}`
+
+    :math:`\Rightarrow \sin^{-1}x + \sin^{-1}2x = \sin^{-1}\frac{\sqrt{3}}{2}`
+
+    :math:`\Rightarrow \sin{-1}x - \sin^{-1}\frac{\sqrt{3}}{2} = -\sin^{-1}2x`
+
+    :math:`\Rightarrow \sin^{-1}\left[\frac{x}{2} - \frac{\sqrt{3}}{2}\sqrt{1 - x^2}\right] = -\sin^{-1}2x`
+
+    :math:`\Rightarrow x - \sqrt{3(1 - x^2)} = -4x \Rightarrow 25x^2 = 3(1 - x^2) \Rightarrow x = \pm\frac{\sqrt{3}}{2\sqrt{7}}`
+
+    Clearly, :math:`x = -\frac{\sqrt{3}}{2\sqrt{7}}` as angles will become negative and won't satisfy the equality.
+
+57. Given, :math:`\tan^{-1}x + \tan^{-1}y + \tan^{-1}z= \frac{\pi}{2},` we have to prove that :math:`xy + yz + zx = 1`
+
+    :math:`\tan^{-1}x + \tan^{-1}y + \tan^{-1}z= \frac{\pi}{2}`
+
+    :math:`\Rightarrow \tan^{-1}\frac{x + y + z - xyz}{1 - xy - yz - zx} = \frac{\pi}{2}`
+
+    :math:`\Rightarrow \frac{x + y + z - xyz}{1 - xy - yz - zx} = \infty`
+
+    :math:`\Rightarrow 1 - xy - yz - zx = 0`
+
+    :math:`\Rightarrow x y + yz + zx = 1`
+
+58. Given :math:`\tan^{-1}x + \tan^{-1}y + \tan^{-1}z= \pi,` we have to prove that :math:`x + y + z = xyz`
+
+    :math:`\tan^{-1}x + \tan^{-1}y + \tan^{-1}z= \pi`
+
+    :math:`\Rightarrow \tan^{-1}\frac{x + y + z - xyz}{1 - xy - yz - zx} = \pi`
+
+    :math:`\Rightarrow \frac{x + y + z - xyz}{1 - xy - yz - zx} = \tan \pi = 0`
+
+    :math:`\Rightarrow x + y + z = xyz`
+
+59. Given :math:`\sin^{-1}x + \sin^{-1}y = \frac{\pi}{2},` we have to prove that :math:`x\sqrt{1 - y^2} + y\sqrt{1 - x^2} = 1`
+
+    :math:`\Rightarrow \sin^{-1}(x\sqrt{1 - y^2} + y\sqrt{1 - x^2}) = \frac{\pi}{2}`
+
+    :math:`\Rightarrow x\sqrt{1 - y^2} + y\sqrt{1 - x^2} = 1`
+
+60. Give :math:`\sin^{-1}x + \sin^{-1}y + \sin^{-1}z = \pi,` we have to prove that :math:`x\sqrt{1 - x^2} + y\sqrt{1 - y^2} +
+    z\sqrt{1 - z^2} = 2xyz`
+
+    Let :math:`\sin^{-1}x = A, \sin^{-1}y = B` and :math:`\sin^{-1}z = C`
+
+    Then, :math:`A + B + C = \pi \Rightarrow A + B = \pi - C`
+
+    We have to prove that :math:`\sin A\sqrt{1 - \sin^2A} + B\sqrt{1 - \sin^2B} + z\sqrt{1 - \sin^2C} = 2\sin A\sin B\sin C`
+
+    L.H.S. :math:`= \sin A\cos A + \sin B\cos B + \sin C\cos C`
+
+    :math:`= \frac{1}{2}(\sin 2A + \sin 2B + \sin 2C) = \sin(A + B)\cos(A - B) + \sin C\cos[\pi - (A + B)]`
+
+    :math:`= \sin C[\cos(A - B) - \cos(A + B)][\because \sin(A + B) = \sin(\pi - C) = \sin C]`
+
+    :math:`= 2\sin A\sin B \sin C =` R.H.S.
+
+61. Form given conditions :math:`2\tan^{-1}y = \tan^{x} + \tan^{-1}z` and :math:`2y = x + z`
+
+    :math:`\Rightarrow \frac{2y}{1 - y^2} = \frac{x + z}{1 - zx}`
+
+    :math:`\Rightarrow 1 - y^2 = 1 - zx \Rightarrow y^2 = zx`
+
+    i.e. A.M. = G.M which is true only if :math:`x = y = z`
+
+62. Given :math:`\cot^{-1}x + \sin^{-1}\frac{1}{\sqrt{5}} = \frac{\pi}{4}`
+
+    :math:`\Rightarrow \cot^{-1}x + \cot^{-1}\sqrt{(\sqrt{5})^2 - 1} = \frac{\pi}{4}`
+
+    :math:`\Rightarrow \cot^{-1}x + \cot^{-1}2 = \frac{\pi}{4}`
+
+    :math:`\Rightarrow \frac{2x - 1}{x + 2} = \cot\frac{\pi}{4} = 1 \Rightarrow x = 3`
+
+63. We have to solve :math:`\tan^{-1}2x + \tan^{-1}3x = \frac{\pi}{4}`
+
+    :math:`\Rightarrow \tan^{-1}\frac{2x + 3x}{1 - 2x.3x} = \frac{\pi}{4}`
+
+    :math:`\Rightarrow \frac{5x}{1 - 6x^2} = \tan\frac{\pi}{4} =1`
+
+    :math:`\Rightarrow 6x^2 + 5x - 1 = 0 \Rightarrow (6x - 1)(x + 1) = = 0`
+
+    :math:`\Rightarrow x = -1, \frac{1}{6}`
+
+    Clearly, :math:`x = -1` does not satisfy the equation :math:`\therefore x = \frac{1}{6}`
+
+64. We have to solve :math:`\tan^{-1} x + \tan^{-1}\frac{2x}{1 - x^2} = \frac{\pi}{3}`
+
+    :math:`\Rightarrow \tan^{-1}x + 2\tan^{-1}x = \frac{\pi}{3}`
+
+    :math:`\Rightarrow 3\tan^{-1}x = \frac{\pi}{3}`
+
+    :math:`\Rightarrow x = \tan\frac{\pi}{9}`
+
+65. We have to solve Solve :math:`\tan^{-1}\frac{1}{2} = \cot^{-1}x + \tan^{-1}\frac{1}{7}`
+
+    :math:`\Rightarrow \tan^{-1}\frac{1}{2} - \tan^{-1}\frac{1}{7} = \tan^{-1}\frac{1}{x}`
+
+    :math:`\Rightarrow \tan^{-1}\frac{\frac{1}{2} - \frac{1}{7}}{1 - \frac{1}{2}.\frac{1}{7}} = \tan^{-1}\frac{1}{x}`
+
+    :math:`\Rightarrow \tan^{-1}\frac{5}{13} = \tan^{-1}\frac{1}{x}`
+
+    :math:`\Rightarrow x = \frac{13}{5}`
+
+66. We have to solve :math:`\tan^{-1}(x - 1) + \tan^{-1}x + \tan^{-1}(x + 1) = \tan^{-1}3x`
+
+    :math:`\Rightarrow \tan^{-1}(x - 1) + \tan^{-1}(x + 1) = \tan^{-1}3x - \tan^{-1}x`
+
+    :math:`\Rightarrow \frac{2x}{2 - x^2} = \frac{2x}{1 + 3x^2}`
+
+    :math:`\Rightarrow 2x(4x^2 - 1) = 0`
+
+    :math:`x = 0, \pm\frac{1}{2}`
+
+67. We have to solve :math:`\tan^{-1}\frac{x + 1}{x - 1} + \tan^{-1}\frac{x - 1}{x} = \pi + \tan^{-1}(-7)`
+
+    :math:`\Rightarrow \tan^{-1}\frac{x^2 + x + x^2 -2x + 1}{x - x - 1} = \pi + \tan^{-1}(-7)`
+
+    :math:`\Rightarrow 2x^2 - x + 1 = 7x - 7 \Rightarrow 2x^2 - 8x + 8 = 0`
+
+    :math:`\Rightarrow x^2 - 4x + 4 = 0 \Rightarrow x = 2`
+
+68. We have to solve :math:`\cot^{-1}(a - 1) = \cot^{-1}x + \cot^{-1}(a^2 - x + 1)`
+
+    :math:`\cot^{a - 1} \cot^{-1}\frac{a^2x - x^2 + x - 1}{a^2 + 1}`
+
+    :math:`\Rightarrow a^3 - a^2 + a - 1 = a^2x - x^2 + x - 1`
+
+    :math:`\Rightarrow x^2 - (1 + a^2)x + (a^3 - a^2  + a) = 0`
+
+    :math:`\Rightarrow (x - a)[x - (a^2 - a + 1)] = 0`
+
+    :math:`\Rightarrow x = a, a^2 - a + 1`
+
+69. We have to solve :math:`\sin^{-1}\frac{2\alpha}{1 + \alpha^2} + \sin^{-1}\frac{2\beta}{1 + \beta^2} = 2\tan^{-1}x`
+
+    We know that :math:`2\tan^{-1}x = \sin^{-1}\frac{2x}{1 + x^2}`
+
+    Thus, given equation becomes :math:`2(\tan^{-1}\alpha + \tan^{-1}\beta) = 2\tan^{-1}x`
+
+    :math:`\Rightarrow x = \frac{\alpha + \beta}{1 - \alpha\beta}`
+
+70. We have to solve :math:`\cos^{-1}\frac{x^2 - 1}{x^2 + 1} + \tan^{-1}\frac{2x}{x^2 - 1} = \frac{2\pi}{3}`
+
+    **Case I:** :math:`\Rightarrow \pi - 2\tan^{-1}x - 2\tan^{-1}x = \frac{2\pi}{3}`
+
+    :math:`\Rightarrow \tan^{-1}x = \frac{\pi}{12}`
+
+    :math:`x = 2 - \sqrt{3}`
+
+    **Case II:** :math:`\Rightarrow \pi - 2\tan^{-1}x + \pi - 2\tan^{-1}x = \frac{2\pi}{3}`
+
+    :math:`\tan^{-1}x = \frac{\pi}{3} \Rightarrow x = \sqrt{3}`
+
+71. We have to solve :math:`\sin^{-1}\frac{2a}{1 + a^2} + \cos^{-1}\frac{1 - b^2}{1 + b^2} = 2\tan^{-1}x`
+
+    :math:`\Rightarrow 2\tan^{-1}x + 2\tan^{-1}b = 2\tan^{-1}x`
+
+    :math:`x = \frac{a + b}{1 - ab}`
+
+72. We have to solve :math:`\sin^{-1}x + \sin^{-1}(1 - x) = \cos^{-1}x`
+
+    :math:`\Rightarrow \sin^{-1}\left(x\sqrt{2x - x^2} + (1 - x)\sqrt{1 - x^2}\right) = \sin^{-1}\sqrt{1 - x^2}`
+
+    :math:`\Rightarrow x\sqrt{2x - x^2} + (1 - x)\sqrt{1 - x^2} = \sqrt{1 - x^2}`
+
+    :math:`\Rightarrow x\sqrt{2x - x^2} = x\sqrt{1 - x^2}`
+
+    Squaring, we get
+
+    :math:`\Rightarrow x^2\left(2x - x^2 -1 + x^2\right) = 0`
+
+    :math:`x = 0, \frac{1}{2}`
+
+73. We have to solve :math:`\tan^{-1}ax + \frac{1}{2}\sec^{-1}bx = \frac{\pi}{4}`
+
+    :math:`\Rightarrow 2\tan^{-1}ax + sec^{-1}bx = \frac{\pi}{2}`
+
+    :math:`\Rightarrow \tan^{-1}\frac{2ax}{1 - a^2x^2} + \tan^{-1}\sqrt{1 - b^2x^2} = \frac{\pi}{2}`
+
+    :math:`\Rightarrow \tan^{-1}\frac{\frac{2ax}{1 - a^2x^2} + \sqrt{1 - b^2x^2}}{1 - \frac{2ax}{1 - a^2x^2}\sqrt{1 - b^2x^2}} =
+    \frac{\pi}{2}`
+
+    :math:`\Rightarrow 1 - \frac{2ax}{1 - a^2x^2}\sqrt{1 - b^2x^2} = 0`
+
+    :math:`\Rightarrow 1 - a^2x^2 - 2ax\sqrt{1 - b^2x^2} = 0`
+
+    :math:`\Rightarrow 1 - 2a^2x^2 + a^4x^4 = 4a^2x^2(1 - b^2x^2)`
+
+    :math:`\Rightarrow x = \pm \frac{1}{\sqrt{2ab - a^2}}`
+
+74. We have to solve :math:`\tan(\cos^{-1}x) = \sin(\tan^{-1}2)`
+
+    :math:`\Rightarrow \tan\tan^{-1}\frac{\sqrt{1 - x^2}}{x} = \sin\sin^{-1}\frac{2}{\sqrt{4 + 1}}`
+
+    :math:`\Rightarrow \frac{\sqrt{1 - x^2}}{x} = \frac{2}{\sqrt{5}}`
+
+    :math:`\Rightarrow 5(1 - x^2) = 4x^2 \Rightarrow x = \pm\frac{\sqrt{5}}{3}`
+
+75. We have to solve :math:`\tan\left(\sec^{-1}\frac{1}{x}\right) = \sin\cos^{-1}\frac{1}{\sqrt{5}}`
+
+    :math:`\Rightarrow \tan\tan^{-1}\frac{\sqrt{1 - x^2}}{x} = \sin\sin^{-1}\frac{2}{\sqrt{5}}`
+
+    :math:`\Rightarrow \frac{1 - x^2}{x^2} = \frac{4}{5}`
+
+    :math:`\Rightarrow x = \pm\frac{\sqrt{5}}{3}`
+
+76. We have to solve :math:`\sin^{-1}x + \sin^{-1}y = \frac{2\pi}{3}` and :math:`\cos^{-1}x - \cos^{-1}y = \frac{\pi}{3}`
+
+    :math:`\sin^{-1}x + \sin^{-1}y = \frac{2\pi}{3}`
+
+    :math:`\frac{\pi}{2} - \cos^{-1}x + \frac{\pi}{2} - \cos^{-1} y = \frac{2\pi}{3}`
+
+    :math:`\Rightarrow \cos^{-1}x + \cos^{-1}y = \frac{\pi}{3}`
+
+    Thus, :math:`2\cos^{-1}x = 2\frac{\pi}{3} \Rightarrow x = \cos\frac{\pi}{3} = \frac{1}{2}`
+
+    and :math:`2\cos^{-1}y = 0 \Rightarrow y = 1`
