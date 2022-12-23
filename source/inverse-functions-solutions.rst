@@ -767,3 +767,586 @@ Inverse Circular Functions Solutions
     Thus, :math:`2\cos^{-1}x = 2\frac{\pi}{3} \Rightarrow x = \cos\frac{\pi}{3} = \frac{1}{2}`
 
     and :math:`2\cos^{-1}y = 0 \Rightarrow y = 1`
+
+77. Let :math:`\sin^{-1}(\sin10) = \theta \Rightarrow \sin\theta = \sin10 = \sin\frac{35\pi}{11}`
+
+    :math:`\sin\theta = \sin\left(3\pi + \frac{2\pi}{11}\right) = -\sin\frac{2\pi}{11}`
+
+    :math:`= \sin\left(-\frac{2\pi}{11}\right)`
+
+    :math:`\theta = -\frac{2\pi}{11}`
+
+78. :math:`3\tan^{-1}\left(\frac{1}{2}\right) = \tan^{-1}\left[\frac{3.\frac{1}{2} - \left(\frac{1}{2}\right)^3}{1 -
+    3\left(\frac{1}{2}\right)^2}\right]\left[\because \tan3\theta = \frac{3\tan\theta - \tan^3\theta}{1 - 3\tan^2\theta}\right]`
+
+    :math:`= \tan^{-1}\left[\frac{\frac{11}{8}}{\frac{1}{4}}\right] = \tan^{-1}\frac{11}{2}`
+
+    :math:`2\tan^{-1}\frac{1}{5} = \tan^{-1}\left[\frac{2.\frac{1}{5}}{1 - \frac{1}{25}}\right] = \tan^{-1}\frac{5}{12}`
+
+    Now :math:`3\tan^{-1}\frac{1}{2} + 2\tan^{-1}\frac{1}{5} = \tan^{-1}\frac{11}{2} + \tan^{-1}\frac{5}{12}`
+
+    :math:`= \pi + \tan^{-1}\left[\frac{\frac{11}{2} + \frac{5}{12}}{1- \frac{11}{2}.\frac{5}{12}}\right] = \pi -
+    \tan^{-1}\frac{142}{31}`
+
+    Also, let :math:`\sin^{-1}\frac{142}{65\sqrt{5}} = \theta`
+
+    :math:`\sin\theta = \frac{142}{65\sqrt{5}} \Rightarrow \tan\theta = \frac{142}{31}`
+
+    Thus, :math:`3\tan^{-1}\frac{1}{2} + 2\tan^{-1}\frac{1}{5} + \sin^{-1}\frac{142}{65\sqrt{5}} = \pi - \tan^{-1}\frac{142}{31} +
+    \tan^{-1}\frac{142}{31}`
+
+    :math:`= \pi`
+
+79. The given intervals indicate principal values of :math:`\cos^{-1}x` and :math:`\sin^{-1}x`.
+
+    :math:`\cos[2\cos^{-1}x + \sin^{-1}x] = \cos(\cos^{-1}x + \cos^{-1}x + \sin^{-1}x)`
+
+    :math:`= \cos\left[\frac{\pi}{2} + \cos^{-1}x\right] = -\sin\cos^{-1}x = -\sin\sin^{-1}\sqrt{1 - x^2}`
+
+    :math:`= -\sqrt{1 - x^2} = -\sqrt{1 - \frac{1}{25}} = -\frac{2\sqrt{6}}{5}`.
+
+80. We have to prove that :math:`\frac{1}{2}\cos^{-1}\frac{3}{5} = \tan^{-1}\frac{1}{2} = \frac{\pi}{4} -
+    \frac{1}{2}\cos^{-1}\frac{4}{5}`
+
+    Let :math:`\cos^{-1}\frac{3}{5} = \alpha, 2\tan^{-1}\frac{1}{2} = \beta` and :math:`\frac{\pi}{2} - \cos^{-1}\frac{4}{5} =
+    \gamma`
+
+    :math:`\cos\alpha = \cos\cos^{-1}\frac{3}{5} = \frac{3}{5}`
+
+    :math:`\cos\beta = \cos\left[\cos^{-1}\frac{1 - \frac{1}{4}}{1 + \frac{1}{4}}\right] = \cos\cos^{-1}\frac{3}{5} = \frac{3}{5}`
+
+    :math:`\cos\gamma = \cos\left[\frac{\pi}{2} - \cos^{-1}\frac{4}{5}\right] = \sin\cos^{-1}\frac{4}{5} = \frac{3}{5}`
+
+    Thus, :math:`\alpha = \beta = \gamma`
+
+81. Let :math:`A = 2\tan^{-1}(2\sqrt{2} - 1) = 2\tan^{-1}(2\times 1.414 - 1) = 2\tan^{-1}(1.828)`
+
+    :math:`= 2\times (> 60^\circ)[\because \tan60^\circ = \sqrt{3} = 1.732]`
+
+    Let :math:`B = 3\sin^{-1}\frac{1}{3} + \sin^{-1}\frac{3}{5}`
+
+    :math:`= \sin^{-1}\left[3\times\frac{1}{3} - 4\left(\frac{1}{3}\right)^3\right] + \sin^{-1}\frac{3}{5}`
+
+    :math:`= \sin^{-1}\frac{23}{27} + \sin^{-1}\frac{3}{5} = \sin^{-1}0.862 + \sin^{-1}0.6`
+
+    :math:`= <60^\circ + <45^\circ < 105^\circ`
+
+    Thus, :math:`A` is the greater angle.
+
+82. Whenever you have to sum trigonometric series of inverse terms check if it is possible to write them as difference of two terms
+    and add the terms where terms cancel each other. If we look at the terms given in this series then that is possible.
+
+    :math:`\tan^{-1}\left(\frac{a_1x - y}{x + a_1y}\right) = \tan^{-1}\left(\frac{a_1 - \frac{y}{x}}{1 + a_1\frac{y}{x}}\right) =
+    \tan^{-1}a_1 - \tan^{-1}\frac{y}{x}`
+
+    :math:`\tan^{-1}\left(\frac{a_1 - a_1}{1 + a_1a_2}\right) = \tan^{-1}a_2 - \tan^{-1}a_1`
+
+    :math:`\ldots`
+
+    :math:`\tan^{-1}\left(\frac{a_n - a_{n - 1}}{1 + a_na_{n - 1}}\right) = \tan^{-1}a_n - \tan^{-1}a_{n - 1}`
+
+    :math:`\tan^{-1}\frac{1}{a_n} = \cot^{-1}a_n`
+
+    Adding these, we get :math:`L.H.S. = \tan^{-1}a_n + \cot^{-1}a_n - \tan^{-1}\frac{y}{x}`
+
+    :math:`= \frac{\pi}{2} - \tan^{-1}\frac{y}{x}\left[\because\tan^{-1}x + \cot^{-1}x = \frac{\pi}{2}\right]`
+
+    :math:`= \cot^{-1}\frac{y}{x} = \tan^{-1}\frac{x}{y} = R.H.S.`
+
+83. Let :math:`t_n` denote the :math:`n`-th term of the series, then :math:`t_n = \cot^{-1}2n^2 = \cot^{-1}(2n - 1) -
+    \cot^{-1}(2n + 1)`
+
+    Putting :math:`n = 1,2,3, ..,` we get
+
+    :math:`t_1 = \cot^{-1}1 - \cot^{-1}3`
+
+    :math:`t_2 = \cot^{-1}3 - \cot^{-1}5`
+
+    :math:`t_3 = \cot^{-1}5 - \cot^{-1}7`
+
+    :math:`\ldots`
+
+    :math:`t_n = \cot^{-1}(2n - 1) - \cot^{-1}(2n + 1)`
+
+    Adding :math:`S_n = \cot^{-1}1 - \cot^{-1}(2n + 1)`
+
+    As :math:`n\rightarrow \infty, \cot^{-1}(2n + 1)\rightarrow 0`
+
+    Hence, :math:`S_\infty = \cot^{-1}1 = \frac{\pi}{4}`
+
+84. **Case I.** When :math:`x = 1`
+
+    :math:`y = 2\tan^{-1}x + \sin^{-1}\frac{2x}{1 + x^2} = 2.\tan^{-1}1 + \sin^{-1}\frac{2}{1 + 1} = 2.\frac{\pi}{4} +
+    \frac{\pi}{2} = \pi`
+
+    **Case II.** When :math:`x > 1`
+
+    :math:`2\tan^{-1}x = \pi - \sin^{-1}\frac{2x}{1 + x^2} \Rightarrow y = \pi`
+
+85. Let :math:`\cos^{-1}x_0 = \theta \Rightarrow \cos\theta = x_0`
+
+    We are also given that :math:`x_{r + 1} = \sqrt{\frac{1 + x_r}{2}}`
+
+    Putting :math:`r = 0,` we get :math:`x_1 = \sqrt{\frac{1 + x_0}{2}} = \sqrt{\frac{1 + \cos\theta}{2}}`
+
+    :math:`= \sqrt{\cos^2\frac{\theta}{2}} = \left|\cos\frac{\theta}{2}\right| = \cos\frac{\theta}{2}[\because
+    0\leq\cos^{-1}x_0\leq \pi]`
+
+    Similarly, :math:`x_2 = \sqrt{\frac{1 + \cos\frac{\theta}{2}}{2}} = \cos\frac{\theta}{2^2}`
+
+    thus, :math:`x_n = \cos\frac{\theta}{2^n}`
+
+    Let :math:`y = x_1x_2x_3\ldots x_n` then :math:`y = \cos\frac{\theta}{2}\cos\frac{\theta}{2^2}\ldots\cos\frac{\theta}{2^n}`
+
+    :math:`2y\sin\frac{\theta}{2^n} = 2\sin\frac{\theta}{2^n}\cos\frac{\theta}{2^n}\cos\frac{\theta}{2^{n -
+    1}}\ldots\cos\frac{\theta}{2}`
+
+    :math:`2^2y\frac{\theta}{2^n} = 2\sin\frac{\theta}{2^{n - 1}}\cos\frac{\theta}{2^{n - 1}}\cos\frac{\theta}{2^{n -
+    1}}\ldots\cos\frac{\theta}{2}`
+
+    Proceeding like above, we finally arrive at following
+
+    :math:`2^{n - 1}y\sin\frac{\theta}{2^n} = \sin\frac{\theta}{2}\cos\frac{\theta}{2}`
+
+    :math:`2^ny\sin\frac{\theta}{2^n} = 2\sin\frac{\theta}{2}\cos\frac{\theta}{2} = \sin\theta`
+
+    :math:`y = \frac{1}{2^n}.\frac{\sin\theta}{\sin\frac{\theta}{2^n}}`
+
+    :math:`x_1x_2\ldots` to :math:`\infty = \lim_{n\to \infty} \frac{1}{2^n}\frac{\sin\theta}{\sin\frac{\theta}{2^n}}`
+
+    :math:`= \lim_{n\to\infty}\frac{1}{2^n}\frac{\sin\theta}{\frac{\sin\frac{\theta}{2^n}}{\frac{\theta}{2^n}}.\frac{\theta}{2^n}}`
+
+    :math:`= \frac{\sin\theta}{\theta}`
+
+    R.H.S. :math:`= \frac{\sqrt{1 - \cos^2\theta}}{\frac{\sin\theta}{\theta}} = \theta = \cos^{-1}x_0 =` L.H.S.
+
+86. Let :math:`\cos^{-1}\frac{a}{b} = \theta \Rightarrow \cos\theta = \frac{a}{n}\Rightarrow a = b\cos\theta`
+
+    Now, :math:`a_1 = \frac{a + b}{2} = \frac{b\cos\theta + b}{2} = b\cos^2\frac{\theta}{2}`
+
+    :math:`b_1 = \sqrt{a_1b} = \sqrt{b\cos^2\frac{\theta}{2}.b} = b\cos\frac{\theta}{2}`
+
+    :math:`a_2 = \frac{a_1 + b_1}{2} = \frac{b\cos^2\frac{\theta}{2} + b\cos\frac{\theta}{2}}{2} =
+    b\cos\frac{\theta}{2}\cos^2\frac{\theta}{2^2}`
+
+    :math:`b_2 = \sqrt{a_2b_1} = \sqrt{b\cos\frac{\theta}{2}.\cos^2\frac{\theta}{2^2}b\cos\frac{\theta}{2}} =
+    b\cos\frac{\theta}{2}\cos\frac{\theta}{2^2}`
+
+    Proceeding as above, we get :math:`a_n = b\cos\frac{\theta}{2}\cos\frac{\theta}{2^2}\ldots\cos\frac{\theta}{2^n} =
+    b.\frac{1}{2^n}.\frac{\sin\theta}{\sin\frac{\theta}{2^n}}`
+
+    and :math:`b_n = b\cos\frac{\theta}{2}\cos\frac{\theta}{2^2}\ldots\frac{\theta}{2^n}`
+
+    Now, :math:`\lim_{n\to\infty}a_n = \frac{b.\sin\theta}{\theta}` [like in previous problem]
+
+    :math:`= \frac{b\sqrt{1 - \sin^2\theta}}{\cos^{-1}\frac{a}{b}} = \frac{b\sqrt{1 - \frac{a^2}{b^2}}}{\cos^{-1}\frac{a}{b}} =
+    \frac{\sqrt{b^2 - a^2}}{\cos^{-1}\frac{a}{b}}`
+
+    and :math:`\lim_{n\to\infty}b_n = \lim_{n\to\infty}b\cos\frac{\theta}{2}\cos\frac{\theta}{2^2}\ldots\cos\frac{\theta}{2^n} =
+    \frac{\sqrt{b^2 - a^2}}{\cos^{-1}\frac{a}{b}}`
+
+87. We have to prove that :math:`\tan^{-1}\frac{1}{3} + \tan^{-1}\frac{1}{7} + \ldots + \tan^{-1}\frac{1}{n^2 + n
+    + 1} = \tan^{-1}\frac{n}{n + 2}`
+
+    When :math:`n = 1`, L.H.S. :math:`=\tan^{-1}\frac{1}{3}` and R.H.S. :math:`= \tan^{-1}\frac{1}{1 + 2} =
+    \tan^{-1}\frac{1}{3}`
+
+    We see that it is true for :math:`n = 1`. Let it is true for :math:`n = 1`
+
+    :math:`\Rightarrow \tan^{-1}\frac{1}{3} + \tan^{-1}\frac{1}{7} + \ldots + \tan^{-1}\frac{1}{m^2 + m
+    + 1} = \tan^{-1}\frac{m}{m + 2}`
+
+    Adding :math:`\tan^{-1}\frac{1}{(m + 1)^2 + (m + 1) + 1}` to both sides, we get
+
+    R.H.S. :math:`= \tan^{-1}\frac{m}{m + 2} + \tan^{-1}\frac{1}{(m + 1)^2 + (m + 1) + 1}`
+
+    :math:`= \tan^{-1}\frac{m}{m + 1} + \tan^{-1}\frac{m + 1}{m + 3} - \tan^{-1}\frac{m}{m + 2}`
+
+    :math:`= \tan^{-1}\frac{(m + 1) + 1}{(m + 1) + 2}`
+
+    Thus, it is true for :math:`n = m + 1` if it is true for :math:`n = m`. Hence, we have proven the result by using mathematical
+    induction.
+
+88. Since :math:`x_1, x_2, x_3, x_4` are the roots of the equation :math:`x^4 - x^3\sin2\beta + x^2\cos2\beta - x\cos\beta -
+    \sin\beta = 0`
+
+    :math:`\therefore \sum x_1 = x_1 + x_2 + x_3 + x_4 = -\frac{-\sin2\beta}{1} = \sin2\beta`
+
+    :math:`\sum x_1x_2 = \cos2\beta`
+
+    :math:`\sum x_1x_2x_3 = \cos\beta`
+
+    and :math:`\sum x_1x_2x_3x_4 = -\sin\beta`
+
+    Now :math:`\tan[\tan^{-1}x_1 + \tan^{-1}x_2 + \tan^{-1}x_3 + \tan^{-1}x_4] = \frac{\sum x_1 - \sum x_1x_2x_3}{1 - \sum
+    x_1x_2 + x_1x_2x_3x_4}`
+
+    :math:`= \frac{\sin2\beta - \cos\beta}{1 - \cos2\beta - \sin\beta} = \frac{2\sin\beta\cos\beta - \cos\beta}{2\sin^2\beta -
+    \sin\beta}`
+
+    :math:`= \cot\beta`
+
+    :math:`\Rightarrow \tan[\tan^{-1}x_1 + \tan^{-1}x_2 + \tan^{-1}x_3 + \tan^{-1}x_4] = \tan\left(\frac{\pi}{2} -
+    \beta\right)`
+
+    :math:`\Rightarrow \tan^{-1}x_1 + \tan^{-1}x_2 + \tan^{-1}x_3 + \tan^{-1}x_4 = n\pi + \frac{\pi}{2} - \beta`
+
+89. Let :math:`\cot^{-1}\left(\cot\frac{5\pi}{4}\right) = \theta \Rightarrow \cot\theta = \cot\left(\pi + \frac{\pi}{4}\right)`
+
+    :math:`= \cot\frac{\pi}{4}\Rightarrow \theta = \frac{\pi}{4}`
+
+90. Let :math:`\sin^{-1}(\sin5) = \theta \Rightarrow \sin\theta = \sin5 = \sin\frac{35\pi}{22} = \sin\left(\pi +
+    \frac{13\pi}{22}\right)`
+
+    :math:`= -\sin\frac{13\pi}{22} \Rightarrow \sin\theta = -\sin\frac{13\pi}{22} = -\sin\left(\pi - \frac{9\pi}{22}\right)`
+
+    :math:`\theta = -\frac{9\pi}{22} = 5 - 2\pi`
+
+91. Let :math:`\cos^{-1}(\cos\frac{5\pi}{4}) = \theta \Rightarrow \cos\theta = \cos\left(2\pi - \frac{3\pi}{4}\right)`
+
+    :math:`\Rightarrow \cos\theta = \cos\frac{3\pi}{4} \Rightarrow \theta = \frac{3\pi}{4}`
+
+92. Let :math:`\cos^{-1}\cos10 = \theta \Rightarrow \cos\theta = \cos10 = \cos\frac{35\pi}{11} = \cos\left(3\pi +
+    \frac{2\pi}{11}\right)`
+
+    :math:`\Rightarrow \cos\theta = -\cos\frac{2\pi}{11} = -\cos\left(\pi + \frac{-9\pi}{11}\right) = \cos\frac{-9\pi}{11}`
+
+    :math:`\Rightarrow \theta = \frac{-9\pi}{11}`
+
+93. Given, :math:`\sin\left(2\tan^{-1}\frac{1}{3}\right) + \cos\tan^{-1}2\sqrt{2}`
+
+    :math:`= \sin\tan^{-1}\frac{2.\frac{1}{3}}{1 - \frac{1}{9}} + \cos\cos^{-1}\frac{1}{3}`
+
+    :math:`= \sin\tan^{-1}\frac{3}{4} + \frac{1}{3} = \sin\sin^{-1}\frac{3}{5} + \frac{1}{3}`
+
+    :math:`= \frac{3}{5} + \frac{1}{3} = \frac{14}{15}`
+
+94. Given, :math:`\cot[\cot^{-1}7 + \cot^{-1}8 + \cot^{-1}18]`
+
+    :math:`\cot^{-1}7 + \cot^{-1}8 + \cot^{-1}18 = \tan^{-1}\frac{1}{7} + \tan^{-1}\frac{1}{8} + \tan^{-1}\frac{1}{18}`
+
+    :math:`= \tan^{-1}\left(\frac{\frac{1}{7} + \frac{1}{8}}{1 - \frac{1}{7}.\frac{1}{8}}\right) + \tan^{-1}\frac{1}{18}=
+    \tan^{-1}\frac{15}{55} + \tan^{-1}\frac{1}{18}`
+
+    :math:`= \tan^{-1}\frac{3}{11} + \tan^{-1}\frac{1}{18} = \tan^{-1}\frac{\frac{3}{11} + \frac{1}{18}}{1 -
+    \frac{3}{11}.\frac{1}{18}}`
+
+    :math:`= \tan^{-1}.\frac{65}{198}.\frac{198}{195} = \tan^{-1}\frac{1}{3} = \cot^{-1}3`
+
+    :math:`\therefore \cot[\cot^{-1}7 + \cot^{-1}8 + \cot^{-1}18] = 3`
+
+95. We have to prove that that :math:`\sin^{-1}\frac{3}{5} + \cos^{-1}\frac{12}{13} + \cot^{-1}\frac{56}{33} = \frac{\pi}{2}`
+
+    :math:`\sin^{-1}\frac{3}{5} = \tan^{-1}\frac{3}{4}`
+
+    :math:`\cos^{-1}\frac{12}{13} = \tan^{-1}\frac{5}{12}`
+
+    :math:`\cot^{-1}\frac{56}{33} = \tan^{-1}\frac{33}{56}`
+
+    :math:`\therefore \sin^{-1}\frac{3}{5} + \cos^{-1}\frac{12}{13} + \cot^{-1}\frac{56}{33} = \tan^{-1}\frac{3}{4} +
+    \tan^{-1}\frac{5}{12} + \tan^{-1}\frac{33}{56}`
+
+    :math:`= \tan^{-1}\frac{\frac{3}{4} + \frac{5}{12}}{1 - \frac{3}{4}.\frac{5}{12}} + \tan^{-1}\frac{33}{56}`
+
+    :math:`= \tan^{-1}\frac{56}{48}.\frac{48}{33} + \tan^{-1}\frac{33}{56} = \tan^{-1}\frac{56}{33} + \tan^{-1}\frac{33}{56}`
+
+    We know that :math:`\tan^{-1}x + \tan^{-1}\frac{1}{x} = \pi/2 \because` denominator will be zero.
+
+    Hence, :math:`\tan^{-1}\frac{56}{33} + \tan^{-1}\frac{33}{56} = \pi/2`
+
+96. We have to prove that :math:`2\cot^{-1}5 + \cot^{-1}7 + 2\cot^{-1}8 = \frac{\pi}{4}`
+
+    :math:`2\cot^{-1}6 = 2\tan^{-1}\frac{1}{5} = \tan^{-1}\frac{2.\frac{1}{5}}{1 - \frac{1}{25}} = \tan^{-1}\frac{5}{12}`
+
+    :math:`2\cot^{-1}8 = 2\tan^{-1}\frac{1}{8} = \tan^{-1}\frac{2.\frac{1}{8}}{1 - \frac{1}{64}} = \tan^{-1}\frac{16}{63}`
+
+    L.H.S. :math:`= \tan^{-1}\frac{5}{12} + \tan^{-1}\frac{1}{7} + \tan^{-1}\frac{16}{63}`
+
+    :math:`= \tan^{-1}\frac{\frac{5}{12} + \frac{16}{63}}{1 - \frac{5}{12}.\frac{16}{63}} + \tan^{-1}\frac{1}{7} =
+    \tan^{-1}\frac{3}{4} + \tan^{-1}\frac{1}{7}`
+
+    :math:`= \tan^{-1}\frac{\frac{3}{4} + \frac{1}{7}}{1 - \frac{3}{4}.\frac{1}{7}} =
+    \tan^{-1}1 = \frac{\pi}{4} =` R.H.S.
+
+97. We have to prove that :math:`\tan^{-1}1 + \tan^{-1}2 + \tan^{-1}3 = 2\left(\tan^{-1}1 + \tan^{-1}\frac{1}{2} +
+    \tan^{-1}\frac{1}{3}\right).`
+
+    L.H.S. :math:`= \tan^{-1}1 + \tan^{-1}2 + \tan^{-1}3 = \tan^{-1}\frac{1 + 2}{1 - 2} + \tan^{-1}3`
+
+    :math:`= \tan^{-1}(-3) + \tan^{-1}3 = n\pi`
+
+    :math:`2\tan^{-1}1 = \tan^{-1}\frac{1 + 1}{1 - 1.1} = \tan^{-1}\infty`
+
+    :math:`2\tan^{-1}\frac{1}{2} = \tan^{-1}\frac{2.\frac{1}{2}}{1 - \frac{1}{4}} = \tan^{-1}\frac{4}{3}`
+
+    :math:`2\tan^{-1}\frac{1}{3} = \tan^{-1}\frac{2.\frac{1}{3}}{1 - \frac{1}{9}} = \tan^{-1}\frac{3}{4}`
+
+    Now :math:`\tan^{-1}x + \tan^{-1}\frac{1}{x} = 2n\pi + \frac{\pi}{2}`
+
+    :math:`\therefore` R.H.S. :math:`= n\pi`
+
+98. Given :math:`A = \tan^{-1}\frac{1}{7}` and :math:`B = \tan^{-1}\frac{1}{3}`, we have to prove that :math:`\cos 2A = \sin 4B`.
+
+    :math:`\cos A = \cos\tan^{-1}\frac{1}{7} = \cos\cos^{-1}\frac{7}{\sqrt{50}} = \frac{7}{\sqrt{50}}`
+
+    :math:`\cos2A = 2\cos^2A - 1 = 2.\frac{49}{50} - 1 = \frac{48}{50} = \frac{24}{25}`
+
+    :math:`\cos B = \cos\tan^{-1}\frac{1}{3} = \cos\cos^{-1}\frac{3}{\sqrt{10}} \Rightarrow \sin B = \frac{1}{\sqrt{10}}`
+
+    :math:`\sin4B = 4\sin B\cos B(2\cos^2B - 1) = 4.\frac{1}{\sqrt{10}}.\frac{3}{\sqrt{10}}\left(2.\frac{9}{10} - 1\right)`
+
+    :math:`= \frac{12}{10}.\frac{8}{10} = \frac{24}{25}`
+
+    Hence, :math:`\cos2A = \sin4B`.
+
+99. We have to find the sum :math:`\tan^{-1}\frac{x}{1 + 1.2x^2} + \tan^{-1}\frac{x}{1 + 2.3x^2} + \ldots + \tan^{-1}\frac{1}{1 +
+    n(n + 1)x^2}, x> 0.`
+
+    :math:`\tan^{-1}\frac{x}{1 + 1.2x^2} = \tan^{-1}2x - \tan^{-1}x`
+
+    :math:`\tan^{-1}\frac{x}{1 + 2.3x^2} = \tan^{-1}3x - \tan^{-1}2x`
+
+    :math:`\ldots`
+
+    :math:`\tan^{-1}\frac{1}{1 + n(n + 1)x^2} = \tan^{-1}(n + 1)x - \tan^{-1}nx`
+
+    Adding, we get
+
+    :math:`\tan^{-1}\frac{x}{1 + 1.2x^2} + \tan^{-1}\frac{x}{1 + 2.3x^2} + \ldots + \tan^{-1}\frac{1}{1 + n(n + 1)x^2} =
+    \tan^{-1}(n + 1)x - \tan^{-1}x`
+
+    :math:`= \tan^{-1}\frac{nx}{1 + (n + 1)x^2}`
+
+100. We have to find the sum :math:`\tan^{-1}\frac{d}{1 + a_1a_2} + \tan^{-1}\frac{d}{1 + a_2a_3} + \ldots + \tan^{-1}\frac{d}{1 +
+     a_na_{n + 1}},` where :math:`a_1, a_2, \ldots, a_n, a_{n + 1}` form an arithmetic progression with common difference
+     :math:`d.`
+
+     :math:`\tan^{-1}\frac{d}{1 + a_1a_2} = \tan^{-1}\frac{a_2 - a_1}{1 + a_1a_2} = \tan^{-1}a_2 - \tan^{-1}a_1`
+
+     :math:`\tan^{-1}\frac{d}{1 + a_2a_3} = \tan^{-1}\frac{a_3 - a_1}{1 + a_2a_3} = \tan^{-1}a_3 - \tan^{-1}a_2`
+
+     :math:`\ldots`
+
+     :math:`\tan^{-1}\frac{d}{1 + a_na_{n + 1}} = \tan^{-1}\frac{a_{n + 1} - a_n}{1 + a_na_{n +1}} = \tan^{-1}a_{n + 1} - a_n`
+
+     Adding, we get
+
+     :math:`\tan^{-1}\frac{d}{1 + a_1a_2} + \tan^{-1}\frac{d}{1 + a_2a_3} + \ldots + \tan^{-1}\frac{d}{1 +
+     a_na_{n + 1}} = \tan^{-1}a_{n + 1} - \tan^{-1}a_1 = \tan^{-1}\frac{nd}{1 + a_1a_{n + 1}}`
+
+101. We have computed :math:`\sin^{-1}\sin5 = 5-2\pi`, so we can rewrite the inequality as :math:`5 - 2\pi>x^2 - 4x` or
+     :math:`x^2 - 4x + 2\pi - 5 < 0` which is a quadratic equation having positive coefficient for :math:`x^2`. Thus it will be
+
+     :math:`(x - \alpha)(x - \beta) < 0` for the above to hold true.
+
+     :math:`\Rightarrow \left[x - \frac{4 - \sqrt{16 - 4(2\pi - 5)}}{2}\right]\left[x - \frac{4 + \sqrt{16 - 4(2\pi - 5)}}{}\right]
+     < 0`
+
+     :math:`\Rightarrow x\in (2 - \sqrt{9 - 2\pi}, 2 + \sqrt{9 - 2\pi})`
+
+102. Given, :math:`\tan^{-1}y = 5\tan^{-1}x`, which we can rewrite as :math:`\tan^{-1}y = 2\tan^{-1}x + 3\tan^{-1}x`
+
+     R.H.S. :math:`= \tan^{-1}\frac{2x}{1 - x^2} + \tan^{-1}\frac{3x - x^3}{1 - 3x^2}`
+
+     :math:`= \tan^{-1}\frac{2x(1 - 3x^2) + (1 - x^2)(3x - x^3)}{(1 - x^2)(1 - 3x^2) - 2x(3x - x^3)}`
+
+     :math:`=\tan^{-1}\frac{2x - 6x^3 + 3x - x^3 -3x^3 + x^5}{1 - 4x^2 + 3x^4 - 6x^2 + 2x^4}`
+
+     :math:`\Rightarrow y = \frac{x^5 - 10x^3 + 2x}{5x^4 - 10x^2 + 1}`
+
+     Let :math:`\tan^{-1}x = 18^\circ` then :math:`\tan^{-1}y = \frac{\pi}{2}\Rightarrow 5x^4 - 10x^2 + 1 = 0`.
+
+103. Let :math:`\cos^{-1}x = \alpha, \cos^{-1}y = \beta, \cos^{-1}z = \gamma`
+
+     :math:`\Rightarrow \cos\alpha = x, \cos\beta = y, \cos\gamma = z`
+
+     Also, given :math:`\alpha + \beta + \gamma = \pi`
+
+     and :math:`x + y + z = \frac{3}{2} \Rightarrow \cos\alpha + \cos\beta + \cos\gamma = \frac{3}{2}`
+
+     Let :math:`z = \cos\alpha + \cos\beta + \cos\gamma` and angle :math:`\gamma` be fixed then
+
+     :math:`z = 2\cos\frac{\alpha + \beta}{2}\cos\frac{\alpha - \beta}{2} + \cos\gamma`
+
+     :math:`= 2\sin\frac{\gamma}{2}\cos\frac{\alpha - \beta}{2} + \cos\gamma`
+
+     Since :math:`\gamma` is fixed, :math:`\cos\gamma` and :math:`\sin\frac{\gamma}{2}` are fixed. Only changing term is
+     :math:`\cos\frac{\alpha - \beta}{2}`
+
+     Clearly, :math:`z` will be maximum if :math:`\cos\frac{\alpha - \beta}{2} = 1` i.e. :math:`\alpha = \beta`
+
+     Similarly, when angle :math:`\beta` is fixed, :math:`z` will be maximum if :math:`\gamma = \alpha`
+
+     and when angle :math:`\alpha` is fixed, :math:`z` will be maximum if :math:`\beta = \gamma`
+
+     :math:`\Rightarrow z` will be maximum if :math:`\alpha + \beta + \gamma = 60^\circ`
+
+     :math:`\Rightarrow z_{max} = \cos60^\circ + \cos60^\circ + \cos60^\circ = \frac{3}{2}`
+
+     :math:`\Rightarrow \alpha = \beta = \gamma = 60^\circ \Rightarrow x = y = z`
+
+104. Let :math:`\sin^{-1}x = \alpha, \sin^{-1}y = \beta, \sin^{-1}z = \gamma`
+
+     :math:`\Rightarrow \sin\alpha = x, \sin\beta = y, \sin\gamma = z`
+
+     Also, :math:`\alpha + \beta + \gamma = \pi`
+
+     :math:`\Rightarrow \alpha + \beta = \pi - \gamma`
+
+     :math:`\Rightarrow \cos(\alpha + \beta) = \cos(\pi - \gamma)`
+
+     :math:`\Rightarrow \cos\alpha\cos\beta - \sin\alpha\sin\beta = -\cos\gamma`
+
+     :math:`\Rightarrow \sqrt{1 - x^2}\sqrt{1 - y^2} - xy = -\sqrt{1 - z^2}`
+
+     :math:`\Rightarrow \sqrt{(1 - x^2)(1 - y^2)} = xy - \sqrt{1 - z^2}`
+
+     Squaring, we get
+
+     :math:`(1 - x^2)(1 - y^2) = x^2y^2 + 1 - z^2 -2xy\sqrt{1 - z^2}`
+
+     :math:`\Rightarrow x^2 + y^2 - z^2 = 2xy\sqrt{1 - z^2}`
+
+     Squaring again, we get
+
+     :math:`x^4 + y^4 + z^4 + 4x^2y^2z^2 = 2(x^2y^2 + y^2z^2 + z^2x^2)`
+
+105. Let :math:`\tan^{-1}\frac{\alpha}{\beta} = \theta, \tan^{-1}\frac{\beta}{\alpha} = \phi`
+
+     :math:`\therefore \tan\theta = \frac{\alpha}{\beta}, \tan\phi = \frac{\beta}{\alpha}`
+
+     L.H.S. :math:`= \frac{\alpha^3}{2\sin^2\frac{\theta}{2}} + \frac{\beta^3}{2\cos^2\frac{\phi}{2}}`
+
+     :math:`= \frac{\alpha^3}{1 - \cos\theta} + \frac{\beta^3}{1 + \cos\phi}`
+
+     :math:`= \frac{\alpha^3}{1 - \frac{\beta}{\sqrt{\alpha^2 + \beta^2}}} + \frac{\beta^3}{1 + \frac{\alpha}{\sqrt{\alpha^2 +
+     \beta^2}}}`
+
+     :math:`= \sqrt{\alpha^2 + \beta^2}\left[\frac{\alpha^3(\sqrt{\alpha^2 + \beta^2}+ \beta)}{(\alpha^2 + \beta^2) - \beta^2} +
+     \frac{\beta^3(\sqrt{\alpha^2 + \beta^2}) - \alpha}{(\alpha^2 + \beta^2) - \alpha^2}\right]`
+
+     :math:`= \sqrt{\alpha^2 + \beta^2}[\alpha(\sqrt{\alpha^2 + \beta^2} + \beta) + \beta(\sqrt{\alpha^2 + \beta^2} - \alpha)]`
+
+     :math:`= (\alpha^2 + \beta^2)(\alpha + \beta)`
+
+106. We have to prove that :math:`2\tan^{-1}\left[\tan\frac{\alpha}{2}\tan\left(\frac{\pi}{4} - \frac{\beta}{2}\right)\right] =
+     \tan^{-1}\left[\frac{\sin\alpha\cos\beta}{\sin\beta + \cos\alpha}\right].`
+
+     L.H.S. :math:`= 2\tan^{-1}\left[\tan\frac{\alpha}{2}\tan\left(\frac{\pi}{4} - \frac{\beta}{2}\right)\right]`
+
+     :math:`= 2\tan^{-1}\left[\tan\frac{\alpha}{2}\frac{1 - \tan\frac{\beta}{2}}{1 + \tan\frac{\beta}{2}}\right]`
+
+     :math:`= \tan^{-1}\left[\frac{2\tan\frac{\alpha}{2}\frac{1 - \tan\frac{\beta}{2}}{1 + \tan\frac{\beta}{2}}}{1 -
+     \tan^2\frac{\alpha}{2}\frac{\left(1 - \tan\frac{\beta}{2}\right)^2}{\left(1 + \tan\frac{\beta}{2}\right)^2}}\right]`
+
+     Substituting :math:`\tan\frac{\alpha}{2} = \frac{\sin\frac{\alpha}{2}}{\cos\frac{\alpha}{2}}` and :math:`\tan\frac{\beta}{2} =
+     \frac{\sin\frac{\alpha}{2}}{\cos\frac{\beta}{2}}` and simplifying we arrive at the desired result.
+
+107. R.H.S. :math:`= \tan^{-1}[\tan^2(\alpha + beta)\tan^2(\alpha - \beta)] + \tan^{-1}1`
+
+     :math:`= \tan^{-1}\left[\frac{1 + \tan^2(\alpha + \beta)\tan^{2}(\alpha - beta)}{1 - \tan^2(\alpha + \beta)\tan^{2}(\alpha -
+     beta)}\right]`
+
+     :math:`= \tan^{-1}\left[\frac{\cos^2(\alpha + \beta)\cos^2(\alpha - \beta) + \sin^2(\alpha + \beta)\sin^2(\alpha -
+     \beta)}{\cos^2(\alpha + \beta)\cos^2(\alpha - \beta) - \sin^2(\alpha + \beta)\sin^2(\alpha - \beta)}\right]`
+
+     :math:`= \tan^{-1}\left[\frac{4\cos^2(\alpha + \beta)\cos^2(\alpha - \beta) + 4\sin^2(\alpha + \beta)\sin^2(\alpha -
+     \beta)}{4\cos^2(\alpha + \beta)\cos^2(\alpha - \beta) - 4\sin^2(\alpha + \beta)\sin^2(\alpha - \beta)}\right]`
+
+     :math:`= \tan^{-1}\left[\frac{\{2\cos(\alpha + \beta)\cos(\alpha - \beta)\}^2 + \{2\sin(\alpha + \beta)\sin(\alpha -
+     \beta)\}^2}{\{2\cos(\alpha + \beta)\cos(\alpha - \beta)\}^2 - \{2\sin(\alpha + \beta)\sin(\alpha - \beta)\}^2}\right]`
+
+     :math:`=\tan^{-1}\left[\frac{(\cos2\alpha + \cos2\beta)^2 + (\cos2\beta - \cos2\alpha)^2}{\cos2\alpha + \cos2\beta)^2 -
+     (\cos2\beta - \cos2\alpha)^2}\right]`
+
+     :math:`= \tan^{-1}\left[\frac{2\cos^2\alpha + 2\cos^2\beta}{4\cos2\alpha\cos\beta}\right]`
+
+     :math:`= \tan^{-1}\left[\frac{1}{2}\cos2\alpha\sec2\beta + \frac{1}{2}\cos\beta\sec\alpha\right] =` L.H.S.
+
+108. Let :math:`\sqrt{\frac{3 - 4x^2}{x^2}} = t \Rightarrow \sqrt{\frac{3 - 4x^2}{4x^2}} = \frac{t}{2}`
+
+     :math:`\therefore` R.H.S. :math:`= 2\tan^{-1}\frac{t}{2} - \tan^{-1}t`
+
+     :math:`= \tan{-1}\frac{t}{1 - \frac{t^2}{4}} - \tan^{-1}t = \tan^{-1}\frac{4t}{4 - t^2} - tan^{-1}t`
+
+     :math:`= \tan^{-1}\frac{\frac{4t}{4 - t^2} - t}{1 + \frac{4t^2}{4 - t^2}} = tan^{-1}\frac{t^3}{4 + 3t^2}`
+
+     :math:`\Rightarrow \cot^{-1}\frac{y}{\sqrt{1 - x^2 - y^2}} = \tan^{-1}\frac{t^3}{4 + 3t^2}`
+
+     :math:`\Rightarrow \frac{1 - x^2 - y^2}{y^2} = \frac{t^6}{9t^4 + 24t^2 + 16}`
+
+     :math:`\Rightarrow \frac{1 - x^2}{y^2} - 1 = \frac{t^6}{9t^4 + 24t^2 + 16}`
+
+     :math:`\Rightarrow \frac{1 - x^2}{y^2} = \frac{t^6 + 9t^4 + 24t^2  + 16}{9t^4 + 24t^2 + 16}`
+
+     :math:`\Rightarrow y^2 = \frac{9t^4 + 24t^2 + 16}{t^6 + 9t^4 + 24t^2  + 16}(1 - x^2)`
+
+     We know that :math:`t^2 + 4 = \frac{3}{x^2}` from our initial equation.
+
+     :math:`\Rightarrow y^2 = \frac{(t^2 + 4)^2 + 8t^4 + 16t^2}{(t^2 + 1)(t^2 + 4)^2}(1 - x^2)`
+
+     Substituting for :math:`t` and simplifying, we obtain
+
+     :math:`27y^2 = 81x^2 -144x^4 + 64x^6`
+
+109. Given :math:`\frac{m\tan(\alpha - \theta)}{\cos^2\theta} = \frac{n\tan\theta}{\cos^2(\alpha - \theta)}`
+
+     :math:`\Rightarrow \frac{m}{n} = \frac{\sin\theta\cos\theta}{\sin(\alpha - \theta)\cos(\alpha - \theta)} =
+     \frac{\sin2\theta}{\sin2(\alpha - \theta)}`
+
+     Doing componendo and dividendo, we get
+
+     :math:`\frac{n - m}{m + n} = \frac{\sin2(\alpha - \theta) - \sin2\theta}{\sin2\theta + \sin2(\alpha - \theta)}`
+
+     :math:`\Rightarrow \frac{n - m}{m + n} = \frac{\cos\alpha\sin(\alpha - 2\theta)}{\sin\alpha\cos(\alpha - 2\theta)}`
+
+     :math:`\Rightarrow \frac{n - m}{m + n} = \frac{\tan(\alpha - 2\theta)}{\tan\alpha}`
+
+     :math:`\Rightarrow \alpha - 2\theta = \tan^{-1}\left(\frac{n - m}{m + n}\right)\tan\alpha`
+
+     :math:`\Rightarrow \theta = \frac{1}{2}\left[\alpha - \tan^{-1}\left(\frac{n - m}{n + m}\right)\tan\alpha\right]`
+
+110. Given, :math:`\sin^{-1}\frac{x}{a} + \sin^{-1}\frac{y}{b} = \sin^{-1}\frac{c^2}{ab}`
+
+     :math:`\Rightarrow \sin^{-1}\frac{x}{a} = \sin^{-1}\frac{c^2}{ab} - \sin^{-1}\frac{y}{b}`
+
+     :math:`\Rightarrow \frac{x}{a}  = \frac{c^2}{ab}\sqrt{1 - \frac{y^2}{b^2}} - \frac{y}{b}\sqrt{1 - \frac{c^4}{a^2b^2}}`
+
+     :math:`\Rightarrow \frac{x}{a} + \frac{y}{b}\sqrt{1 - \frac{c^4}{a^2b^2}} = \frac{c^2}{ab}\sqrt{1 - \frac{y^2}{b^2}}`
+
+     Squaring both sides
+
+     :math:`\Rightarrow \frac{x^2}{a^2} + \frac{y^2}{b^2}\left(1 - \frac{c^4}{a^2b^2}\right) + \frac{2xy}{ab}\sqrt{1 -
+     \frac{c^4}{a^2b^2}} = \frac{c^4}{a^2b^2}\left(1 - \frac{y^2}{b^2}\right)`
+
+     :math:`\Rightarrow b^2x^2 + 2xy\sqrt{a^2b^2 - c^4} = c^4 - a^2y^2`
+
+111. We have to prove that :math:`\tan^{-1}t + \tan^{-1}\frac{2t}{1 - t^2} = \tan^{-1}\frac{3t - t^3}{1 - 3t^2}`
+
+     L.H.S. :math:`= \tan^{-1}t + 2\tan^{-1}t = 3\tan^{-1}t = \tan^{-1}\frac{3t - t^3}{1 - 3t^2}`
+
+112. If :math:`a>x>b` or :math:`a<x<b` then the fractions under square root are positive and less than one. So the angles are
+     defined.
+
+     :math:`\cos^{-1}\sqrt{\frac{a - x}{a - b}} = \sin^{-1}\sqrt{1 - \frac{a - x}{a - b}} = \sin^{-1}\sqrt{\frac{x - b}{a - b}}`
+
+113. Given, :math:`\cos^{-1}\sqrt{p} + \cos^{-1}\sqrt{1 - p} + \cos^{-1}\sqrt{1 - q} = \frac{3\pi}{4}`.
+
+     :math:`\Rightarrow \cos^{-1}\sqrt{p} + \sin^{-1}\sqrt{p} + \cos^{-1}\sqrt{1 - q} = \frac{3\pi}{4}`
+
+     :math:`\Rightarrow \frac{\pi}{2} + \cos^{-1}\sqrt{1 - q} = \frac{3\pi}{4}`
+
+     :math:`\Rightarrow \cos^{-1}\sqrt{1 - q} = \frac{\pi}{4}\Rightarrow 1 - q = \frac{1}{2} \Rightarrow q = \frac{1}{2}`
+
+     For :math:`\cos^{-1}\sqrt{p}` to be defined :math:`0\leq p\leq 1` and then :math:`\cos^{-1}\sqrt{1 - p}` will also be defined.
+
+114. Given, :math:`\tan^{-1}x + \cot^{-1}y = \tan^{-1}3`
+
+     :math:`\Rightarrow \tan^{-1}x + \tan^{-1}\frac{1}{y} = \tan^{-1}3`
+
+     :math:`\Rightarrow \tan^{-1}\frac{x + \frac{1}{y}}{1 - \frac{x}{y}} = \tan^{-1}3`
+
+     :math:`\Rightarrow \frac{xy + 1}{y - x} = 3 \Rightarrow y = \frac{3x + 1}{3 - x}`
+
+     When :math:`x` is positive, numerator is positive. For denominator to be positive :math:`x = 1, 2` (considering only integral
+     values). Corresponding values of :math:`y = 2, 7`. We can see that both solutions satisfy the original equation.

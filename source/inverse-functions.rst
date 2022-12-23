@@ -464,20 +464,22 @@ Find the value of the following:
 75. Solve :math:`\tan\left(\sec^{-1}\frac{1}{x}\right) = \sin\cos^{-1}\frac{1}{\sqrt{5}}`
 76. Find the values of :math:`x` and :math:`y` satisfying :math:`\sin^{-1}x + \sin^{-1}y = \frac{2\pi}{3}` and :math:`\cos^{-1}x -
     \cos^{-1}y = \frac{\pi}{3}`
-77. Find the angle :math:`\sin(\sin^{-1}10)`
+77. Find the angle :math:`\sin^{-1}(\sin10)`
 78. Using principal values, express the following as a single angle :math:`3\tan^{-1}\frac{1}{2} + 2\tan^{-1}\frac{1}{5} +
     \sin^{-1}\frac{142}{65\sqrt{5}}`
-79. Find the value of :math:`2\cos^{-1}x + \sin^{-1}x` at :math:`x = \frac{1}{5}`
+79. Find the value of :math:`2\cos^{-1}x + \sin^{-1}x` at :math:`x = \frac{1}{5}` where :math:`0\leq \cos^{-1}x\leq \pi` and
+    :math:`-\frac{\pi}{2}\leq \sin^{-1}x \leq \frac{\pi}{2}`.
 80. Show that :math:`\frac{1}{2}\cos^{-1}\frac{3}{5} = \tan^{-1}\frac{1}{2} = \frac{\pi}{4} - \frac{1}{2}\cos^{-1}\frac{4}{5}`
 81. Find the greater angle between :math:`2\tan^{-1}(2\sqrt{2} - 1)` and :math:`3\sin^{-1}\frac{1}{3} + \sin^{-1}\frac{3}{5}`
 82. Prove that :math:`\tan^{-1}\left(\frac{a_1x - y}{x + a_1y}\right) + \tan{-1}\left(\frac{a_2 - a_1}{1 + a_2a_1}\right) +
     \tan^{-1}\left(\frac{a3 - a_2}{1 + a_3a_2}\right) + \ldots + \tan^{-1}\left(\frac{a_n - a_{n - 1}}{1 + a_na_{n - 1}}\right) +
     \tan^{-1}\frac{1}{a_n} = \tan^{-1}\frac{x}{y}`
-83. Find the sum :math:`\cot^{-1}2 + \cot^{-1}8 + \cot^{-1}17 + \ldots +` to :math:`\infty`
+83. Find the sum :math:`\cot^{-1}2 + \cot^{-1}8 + \cot^{-1}18 + \ldots +` to :math:`\infty`
 84. Show that the function :math:`y = 2\tan^{-1}x + \sin^{-1}\frac{2x}{1 + x^2}` is constant for :math:`x\geq 1.` Find the value of
     this constant.
-85. Prove the relations :math:`\cot^{-1}x_0 = \frac{\sqrt{1 - x_0^2}}{x_1x_2x_3\ldots\text{~to~}\infty}` where the successive
-    quantities :math:`x_r` are connected by the relation :math:`x_{r + 1} = \sqrt{\frac{1 + x_r}{2}}`
+85. Prove the relations :math:`\cos^{-1}x_0 = \frac{\sqrt{1 - x_0^2}}{x_1x_2x_3\ldots\text{~to~}\infty}` where the successive
+    quantities :math:`x_r` are connected by the relation :math:`x_{r + 1} = \sqrt{\frac{1 + x_r}{2}}` where :math:`0\leq
+    \cos^{-1}x_0\leq \pi`.
 86. If :math:`a, b` are positive quantities and if :math:`a_1 = \frac{a + b}{2}, b_1 = \sqrt{a_1b}, a_2 = \frac{a_1 + b_1}{2}, b_2
     = \sqrt{a_2b_1}` and so on then show that :math:`\lim_{n\to \infty}a_n\lim_{n\to\infty}b_n = \frac{\sqrt{b^2 - a^2}}{\cos^{-1}\frac{a}{b}}`
 87. Using Mathematical Induction prove that :math:`\tan^{-1}\frac{1}{3} + \tan^{-1}\frac{1}{7} + \ldots + \tan^{-1}\frac{1}{n^2 + n
@@ -490,8 +492,8 @@ Find the value of the following:
 92. Find the value of :math:`\cos^{-1}(\cos 10)`
 93. Evaluate :math:`\sin\left(2\tan^{-1}\frac{1}{3}\right) + \cos\tan^{-1}2\sqrt{2}`
 94. Evaluate :math:`\cot[\cot^{-1}7 + \cot^{-1}8 + \cot^{-1}18]`
-95. Prove that :math:`\sin^{-1}\frac{3}{5} + \cos^{-1}\frac{12}{14} + \cot^{-1}\frac{56}{33} = \frac{\pi}{2}`
-96. Prove that :math:`2\cot^{-1}6 + \cot^{-1}7 + 2\cot^{-1}8 = \frac{\pi}{4}`
+95. Prove that :math:`\sin^{-1}\frac{3}{5} + \cos^{-1}\frac{12}{13} + \cot^{-1}\frac{56}{33} = \frac{\pi}{2}`
+96. Prove that :math:`2\cot^{-1}5 + \cot^{-1}7 + 2\cot^{-1}8 = \frac{\pi}{4}`
 97. Prove that :math:`\tan^{-1}1 + \tan^{-1}2 + \tan^{-1}3 = 2\left(\tan^{-1}1 + \tan^{-1}\frac{1}{2} +
     \tan^{-1}\frac{1}{3}\right).`
 98. If :math:`A = \tan^{-1}\frac{1}{7}` and :math:`B = \tan^{-1}\frac{1}{3}` then prove that :math:`\cos 2A = \sin 4B.`
@@ -507,7 +509,7 @@ Find the value of the following:
 104. If :math:`\sin^{-1}x + \sin^{-1}y + \sin^{-1}z = \pi,` prove that :math:`x^4 + y^4 + z^4 + 4x^2y^2z^2 = 2(x^2y^2 + y^2z^2 +
      z^2x^2).`
 105. Prove that :math:`\frac{\alpha^3}{2}\cosec^2\left(\frac{1}{2}\tan^{-1}\frac{\alpha}{\beta}\right) +
-     \frac{\beta^3}{2}\sec^2\left(\frac{1}{2}\tan^{-1}\frac{\alpha}{\beta}\right) = (\alpha + \beta)(\alpha^2 + \beta^2).`
+     \frac{\beta^3}{2}\sec^2\left(\frac{1}{2}\tan^{-1}\frac{\beta}{\alpha}\right) = (\alpha + \beta)(\alpha^2 + \beta^2).`
 106. Prove that :math:`2\tan^{-1}\left[\tan\frac{\alpha}{2}\tan\left(\frac{\pi}{4} - \frac{\beta}{2}\right)\right] =
      \tan^{-1}\left[\frac{\sin\alpha\cos\beta}{\sin\beta + \cos\alpha}\right].`
 107. Prove that :math:`\tan^{-1}\left[\frac{1}{2}\cos2\alpha\sec2\beta + \frac{1}{2}\cos2\beta\sec2\alpha\right] = \tan^{-1}[\tan^2(\alpha +
@@ -517,7 +519,7 @@ Find the value of the following:
 109. If :math:`\frac{m\tan(\alpha - \theta)}{\cos^2\theta} = \frac{n\tan\theta}{\cos^2(\alpha - \theta)}` then prove that
      :math:`\theta = \frac{1}{2}\left[\alpha - \tan^{-1}\left(\frac{n - m}{n + m}\right)\tan\alpha\right].`
 110. If :math:`\sin^{-1}\frac{x}{a} + \sin^{-1}\frac{y}{b} = \sin^{-1}\frac{c^2}{ab}` then prove that :math:`b^2x^2 +
-     2xy\sqrt{a^2b^2 - c^2} = c^4 - a^2y^2.`
+     2xy\sqrt{a^2b^2 - c^4} = c^4 - a^2y^2.`
 111. Prove that :math:`\tan^{-1}t + \tan^{-1}\frac{2t}{1 - t^2} = \tan^{-1}\frac{3t - t^3}{1 - 3t^2},` if
      :math:`-\frac{1}{\sqrt{3}} < x < \frac{1}{\sqrt{3}}.`
 112. Prove that :math:`\cos^{-1}\sqrt{\frac{a - x}{a - b}} = \sin^{-1}\sqrt{\frac{x - b}{a - b}}` if :math:`a > x> b` or :math:`a <
