@@ -1350,3 +1350,189 @@ Inverse Circular Functions Solutions
 
      When :math:`x` is positive, numerator is positive. For denominator to be positive :math:`x = 1, 2` (considering only integral
      values). Corresponding values of :math:`y = 2, 7`. We can see that both solutions satisfy the original equation.
+
+115. Given :math:`\sin^{-1}\frac{ax}{c} + \sin^{-1}\frac{bx}{c} = \sin^{-1}x` so we can infer :math:`-1\leq x\leq 1`
+
+     Also given, :math:`a^2 + b^2 = c^2 \Rightarrow \frac{a^2x^2}{c^2} + \frac{b^2x^2}{c^2} = x^2`
+
+     From first equation, :math:`\frac{ax}{c}\sqrt{1 - \frac{b^2x^2}{c^2}} + \frac{bx}{c}\sqrt{1 - \frac{a^2x^2}{c^2}} = x`
+
+     :math:`\Rightarrow x\left[\frac{ax}{c}\sqrt{1 - \frac{b^2x^2}{c^2}} + \frac{bx}{c}\sqrt{1 - \frac{a^2x^2}{c^2}} - 1\right] = 0`
+
+     Either :math:`x = 0` or :math:`\frac{a}{c}\sqrt{1 - \frac{b^2x^2}{c^2}} + \frac{b}{c}\sqrt{1 - \frac{a^2x^2}{c^2}} = 0`
+
+     :math:`\Rightarrow a\sqrt{c^2 - b^2x^2} + b\sqrt{c^2 - a^2x^2} = c^2`
+
+     :math:`\Rightarrow a\sqrt{c^2 - b^2x^2} = c^2 - b\sqrt{c^2 - a^2x^2}`
+
+     :math:`\Rightarrow a^2c^2 - a^2b^2x^2 = c^4 + b^2c^2 - a^2b^2x^2 - 2bc^2\sqrt{c^2 - a^2x^2}`
+
+     :math:`\Rightarrow a^2c^2 - b^2c^2 - c^4 = 2bc^2\sqrt{c^2 - a^2x^2}`
+
+     :math:`\Rightarrow a^2 - b^2 - c^2 = -2b\sqrt{c^2 - a^2x^2}`
+
+     :math:`\Rightarrow -2b^2 = -2b\sqrt{c^2 - a^2x^2}[\because a^2 + b^2 = c^2]`
+
+     :math:`\Rightarrow b = \sqrt{c^2 - a^2x^2} \Rightarrow a^2x^2 = c^2 - b^2 = a^2 \Rightarrow x = \pm 1`
+
+     Clearly, :math:`x = 0, \pm 1` satisfy the equation.
+
+116. Let :math:`f(x) = \sin[2\cos^{-1}\{\cot(2\tan^{-1}x)\}]`
+
+     :math:`= \sin\left[2\cos^{-1}\left\{\cot \tan^{-1}\frac{2x}{1 - x^2}\right\}\right]`
+
+     :math:`= \sin\left[2\cos^{-1}\left(\cot\cot^{-1}\frac{1 - x^2}{2x}\right)\right]`
+
+     :math:`= \sin\left[2\cos^{-1}\frac{1 - x^2}{2x}\right]`
+
+     :math:`= \sin\sin^{-1}\left[2.\frac{1 - x^2}{2x}\sqrt{1- \left(\frac{1 - x^2}{2x}\right)^2}\right]`
+
+     :math:`= \frac{1 - x^2}{x}\sqrt{1 - \left(\frac{1 - x^2}{2x}\right)^2}`
+
+     When :math:`f(x) = 0,` we have :math:`(1 - x^2)\sqrt{1 - \left(\frac{1 - x^2}{2x}\right)^2} = 0`
+
+     :math:`\Rightarrow (1 - x^2)\sqrt{6x^2 - 1 - x^4} = 0`
+
+     Either :math:`1 - x^2 = 0` or :math:`\sqrt{6x^2 - 1 - x^4} = 0`
+
+     :math:`\Rightarrow x = \pm1` or :math:`x^4 - 6x^2 + 1 = 0`
+
+     :math:`x^2 = \frac{6\pm \sqrt{36 - 4}}{2} = 3 \pm 2\sqrt{2} = (1 \pm \sqrt{2})^2`
+
+     :math:`x = \pm(1 \pm \sqrt{2})`
+
+     :math:`x = \pm 1, \pm(1 \pm \sqrt{2})`
+
+117. :math:`\frac{3\sin2\theta}{5 + 4\cos2\theta} = \frac{3.\frac{2\tan\theta}{1 + \tan^2\theta}}{5 + 4\frac{1 - \tan^2\theta}{1 +
+     \tan^2\theta}}`
+
+     :math:`= \frac{6\tan\theta}{9 + \tan^2\theta} = \frac{2\tan\phi}{1 + \tan^2\phi}` where :math:`\frac{1}{3}\tan\theta =
+     \tan\phi`
+
+     :math:`= \sin2\phi`
+
+     Given equation is :math:`\theta = \tan^{-1}(2\tan^2\theta) - \frac{1}{2}\sin^{-1}\left(\frac{3\sin2\theta}{5 +
+     4\cos2\theta}\right)`
+
+     :math:`\Rightarrow \tan^{-1}(2\tan^2\theta) - \frac{1}{2}\sin^{-1}\sin2\phi = \theta`
+
+     :math:`\Rightarrow \tan^{-1}(2\tan^2\theta) - \tan^{-1}\frac{1}{3}\tan\theta = \theta`
+
+     :math:`\Rightarrow \tan^{-1}\left[\frac{2\tan^2\theta - \frac{1}{3}\tan\theta}{1 +
+     2\tan^2\theta.\frac{1}{3}\tan\theta}\right] = \theta`
+
+     :math:`\Rightarrow \frac{\tan\theta\left(2\tan\theta - \frac{1}{3}\right)}{1 + \frac{2}{3}\tan^3\theta} = \tan\theta`
+
+     :math:`\Rightarrow \tan\theta\left[\frac{6\tan\theta - 1}{3 + 2\tan^2\theta} - 1\right] = 0`
+
+     If :math:`\tan\theta = 0 \Rightarrow \theta = n\pi`
+
+     If :math:`\frac{6\tan\theta - 1}{3 + 2\tan^3\theta} - 1 = 0`
+
+     :math:`\Rightarrow \tan^3\theta - 3\tan\theta + 2 = 0 \Rightarrow (\tan\theta - 1)^2(\tan\theta + 2) = 0`
+
+     Either :math:`\tan\theta = 1 \Rightarrow \theta = n\pi + \frac{\pi}{4}`
+
+     or :math:`\tan\theta = -2 \Rightarrow \theta = n\pi + \tan^{-1}(-2)`
+
+118. :math:`\tan^{-1}2x + \tan^{-1}3x = \frac{\pi}{4}`
+
+     :math:`\Rightarrow \tan^{-1}3x = \frac{\pi}{4} - \tan^{-1}2x`
+
+     :math:`\Rightarrow 3x = \tan\left(\frac{\pi}{4} - \tan^{-1}2x\right)`
+
+     :math:`3x = \frac{1 - \tan(\tan^{-1}2x)}{1 + \tan(\tan^{-1}2x)} = \frac{1 - 2x}{1 + 2x}`
+
+     :math:`\Rightarrow 6x^2 + 3x = 1 - 2x \Rightarrow 6x^2 + 5x - 1 = 0`
+
+     :math:`\Rightarrow (x + 1)(6x - 1) = 0`
+
+     :math:`\Rightarrow x = -1, \frac{1}{6}`
+
+     When :math:`x = -1` L.H.S. is negative angle but R.H.S. is positive so it is not a solution. However, for :math:`x =
+     \frac{1}{6}` satisfies both sides are positive and balanced.
+
+119. Given, :math:`\sin^{-1}\left(\frac{x}{1 + \frac{x}{2}}\right) + \cos^{-1}\left(\frac{x^2}{1 + \frac{x^2}{2}}\right) =
+     \frac{\pi}{2}`
+
+     :math:`\Rightarrow \sin^{-1}\left(\frac{2x}{x + 2}\right) = \frac{\pi}{2} - \cos^{-1}\left(\frac{2x^2}{2 + x^2}\right) =
+     \sin^{-1}\left(\frac{2x^2}{2 + x^2}\right)`
+
+     :math:`\Rightarrow \frac{2x}{2 + x} = \frac{2x^2}{2 + x^2}`
+
+     :math:`\Rightarrow 2x\left[\frac{1}{2 + x} - \frac{x}{2 + x^2}\right] = 0`
+
+     :math:`\Rightarrow x = 0` or :math:`2 + x^2 = 2x + x^2 \Rightarrow x = 1`
+
+     But :math:`0 < |x| < \sqrt{2} \Rightarrow x = 1`
+
+120. Given, :math:`\tan^{-1}\sqrt{x(x + 1)} + \sin^{-1}\sqrt{x^2 + x + 1} = \frac{\pi}{2}`
+
+     :math:`\Rightarrow \tan^{-1}\sqrt{x(x + 1)} + \tan^{-1}\frac{\sqrt{x^2 + x + 1}}{\sqrt{x(x + 1)}} = \frac{\pi}{2}`
+
+     :math:`\tan^{-1}\left[\frac{\sqrt{x(x + 1)} + \frac{\sqrt{x^2 + x + 1}}{\sqrt{x(x + 1)}}}{1 - \sqrt{x(x + 1)}.\frac{\sqrt{x^2 +
+     x + 1}}{\sqrt{x(x + 1)}}}\right] = \frac{\pi}{2}`
+
+     :math:`\Rightarrow 1 - \sqrt{x^2 + x + 1} = 0`
+
+     :math:`\Rightarrow x = 0, -1`
+
+     Clearly both these values of :math:`x` satisfy the equation.
+
+121. This problem is similar to 115 so :math:`x = -1, 0, 1`.
+
+122. We have to solve :math:`\sin^{-1}(1 - x) - 2\sin^{-1}x = \frac{\pi}{2}`
+
+     Let :math:`x = \sin y`
+
+     :math:`\Rightarrow \sin^{-1}(1 - \sin y) - 2y = \frac{\pi}{2}`
+
+     :math:`\Rightarrow \sin^{-1}(1 - \sin y) =\frac{\pi}{2} + 2y`
+
+     :math:`\Rightarrow 1 - \sin y = \sin\left(\frac{\pi}{2} + 2y\right) = \cos2y = 1 - 2\sin^2y`
+
+     :math:`\Rightarrow 2\sin^2y - \sin y = 0`
+
+     :math:`\Rightarrow 2x^2 - x = 0`
+
+     :math:`x = 0, \frac{1}{2}`
+
+     But :math:`x = \frac{1}{2}` does not satisfy the equation but :math:`x = 0` does so it is the required solution.
+
+123. Given equation is :math:`\tan^{-1}x + \tan^{-1}y = \tan^{-1}k`
+
+     :math:`\Rightarrow \tan^{-1}\frac{x + y}{1 - xy} = \tan^{-1}k`
+
+     :math:`\Rightarrow \frac{x + y}{1 - xy} = k`
+
+     For :math:`k > 0, 1 - xy > 0 \Rightarrow xy < 1` which implies both :math:`x` and :math:`y` cannot be positive integers.
+
+124. We have to solve :math:`\tan^{-1}\frac{x + 1}{x - 1} + \tan^{-1}\frac{x - 1}{x} = \tan^{-1}(-7)`
+
+     :math:`\Rightarrow \frac{\frac{x + 1}{x - 1} + \frac{x - 1}{x}}{1 - \frac{x + 1}{x - 1}.\frac{x - 1}{x}} = -7`
+
+     :math:`\Rightarrow \frac{x^2 + x + x^2 - 2x + 1}{x^2 - x - x^2 + 1} = -7`
+
+     :math:`\Rightarrow 2x^2 - x + 1 = 7x - 7`
+
+     :math:`\Rightarrow 2x^2 - 8x + 8 = 0 \Rightarrow x^2 - 4x + 4 = 0 \Rightarrow x = 2`
+
+125. We have to solve :math:`\tan^{-1}\frac{1}{a - 1} = \tan^{-1}\frac{1}{x} + \tan^{-1}\frac{1}{a^2 - x + 1}`
+
+     :math:`\Rightarrow \frac{1}{a - 1} = \frac{a^2 + 1}{a^2x - x^2 + x - 1}`
+
+     :math:`\Rightarrow (a - x)(a^2 - a - x + 1) = 0`
+
+     :math:`x = a, a^2 - a + 1`
+
+126. We have to solve :math:`\cos^{-1}\frac{x^2 - 1}{x^2 + 1} + \tan^{-1}\frac{2x}{x^2 - 1} = \frac{2\pi}{3}`
+
+     **Case I:** When :math:`x > 1` given equation becomes :math:`\pi - 2\tan^{-1}x + \pi - 2\tan^{-1}x= \frac{2\pi}{3}`
+
+     :math:`\Rightarrow \tan^{-1}x = \frac{\pi}{3} \Rightarrow x = \sqrt{3}`
+
+     **Case II:** When :math:`x < 1` given equation becomes :math:`\pi - 2\tan^{-1}x - 2\tan^{-1}x = \frac{2\pi}{3}`
+
+     :math:`\Rightarrow x = \tan\frac{\pi}{12} = \frac{\sqrt{3} - 1}{\sqrt{3} + 1} = 2 - \sqrt{3}`
+
+127.

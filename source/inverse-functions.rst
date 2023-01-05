@@ -543,7 +543,7 @@ Find the value of the following:
      integral solution.
 124. Solve :math:`\tan^{-1}\frac{x + 1}{x - 1} + \tan^{-1}\frac{x - 1}{x} = \tan^{-1}(-7).`
 125. Solve :math:`\tan^{-1}\frac{1}{a - 1} = \tan^{-1}\frac{1}{x} + \tan^{-1}\frac{1}{a^2 - x + 1}.`
-126. Solve :math:`\cos^{-1}\frac{x^2 - 1}{x^2 + 1} + \tan^{-1}\frac{2x}{x^2 - 1} = \frac{2\pi}{3}`
+126. Solve :math:`\cos^{-1}\frac{x^2 - 1}{x^2 + 1} + \tan^{-1}\frac{2x}{x^2 - 1} = \frac{2\pi}{3}.`
 127. If :math:`\theta = \tan^{-1}\frac{x\sqrt{3}}{2k - x}` and :math:`\phi = \tan^{-1}\frac{2x - k}{k\sqrt{3}},` show that one
      value of :math:`\theta - \phi` is :math:`\pi/6.`
 128. Find all positive integral solutions of the equation :math:`\tan^{-1}x + \cos^{-1}\frac{y}{\sqrt{1 + y^2}} =
