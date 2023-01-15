@@ -127,7 +127,7 @@ accurate though not exact. If $r$ be the radius of a circle and $c$ be the circu
 
 Problems
 ========
-1. Reduce :math: $63^{\circ}14'51''$ to Centisimal measure.
+1. Reduce :math: 63^{\circ}14'51'' to Centisimal measure.
 
 2. Reduce :math:`45^{\circ}20'10''` to
 
