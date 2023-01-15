@@ -78,7 +78,7 @@ Quadrants
 Let :math:`XOX'` and :math:`YOY'` be two mutually perpendicular lines in a plane and :math:`OX` be the initial half line. The lines
 divide the whole reason in quadrants. :math:`XOY, YOX', X'OY'` and :math:`Y'OX` are respectively called 1st, 2nd, 3rd and 4th
 quadrants. According to terminal side lying in 1st, 2nd, 3rd and 4th quadrants the angles are said to be in 1st, 2nd, 3rd and 4th
-quadrants respectively. A *quandrant angle* is an angle formed if terminal side coincides with one of the axes.
+quadrants respectively. A *quadrantal angle* is an angle formed if terminal side coincides with one of the axes.
 
 For any angle :math:`\alpha` which is not a quadrant angle and when number of revolutions is zero and radius vector rotates in
 anticlockwise directions:
